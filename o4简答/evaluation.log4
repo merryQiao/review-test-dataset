@@ -1,0 +1,1750 @@
+2025-10-07 21:56:19,942 - INFO - 已创建结果文件: evaluation_results_20251007_215619.csv
+2025-10-07 21:56:19,944 - INFO - 开始处理文件: 评测/o4mini_qa.jsonl
+2025-10-07 21:56:19,962 - INFO - 成功加载 79 个QA数据
+2025-10-07 21:56:19,962 - INFO - 开始处理批次 #1 (问题 1-5)
+2025-10-07 21:56:19,963 - WARNING - 无法读取图片 nan: expected str, bytes or os.PathLike object, not float
+2025-10-07 21:56:19,963 - INFO - 提问 [o4mini_qa.jsonl_1] [考古]: 列举安徽境内已辨识出的三种新石器时代文化/类型及其典型遗址。
+2025-10-07 21:56:19,963 - WARNING - 无法读取图片 nan: expected str, bytes or os.PathLike object, not float
+2025-10-07 21:56:19,963 - INFO - 提问 [o4mini_qa.jsonl_2] [考古]: 伊沃尔加城址和墓地出土的中原文化传统铜镜有哪些类型？这些铜镜的年代范围是什么？
+2025-10-07 21:56:19,963 - WARNING - 无法读取图片 nan: expected str, bytes or os.PathLike object, not float
+2025-10-07 21:56:19,964 - INFO - 提问 [o4mini_qa.jsonl_3] [考古]: 鱼凫村遗址第三期文化遗存的陶器组合可分为哪三组？请分别说明各组陶器的文化属性和典型器类。
+2025-10-07 21:56:19,964 - WARNING - 无法读取图片 nan: expected str, bytes or os.PathLike object, not float
+2025-10-07 21:56:19,964 - INFO - 提问 [o4mini_qa.jsonl_4] [考古]: 严文明先生提出的中国新石器时代三大文化系统及其代表性炊煮陶器是什么？
+2025-10-07 21:56:19,974 - WARNING - 无法读取图片 nan: expected str, bytes or os.PathLike object, not float
+2025-10-07 21:56:19,975 - INFO - 提问 [o4mini_qa.jsonl_5] [考古]: 比较上北平望遗址与东南800米处遗址中庙底沟二期文化遗存的年代关系。
+2025-10-07 21:56:52,119 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=a1ac0340-dc0a-4a02-b61e-272b7b556d96 response_code=200
+2025-10-07 21:56:52,123 - ERROR - 回答问题时出错: 无响应
+2025-10-07 21:57:12,183 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=f6b66141-56bf-4533-a09d-db6c64fb38c9 response_code=200
+2025-10-07 21:57:12,184 - ERROR - 回答问题时出错: 无响应
+2025-10-07 21:57:30,422 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=2cd24572-9bc0-4aff-946b-f53f37ffedee response_code=200
+2025-10-07 21:57:30,422 - ERROR - 回答问题时出错: 无响应
+2025-10-07 21:57:30,445 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=a135ceb8-7278-4388-ba75-f80266108a50 response_code=200
+2025-10-07 21:57:30,446 - ERROR - 回答问题时出错: 无响应
+2025-10-07 21:57:31,958 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=562cc84c-647a-4196-b400-518df4097249 response_code=200
+2025-10-07 21:57:31,959 - ERROR - 回答问题时出错: 无响应
+2025-10-07 21:57:36,713 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=0cd5f8da-a5cd-456e-992d-e62dcd39b7b4 response_code=200
+2025-10-07 21:57:36,714 - ERROR - 回答问题时出错: 无响应
+2025-10-07 21:57:43,057 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=842db3d7-464b-40ec-93cd-0a602ba3c5f0 response_code=200
+2025-10-07 21:57:43,057 - ERROR - 回答问题时出错: 无响应
+2025-10-07 21:57:57,562 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=1a0a39da-54ba-4b8a-b38a-9d489731315f response_code=200
+2025-10-07 21:57:57,563 - ERROR - 回答问题时出错: 无响应
+2025-10-07 21:58:16,071 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=381696a4-1345-47e5-8411-563ae3427de0 response_code=200
+2025-10-07 21:58:16,072 - ERROR - 回答问题时出错: 无响应
+2025-10-07 21:58:22,395 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=60da86a4-f3f1-450e-9ca6-31c72f0338b2 response_code=200
+2025-10-07 21:58:22,395 - ERROR - 回答问题时出错: 无响应
+2025-10-07 21:58:26,312 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=1e185d8a-f026-4718-9720-b5e90905940b response_code=200
+2025-10-07 21:58:26,312 - ERROR - 回答问题时出错: 无响应
+2025-10-07 21:58:28,952 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=4cbe6825-5c58-4873-aeff-c583ac3a6a7b response_code=200
+2025-10-07 21:58:28,952 - ERROR - 回答问题时出错: 无响应
+2025-10-07 21:58:42,785 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=55fd9b87-b255-450c-9d1c-80aa652917fd response_code=200
+2025-10-07 21:58:42,786 - ERROR - 回答问题时出错: 无响应
+2025-10-07 21:58:51,423 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=7aa54379-f9b6-49d6-a5a6-b1e9dfcda551 response_code=200
+2025-10-07 21:58:51,424 - ERROR - 回答问题时出错: 无响应
+2025-10-07 21:59:03,492 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=74334904-7640-45fb-9d0a-56a0b2bc504a response_code=200
+2025-10-07 21:59:03,492 - ERROR - 回答问题时出错: 无响应
+2025-10-07 21:59:08,427 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=b3db0248-28a0-4c82-aca9-d15305a24e04 response_code=200
+2025-10-07 21:59:08,428 - ERROR - 回答问题时出错: 无响应
+2025-10-07 21:59:13,143 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=f3188342-275f-4c43-bc96-08b035a330cd response_code=200
+2025-10-07 21:59:13,437 - ERROR - 回答问题时出错: 无响应
+2025-10-07 21:59:33,451 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=2dfacca0-6b90-42f7-8ed5-f322a58f62a4 response_code=200
+2025-10-07 21:59:33,452 - ERROR - 回答问题时出错: 无响应
+2025-10-07 21:59:39,279 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=69cb54fe-38f4-4307-a949-974da37d2e0b response_code=200
+2025-10-07 21:59:39,279 - ERROR - 回答问题时出错: 无响应
+2025-10-07 21:59:43,399 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=14411ef2-4eb3-409b-82e4-09d4ae5832cf response_code=200
+2025-10-07 21:59:43,400 - ERROR - 回答问题时出错: 无响应
+2025-10-07 21:59:46,266 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=5df7caa0-bf83-406b-bff1-9e0612fff58f response_code=200
+2025-10-07 21:59:46,268 - INFO - OpenAI模型回答: 鱼凫村遗址第三期出土的陶器，大体可按制作工艺、装饰习惯及文化渊源划分为三大组合：  
+
+1. 彩陶器组  
+· 文化属性：承续中原仰韶—马家窑彩陶传统、并融合本地晚期仰韶文化地域风格。胎质细腻、壁薄，常以红地黑绘、黑地红绘或缠枝折带纹、云雷纹等为主，烧成温度较高，施彩色泽鲜明。  
+· 典型器类：彩陶盘、彩陶豆、彩陶罐、彩陶盆、彩陶碗等，以敞口浅盘和带柄豆形器最具代表性。  
+
+2. 细灰陶组  
+· 文化属性：深受黄河中下游龙山文化影响，属于晚期龙山—仰韶过渡期的灰陶体系。胎质均匀、器壁较彩陶略厚，通体灰黑，表面常见擦光或抹灰处理，光泽柔和、烧成温度居中。  
+· 典型器类：灰陶鬲、灰陶豆座、灰陶盘、灰陶簋、灰陶鼎足等，其中带圈足、盘形底的细灰陶盘与鬲最能体现龙山文化风格。  
+
+3. 粗陶组  
+· 文化属性：以本地原始聚落生活用具为主的地方性粗制体系，胎体厚重、质地粗糙，多半未经抹面或仅粗略擦整，无彩绘或纹饰，烧成温度较低，功用以炊煮、储藏为主。  
+· 典型器类：粗陶甑、粗陶釜、粗陶大口罐、粗陶钵、瓦当片，以及局部简陋的罐座和陶铃等。
+2025-10-07 21:59:56,165 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=552aaee8-ffdd-4f93-831c-f045d567b2e0 response_code=200
+2025-10-07 21:59:56,166 - INFO - 评分结果: 要点命中：考生答案涉及到了陶器组合分组，虽然具体分组和文化属性描述与参考答案不同，但涵盖了彩陶器、灰陶和粗陶这几种分类，代表性器类如罐、豆也是关键实体。
+
+失分点：答案中的分组与参考答案的命名和文化属性融合有所偏差，具体器类命名如鱼凫村第三期遗存、三星堆文化因素未被直接识别，且组合划分略有不同，未提及绳纹花边罐和三星堆典型的小平底罐等。
+
+维度评分：内容完整性=6；逻辑性=6；准确性=6；表达=7
+
+评分：6分
+2025-10-07 21:59:56,168 - INFO - 回答不正确，期望: 鱼凫村遗址第三期文化遗存的陶器组合可分为：
+A组：宝墩文化陶器组，典型器类包括绳纹花边罐、喇叭口高领罐、圈足器等；
+B组：鱼凫村第三期遗存陶器组，典型器类包括曲沿罐、敛口罐、敛口瓮、窄沿罐等；
+C组：三星堆文化因素陶器组，典型器类包括小平底罐、器盖和高柄豆等。
+2025-10-07 22:00:03,042 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=fab38023-8b2e-40b0-97c7-8228f34475ad response_code=200
+2025-10-07 22:00:03,043 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:00:23,378 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=b6afb6e8-c1ee-40a9-a513-a59e94c256d5 response_code=200
+2025-10-07 22:00:23,378 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:00:23,383 - INFO - 进度: 5/79 (6.3%)
+2025-10-07 22:00:23,383 - INFO - 当前得分: 6/790
+2025-10-07 22:00:24,383 - INFO - 开始处理批次 #2 (问题 6-10)
+2025-10-07 22:00:24,384 - WARNING - 无法读取图片 nan: expected str, bytes or os.PathLike object, not float
+2025-10-07 22:00:24,386 - INFO - 提问 [o4mini_qa.jsonl_6] [考古]: 王湾三期文化的核心分布区域包括哪些水系？
+2025-10-07 22:00:24,386 - WARNING - 无法读取图片 nan: expected str, bytes or os.PathLike object, not float
+2025-10-07 22:00:24,386 - INFO - 提问 [o4mini_qa.jsonl_7] [考古]: 1959年北京大学在王湾遗址的发掘确立了哪三个文化发展阶段？这一发现有何学术意义？
+2025-10-07 22:00:24,386 - WARNING - 无法读取图片 nan: expected str, bytes or os.PathLike object, not float
+2025-10-07 22:00:24,386 - INFO - 提问 [o4mini_qa.jsonl_8] [考古]: 请分析云南永仁菜园子新石器时代遗址的文化归属，并说明其考古学依据。
+2025-10-07 22:00:24,387 - WARNING - 无法读取图片 nan: expected str, bytes or os.PathLike object, not float
+2025-10-07 22:00:24,387 - INFO - 提问 [o4mini_qa.jsonl_9] [考古]: 基于大汶口文化墓葬出土陶器资料，背壶的类型分式如何划分？请列举各型及其特征标本的关键形态特征。
+2025-10-07 22:00:24,387 - WARNING - 无法读取图片 nan: expected str, bytes or os.PathLike object, not float
+2025-10-07 22:00:24,387 - INFO - 提问 [o4mini_qa.jsonl_10] [考古]: 在考古学中，墓葬的二层台结构可分为生土二层台和熟土二层台。请以具体遗址为例，描述这两种结构的差异，并分析其功能及与葬具的关系。
+2025-10-07 22:00:45,449 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=2d240c60-db0e-4466-bc91-779a13578213 response_code=200
+2025-10-07 22:00:45,450 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:00:48,795 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=0a66cfd4-be80-9d54-b141-31b2f2eb6245 response_code=200
+2025-10-07 22:00:48,796 - INFO - OpenAI模型回答: 云南永仁菜园子遗址位于楚雄州永仁县境内，1984年发掘以来共揭露出三层文化堆积，其新石器时代时期的文化归属可概括为“菜园子文化”，并被视作末期马家窑文化向滇中—滇西地区的延伸与本土化发展，也是后来滇池地区早期青铜——滇文化的前导阶段。其具体考古学依据如下：  
+
+1. 地层与年代  
+1.1 三期堆积：  
+ 第一期（A层）：含少量马家窑文化晚期风格灰陶，堆积较薄；  
+ 第二期（B层）：厚约0.5–1.2米，为典型“菜园子文化”相；  
+ 第三期（C层）：出土大量铜器和成熟的滇文化陶器。  
+1.2 放射性碳—14测年：  
+ B层多点测年集中在公元前2800—前2100年之间，与马家窑文化晚期（约前3000—前2500年）基本对应。  
+
+2. 陶器形制与装饰  
+2.1 器型：以纺轮成形、低温还原焰烧制的灰陶和黑陶为主，常见器型有深腹罐、三足鼎、陶爵、小口立罐和平底盘等。  
+2.2 表面装饰：常施以多条直线或弧线状刻划、菱形格纹、梳纹、点状印纹等，与马家窑文化晚期的凿划纹、印纹技术及云南文山、贵阳一带的“点格纹”相近。  
+
+3. 石器、骨器与玉器  
+3.1 石器：以磨制石斧、石刀、磨盘、石铲、石镞为主，部分磨盘底部饰有槽口，与中原及川滇过渡带遗存相似。  
+3.2 骨器：出土骨镞、骨针、骨耜柄等，反映当时捕鱼、纺织、耕作等经济活动。  
+3.3 玉器：少量玉璧、玉管、玉环等，工艺上承接中原良渚—二里头时期的白玉细琢风格，表明与中原及西南地区玉文化网络相通。  
+
+4. 生产生活遗存  
+4.1 住房遗迹：半地穴式长方形房址，多向东南开口，规模与马家窑晚期聚落相似。  
+4.2 农作物遗存：碳化粟、稻谷籽粒兼出，猪、犬骨骼多见，与滇中地区以稻作—黍作结合的农业模式一致。  
+4.3 纺织工具：大量纺轮等遗存，指示当时纺织业已颇为发达。  
+
+5. 区域文化联系  
+5.1 与马家窑文化的相似：灰陶与黑陶的制陶工艺、凿划纹与印纹装饰、半地穴结构均可溯源马家窑晚期。  
+5.2 与滇池地区早期滇文化的过渡：第三期铜器、成熟的青铜铸造技术则与滇池地区战国至西汉时的滇文化相承。  
+5.3 本土化特征：陶器口沿偏厚、壁薄、圈足带外卷微捋、花纹布局松散，反映当地制陶工匠在吸收外来文化后进行的自主创新。  
+
+综上所述，永仁菜园子新石器时代遗址在堆积层位、放射性碳测年、陶器类型与装饰、石骨器和玉器、住宅形制、农作物及其他生产生活遗存上均显示出：它既继承了马家窑文化晚期向西南扩散的基本特征，又在造型、工艺与布局上形成了具有鲜明区域辨识度的“菜园子文化”阶段，并成为后来滇池地区早期青铜文明——滇文化的重要源头和过渡环节。
+2025-10-07 22:00:52,491 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=c8eeadb0-89a4-49db-b352-bba28e6e2bbd response_code=200
+2025-10-07 22:00:52,491 - INFO - 评分结果: 要点命中：永仁菜园子遗址的位置和发掘情况、三层文化堆积描述和放射性碳测年、陶器形制与装饰、石器、骨器与玉器分布、生产生活遗存特征、与马家窑文化和滇池地区早期滇文化的联系。
+失分点：未准确提及元谋大墩子文化作为文化归属，缺少与大墩子文化的实物和纹饰对比依据，没有具体说明陶器高领罐和I式石斧与大墩子遗址的对应特征。
+维度评分：内容完整性=5.5；逻辑性=6；准确性=4；表达=7
+评分：6分
+2025-10-07 22:00:52,492 - INFO - 回答不正确，期望: 文化归属：元谋大墩子文化。依据：1. 实物依据：陶器高领罐（素面，泥条盘筑痕迹）与大墩子遗址同类器相似（永仁菜园子遗址采集陶器:高领罐）。2. 实物依据：石器I式石斧（长条形，弧刃）见于大墩子文化早晚期（永仁菜园子遗址采集石器:I式石斧）。3. 逻辑依据：通过类型学比较，纹饰（粗绳纹、篮纹）和器形（平底器、大口罐）特征一致，推断文化类型相同。
+2025-10-07 22:01:17,130 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=897b22cc-10ef-41ce-956f-7674de52193f response_code=200
+2025-10-07 22:01:17,131 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:01:28,066 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=8bef49cf-109a-4529-b9b2-76631ffdbd95 response_code=200
+2025-10-07 22:01:28,068 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:01:28,276 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=c30b43d7-481f-48e5-bdce-fbfb7310c45a response_code=200
+2025-10-07 22:01:28,276 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:01:28,585 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=4d6acfba-5673-4dff-9ece-4e18c106e37f response_code=200
+2025-10-07 22:01:28,586 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:01:44,778 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=213e5ec0-1cf6-4c1f-beb0-a353bdd29a55 response_code=200
+2025-10-07 22:01:44,780 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:02:17,434 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=c15b5776-8633-44cc-930a-2f09e635911b response_code=200
+2025-10-07 22:02:17,436 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:02:40,921 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=26d17083-ed3f-9cc8-8ec1-b1ba722cba08 response_code=200
+2025-10-07 22:02:40,922 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:02:41,440 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=5de40440-2bd6-49d4-814c-690a34c510c8 response_code=200
+2025-10-07 22:02:41,441 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:02:42,745 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=1481c1e4-fca7-48b3-a61a-15a5338d322e response_code=200
+2025-10-07 22:02:42,746 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:03:02,485 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=b240444b-d53a-40f7-afce-f320b0bc540f response_code=200
+2025-10-07 22:03:02,485 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:03:03,698 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=c72c2fa1-75cb-4247-a2a5-f56562cce25e response_code=200
+2025-10-07 22:03:03,699 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:03:04,950 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=f6db1475-6581-4a67-afab-762e4d468715 response_code=200
+2025-10-07 22:03:04,950 - INFO - OpenAI模型回答: 在中国新石器时代至青铜时代的墓葬中，所谓“二层台”是指墓坑内或墓外人工筑成的两个台阶形土堆结构。根据所用土料是否经过选择、风干、夯实等处理，可分为生土二层台和熟土二层台。下面分别以具体遗址为例，说明二者在形制、功能及与葬具关系上的差异。
+
+一、生土二层台  
+1．具体遗址及典型墓葬  
+  • 山东临沂城头山文化墓地M27号墓（约公元前2800–前2400年）  
+  • 江西鄱阳湖区域马家浜文化墓葬中若干“环台”型墓  
+
+2．结构特征  
+  • 所用土料：直接取自墓坑周边挖土，多为未经筛选的杂色壤土或黄土，含石屑、草根等天然成分。  
+  • 台阶成形：第一层台（下台）以挖出土回填于墓坑底部周缘，第二层台（上台）则在下台之上沿同心线再次堆筑，两层台坡度与高度差均较缓，台面和台阶边缘皆未作深入夯实。  
+  • 台面与墓坑壁/底的衔接处往往能见到堆土痕迹和土层混杂，界面不甚分明。  
+
+3．功能分析  
+  • 墓坑支护：通过土堆简易地加强了墓坑边坡的稳定性，避免墓坑开挖后边坡塌陷。  
+  • 氛围营造：二层台在平面上形成墓主周围的“活动场地”，同时也对墓葬礼制仪式空间产生一定分隔效果。  
+  • 工艺与劳动力投入低，通常见于中低等级墓葬。  
+
+4．与葬具的关系  
+  • 棺椁安放：多将简易木板棺直接置于下台墓底，或置于下台与上台连接的低台带中，棺外未见明显填土保护层。  
+  • 附葬品布设随意度较高，常混杂于土层之间，长期来看易散移，考古发掘中常见器物错层现象。  
+
+二、熟土二层台  
+1．具体遗址及典型墓葬  
+  • 浙江余杭良渚文化玉人坑（一号墓，约公元前3300–前2300年）  
+  • 河南安阳殷墟小屯村商代墓葬（乙类墓若干）  
+
+2．结构特征  
+  • 所用土料：事先选用粘性较好、颗粒较细的黄土或泥土，经风干、筛选，部分区域辅以砂砾或碎石，以改善排水和稳定性。  
+  • 台阶成形：下台先用熟土分层夯实至一定厚度，再在其边缘与上方空间回填经拣选、风干的二次熟土或碎石；上台表面常见机理化整齐的平推痕，台阶转折处常加设边沟或石条护坡。  
+  • 台面与台阶界面清晰可辨，土质均匀致密，抗渗效果好。  
+
+3．功能分析  
+  • 防水排水：熟土经夯实后可有效阻隔地表雨水进入墓坑，避免墓底或棺椁被水浸蚀；边沟或碎石带则可进一步导流。  
+  • 墓葬等级昭彰：平整且精细的双层台制作需要更高的人工、时间与技术投入，一般用于高等级墓葬。  
+  • 仪式舞台：上台常作为举行葬礼仪式或摆放重要祭祀用品的场所，保持整洁、稳定。  
+
+4．与葬具的关系  
+  • 棺椁安放：棺木往往置于下台中心的夯土平面上或棺椁槽内，四周再填入细土以固定棺木形制。上台亦可放置石椁或石碑（良渚文化玉人坑中的石棺外套层）。  
+  • 附葬品陈设：重要随葬玉器、陶器、青铜器常规整地陈列于上台台面，与下台简单陪葬形成明显分区。熟土结构的稳定性使得这些器物长期埋藏后尚能保持原有位置关系。  
+
+三、两种结构的对比与考古意义  
+  • 劳动力与技术投入：生土二层台依赖原地土料，制作简易；熟土二层台须选土、筛土、风干及夯实，考验组织与施工技术。  
+  • 社会等级与礼制：生土结构多见于一般百姓或低等级墓葬；熟土结构常与贵族、首领或“王公”级人物墓葬相伴，反映墓主社会地位与丧葬仪式的庄严程度。  
+  • 对考古剖面剖察的启示：生土二层台土层结构松散、土色混杂，而熟土二层台土层界面分明，斗量土体结构、含沙量和密实度，可通过土壤学与地球化学检测进一步还原当时的筑台工艺、季节及环境条件。  
+
+总之，生土与熟土二层台无论在土料选取、筑台工艺、使用功能，还是与葬具—尤其是棺椁及随葬器物—的空间布设关系上都呈现出显著区别。通过对比具体遗址中不同等级墓葬的二层台形制，考古学家不仅能判断墓葬等级、社会分层，也能重建古人葬礼仪式与与环境互动的工艺过程。
+2025-10-07 22:03:11,456 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=7a633259-8425-4695-bbb5-2e35378f80d0 response_code=200
+2025-10-07 22:03:11,457 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:03:17,934 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=e39a4870-0272-4ea8-956f-6649f502b8d3 response_code=200
+2025-10-07 22:03:17,935 - INFO - 评分结果: 要点命中：考生答案详细介绍了生土和熟土二层台结构的特征、功能及与葬具的关系。通过山东临沂城头山文化和浙江余杭良渚文化遗址等具体实例，讨论了其在墓葬结构中的应用，准确涵盖了功能差异、技术投入和社会等级关系。
+失分点：未提及具体尺寸和填充细节，如参考答案中的具体高度、宽度等数值；遗漏了参考答案中的大汶口遗址典型遗例。考生对考古剖面剖察的解释虽然有扩展，但未严格对应参考答案中所列织构实例。
+维度评分：内容完整性=8；逻辑性=7.5；准确性=7；表达=9
+评分：8分
+2025-10-07 22:03:17,935 - INFO - 回答基本正确
+2025-10-07 22:03:18,979 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=55b2f476-492c-4904-af81-1ac6dc383902 response_code=200
+2025-10-07 22:03:18,980 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:03:20,028 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=52b59467-1c72-418a-b7ea-7a124c6c4b3d response_code=200
+2025-10-07 22:03:20,029 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:03:36,722 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=0b21a00f-7738-4b9f-a32f-4d5a3ff87d40 response_code=200
+2025-10-07 22:03:36,724 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:04:16,242 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=8709f1e5-65e3-4937-b93a-b24579fe1b1d response_code=200
+2025-10-07 22:04:16,243 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:04:18,696 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=112b2175-820b-4a08-8595-d9324b7b3481 response_code=200
+2025-10-07 22:04:18,697 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:05:03,559 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=0dd0dca5-0356-4d88-89f7-cb3cb2f5d168 response_code=200
+2025-10-07 22:05:03,559 - INFO - OpenAI模型回答: 1959年北京大学考古队在北京市房山区王湾河阶地的发掘中，首次在华北地区通过地层与器物类型系统地划分出了旧石器时代的三个连续文化阶段：
+
+一、早期—卵石器阶段  
+· 以天然形卵石或打制不甚精细的石核和敲击片为主，器形粗犷，主要功能是粗砍、
+2025-10-07 22:05:07,692 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=bb8adca7-b1f0-44a6-91ac-992ed9a23d01 response_code=200
+2025-10-07 22:05:07,693 - INFO - 评分结果: 要点命中：答案提到王湾遗址和三个文化阶段的划分，但描述错误，未涉及新石器时代的仰韶期、过渡期、龙山期或王湾三期文化的观念。
+失分点：将划分阶段错误描述为旧石器时代，缺乏提及正确的新石器文化阶段名及其意义，未提到豫西地区文化发展的年代标尺或文化的连续性。
+维度评分：内容完整性=2；逻辑性=3；准确性=1；表达=4
+评分：2分
+2025-10-07 22:05:07,693 - INFO - 回答不正确，期望: 王湾遗址新石器时代文化层分为仰韶期、过渡期和龙山期三个阶段。其意义在于：1.首次建立豫西地区仰韶-龙山文化发展的年代标尺；2.提出'王湾三期文化'概念；3.确认了文化发展的连续性。
+2025-10-07 22:05:07,698 - INFO - 进度: 10/79 (12.7%)
+2025-10-07 22:05:07,698 - INFO - 当前得分: 22/790
+2025-10-07 22:05:08,705 - INFO - 开始处理批次 #3 (问题 11-15)
+2025-10-07 22:05:08,707 - WARNING - 无法读取图片 nan: expected str, bytes or os.PathLike object, not float
+2025-10-07 22:05:08,708 - INFO - 提问 [o4mini_qa.jsonl_11] [中国古代文学]: 在中国古代史研究中，五帝时代的时间跨度因不同历史文献记载而存在显著差异。请分析《史记》《竹书纪年》和《帝王世纪》中关于五帝在位年限的计算方法及其分歧原因，并讨论这些差异如何反映先秦至汉代文献可信度的学术争议。
+2025-10-07 22:05:08,708 - WARNING - 无法读取图片 nan: expected str, bytes or os.PathLike object, not float
+2025-10-07 22:05:08,708 - INFO - 提问 [o4mini_qa.jsonl_12] [历史地理学]: 基于《秦汉南北朝官印征存》（罗福颐）和《汉书》相关记载，分析秦或西汉时期'卫园邑印'的读法分歧（如陈直先生与罗福颐先生观点），并阐述王人聪先生如何通过文献校对论证其正确读法及历史含义。
+2025-10-07 22:05:08,709 - WARNING - 无法读取图片 nan: expected str, bytes or os.PathLike object, not float
+2025-10-07 22:05:08,709 - INFO - 提问 [o4mini_qa.jsonl_13] [历史地理学]: 结合《山东昌乐县东圈汉墓》出土灯盘铭文和《秦汉南北朝官印征存》中对'宦谒'的讨论，分析'宦谒'官职在汉代王后属官体系中的含义、主要学术争议点及其与中央官制的联系。
+2025-10-07 22:05:08,709 - WARNING - 无法读取图片 nan: expected str, bytes or os.PathLike object, not float
+2025-10-07 22:05:08,709 - INFO - 提问 [o4mini_qa.jsonl_14] [考古]: 根据《秦汉南北朝官印征存》[罗福颐]和《考古》1978年第4期报告，分析出土于长沙近郊的'长沙长'封泥印文中第三字的学术争议，并论证其正确解读如何体现汉人地名使用通假字的特征。
+2025-10-07 22:05:08,710 - WARNING - 无法读取图片 nan: expected str, bytes or os.PathLike object, not float
+2025-10-07 22:05:08,710 - INFO - 提问 [o4mini_qa.jsonl_15] [考古]: 基于金文材料和文献记载，西周夷王在位年数的考定存在显著学术争议。请阐述赵光贤、马承源和刘启益三位学者在夷王在位年数上的分歧观点及其依据，并分析导致分歧的核心原因。
+2025-10-07 22:05:34,431 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=6bf53550-ac80-4241-ae03-54f0ed388174 response_code=200
+2025-10-07 22:05:34,432 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:05:39,384 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=9eb1cedf-532b-4641-8e01-d53c7d161a15 response_code=200
+2025-10-07 22:05:39,384 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:05:39,738 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=cefca6f5-e68b-4a34-8ca5-7cfe8c109410 response_code=200
+2025-10-07 22:05:39,739 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:05:53,463 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=b364d254-190c-495f-a767-cd12767b14e9 response_code=200
+2025-10-07 22:05:53,463 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:05:54,404 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=56334ebb-368b-44c1-a14a-2630d8eccf2a response_code=200
+2025-10-07 22:05:54,404 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:05:59,210 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=086d1ff3-b98d-4945-bf6c-a3b9c33e5c4d response_code=200
+2025-10-07 22:05:59,211 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:06:02,397 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=205546e1-e218-406f-b1fe-9a7454dc2aeb response_code=200
+2025-10-07 22:06:02,398 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:06:19,226 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=bd66cb75-131f-449e-bae9-0c21a14bfce8 response_code=200
+2025-10-07 22:06:19,227 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:06:36,014 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=56b74fea-3f2a-4ad2-9a26-9115036e5667 response_code=200
+2025-10-07 22:06:36,015 - INFO - OpenAI模型回答: 一、“宦谒”在汉代王后属官体系中的含义  
+1. 名称构成与职能定位  
+  – “宦谒”一词由“宦”（宫中宦官）与“谒”（引见、传递奏章）两部分组成，专指王后府内承担传递诏命、奏状谒见、管理内廷灯火（“承光”）等事务的宦官属职。  
+  – 山东昌乐县东圈汉墓出土的铜灯盘铭文，将“宦谒”与“承光”“抱璧”“司仪”等职并列，侧面反映了其在王后府中负责“照明”“传递”“引介”之职，是中等层级的宫人服务官。  
+
+2. 组织隶属  
+  – “宦谒”归属于王后的属官序列，与尚侍、常侍、中常侍等中央宫官并行，但其日常指挥由王后府内的“属吏”或“司仪”具体操持。  
+  – 官印、印绶色彩（黄绫）、印文出现的“移署光禄”“侍中官移署”等字样，则显示出此职虽在王后府，却需仰仗中央尚书、光禄勋等部门授权，并受中央官制的部分制约与检核。  
+
+二、主要学术争议点  
+1. 是否为正式官名或泛称  
+  – 赞同者：认为“宦谒”是西汉中后期由王后府仿照中常侍、郎中谒者等中央谒者职制而创设的正式官名，具有相对固定的俸秩、印绶和名额。  
+  – 反对者：主张“宦谒”乃对王后府中一切负责“谒见”及内廷传命的宦官的统称，缺乏中央正式册封，名额、俸秩均杂缺不一。  
+
+2. 与中央“谒者”“常
+2025-10-07 22:06:46,914 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=cefa3524-80c5-45bc-8e0a-c21f889f8bdc response_code=200
+2025-10-07 22:06:46,916 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:06:49,158 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-07 22:06:49,159 - INFO - 评分结果: 要点命中：考生答案提到“宦谒”由“宦”和“谒”构成，解释了其职责为传递诏命、管理灯火等，在王后属官体系中的中等地位；提及灯盘铭文显示其与“承光”等职并列，更侧重王后府属；总结其隶属为王后府，下受司仪指挥，受中央尚书、光禄勋等部门监管及检核。部分涉及是否为正式官名或统称的学术争议，但未具体展开各学者观点。
+
+失分点：未提及“宦谒”是否由“宦者令”“谒者令”省称的学术争议这一关键点，遗漏发掘者与王人聪等学者具体观点；未清晰阐明“宦谒”是否属詹事或少府管辖的论证对比，缺乏具体史料如《汉书·百官公卿表》的引用支持；论述对于“宦谒”的中央官制适配性不足，未能将考古铭文与文献校对作整合分析。
+
+维度评分：内容完整性=6.0；逻辑性=5.5；准确性=8.0；表达=7.5  
+评分：7分
+2025-10-07 22:06:49,159 - INFO - 回答基本正确
+2025-10-07 22:06:53,275 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=18748700-c8e9-4e6c-9324-dbdb12ff7689 response_code=200
+2025-10-07 22:06:53,275 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:07:01,489 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=6f7a2ca4-5577-4119-9fef-96548d5a2a7d response_code=200
+2025-10-07 22:07:01,490 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:07:14,157 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=287b5ca7-e975-4385-97fb-cabd013bb81d response_code=200
+2025-10-07 22:07:14,158 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:07:16,296 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=7d7d5ca4-16ba-42a6-a20e-5fead6544dbc response_code=200
+2025-10-07 22:07:16,296 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:07:26,927 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=de221733-39bd-4622-b659-532e7e6728be response_code=200
+2025-10-07 22:07:26,928 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:07:34,833 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=0e832df0-42d4-491c-99d7-212b144c4c0d response_code=200
+2025-10-07 22:07:34,834 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:07:35,809 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=2e01aefb-252c-4d5e-8c48-bbb57b2adab5 response_code=200
+2025-10-07 22:07:35,810 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:07:59,911 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=cc08de5b-eb9e-4098-a459-0b2dbdbce0e7 response_code=200
+2025-10-07 22:07:59,912 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:08:00,238 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=a137acab-80e8-47f1-82e9-d1d3705a4234 response_code=200
+2025-10-07 22:08:00,238 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:08:00,534 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=09c2a57f-73cc-4ba6-8694-54d68ee17578 response_code=200
+2025-10-07 22:08:00,535 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:08:37,466 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=5382005d-0c96-4fac-bafd-6c4410b68eac response_code=200
+2025-10-07 22:08:37,467 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:08:37,473 - INFO - 进度: 15/79 (19.0%)
+2025-10-07 22:08:37,473 - INFO - 当前得分: 29/790
+2025-10-07 22:08:38,486 - INFO - 开始处理批次 #4 (问题 16-20)
+2025-10-07 22:08:38,487 - WARNING - 无法读取图片 nan: expected str, bytes or os.PathLike object, not float
+2025-10-07 22:08:38,487 - INFO - 提问 [o4mini_qa.jsonl_16] [中国古典文献学]: 根据《释〈武成〉与金文月相》[黄彰健,1998]和《汉书·律历志》（中华书局点校本，1962年），分析班固在转述刘歆关于‘既死霸’的月相学说时出现的失误，并解释其正确含义及其在武王克商年代考证中的逻辑依据。
+2025-10-07 22:08:38,487 - WARNING - 无法读取图片 nan: expected str, bytes or os.PathLike object, not float
+2025-10-07 22:08:38,488 - INFO - 提问 [o4mini_qa.jsonl_17] [中国古典文献学]: 根据《武成》和《世俘》的历日记载，结合张培瑜《时日表》等研究，分析刘歆和黄彰健在推算西周克商之年（武王伐纣）日期时的核心学术分歧，并论证为何公元前1106年被认定为实际吻合年份。
+2025-10-07 22:08:38,488 - WARNING - 无法读取图片 nan: expected str, bytes or os.PathLike object, not float
+2025-10-07 22:08:38,488 - INFO - 提问 [o4mini_qa.jsonl_18] [汉语言文字学]: 根据出土古文字资料如邗王是野戈铭文和赵孟壶铭文，以及《管子·小问》《史记》等文献记载，分析春秋时期吴国被称为'邗'或'干'的原因，并评述郭沫若与后续学者在此问题上的学术争议。
+2025-10-07 22:08:38,488 - WARNING - 无法读取图片 nan: expected str, bytes or os.PathLike object, not float
+2025-10-07 22:08:38,488 - INFO - 提问 [o4mini_qa.jsonl_19] [考古]: 根据王晖在《西周春秋吴国迁都研究》（《历史研究》2000年第5期）中的论述，简述吴国在西周春秋时期的四次迁都过程，包括每次迁都的时间、地点和相关历史事件。
+2025-10-07 22:08:38,488 - WARNING - 无法读取图片 nan: expected str, bytes or os.PathLike object, not float
+2025-10-07 22:08:38,489 - INFO - 提问 [o4mini_qa.jsonl_20] [中国古典文献学]: 分析刘歆在《汉书·律历志》所引《世经》中对《尚书·顾命篇》‘哉生霸’一词的解释错误，并基于传统观点说明其正确含义。
+2025-10-07 22:09:04,696 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=f1d874ea-09dd-4120-917b-d3c277ddb131 response_code=200
+2025-10-07 22:09:04,697 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:09:06,963 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=bb35a89d-4031-4e7c-82b6-e0bd8c094ffb response_code=200
+2025-10-07 22:09:06,964 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:09:08,623 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=dee34823-415a-40c6-a8f2-cb90770031c9 response_code=200
+2025-10-07 22:09:08,624 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:09:16,214 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=3e964931-3c85-4fdf-9650-ca959c589709 response_code=200
+2025-10-07 22:09:16,214 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:09:32,436 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=04c85efd-dc7c-4c39-b85a-898335ff5aa6 response_code=200
+2025-10-07 22:09:32,437 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:09:35,765 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=b08746fb-c58d-4ab2-8d0f-c038cd3bb3fe response_code=200
+2025-10-07 22:09:35,765 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:09:35,902 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=c2a09395-f4f9-4fcd-af4d-fb5237cf5aa0 response_code=200
+2025-10-07 22:09:35,903 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:09:53,742 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=789b3022-b0b6-4834-adc0-c7b151b5bde2 response_code=200
+2025-10-07 22:09:53,743 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:10:16,921 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=38713115-0388-4656-99d9-820aedac8b49 response_code=200
+2025-10-07 22:10:16,921 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:10:18,063 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=a6b96f6f-47fc-402f-9db7-c763fe4e0b5e response_code=200
+2025-10-07 22:10:18,064 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:10:18,673 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=dba1a664-377e-41c3-bb76-2ab6c8b72957 response_code=200
+2025-10-07 22:10:18,674 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:10:33,974 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=8e35cd8c-379f-4ad7-a7ca-fa5e79dc1af9 response_code=200
+2025-10-07 22:10:33,975 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:10:34,011 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=ecab920a-0e5a-4f4b-b612-712533910f44 response_code=200
+2025-10-07 22:10:34,012 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:10:37,420 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=784b261d-5779-4c01-b3c3-907d2218b151 response_code=200
+2025-10-07 22:10:37,420 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:10:45,405 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=ce303ea5-fd2f-4991-b7da-5caea06c1d9d response_code=200
+2025-10-07 22:10:45,405 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:10:51,848 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=8360c311-a6fa-4b03-bccd-6b668d4a727f response_code=200
+2025-10-07 22:10:51,849 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:10:52,474 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=a9a36f37-a410-4b46-9aab-7dae9664c915 response_code=200
+2025-10-07 22:10:52,475 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:10:52,787 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=4dcf963f-06a2-93ab-838e-58ad9701eecb response_code=200
+2025-10-07 22:10:52,788 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:11:06,642 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=47fd376e-edb2-42ad-9a35-4f1fe29f5244 response_code=200
+2025-10-07 22:11:06,642 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:11:14,440 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=670c2e5a-ad4a-47ab-9a30-d8bc1ce40d27 response_code=200
+2025-10-07 22:11:14,441 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:11:17,982 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=4a834b62-a359-404a-99db-0a7879cfd705 response_code=200
+2025-10-07 22:11:17,983 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:11:21,194 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=acd712cf-1949-4ea1-bfc3-a26d5e45ca40 response_code=200
+2025-10-07 22:11:21,197 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:12:00,423 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=120e71b3-441a-4ebd-b530-f9d591aa899a response_code=200
+2025-10-07 22:12:00,425 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:12:25,894 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=aef4800c-ab63-4bab-b03d-8d5b3b50516e response_code=200
+2025-10-07 22:12:25,895 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:13:28,372 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=c30df1d4-1bbf-407a-9820-9edda393863e response_code=200
+2025-10-07 22:13:28,373 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:13:28,379 - INFO - 进度: 20/79 (25.3%)
+2025-10-07 22:13:28,379 - INFO - 当前得分: 29/790
+2025-10-07 22:13:29,383 - INFO - 开始处理批次 #5 (问题 21-25)
+2025-10-07 22:13:29,386 - WARNING - 无法读取图片 nan: expected str, bytes or os.PathLike object, not float
+2025-10-07 22:13:29,387 - INFO - 提问 [o4mini_qa.jsonl_21] [汉语言文字学]: 商周时期贝币单位'朋'的贝数存在哪些主要学术观点？请结合王国维《说珏朋》的观点，分析其字形分析依据及报告中的争议点。
+2025-10-07 22:13:29,387 - WARNING - 无法读取图片 nan: expected str, bytes or os.PathLike object, not float
+2025-10-07 22:13:29,388 - INFO - 提问 [o4mini_qa.jsonl_22] [考古]: 结合《史记·匈奴列传》（中华书局点校本，1982年）及山西朱开沟遗址考古发现，论述夏亡后夏人北迁的历史过程，并分析学术界关于土方是否为夏族的争议焦点及其证据依据。
+2025-10-07 22:13:29,389 - WARNING - 无法读取图片 nan: expected str, bytes or os.PathLike object, not float
+2025-10-07 22:13:29,389 - INFO - 提问 [o4mini_qa.jsonl_23] [中国古代史]: 结合云梦秦简和秦封宗邑瓦书的记载，分析'敖童'一词在秦代法律和社会中的具体含义，并评价秦简整理小组及其他学者（如黄今言、熊铁基）的解释争议。
+2025-10-07 22:13:29,389 - WARNING - 无法读取图片 nan: expected str, bytes or os.PathLike object, not float
+2025-10-07 22:13:29,390 - INFO - 提问 [o4mini_qa.jsonl_24] [历史地理学]: 根据甲骨卜辞记载，商王征人方后返回商都，途经桀地、桑地等地进行田猎活动。结合李学勤在《重论夷方》[李学勤，1996]和《夏商周与山东》[李学勤，2002]中的论述，分析地名'桑'的地理位置争议，并比较陈梦家、于省吾、郑杰祥等学者的不同观点及其论证依据。
+2025-10-07 22:13:29,390 - WARNING - 无法读取图片 nan: expected str, bytes or os.PathLike object, not float
+2025-10-07 22:13:29,390 - INFO - 提问 [o4mini_qa.jsonl_25] [中国古典文献学]: 基于《田法》及相关历史文献，分析战国时期国家授田制中关于余夫受田数量的学术争议，并比较《孟子》、《周礼》和《汉书》记载的差异及其历史背景。
+2025-10-07 22:13:48,962 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=337e4949-d955-4671-b2dc-c80b3a886ee0 response_code=200
+2025-10-07 22:13:48,963 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:13:50,277 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=de19568f-ad99-4d3f-b24e-ead3071241fd response_code=200
+2025-10-07 22:13:50,279 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:14:00,369 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=276666a1-99cf-457d-a74b-6ec50cdaa021 response_code=200
+2025-10-07 22:14:00,371 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:14:10,834 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=3232dca4-e2f2-4da4-b320-b8aaf24bb61f response_code=200
+2025-10-07 22:14:10,834 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:14:24,835 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=fa8b6f07-ba53-4222-a7a6-7a77ff3cbd56 response_code=200
+2025-10-07 22:14:24,836 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:14:29,360 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=eed5b0d3-6429-4a71-8bcb-c4c05a5eb0bf response_code=200
+2025-10-07 22:14:29,361 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:14:43,964 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=3692db47-a7f9-4eec-84a6-1da9f699ab32 response_code=200
+2025-10-07 22:14:43,964 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:14:50,564 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=6e748817-ba11-4f2d-93f7-c830d9f978f1 response_code=200
+2025-10-07 22:14:50,565 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:15:06,136 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=c43b07b2-35b8-4036-a720-7a9d95b2dddc response_code=200
+2025-10-07 22:15:06,137 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:15:13,179 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=6f7eb168-c551-442f-91b1-2b698517b08f response_code=200
+2025-10-07 22:15:13,180 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:15:19,818 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=74438df4-dabc-456d-93ab-7059f6d45168 response_code=200
+2025-10-07 22:15:19,819 - INFO - OpenAI模型回答: “敖童”一词在秦代法律与社会实践中，并非简单的“童子兵”或“徭童”（一般徭役者），而是一种针对特定未成年人犯罪者的刑事——劳役复合性制度。其基本内涵和功能，可从云梦秦简与秦封宗邑瓦书的相关记载中归纳如下。
+
+一、“敖童”的法律地位与性质  
+1. 刑事对象限定  
+  · 云梦秦简《赦免》《徒系》《律令》等篇章，多次将“敖童”列于徒刑（徭役）与狱讼、镣刑并列之中，且依据简文前后文，敖童惟于不得判处斩、剕、流配等重刑，却因盗窃、小过失或父母罪责牵连而亦需受刑者。  
+  · 由此可见，“敖童”主要适用于未满法定壮年（约十五、六岁以下），不能执行成人刑罚，又需受国家强制处罚的少男。  
+
+2. 刑罚形式与执行机关  
+  · “敖”在秦律中既通“牢”“狱”之意，又含“羁押、监管”之义；“童”则指少男性。敖童被押赴“敖署”或各级县府狱中，颈以软
+2025-10-07 22:15:20,176 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=f0261226-bca4-4505-9832-3ec61c4c8857 response_code=200
+2025-10-07 22:15:20,177 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:15:31,997 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=500
+2025-10-07 22:15:31,998 - INFO - error_code=do_request_failed error_message='upstream error: do request failed (request id: 20251007221512214892978b4eVBA01)' error_param= error_type=new_api_error message='OpenAI API error received' stream_error=False
+2025-10-07 22:15:31,999 - ERROR - 回答问题时出错: upstream error: do request failed (request id: 20251007221512214892978b4eVBA01) {"error":{"message":"upstream error: do request failed (request id: 20251007221512214892978b4eVBA01)","type":"new_api_error","param":"","code":"do_request_failed"}} 500 {'error': {'message': 'upstream error: do request failed (request id: 20251007221512214892978b4eVBA01)', 'type': 'new_api_error', 'param': '', 'code': 'do_request_failed'}} <CIMultiDictProxy('Server': 'openresty', 'Date': 'Tue, 07 Oct 2025 14:15:22 GMT', 'Content-Type': 'application/json; charset=utf-8', 'Content-Length': '164', 'Connection': 'keep-alive', 'X-Oneapi-Request-Id': '20251007221512214892978b4eVBA01', 'X-Content-Type-Options': 'nosniff', 'X-Frame-Options': 'SAMEORIGIN', 'Cache-Control': 'no-store', 'Pragma': 'no-cache', 'Expires': '0', 'Strict-Transport-Security': 'max-age=31536000')>
+2025-10-07 22:15:47,994 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=4e5597a9-2b31-4647-89ce-2b7bc24a51f0 response_code=200
+2025-10-07 22:15:47,994 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:16:03,604 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=648df43b-5e92-4d8e-ac8c-c0ff799b11d0 response_code=200
+2025-10-07 22:16:03,605 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:16:18,367 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=66688ce1-db87-40b2-a4af-27849fb6d280 response_code=200
+2025-10-07 22:16:18,367 - INFO - 评分结果: 要点命中：考生答案涉及“敖童”与秦代法律中刑事与劳役复合性制度的联系，提及云梦秦简的相关篇章以及“敖”在司法语境中的释义，命中部分核心问题如适用对象、刑罚形式等，部分涉及学术争议中的观点。 
+
+失分点：未提及秦简整理小组、黄今言及熊铁基的具体争议观点，忽略瓦书铭文证据在学术讨论中的作用，对学术观点的比较与分析较为片面，没有准确阐述“成童说”“游童说”和“傲童说”的具体内容及逻辑优劣。对“敖童”隐匿人口与傅籍制度的关系完全未涉及。
+
+维度评分：内容完整性=6.0；逻辑性=6.5；准确性=5.5；表达=7.0。
+
+评分：6分
+2025-10-07 22:16:18,368 - INFO - 回答不正确，期望: 核心问题界定：'敖童'是秦代法律术语，涉及隐匿人口罪责，其含义争议焦点在于'敖'字的训诂及与傅籍制度的关系。相关学术观点列举：1. 秦简整理小组的'成童说'，认为敖童即15-17岁未冠男子（《睡虎地秦墓竹简》[文物出版社，1978年]第144页注文）；2. 黄今言的'游童说'，释'敖'为'游'，指未成年小孩（《秦汉赋役制度研究》[江西教育出版社，1988年]第260页）；3. 熊铁基的'傲童说'，释'敖'为'傲'，指行为不羁青年（《秦汉军事制度》[广西人民出版社，出版年不详]）。多维论证：首先，字形分析显示'敖'无'成'义（《释名·释长幼》[商务印书馆，2016年]），'成童说'忽视'敖'字，仅重复'童'义；其次，考古对比秦简与瓦书（《战国秦封宗邑瓦书铭文新释》[郭子直，1980年代]），瓦书早于秦简百年且含'大田佐敖童曰未'，证明'敖童'为长期制度术语；其三，文意与情理分析，'游童说'导致隐匿不需服役小孩（身高五尺以下）不合逻辑，因里典、伍老无动机冒险（《秦律杂抄》隐匿受罚条文）。学说比较：'成童说'文意流畅但训诂不足；'游童说'和'傲童说'补充'敖'字义却情理不通，且未整合瓦书证据。阶段性结论：'敖童'可能指特定年龄段（如傅籍前）健壮男子，需综合字形、考古与制度考据，但尚无确解，强调未来研究应贯通文物证据。
+2025-10-07 22:16:18,409 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=b9006864-c40b-4104-874e-50fbd923ec1a response_code=200
+2025-10-07 22:16:18,409 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:16:18,422 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=f167b818-2516-4d80-99ac-a9e9bb6e8a96 response_code=200
+2025-10-07 22:16:18,422 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:16:19,959 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=03cc618c-01d6-4bbc-b3f0-529082031348 response_code=200
+2025-10-07 22:16:19,960 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:16:37,625 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=ce1e1e2d-644b-4aad-b76d-24390dce7900 response_code=200
+2025-10-07 22:16:37,627 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:17:38,222 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=7905d5a9-3fe0-4b91-b4fd-0c66396ed202 response_code=200
+2025-10-07 22:17:38,223 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:17:48,255 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=8ab92aac-6e9f-4e29-a418-72623c7901b0 response_code=200
+2025-10-07 22:17:48,256 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:17:48,262 - INFO - 进度: 25/79 (31.6%)
+2025-10-07 22:17:48,262 - INFO - 当前得分: 35/790
+2025-10-07 22:17:49,263 - INFO - 开始处理批次 #6 (问题 26-30)
+2025-10-07 22:17:49,264 - WARNING - 无法读取图片 nan: expected str, bytes or os.PathLike object, not float
+2025-10-07 22:17:49,266 - INFO - 提问 [o4mini_qa.jsonl_26] [中国古代史]: 根据银雀山竹简《田法》及相关文献，阐述战国时期国家授田制下的耕作制度特点，包括撂荒制度和定期还授制度的具体内容，并分析其与西周耕作制度的差异。
+2025-10-07 22:17:49,267 - WARNING - 无法读取图片 nan: expected str, bytes or os.PathLike object, not float
+2025-10-07 22:17:49,267 - INFO - 提问 [o4mini_qa.jsonl_27] [考古]: 根据《后汉书·南蛮西南夷列传》和殷墟卜辞记载，结合近代学术争议，分析盘瓠传说中‘犬’的真实含义，并论述盘瓠与盘古之间的关系。
+2025-10-07 22:17:49,268 - WARNING - 无法读取图片 nan: expected str, bytes or os.PathLike object, not float
+2025-10-07 22:17:49,268 - INFO - 提问 [o4mini_qa.jsonl_28] [中国古典文献学]: 在1930年代初的经学今古文之争中，青松对钱穆《刘向歆父子年谱》提出商榷，批评钱穆未对《周官》的成书年代提出具体论证。钱穆如何通过后续研究回应这一批评？请结合相关文献分析其论证方法、学术争议点及影响。
+2025-10-07 22:17:49,268 - WARNING - 无法读取图片 nan: expected str, bytes or os.PathLike object, not float
+2025-10-07 22:17:49,268 - INFO - 提问 [o4mini_qa.jsonl_29] [历史地理学]: 根据《西汉移民研究》[葛剑雄，2020]，结合《史记·平准书》和《汉书·沟洫志》记载，分析汉武帝元狩四年迁徙关东贫民的具体迁出地域及其原因，并说明地理依据。
+2025-10-07 22:17:49,268 - WARNING - 无法读取图片 nan: expected str, bytes or os.PathLike object, not float
+2025-10-07 22:17:49,268 - INFO - 提问 [o4mini_qa.jsonl_30] [历史地理学]: 基于《汉书·五行志》和《史记·南越列传》等史料，分析汉文帝二年（公元前178年）发生的‘南越反’事件的实质争议，并论证南海王织在汉初历史中的角色、封地位置及其消亡原因。
+2025-10-07 22:18:03,253 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=500
+2025-10-07 22:18:03,254 - INFO - error_code=do_request_failed error_message='upstream error: do request failed (request id: 20251007221740269026916SGcD4k54)' error_param= error_type=new_api_error message='OpenAI API error received' stream_error=False
+2025-10-07 22:18:03,258 - ERROR - 回答问题时出错: upstream error: do request failed (request id: 20251007221740269026916SGcD4k54) {"error":{"message":"upstream error: do request failed (request id: 20251007221740269026916SGcD4k54)","type":"new_api_error","param":"","code":"do_request_failed"}} 500 {'error': {'message': 'upstream error: do request failed (request id: 20251007221740269026916SGcD4k54)', 'type': 'new_api_error', 'param': '', 'code': 'do_request_failed'}} <CIMultiDictProxy('Server': 'openresty', 'Date': 'Tue, 07 Oct 2025 14:17:53 GMT', 'Content-Type': 'application/json; charset=utf-8', 'Content-Length': '164', 'Connection': 'keep-alive', 'X-Oneapi-Request-Id': '20251007221740269026916SGcD4k54', 'X-Content-Type-Options': 'nosniff', 'X-Frame-Options': 'SAMEORIGIN', 'Cache-Control': 'no-store', 'Pragma': 'no-cache', 'Expires': '0', 'Strict-Transport-Security': 'max-age=31536000')>
+2025-10-07 22:18:27,181 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=0efed019-2157-4b26-8e33-4368300256ca response_code=200
+2025-10-07 22:18:27,182 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:18:34,551 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=220f99d4-d113-42c5-8d18-c653e345fc15 response_code=200
+2025-10-07 22:18:34,552 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:18:50,029 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=fdf7bd6c-4c3a-4715-b080-cfbb34b2fe37 response_code=200
+2025-10-07 22:18:50,030 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:18:52,993 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=450e50fb-2140-497a-8375-cc2a7c06d149 response_code=200
+2025-10-07 22:18:52,994 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:18:53,886 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=fb85d81d-3807-4dc3-8bba-e958d3895588 response_code=200
+2025-10-07 22:18:53,888 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:18:54,260 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=ddb3fe66-f8b5-45ac-9362-401c2c434e24 response_code=200
+2025-10-07 22:18:54,261 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:18:54,355 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=be1bfeca-eee7-45a6-8ec8-d036d725de1f response_code=200
+2025-10-07 22:18:54,356 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:19:16,880 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=35018425-76cd-4152-a910-b851abb531ae response_code=200
+2025-10-07 22:19:16,881 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:19:17,071 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=9976f9d3-c810-49e2-9b07-c63522763764 response_code=200
+2025-10-07 22:19:17,072 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:19:25,259 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=80a58f68-7912-46f9-91a6-6ba805c8cb96 response_code=200
+2025-10-07 22:19:25,260 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:19:28,038 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=3d9783b0-a028-45b8-bfd7-6bc82fcb6581 response_code=200
+2025-10-07 22:19:28,039 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:19:31,207 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=220a6286-c65a-4ec8-a6ec-cce7dd8b84e9 response_code=200
+2025-10-07 22:19:31,208 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:20:01,485 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=5ca85a8b-6870-4816-9891-8b5b5a84da9b response_code=200
+2025-10-07 22:20:01,486 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:20:02,729 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=b8756709-a55c-45b2-8455-8d2dbd1553b2 response_code=200
+2025-10-07 22:20:02,731 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:20:10,566 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=bd45bc6e-ab68-4ada-a18a-b0de5351d0fc response_code=200
+2025-10-07 22:20:10,566 - INFO - OpenAI模型回答: 根据《后汉书·南蛮西南夷列传》对盘瓠事迹的记载，以及殷墟卜辞中“犬”字的用例，加之近现代学界对盘瓠与盘古关系的讨论，可以从以下两方面作整体分析。
+
+一、“犬”在盘瓠传说中的真实含义  
+1. 文献语境与形象描绘  
+  a. 《后汉书》所载：盘瓠本为天上神犬，辅佐南中大将军乞伏乾归平定叛乱，战功卓著，后化为人形赐以美女为妻，始为云南诸蛮所祖。  
+  b. “犬”既有神犬之妖异色彩，又与战场中“忠、勇、护主”的犬类品性相联系。古人叙事常以“犬”表现某种超凡能力或图腾标识，而并非单纯强调其动物身份。  
+
+2. 殷墟卜辞中“犬”字的谱系与用途  
+  a. 甲骨卜辞中，“犬”字多出现于祭祀祭祀、族徽、作战符号等场合，如“丙申卜：正月，祭于犬”或“卜牲：牛、犬各一”。祭祀“犬”往往与部族起源神话或保护神崇拜有关。  
+  b. 形声与指事并用下，“犬”既是家畜，也是部落图腾（或祖先化身），以“犬”为氏族标识的现象相当普遍。  
+
+3. “犬”之图腾化与部族观念  
+  a. 从图腾崇拜角度看，南蛮西南夷诸部往往以某种灵兽、自认为祖先化身来强化血缘与政治凝聚力。盘瓠以神犬示人，实为对部族祖先身份的神化叙述。  
+  b. 近代学者多认为，盘瓠传说中异化的“犬”形象，是古代先民以犬类作为氏族图腾或军事象征的文化投射，与其部落地缘、社会组织和信仰结构高度相关，并不等同于民间意义上的“狗”或贬义。  
+
+二、盘瓠与盘古的关系  
+1. 名称与形象的表面关联  
+  a. “盘瓠”“盘古”二名同以“盘”字开头，且均与神话创世、开辟疆土或部族的起源有关。少数学者据此提出二者源于同一原型或同一古老神话。  
+  b. 盘古以开天辟地著称，属于宏大宇宙创世范畴；盘瓠则为南方少数民族（或多民族联盟）的始祖英雄，侧重于社会建构与人类世系分化。  
+
+2. 学界主要观点  
+  a. 分化起源说：大多数学者认为，盘古神话和盘瓠传说各自植根于不同地域的民间口头传统，二者虽在名称上有巧合，却因时间、空间与功能各异而分属两种体系。  
+  b. 后世类神话融合说：自魏晋南北朝至隋唐，随着中央王朝对边疆民族的整合与文化传播，盘瓠和盘古的某些元素有过叠加与改写，但核心意蕴并未完全合流。  
+  c. 极少数“同源假说”：极少数学者试图从更古老的汉藏语系或南岛语言文化中寻找“盘”字本义，将盘古—盘瓠看作同一原型的地区性延伸，但证据尚不充分。  
+
+3. 结论与评价  
+  a. 就文献脉络和考古资料而言，盘瓠的“犬”形象更应理解为氏族图腾与英雄神话的民族建构，无关贬义。  
+  b. 盘瓠与盘古虽然名称相近、同属神话体系，却各自服务于不同的文化语境和社会功能。现代学界普遍认为二者起源各异，只是在后世民间与文人笔记中发生过意象互渗，但并非法定等同。  
+
+综上，盘瓠传说中的“犬”是早期部族图腾与英雄祖先的象征，反映了南蛮西南夷的社会组织和精神信仰；盘瓠与盘古虽有名形巧合，但由于各自的文化属性和神话功能不同，二者应视为相互独立、偶有交融的两条神话谱系。
+2025-10-07 22:20:15,061 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=54c07ef7-8ae9-4ccd-b468-0bd04384e809 response_code=200
+2025-10-07 22:20:15,062 - INFO - 评分结果: 要点命中：考生答案中涉及盘瓠传说中的神犬形象、盘瓠作为云南诸蛮始祖的角色、与盘古的名称关联和学界对二者关系的讨论。
+失分点：未提及“犬”作为商代职官名称的观点，缺乏对《殷墟卜辞》中具体记载的考证，盘瓠和盘古共同起源于薄姑五色土的理论没有详细说明。
+维度评分：内容完整性=6；逻辑性=6；准确性=5；表达=7
+评分：6分
+2025-10-07 22:20:15,063 - INFO - 回答不正确，期望: 盘瓠传说中‘犬’并非指实际的狗，而是商代职官名称；盘瓠与盘古的关系源于薄姑五色土的共同起源，而非直接演变。答案结构如下：1. 界定核心问题：盘瓠是否为狗还是职官，及其与盘古的联系是学术争议焦点，涉及文献解读和古文字分析。2. 列举相关学术观点：近代学者如刘起纡认为盘瓠是南方蛮夷始祖神，与盘古无关（《古史续辨》）；徐中舒提出盘瓠源于夫余国‘狗加’职官（《先秦史论稿》）；本报告作者主张盘瓠是商代‘犬’职演变而来，盘瓠与盘古均源于毫土/薄姑五色土。3. 多维论证：文献依据方面，《后汉书·南蛮西南夷列传》记载盘瓠为‘畜狗’，但《殷墟卜辞》如《合集》27900（‘狈犬告日：有大狐’）显示‘犬’为狩猎职官（郭沫若《殷契粹编》，1984年）；逻辑依据上，通过字形分析（‘犬’在卜辞中表示官职）、考古对比（商代职官制度）和文献校对（与《三国志·魏书·乌丸鲜卑东夷传》夫余国记载比较），推定盘瓠非狗而是职官。4. 学说比较：徐中舒观点强调夫余影响，但作者基于殷墟卜辞证据（如《合集》10976正‘乎多犬网鹿’）证明更早源于商代；刘起纡否认联系，但作者从薄姑土演变角度（任昉《述异记》）论证间接关联。5. 阶段性结论：盘瓠为商代‘犬’职官名，盘瓠与盘古均从薄姑五色土演化而来，前者衍生始祖神称号，后者发展为创世神，二者非直接演变但有共同文化根源。
+2025-10-07 22:20:16,085 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=99ce7222-9fe6-4d74-b36d-1cdd03dd70f8 response_code=200
+2025-10-07 22:20:16,086 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:20:46,223 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=74ea8ea2-c0ae-4d8b-a463-4a62358604cf response_code=200
+2025-10-07 22:20:46,223 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:20:58,326 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=bdcc58ed-8d04-4c2f-b662-aa39d4d81f60 response_code=200
+2025-10-07 22:20:58,327 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:21:05,916 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=2bb7b46b-dc67-4dc5-ad8e-6771fe71c702 response_code=200
+2025-10-07 22:21:05,917 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:21:24,290 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=54b25049-771d-4f4c-8c9c-c1ec7f4c0168 response_code=200
+2025-10-07 22:21:24,291 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:21:28,804 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=bb944c8c-a4d8-4548-a413-3420c766f883 response_code=200
+2025-10-07 22:21:28,806 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:28:23,743 - WARNING - 问题 '基于《汉书·五行志》和《史记·南越列传》等史料，分析汉文帝二年（公元前178年）发生的‘南越反’事件的实质争议，并论证南海王织在汉初历史中的角色、封地位置及其消亡原因。' 回答超时
+2025-10-07 22:28:23,751 - INFO - 进度: 30/79 (38.0%)
+2025-10-07 22:28:23,751 - INFO - 当前得分: 41/790
+2025-10-07 22:28:24,757 - INFO - 开始处理批次 #7 (问题 31-35)
+2025-10-07 22:28:24,758 - WARNING - 无法读取图片 nan: expected str, bytes or os.PathLike object, not float
+2025-10-07 22:28:24,758 - INFO - 提问 [o4mini_qa.jsonl_31] [考古]: 在商代甲骨文宾组卜辞中，祭祀仪式项目如'燎'、'沉'、'坐'、'暂'等被用于祭祀自然神（如河）与高祖（如祖乙）。结合卜辞实例和学者研究，分析这些仪式内容可能反映的祭祀动机，并阐述学术界对其解释的分歧及争议焦点。
+2025-10-07 22:28:24,759 - WARNING - 无法读取图片 nan: expected str, bytes or os.PathLike object, not float
+2025-10-07 22:28:24,760 - INFO - 提问 [o4mini_qa.jsonl_32] [历史地理学]: 请结合陈直、梁玉绳等学者的研究，分析秦汉时期‘南武侯’封号的属性（地名或尊称），并讨论其封邑位置争议的核心问题及相关学术观点。
+2025-10-07 22:28:24,760 - WARNING - 无法读取图片 nan: expected str, bytes or os.PathLike object, not float
+2025-10-07 22:28:24,760 - INFO - 提问 [o4mini_qa.jsonl_33] [考古]: 在商代日名制研究中，学者们对日名命名依据提出了哪些主要假说？请列举并分析这些假说的核心论点、相互争议点及论证方法。
+2025-10-07 22:28:24,761 - WARNING - 无法读取图片 nan: expected str, bytes or os.PathLike object, not float
+2025-10-07 22:28:24,761 - INFO - 提问 [o4mini_qa.jsonl_34] [考古]: 根据商三戈铭文及相关学术研究，分析学者对其真伪争议的主要观点及其论据，并讨论这一争议对理解商代日名制内在秩序的启示。
+2025-10-07 22:28:24,761 - WARNING - 无法读取图片 nan: expected str, bytes or os.PathLike object, not float
+2025-10-07 22:28:24,761 - INFO - 提问 [o4mini_qa.jsonl_35] [考古]: 结合考古学与文献学证据，分析距今5000年至4000年中原地区民族整合的主要机制，并评述其中涉及的'国'、'邑'、'姓族'等概念解释的学术争议。
+2025-10-07 22:28:57,066 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=3a51aaba-3f6a-460d-be39-619ebfc1a44d response_code=200
+2025-10-07 22:28:57,067 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:29:00,430 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-07 22:29:00,431 - INFO - OpenAI模型回答: 在距今5000～4000年（约新石器晚期向早青铜时代之交）中原地区，考古学与文献学分别从物质文化、遗址分布、器物铭文及后世文献传统中，揭示了多样的民族整合机制；而“国”“邑”“姓族”等概念在现代学界又存在不同的阐释争议。下面分两部分展开：
+
+一、民族整合的主要机制  
+1. 物质文化扩散与圈层交融  
+  - 考古证据：  
+    • 彩陶、黑陶、玉器等装饰风格的同质化（如郑口—崤山文化圈），显示不同聚落在手工业、礼器葺饰上的互渗。  
+    • 冶金技术（铜器）的跨区域传播，尤其自河南洛阳—偃师二里头文化核心向外的扩散，催化了工匠群体与贵族网络的互动。  
+  - 作用机理：贸易交换与祭祀互动场域，使不同部落／氏族在礼俗与符号系统上趋向一致，从而建立了共同的文化认同。
+
+2. 迁徙、通婚与联盟体系  
+  - 考古迹象：  
+    • 埋葬礼制的异质混合（如邗沟—丁村墓葬中既有仰韶风格葬具亦有龙山式短颈壶）。  
+    • DNA、碳同位素分析显示部分个体源自西南或北方，佐证了人群流动。  
+  - 作用机理：  
+    • 族际联姻不仅是巩固地域联盟的手段，也通过“父系＋母系”并行的血缘纽带，加速了氏族结构的重组。  
+    • 战争、联盟及和亲促成了小规模部落向更大聚落组织的整合。
+
+3. 中央集权雏形与宗教-祭祀整合  
+  - 考古证据：  
+    • 二里头至二里冈大型祭坛、宫殿遗址（如偃师二里头遗址11号大型建筑基址）表明，已出现集中调配劳力的政治—宗教中心。  
+    • 器物铭文（甲骨文之前的划刻符号）可能是权力机关对周边部落的征贡、赋役记录。  
+  - 作用机理：基于“天命”“祖先崇拜”建构的“宗教—政治共同体”，以礼制／祭祀为纽带，把若干氏族纳入一个统治中心的名义框架下。
+
+二、“国”“邑”“姓族”等概念的学术争议  
+1. “国”的含义  
+  - 一派（“国”作部落/政体单位）：认为早期文献（《尚书》《礼记》引文）所指“国”，多为母系/父系氏族联盟或以邑落为核心的部落共同体，尚未形成成熟国家。  
+  - 另一派（“国”即区域政权）：以二里头文化为例，主张其已具有原始王权性质，故可谓“国”。  
+  —争议焦点：国家的定义标准（文字、法典、常备军、分工体系）是否适用于青铜时代前期聚落。
+
+2. “邑”的角色  
+  - 考古学视角：邑常被解读为有城墙或辟筑区域的聚落——功能兼具防御和行政特征。  
+  - 文献学视角：后世典籍中“邑”可泛指城邑、封国、部落，含义并不统一。  
+  —争议焦点：青铜时代“邑”究竟是自发形成的城镇、还是上层统治“命名”并以之管理周边部落的行政单位。
+
+3. “姓族”（氏族／血缘群体）概念  
+  - 血缘导向派：强调母系／父系血缘纽带，通过墓葬陪葬品和DNA证据还原氏族谱系。  
+  - 社会构建派：认为所谓“姓”“氏”更多是政治—宗教身份的符号，族群认同由祭祀、共同的图腾、职业分工等社会契约构成。  
+  —争议焦点：早期“姓族”是否真正以血缘为纽带，或仅凭象征性仪式与身份制度维系。
+
+三、小结  
+5000～4000年前的中原地区，正处于新石器向青铜器时代的过渡，文化扩散、人口流动与政治—宗教中心的兴起构成了多元而又重叠的民族整合机制。在此过程中，“国”“邑”“姓族”等概念本身尚处于雏形，其现代学界对它们的理解，很大程度上取决于对考古材料与文献记载的诠释框架：是强调“物质—技术标准”抑或“政治—符号制度”？未来，伴随更多遗址发掘、科技分析手段（如古DNA、锶同位素追踪）与跨学科对话，有望更全面地揭示这段关键时期的社会与政治结构。
+2025-10-07 22:29:12,929 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=f02fe334-97bd-44d3-a555-2a1337e38201 response_code=200
+2025-10-07 22:29:12,930 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:29:12,968 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=b7f28a7a-6402-404e-b1d0-65465887d347 response_code=200
+2025-10-07 22:29:12,969 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:29:14,905 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-07 22:29:14,906 - INFO - OpenAI模型回答: 在商代卜辞中，以“燎”“沉”“坐”“暂”等术语所标示的仪式环节，既涉及对自然神（如河神、山川） 的祈祷与安抚，也贯穿对祖先（如祖乙、祖丁等高祖）的崇奉与宴飨。以下尝试通过典型卜辞例证，剖析这些仪式动机，并梳理学界关于其语义与功能的主要分歧与争论焦点。
+
+一、术语释义与卜辞实例  
+1. “燎”  
+  • 释义：主流观点认为“燎”即以火烧祭品、冒腾烟气，以烟薰、烟熏之形态向神灵传达祭意。  
+  • 实例：合集8662卜辞：“丁未，燎河？”（商王欲通过烟气以安抚泛滥之河神，祈求息灾）  
+
+2. “沉”  
+  • 释义：多指将祭器或祭肉投入水中（“水沉”）或以泥土掩埋之（“地沉”），象征将供物永置于神所或“实质”馈赠。  
+  • 实例：合集23645：“辛亥，沉河鼎。”（将青铜鼎投河，意在厚赐河神、以求来年水利平稳）  
+
+3. “坐”  
+  • 释义：为神或祖先“设坐”，置座位和食器，让神灵“同席”享用；兼有“设坛”“陈牲”之涵义。  
+  • 实例：合集35421：“乙丑，坐祖乙。”（在祖乙神位前设桌设座，陈列肉帛，举行宴飨礼）  
+
+4. “暂”  
+  • 释义：争议最大。目前主要有两种看法：  
+    a) 临时献牲或试牲：以小牲作试供，视其占卜吉凶再定大小祭。  
+    b) 禁食或净戒：意在祭前净身，为正祭做“暂”之准备。  
+  • 实例：合集41230：“壬辰，占，暂羊三。”（试以三羊为祭，视为“试吉”或“净戒”之用）  
+
+二、可能的祭祀动机  
+1. 安抚自然神祇，防灾祈福  
+   “燎”“沉”常见于河、山、水神卜辞，针对水旱、瘟疫、崩山等天灾，意在用烟熏、沉献等方式与自然神沟通、示好或献馈。  
+2. 巩固王权与宗族认同  
+   “坐”祖先礼仪彰显王室血脉延续，通过宴飨祖先强化对王位合法性的神圣背书。  
+3. 试验礼制与占卜关联  
+   “暂”若为试祭，则反映商人对占卜与祭祀规模关系的把握：先“暂”后定大祭，以降低祭祀风险、节约资源。  
+
+三、学术分歧与争议焦点  
+1. 术语语义的本源与演变  
+   • “暂”到底是“试祭”还是“净戒”？王仁湘（1989）主张“试祭说”，陈梦家（1995）则强调净身准备功能。  
+   • “沉”是否仅限于水中祭献？李学勤（2001）提出“地沉”与“水沉”并行的双重概念，质疑早期只关注水神的单一视角。  
+
+2. 自然神与祖先崇拜的界限  
+   • 杨学山（2005）认为，“燎河”“沉山”类辞与“坐祖”同出一系，是同一祭祀体系在不同对象上的延伸。  
+   • 反对者（如阎肃、王巍）则强调两者动机与制度源自不同渊源——自然神祭属原始巫术范畴，祖先祭则是宗法政治的体现。  
+
+3. 占卜语境下的礼制功能  
+   • 有学者（Keightley, 1978）提出，卜辞中礼制术语既是占卜记录，也是仪式程序的提要，二者难以割裂。  
+   • 另有声音（张勇，2010）批评此观点过于泛化，指出应区分祭祀实践与占辞文字的语篇功能。  
+
+四、小结  
+“燎”“沉”“坐”“暂”四术语，既是商代上层社会借助占卜文书规范祭祀程序的核心环节，也折射出对自然神力的敬畏与对祖先权威的缅怀。学界争议主要集中在术语本义、自然神与祖先祭礼关系，以及祭与卜的功能划分上。未来的研究，或可通过更系统的语料量化与跨学科考古资料，厘清这些礼制术语在商代社会中的演变轨迹及其实践逻辑。
+2025-10-07 22:29:30,351 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=1a00a7fd-0062-4460-a690-63d663de3f86 response_code=200
+2025-10-07 22:29:30,352 - INFO - 评分结果: 要点命中：民族整合机制，物质文化扩散，迁徙通婚，中央集权雏形，宗教祭祀整合，国、邑、姓族的学术争议，考古与文献证据。
+失分点：忽略了暴力战争的整合机制，'国'与'族'通及姓族血缘标志未深入结合学术观点，未具体分析界定核心问题，如血缘部落向地缘政治体转变。
+维度评分：内容完整性=8；逻辑性=7；准确性=7；表达=8
+评分：8分
+2025-10-07 22:29:30,354 - INFO - 回答基本正确
+2025-10-07 22:29:47,263 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=9a11e85c-805b-4ec2-80f5-59964469d4ac response_code=200
+2025-10-07 22:29:47,263 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:29:54,771 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-07 22:29:54,889 - INFO - OpenAI模型回答: 学界对商代「日名制」（即甲、乙、丙……等日名）命名依据，主要提出了以下几大假说。下表按假说名称、核心论点、代表学者、论证方法、主要争议点分类概述，并在下文逐一评析。
+
+1. 木星度宿说  
+   • 核心论点：商人观测“岁星”（即木星）沿黄道逆行，划分十段，对应甲、乙、丙…戊等日名。  
+   • 代表学者：阎长贵、郭沫若（早期）  
+   • 论证方法：  
+     – 以《甲骨卜辞》中连日卜辞序列，对应天文模拟程序重建公元前二千年左右木星视运动轨迹；  
+     – 比较日名与木星每隔约36.6天（即十旬）会合或冲宿的日期。  
+   • 争议点：  
+     – 木星在“旬”循环中并非精确10天一个周期，实际周期约36.6天；  
+     – 甲骨卜辞中大多以“十日一旬”的观念记日，且并无明确指称木星。  
+
+2. 二十八宿说  
+   • 核心论点：商人以二十八宿中的十个重要宿次顺序命日（如毕、奎、参…），即“以宿命日”。  
+   • 代表学者：于省吾、陈梦家  
+   • 论证方法：  
+     – 将商代卜辞中甲、乙、丙……与出土卜辞所画星位图比对；  
+     – 考察〈羲和〉等战国天文文献，推测商人识宿水平。  
+   • 争议点：  
+     – 商代星图残缺，难以对应后世二十八宿名称；  
+     – 甲骨文字形与后世宿名文字不一致，能否互证有疑。  
+
+3. “旬”＋节令说  
+   • 核心论点：商代以旬（十日）为纪日最小单位，甲、乙……戊对应上旬、丙、丁……己对应中旬、庚、辛……癸对应下旬；日名仅为序号，无天文指涉。  
+   • 代表学者：王仁湘、王先圣  
+   • 论证方法：  
+     – 从卜辞中十日为一组周期性出现的统计规律出发；  
+     – 对比西周金文、秦简，考察“旬”制度的演变。  
+   • 争议点：  
+     – 商代是否已有周代“旬”“朔”“望”分旬的概念尚不明朗；  
+     – 为什么只用十个名称而不直接用数字（一至十）？  
+
+4. 五行＋天干原型说  
+   • 核心论点：甲、乙、丙……最初源自五行（木、火、土、金、水）与阴阳、四象的组合，一步演化为后世天干。  
+   • 代表学者：郭勇、李学勤  
+   • 论证方法：  
+     – 以卜辞中对雨、风、日食等气象灾异的记载，推测命名与五行气数有关；  
+     – 综合卜辞与商周青铜器铭文，追溯五行术数的生成。  
+   • 争议点：  
+     – 商代尚未见成体系的五行文献，其“木火土金水”（只有五）如何分成十日名？  
+     – 阴阳、四象与五行的嫁接是否发生在西周以后？  
+
+———  
+
+详细分析与对比  
+
+1. 方法论之别  
+   a. 以天文模拟（木星、星宿）为主的研究，侧重定量重建，却常受卜辞残缺、计时精度不高的制约。  
+   b. 以制度演变（旬制、节令、五行）为主的研究，强调制度逻辑与后世传统的连贯，却欠缺商代文献对该制度的直接记载。  
+
+2. 核心争议  
+   – 商代“十日一旬”概念是否已成型？卜辞里十日为周期很明显，但它是天然取自天文、还是人为约定？  
+   – 日名与具体天象（木星、二十八宿）的关联是否超出“命名逻辑”的范畴？  
+   – 后世天干体系的起源何时定型？商代日名到底是“原始天干”还是与天体观测实务脱钩的序号？  
+
+3. 论证方法对比  
+   – 天文考证：利用现代天文软件回推商代天象，优势在于可量化；劣势在于前提假设多且敏感。  
+   – 文献比对：卜辞、金文、秦简乃至《逸周书》、战国文献并举，优势在于横向对照；劣势是文献体系跨时差异大。  
+   – 统计计量：针对甲骨中日名出现频次、组合规律做统计分析，可客观发现规律，但解释力依赖于命名动机假设。  
+
+结论：  
+目前尚无定论。综合来说，最有说服力的研究往往是“多学科交叉”：以卜辞统计为基础，辅以金文考证和现代天文模拟，既承认商代人以旬（十日）为基本周期，也不排除他们在卜辞中对天象（如木星度宿）的实务观测。但走向——无论是强调“天文源头”还是“制度约定”——都需更多出土材料与定量分析来支撑。
+2025-10-07 22:30:08,533 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=853bb7fb-a3d1-402d-89b5-3c563609690d response_code=200
+2025-10-07 22:30:08,534 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:30:23,175 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=f8c30e04-dd5b-47a1-bf86-731a270aa486 response_code=200
+2025-10-07 22:30:23,177 - INFO - 评分结果: 要点命中：考生很好地覆盖了“燎”“沉”“坐”“暂”等仪式术语的释义及其可能的祭祀动机，并通过实例论证了这些项目与自然神、高祖祭祀之间的关联。此外，还引用了学术观点对各术语功能及语义争议进行了较为细致的阐述，较全面地涵盖了“祭祀动机”“学术分歧”“争议焦点”这三个核心问题。
+
+失分点：尽管对术语释义和祭祀动机有较详尽分析，但部分推论如“暂”之试祭意义仅停留在解释层面，未进一步剖析其社会逻辑；同时，关于“坐”“暂”在礼制中的占卜角色讨论略显单薄，对文献中的矛盾观点未充分分析其来源与影响。此外，对学术观点的引用多而未详，个别地方缺乏深入的证据支持，显得稍有堆砌之嫌。
+
+维度评分：内容完整性=8.5；逻辑性=7.5；准确性=8.5；表达=8.5  
+评分：8分  
+2025-10-07 22:30:23,177 - INFO - 回答基本正确
+2025-10-07 22:30:25,295 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=27346398-6c27-44d2-86bc-f65006b96b32 response_code=200
+2025-10-07 22:30:25,296 - INFO - 评分结果: 要点命中：考生答案中涉及木星度宿说、二十八宿说、“旬”＋节令说、五行＋天干原型说等主要假说，涵盖了日名制关联的核心概念、代表学者以及各自的争议点和论证方法。答案详细分析了商代日名制争议的各个学说及其比较。
+
+失分点：部分假说的代表学者未尽全列，部分论证方法和争议点没有详尽展开，考生答案中关于实际史料的应用讨论不够丰富，如未提到具体史料如何支持或削弱某些假说。此外，未将个别假说如"生日说"与"死日说"纳入答案中起相应对比。
+
+维度评分：内容完整性=7.5；逻辑性=8.0；准确性=7.0；表达=8.5
+
+评分：8分
+2025-10-07 22:30:25,296 - INFO - 回答基本正确
+2025-10-07 22:30:29,708 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=3ec4a861-e62a-43bc-be7f-e8e92d359187 response_code=200
+2025-10-07 22:30:29,709 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:30:48,008 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=bfda696c-2a1a-48f2-8f3f-84664c5fab2f response_code=200
+2025-10-07 22:30:48,009 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:31:04,416 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=916fe5b9-0bdc-44c1-ae01-cca4ac1f740b response_code=200
+2025-10-07 22:31:04,417 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:31:34,756 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=8ec06c46-076c-4501-a589-af63a4632cd8 response_code=200
+2025-10-07 22:31:34,757 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:31:58,430 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=ae951371-3c1f-468d-b531-ab6e7b36e1ef response_code=200
+2025-10-07 22:31:58,430 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:32:18,896 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=500
+2025-10-07 22:32:18,898 - INFO - error_code=do_request_failed error_message='upstream error: do request failed (request id: 20251007223152589136816T94tNyyv)' error_param= error_type=new_api_error message='OpenAI API error received' stream_error=False
+2025-10-07 22:32:18,898 - ERROR - 回答问题时出错: upstream error: do request failed (request id: 20251007223152589136816T94tNyyv) {"error":{"message":"upstream error: do request failed (request id: 20251007223152589136816T94tNyyv)","type":"new_api_error","param":"","code":"do_request_failed"}} 500 {'error': {'message': 'upstream error: do request failed (request id: 20251007223152589136816T94tNyyv)', 'type': 'new_api_error', 'param': '', 'code': 'do_request_failed'}} <CIMultiDictProxy('Server': 'openresty', 'Date': 'Tue, 07 Oct 2025 14:32:09 GMT', 'Content-Type': 'application/json; charset=utf-8', 'Content-Length': '164', 'Connection': 'keep-alive', 'X-Oneapi-Request-Id': '20251007223152589136816T94tNyyv', 'X-Content-Type-Options': 'nosniff', 'X-Frame-Options': 'SAMEORIGIN', 'Cache-Control': 'no-store', 'Pragma': 'no-cache', 'Expires': '0', 'Strict-Transport-Security': 'max-age=31536000')>
+2025-10-07 22:32:18,904 - INFO - 进度: 35/79 (44.3%)
+2025-10-07 22:32:18,904 - INFO - 当前得分: 65/790
+2025-10-07 22:32:19,912 - INFO - 开始处理批次 #8 (问题 36-40)
+2025-10-07 22:32:19,913 - WARNING - 无法读取图片 nan: expected str, bytes or os.PathLike object, not float
+2025-10-07 22:32:19,913 - INFO - 提问 [o4mini_qa.jsonl_36] [考古]: 根据《秦简·法律答问》和《汉简·二年律令》的记载，分析'系城旦舂'刑罚的性质及其在秦汉刑罚体系中的作用，特别是针对隶臣妾等累犯的处理方式，并解释其与完城旦舂的区别。
+2025-10-07 22:32:19,914 - WARNING - 无法读取图片 nan: expected str, bytes or os.PathLike object, not float
+2025-10-07 22:32:19,914 - INFO - 提问 [o4mini_qa.jsonl_37] [汉语言文字学]: 请基于《噫嘻》《召卣》等西周文献和青铜器铭文，分析西周时期‘里’字作为长度单位的含义及其大小争议，并对比吕文郁与顾实的学术观点。
+2025-10-07 22:32:19,914 - WARNING - 无法读取图片 nan: expected str, bytes or os.PathLike object, not float
+2025-10-07 22:32:19,914 - INFO - 提问 [o4mini_qa.jsonl_38] [考古]: 基于睡虎地秦墓竹简和张家山汉墓竹简《二年律令》的考古发现，分析为何学者质疑萧何'作律九章'的真实性，并比较《汉书·刑法志》、《晋书·刑法志》和《唐律疏议》中对萧何作律依据的分歧观点。
+2025-10-07 22:32:19,914 - WARNING - 无法读取图片 nan: expected str, bytes or os.PathLike object, not float
+2025-10-07 22:32:19,916 - INFO - 提问 [o4mini_qa.jsonl_39] [考古]: 请结合《尹湾汉简》中的名谒使用实例和邵弘对‘名不如字’的解释，分析邵弘的观点与《谷梁传》庄公十四年记载的分歧，并阐述这一分歧如何反映秦汉至唐代‘名字’制度在理解上的演变及其学术争议。
+2025-10-07 22:32:19,916 - WARNING - 无法读取图片 nan: expected str, bytes or os.PathLike object, not float
+2025-10-07 22:32:19,916 - INFO - 提问 [o4mini_qa.jsonl_40] [中国古代史]: 基于《东海宫司空盘》铭文、《张家山汉墓竹简》等出土史料和《汉书》、《后汉书》等传世文献，论述秦汉时期'宫司空'机构的主要职能及其历史演变，并分析在'将作大匠'官职名称演变问题上的学术争议。
+2025-10-07 22:32:53,902 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=90f6aff1-8473-44e1-919b-2dbf2c2f5bb4 response_code=200
+2025-10-07 22:32:53,903 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:33:12,369 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=1cd5a8af-e175-4ae7-a60c-09017e91d9fe response_code=200
+2025-10-07 22:33:12,370 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:33:14,391 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=93754278-5137-4797-8d80-13f44c29cdb4 response_code=200
+2025-10-07 22:33:14,392 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:33:14,418 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=bab428ea-328e-4e7a-800d-86bde29f1de7 response_code=200
+2025-10-07 22:33:14,418 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:33:16,260 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=a3bbf6a7-d084-4411-aa2c-0011c129f610 response_code=200
+2025-10-07 22:33:16,261 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:33:43,998 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=5e95abda-fb47-48c0-b4d6-98dc81559b92 response_code=200
+2025-10-07 22:33:43,999 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:33:45,621 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=19ab3b31-0521-4027-a824-0675f5a6988d response_code=200
+2025-10-07 22:33:45,622 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:33:47,657 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=97ed1e0e-331a-4200-81cf-f3dd97e82163 response_code=200
+2025-10-07 22:33:47,658 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:34:01,086 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=c5daa29c-2c64-98d4-9095-6313af95f3be response_code=200
+2025-10-07 22:34:01,087 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:34:22,489 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=f9e4b37d-c27e-445b-a621-b079a87ede5c response_code=200
+2025-10-07 22:34:22,490 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:34:31,628 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=9d652d3d-d4ee-4353-85f1-a28ac27169a9 response_code=200
+2025-10-07 22:34:31,629 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:34:31,680 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=463c3346-e955-416b-8836-ea930350fb9d response_code=200
+2025-10-07 22:34:31,681 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:34:31,727 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=36aa75ac-2327-4ad0-bd67-8c78efd6980a response_code=200
+2025-10-07 22:34:31,728 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:34:46,997 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=c95e3e43-e07d-4109-a06b-c46641c4a036 response_code=200
+2025-10-07 22:34:46,998 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:34:56,789 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=46628c41-df88-4318-82bd-477c2b09b5b9 response_code=200
+2025-10-07 22:34:56,850 - INFO - OpenAI模型回答: 秦汉时期的“宫司空”源自秦代的宫廷营建与土木管理职能，其根本任务是在皇宫及相关苑囿的建筑营造、维修保养以及相关水利、道路等土木工程事务上起组织协调作用。结合《东海宫司空盘》铭文和张家山简等出土史料，以及《汉书》《后汉书》的记载，可以对其职能与演变做如下论述。
+
+一、职能定位与具体职责  
+《东海宫司空盘》铭文明确记载了“宫司空”所领事务多涉及宫室修葺、长干渠浚疏以及相关器械器具的铸造修补。铭文中的“浚宫枢渠，使溉苑邑”表明，宫司空不仅负责宫廷内部的土木水利工程，还兼顾皇城外苑的给排水和园林灌溉。与此对应，张家山汉墓竹简里出现的“司空部”文书，进一步佐证了汉初中央账册中，司空部门掌管工程人力差遣、木材石料采购、舟车器具制造和运输调度。由此可见，宫司空在实务层面既是皇宫营造的总指挥机关，也是国家工程实施的具体操作部门，其下属往往设置营、郢、仓、工诸科，分工精细。
+
+二、机构隶属与权力架构  
+就中央官制而言，汉代三公之一的司空在名义上对全国土木工程拥有总督地位，但宫司空实属中常侍主持的宫廷衙署体系，与司徒、司马等其他宫廷机构平行，接受尚书台与光禄勋的双重监督。这一安排体现了汉初统治者对宫廷工务的严格掌控：一方面由司空专责工程；另一方面又设中常侍与尚书台予以制衡。相比之下，民间与地方的水利、道路工程，则更多落在郡国和九卿下属的度支、都水、郡守等机构之中，宫司空并不直接干预。
+
+三、历史演变脉络  
+自秦代设立“宫司空”为工程官职以来，至西汉中前期，宫司空地位稳固，其名称和职能基本承袭秦制。《汉书·百官公卿表》将“宫司空”列入诸司之后，明确记载其官阶为从二千石。东汉时期，随着宦官势力兴盛及中常侍体系的扩张，宫司空与将作大匠等工程官署的区别愈加模糊。部分史料出现“将作宫司空”的混合称谓，反映出机构职能重叠与权力分配的调整。至光武中兴后，为配合洛阳都城重建与宫城扩建，中央进一步整合宫廷工务，以将作大匠为主官，宫司空则侧重于工程实施与后勤供应，标志着两职的职能分流与名称演变。
+
+四、“将作大匠”名称演变的学术争议  
+学界对于“将作大匠”与“宫司空”究竟是两套并行机构、还是同一职能机构的不同名称，存在明显分歧。一派学者（如陈志珍）认为，汉初“将作”一职多见于《周礼》《仪礼》等先秦典籍，汉承之，以“将作大匠”为宫廷营造总监；而“宫司空”则为其下属或配属名目，两者职权有别，实为上下级关系。另一派学者（如李学勤、郭廷以）则据《东海宫司空盘》与张家山简中“司空主掌营构，将作兼掌官署”之类条目，主张两者在西汉前期即已合流，只是在东汉由于宦官干预与机构重组，才出现名称替换与职能再划分的现象。近年来，通过对简牍文献与碑刻材料的逐点比对，更多学者倾向于认为：一，西汉中前期“宫司空”与“将作大匠”虽分别出现于不同文献系统，却在实际操作中互为补充；二，东汉中晚期二者结构与称谓确有合并与分割的双向演变，因而单纯以传世文献名目作硬性对照，未能充分呈现其复杂的历史过程。
+
+综上，秦汉时期“宫司空”主要承担宫廷及其外苑的土木营造、水利灌溉与器械制造等职能；在官制上受司空总督名义约束，又受中常侍与尚书台双重制衡；名称与职能自西汉延续至东汉，经历了由相对独立到与将作大匠互为补充、再至后期分工重组的复杂演变。在“将作大匠”问题上，围绕两职是否在汉代早期就已合署，或仅因东汉宦官干预而后期合流，学术界尚未形成统一定论，但总体趋向于强调对出土文字与传世文献的系统比对，以全面把握其历史演变脉络。
+2025-10-07 22:35:05,116 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=3bf7cd0a-6889-4eac-8520-779ac67d3637 response_code=200
+2025-10-07 22:35:05,116 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:35:05,430 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=7cc70db5-f064-494e-8428-feb60f529c77 response_code=200
+2025-10-07 22:35:05,701 - INFO - 评分结果: 要点命中：答案准确提到秦汉时期“宫司空”的基本职能，如土木工程、铸造修补和水利工程等。同时提到机构的隶属关系及历史演变过程，详细分析了学界对“将作大匠”官职名称演变的争议，并引用具体史料对其论点进行支持。
+
+失分点：答案未提及“宫司空”机构在治狱及刑徒使用方面的职能。此外，仅从建筑和工程角度分析，忽略了“宫司空”职能的多元性及其与周代“司空”的区别。对于“将作大匠”具体名称演变的例证及对比史料展现不足。
+
+维度评分：内容完整性=7；逻辑性=8；准确性=7；表达=9
+
+评分：8分
+2025-10-07 22:35:05,702 - INFO - 回答基本正确
+2025-10-07 22:35:13,178 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=af8a7e56-e902-489c-9c41-89bb63bbdd8e response_code=200
+2025-10-07 22:35:13,179 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:35:18,901 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=6f27577b-da4d-4889-b63e-776dad067332 response_code=200
+2025-10-07 22:35:18,902 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:35:24,076 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=9dff3d4e-8bec-4377-8657-f80a005e6785 response_code=200
+2025-10-07 22:35:24,078 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:35:34,644 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=e2e5a213-fc22-9fd7-a1fc-b5d213ca2e99 response_code=200
+2025-10-07 22:35:34,645 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:35:37,447 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=15dfd475-edd6-4742-851f-2edf78be0fad response_code=200
+2025-10-07 22:35:37,447 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:36:05,678 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=3be80914-b249-4754-8bab-26493354385e response_code=200
+2025-10-07 22:36:05,680 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:36:08,811 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=536cf6e0-d9b5-9f7b-ba10-b97182b47c5b response_code=200
+2025-10-07 22:36:08,811 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:36:09,065 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=3f657949-3948-49e3-aa7c-fd909a56c1cc response_code=200
+2025-10-07 22:36:09,066 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:36:09,072 - INFO - 进度: 40/79 (50.6%)
+2025-10-07 22:36:09,072 - INFO - 当前得分: 73/790
+2025-10-07 22:36:10,081 - INFO - 开始处理批次 #9 (问题 41-45)
+2025-10-07 22:36:10,083 - WARNING - 无法读取图片 nan: expected str, bytes or os.PathLike object, not float
+2025-10-07 22:36:10,083 - INFO - 提问 [o4mini_qa.jsonl_41] [考古]: 在春秋时期晋国的侯马出土'载书'中，'委质类'文书涉及'质'字的解释存在哪些主要学术争议？请结合相关学者观点，分析其分歧依据及对理解'策名委质'制度的影响。
+2025-10-07 22:36:10,083 - WARNING - 无法读取图片 nan: expected str, bytes or os.PathLike object, not float
+2025-10-07 22:36:10,084 - INFO - 提问 [o4mini_qa.jsonl_42] [中国古代史]: 基于西安附近秦汉遗址出土的'都司空'、'左司空'、'右司空'铭文及《汉书·伍被传》等文献，分析秦和西汉时期'左右司空'与'都司空'的机构隶属关系和职能争议，并评述徐世虹对晋灼观点的批判依据。
+2025-10-07 22:36:10,084 - WARNING - 无法读取图片 nan: expected str, bytes or os.PathLike object, not float
+2025-10-07 22:36:10,084 - INFO - 提问 [o4mini_qa.jsonl_43] [中国古代史]: 西汉后期至新莽时期'徒丞'官职的性质是什么？学术界对此存在哪些主要争议？请结合赵平安、罗福颐和任常中等学者的观点进行辩证讨论。
+2025-10-07 22:36:10,085 - WARNING - 无法读取图片 nan: expected str, bytes or os.PathLike object, not float
+2025-10-07 22:36:10,085 - INFO - 提问 [o4mini_qa.jsonl_44] [中国古代史]: 结合汉代法律制度和社会背景，分析两汉时期‘司空’机构逐步撤除的主要原因及其历史过程。
+2025-10-07 22:36:10,085 - WARNING - 无法读取图片 nan: expected str, bytes or os.PathLike object, not float
+2025-10-07 22:36:10,086 - INFO - 提问 [o4mini_qa.jsonl_45] [历史地理学]: 请基于王恢《汉王国与侯国之演变》及相关史料，分析《汉书·地理志》后序中‘侯国二百四十一’这一统计数字的形成时代，并解释其与《汉志》所录县邑名目来源的矛盾，同时讨论《集簿》在此过程中的作用。
+2025-10-07 22:36:40,143 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=6f334e5c-04f7-4fac-8cc8-988de934626a response_code=200
+2025-10-07 22:36:40,143 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:36:40,488 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=e1295d63-0bde-401e-af8e-f92ff38502e4 response_code=200
+2025-10-07 22:36:40,488 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:36:46,623 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=569e576e-8d1a-41ae-8fb2-4cba0d908303 response_code=200
+2025-10-07 22:36:46,624 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:36:54,329 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=831ed381-82bb-4817-b554-f41c18ce85bf response_code=200
+2025-10-07 22:36:54,330 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:37:00,647 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=35b0ba2a-ee03-4136-8c8c-0c9d20cd27d6 response_code=200
+2025-10-07 22:37:00,649 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:37:12,903 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=af9bce7e-bb22-4505-bd6f-91328180bb53 response_code=200
+2025-10-07 22:37:12,904 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:37:18,507 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=9e82c60a-847f-453e-8770-dbcdc664134a response_code=200
+2025-10-07 22:37:18,508 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:37:27,042 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=365fda6e-dd54-4bee-b142-ac63d8bb50be response_code=200
+2025-10-07 22:37:27,045 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:37:31,233 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=4aacf897-8245-4997-90e2-463de8a65d45 response_code=200
+2025-10-07 22:37:31,234 - INFO - OpenAI模型回答: 在侯马晋侯墓葬群出土的“载书”中，“委质类”文书中反复出现的“质”字，历来学界争论不休。总体来看，围绕“质”字究竟指向何物，主要可归纳为“人质说”“物质说”“凭证说”三大思路；而不同立场的学者，往往依托对文本语境、金文与先秦文献
+2025-10-07 22:37:33,556 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=12b7d2e2-82b4-4889-b12f-348062d86972 response_code=200
+2025-10-07 22:37:33,556 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:37:53,596 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=e8fe89f1-8dac-4d45-a82c-b9f59e73a882 response_code=200
+2025-10-07 22:37:53,597 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:38:10,407 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=128cb4eb-84a0-42ac-aa6e-424274ad141f response_code=200
+2025-10-07 22:38:10,408 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:38:44,730 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=e1f41b98-396b-45a8-afd7-86c4af054194 response_code=200
+2025-10-07 22:38:44,732 - INFO - 评分结果: 要点命中：考生答案提到“委质类”文书中的“质”字争议，列出“人质说”“物质说”“凭证说”三种解读路径，触及文本语境、金文、先秦文献等分析。
+失分点：未具体说明字形与文化背景对比如何影响解读；忽略提到具体学者如唐兰与晁福林的观点和他们的字形或文献分析的具体内容；没有分析这些争议对“策名委质”制度的影响。
+维度评分：内容完整性=5；逻辑性=4；准确性=6；表达=6
+评分：5分
+2025-10-07 22:38:44,732 - INFO - 回答不正确，期望: 核心争议在于'质'字的含义解读，其分歧依据涉及字形分析、文献校对和文化背景对比，对理解'策名委质'制度中君臣关系的本质有直接影响。界定核心问题：侯马'委质类'载书中的'质'字是否应释为'誓'或指代臣服者的'本质'，这关系到制度是强调誓言契约还是本质献出。列举相关学术观点：第一，唐兰与高明主张释为'誓'，强调其作为盟誓文书的性质；第二，晁福林等学者认为'质'体现臣服者的本质，与'名'结合表示持久的隶属关系。多维论证：通过字形分析（唐兰，1972），'质'在甲骨文和金文中与'誓'字形相似，支持誓言说；通过文献校对（晁福林，2003），《礼记·檀弓》孔颖达正义指出'名以名质'，人名为其本质的体现，且墨子'书之竹帛'强调书写保存记忆，支持本质说；考古对比，侯马载书'自质于君所'句需结合西周册命礼简化背景（陈汉平，西周册命制度），后者突出'策名'的持久性。学说比较：释为'誓'侧重临时契约性，但忽略制度长期性；释为'质'强调本质献出，更贴合'策名'确立世代隶属关系（如《国语·晋语八》辛俞案例），但缺乏直接字形证据。阶段性结论：当前学界多倾向晁福林观点，因本质说更符合'策名委质'作为持久君臣关系机制的文化逻辑，但争议反映古文字释读的跨学科挑战。文献依据：《侯马出土晋国赵嘉之盟载书新释》（《文物》1972年第8期，唐兰，第35页）指出'质'字当释'誓'；《先秦社会形态研究》（北京师范大学出版社，2003年，晁福林，第595页）论证'质'体现臣服本质。逻辑依据：通过字形分析（唐兰，1972）推定'质'为'誓'；通过文献校对（晁福林，2003）结合《礼记·檀弓》版本（中华书局点校本）推论'质'为本质。
+2025-10-07 22:38:48,392 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=ff7268de-9c4f-41e8-a2d6-2fa3c00070d7 response_code=200
+2025-10-07 22:38:48,393 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:38:56,946 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=0c20796f-5173-476e-87ea-4ad1e6afdb86 response_code=200
+2025-10-07 22:38:56,948 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:39:05,476 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=65cf30fd-ad91-4f57-b88e-cc6dde8dc04d response_code=200
+2025-10-07 22:39:05,477 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:39:38,787 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=6d29788b-3b50-4278-9822-849f543ce23d response_code=200
+2025-10-07 22:39:38,788 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:39:42,169 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=4a39fb7e-43ee-4139-b55d-bc3860b52d79 response_code=200
+2025-10-07 22:39:42,169 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:39:57,540 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=767fa08a-06bc-4152-93ac-2f85c2fcfdbb response_code=200
+2025-10-07 22:39:57,540 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:39:57,563 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=3d3bfd32-17dd-498f-8809-26357b2be29b response_code=200
+2025-10-07 22:39:57,564 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:40:25,214 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=0e9dbc2c-558f-427e-a583-246c0d0e239a response_code=200
+2025-10-07 22:40:25,215 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:40:50,791 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=7711433c-61d1-9a5d-9189-587c5ee3b6f1 response_code=200
+2025-10-07 22:40:50,791 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:41:40,490 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=6f697bbc-7642-4831-8863-4333d3a46bc4 response_code=200
+2025-10-07 22:41:40,491 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:41:40,496 - INFO - 进度: 45/79 (57.0%)
+2025-10-07 22:41:40,496 - INFO - 当前得分: 78/790
+2025-10-07 22:41:41,507 - INFO - 开始处理批次 #10 (问题 46-50)
+2025-10-07 22:41:41,509 - WARNING - 无法读取图片 nan: expected str, bytes or os.PathLike object, not float
+2025-10-07 22:41:41,509 - INFO - 提问 [o4mini_qa.jsonl_46] [考古]: 根据张家山汉简《传食律》和《行书律》的出土证据，以及高恒在《汉律篇名新笺》中的观点，阐述汉《厩律》的蓝本构成，并分析这一发现对理解汉律九章体系中二级律篇分类的意义。
+2025-10-07 22:41:41,510 - WARNING - 无法读取图片 nan: expected str, bytes or os.PathLike object, not float
+2025-10-07 22:41:41,510 - INFO - 提问 [o4mini_qa.jsonl_47] [历史地理学]: 根据西汉《汉书·地理志》研究，分析‘道’目数量的历史变动及其学术争议焦点，并评述齐召南、黄以周等学者在研究中的疏误。
+2025-10-07 22:41:41,510 - WARNING - 无法读取图片 nan: expected str, bytes or os.PathLike object, not float
+2025-10-07 22:41:41,510 - INFO - 提问 [o4mini_qa.jsonl_48] [考古]: 基于睡虎地秦简的研究，分析《封诊式》和《法律答问》相较《秦律十八种》等文书在针对秦律律篇范围上的差异，并评述大庭惰关于萧何整理汉律三篇（兴、厩、户）的观点及作者的不同意见。
+2025-10-07 22:41:41,511 - WARNING - 无法读取图片 nan: expected str, bytes or os.PathLike object, not float
+2025-10-07 22:41:41,511 - INFO - 提问 [o4mini_qa.jsonl_49] [考古]: 根据崔在容《西汉京畿制度的特征》及相关研究，分析西汉政府在‘准京畿’区域（包括弘农郡与三河地区）和淮河以南地区侯国分封政策的主要特征、学术争议及产生原因。
+2025-10-07 22:41:41,511 - WARNING - 无法读取图片 nan: expected str, bytes or os.PathLike object, not float
+2025-10-07 22:41:41,511 - INFO - 提问 [o4mini_qa.jsonl_50] [考古]: 根据《晋书·刑法志》及相关学术研究，分析汉代法律体系中'旁章'的具体含义及其与萧何'九章律'的关系，并讨论涉及的主要学术争议点。
+2025-10-07 22:42:06,227 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=fb8edd0a-5f78-4ea2-ad52-3b00ba702e99 response_code=200
+2025-10-07 22:42:06,228 - INFO - OpenAI模型回答: 一、从张家山汉简到“厩律”蓝本的构成
+
+1. 张家山出土《传食律》《行书律》文书的性质与内容  
+   – 《传食律》主要规 制官驿或都尉军府向马、驴等军用牲畜按期按量输送草饲、麦秣的标准、程序与违例处罚；  
+   – 《行书律》则针对车马出入、借交、行书（通行文牒）签发与回缴、失却或伪造行书的法律责任作出规定。  
+
+2. 高恒“蓝本说”要点（见《汉律篇名新笺》）  
+   – 他认为，《厩律》并非自始至终仅有一部“厩律”正卷，而是由多种狭义法律文书（如《传食》《行书》）合卷而成；  
+   – 这些文书在最初各自独立立法，后因均牵涉军用马匹的饲养、出行管理，遂被汇编归入一个“厩律”总章；  
+   – 因此，“厩律”的蓝本本质上是以“传食”“行书”为代表的二级律篇合集，每一律篇保留最初文书的名称与体例。  
+
+二、对汉九章体系中二级律篇分类的意义
+
+1. 揭示“九章律”内部结构的多元构成  
+   – 汉代“九章律”各章（如牲律、卒律、厩律等）并非单一条文的整体，而是由若干关于具体事务的“二级律篇”汇编而成；  
+   – 每一二级律篇在成书之初往往独立存续，名称取其所治事由，譬如“传食”“行书”“市法”“廨法”等，后期再按亩田、货币、徭役或军马等大类分章合卷。  
+
+2. 还原汉律命名与编纂原则  
+   – 《九章律》各章名称并非凭空命题，而是对已成型、沿用已久的事务性法规类别的概括；  
+   – 二级律篇名称的保留，说明汉代律例在汇编过程中更多采取“摭拾既成”而非一律重编的新制方式。  
+
+3. 为后续律法史研究提供实物依据  
+   – 张家山简牍直接佐证了高恒“蓝本说”的实在性，使学界不再仅以传世文献条目推断律篇构成；  
+   – 有助于厘清汉律本文演变脉络，进一步考察汉魏之际律令体系如何从“九章＋二级律篇”向后世律令体例过渡。
+2025-10-07 22:42:09,584 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=62734d38-1552-45c0-8cd6-2550c42fb771 response_code=200
+2025-10-07 22:42:09,585 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:42:17,401 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=5a628243-462b-4347-b414-70741c02d26b response_code=200
+2025-10-07 22:42:17,402 - INFO - OpenAI模型回答: 西汉帝国在“准京畿”区域（主要指三河、弘农一带）和淮河以南地区对诸侯国的分封，既体现了其因地制宜的地方治理策略，也折射出中央在权力制衡、军事防务与经济调度之间的微妙平衡。下面从主要特征、学术争议与政策产生原因三方面加以梳理。
+
+一、主要特征
+
+（一）“准京畿”区域侯国分封的特征  
+1. 地理与战略地位特殊  
+  • 三河（今河北正定、栾城一带）与弘农（今陕西凤翔附近）紧邻咸阳、长安—洛阳三都，素有秦代“三川制”传统。置诸侯于此，一方面方便京师漕运、沟通关中、关外，另一方面便于直接调度、监控诸侯。  
+2. 诸侯王权力的实质削弱  
+  • 尽管名义上分得井田土地、享受“王田”“公田”租
+2025-10-07 22:42:18,362 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=5915894e-ea34-4444-8242-94579d5c9af2 response_code=200
+2025-10-07 22:42:18,363 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:42:33,394 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=9bb06ee6-5fe2-4e9c-b4ab-dd381f7766a8 response_code=200
+2025-10-07 22:42:33,395 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:42:39,065 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=f189e3c2-c96c-4889-a263-9d4ed402b0fc response_code=200
+2025-10-07 22:42:39,066 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:42:40,628 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=c1d66f3f-5823-48cd-aad7-fbf101718063 response_code=200
+2025-10-07 22:42:40,629 - INFO - 评分结果: 要点命中：考生提到西汉帝国在“准京畿”区域和淮河以南地区的诸侯国分封，关注到分封政策与地理、战略位置之间的关系，涉及中央权力制衡、军事防务和经济调度的因素。
+
+失分点：考生未能准确捕捉到西汉在‘准京畿’区域和淮河以南地区基本不分封侯国这一核心特征，也未提及崔在容研究方法和学术争议的细节。忽略了具体的文献校对争议、考古证据以及地望考证的挑战。
+
+维度评分：内容完整性=5；逻辑性=6；准确性=5；表达=7
+
+评分：6分
+2025-10-07 22:42:40,629 - INFO - 回答不正确，期望: 西汉政府在‘准京畿’区域和淮河以南地区实施的侯国分封政策呈现出严格限制的特征，但崔在容的研究方法存在争议。核心问题界定为西汉侯国分封的区域性政策限制。列举相关学术观点：崔在容在《西汉京畿制度的特征》（《历史研究》，1996年第4期）中指出，除极个别情况外，西汉基本不在京畿和‘准京畿’（包括弘农郡与三河）封置列侯，并强调淮河以南地区因自然条件恶劣不分封侯国；但片段作者质疑崔在容的研究方法，认为其依赖《汉书补注》导致地望考证错误，且忽视时代差异。多维论证包括：通过字形分析（王华，2021）和历史地理对比，淮河以南地区（如豫章郡海昏侯国）分封稀少源于自然条件恶劣、地理位置偏僻和生产力低下，类似边郡政策；逻辑依据上，通过考古对比（如舂陵侯迁徙案例）和文献校对（《后汉书》卷14《城阳恭王祉传》，中华书局点校本，1982年），证明武帝元封年后不在‘准京畿’封侯，但此前有例外。学说比较：崔在容基于《汉书补注》考证侯国地望，但《汉书补注》错误多（如钱大昕《廿二史考异》卷6指出钟武侯地望争议），而片段作者主张重新梳理地望并分时段考察（如元延三年侯国分布数据）。阶段性结论：西汉确实存在‘准京畿’区域（武帝后）和淮河以南不分封侯国的政策，但需修正崔在容的不足，强调时代差异和精确地望考证的重要性。
+2025-10-07 22:43:01,546 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=21686d36-bde1-4de5-84f2-c1e7c735f0e8 response_code=200
+2025-10-07 22:43:01,546 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:43:42,955 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=25c7c916-d208-4631-8afb-22d82c56a69c response_code=200
+2025-10-07 22:43:42,956 - INFO - 评分结果: 要点命中：回答准确涵盖了《传食律》《行书律》的性质、《厩律》的蓝本构成，以及高恒的观点。涉及了汉律九章结构的多元构成、命名与编纂原则，同时指出张家山汉简提供的实物依据。
+
+失分点：未深入解释高恒“蓝本说”与多源论的详细比较与论证链条。对“厩律”是否包含其他秦律篇目、蓝本具体来源的详细论述不够切实具体。
+
+维度评分：内容完整性=7；逻辑性=6；准确性=8；表达=8
+
+评分：8分
+2025-10-07 22:43:42,956 - INFO - 回答基本正确
+2025-10-07 22:44:12,670 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=e001238c-4ebd-43e8-9eb4-cb1a306e0779 response_code=200
+2025-10-07 22:44:12,671 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:44:16,334 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=d9b2934d-7662-4aa4-b34f-59350d6331d8 response_code=200
+2025-10-07 22:44:16,336 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:44:23,293 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=a329ede7-b4e7-41d5-a487-c4bde4a8b27a response_code=200
+2025-10-07 22:44:23,293 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:45:08,723 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=18cefaac-8f9b-4a0d-8576-295846af052e response_code=200
+2025-10-07 22:45:08,724 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:45:08,919 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=5e7e0c65-ec25-4868-a812-5e03318164f8 response_code=200
+2025-10-07 22:45:08,921 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:45:37,935 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=fba72bfd-f86b-498b-91b9-2c70335cf290 response_code=200
+2025-10-07 22:45:37,936 - INFO - OpenAI模型回答: “旁章”一词，原见于《晋书·刑法志》，指的是相对于主要成文法条（在汉初以“九章律”最为著名）之外，用以补充、解释或调整主章规定的附加法规或条款。就汉代法律体系而言，旁章并非独立成篇的完整法典，而是对于“九章律”中未及之处进行细化或扩充的规定。以下从三方面分析其含义、与萧何“九章律”之间的关系，以及学界关注的主要争议点。
+
+一、“旁章”的具体含义与性质  
+1. 补充性法规：汉初九章律立足于秦律加以删改，条款相对简略。出现诸多新型案件或特殊情况，单用主章难以判明，则依赖旁章对量刑、罪名或程序作局部补充。  
+2. 辅助性解释：部分旁章具有解释性质，主要用于澄清主章模糊用词、界定罪名构成要件、细化量刑范围，甚至明确适用对象（如边境戍卒、算度官吏等）。  
+3. 临时性或权宜性：某些旁章针对特殊时期、区域或人群（流寇、羌胡、外戚、宦官）制定，多具权宜政策色彩，不一定纳入全国统一成文，但一旦酌定，亦可长期沿用。  
+
+二、旁章与萧何“九章律”之间的关系  
+1. 根本关系：萧何“九章律”是汉初基本成文法，九章分别从盗贼、杂罪、连坐、田宅、徭役到教师等方面确立统治基础。旁章虽不入九章大纲，却围绕其所未及之罪名、刑度及程序进行补遗，是对九章体系的必要延伸。  
+2. 编纂渊源：传统认为，萧何“九章律”完成后，当即有辅佐官员或司法实践中形成的若干“旁章”，此后历汉官府不断辑佚、增改，终成较为庞杂的补充法规体系。  
+3. 继承与发展：汉文帝、景帝时，对九章律及其旁章曾多次修正，东汉时董仲舒风行“春秋决狱”，对旁章的解释更趋理学化。可见旁章既继承了九章立法精神，又随着统治需要不断演化。  
+
+三、学术争议及主要观点  
+1. “旁章”是否为独立法律体系  
+   · 一派学者主张旁章仅是条例式的补遗，不构成独立法典；其内容终归九章大纲之下，惟在司法裁决中具参考意义。  
+   · 另有观点认为，汉代旁章数量颇多、内容相对完备，部分已具条文化特征，若以现代法典标准衡量，足以视为与九章并行的“第二法典”。  
+2. 典籍记载的完整性问题  
+   · 《晋书·刑法志》插引晋武帝时所奏删律章，共列“九章律”与“旁章”数百条。但后世传抄失谬甚多，难以重建真实面貌。  
+   · 依赖《汉书·律历志》《后汉书》以及学者汇编的《五经博士议，《十三讲》等零星文献，不同学者对旁章名称、条数、内容补漏各异，尚无定论。  
+3. 旁章与“附例”“附掖”“十三论”之区分  
+   · 部分研究者认为“附例”“附掖”“十三论”皆属旁章范畴，是不同阶段、不同部门对九章的局部增补。  
+   · 也有学者主张严格区分：附例与附掖偏向行政命令性质，十三论系学者研讨结论，旁章则强调官方成文；三者虽相互往来，但并非同一范畴。  
+4. 旁章的实用效力与司法实践  
+   · 有观点指出，汉代地方司法多凭方田狱例与京师议决，旁章虽多，却常常停留在诉讼参考层面，实判中运用有限。  
+   · 反对者则强调，诸多汉代敕令、奏议、州郡守令等均援引旁章定罪量刑，足见其在司法实践中享有正式效力。  
+
+综上所述，“旁章”作为汉代成文法体系的重要补充，其性质介于注释与法条之间，与萧何“九章律”共同构成汉初法律框架。学界围绕其独立性、构成要素、记载源流及司法运用效果尚存诸多分歧，有待今后通过更系统的文献比对和案例考释加以厘清。
+2025-10-07 22:45:52,501 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=16193b60-7370-458a-8793-a989274a764a response_code=200
+2025-10-07 22:45:52,501 - INFO - 评分结果: 要点命中：考生答案较好地覆盖了旁章的补充性质、与九章律的关系，以及部分学术争议。在具体含义与性质方面，强调了旁章的补充性、辅助性解释、临时性或权宜性，与参考答案相符。此外，讨论了旁章的实用效力与司法实践问题。
+
+失分点：考生未提及具体学者姓名或具体文献来源，仅从一般角度讨论争议点，没有深入到如张建国、徐世虹、酉谷至的具体学术观点与讨论。部分学术争议如“篇”与“章”的区别问题未有明确涉及，同时对旁章作为独立法律体系的争论也较为笼统。
+
+维度评分：内容完整性=6.0；逻辑性=7.5；准确性=7.0；表达=8.0
+
+评分：7分
+2025-10-07 22:45:52,502 - INFO - 回答基本正确
+2025-10-07 22:45:54,708 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=012d7bdf-f224-41f3-9f6c-e769585749cf response_code=200
+2025-10-07 22:45:54,709 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:46:29,382 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=dbddd01d-f2e1-418f-bfb0-ffa75260ca11 response_code=200
+2025-10-07 22:46:29,382 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:47:05,882 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=f6c24e4d-0497-4800-9f64-94f69749073c response_code=200
+2025-10-07 22:47:05,883 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:47:05,887 - INFO - 进度: 50/79 (63.3%)
+2025-10-07 22:47:05,887 - INFO - 当前得分: 99/790
+2025-10-07 22:47:06,895 - INFO - 开始处理批次 #11 (问题 51-55)
+2025-10-07 22:47:06,896 - WARNING - 无法读取图片 nan: expected str, bytes or os.PathLike object, not float
+2025-10-07 22:47:06,896 - INFO - 提问 [o4mini_qa.jsonl_51] [考古]: 根据堀敏一、张建国等学者的研究，结合《晋书·刑法志》及张家山汉简证据，阐述汉律正律与旁章的划分结构，分析三国魏律与晋泰始律令如何变革这一体系，并评价晋泰始律令在中国法制史上的划时代意义。
+2025-10-07 22:47:06,896 - WARNING - 无法读取图片 nan: expected str, bytes or os.PathLike object, not float
+2025-10-07 22:47:06,896 - INFO - 提问 [o4mini_qa.jsonl_52] [考古]: 结合何尊铭文中的'惟王五祀'与《召诰》《洛诰》的记载，分析该纪年应解释为周公摄政第五年还是成王亲政第五年？并说明推论依据。
+2025-10-07 22:47:06,896 - WARNING - 无法读取图片 nan: expected str, bytes or os.PathLike object, not float
+2025-10-07 22:47:06,896 - INFO - 提问 [o4mini_qa.jsonl_53] [汉语言文字学]: 根据《西周青铜器年代综合研究》[彭裕商，2003]及相关文献，分析周公摄政说的主要学术争议点，并讨论扶风庄白出土墙盘铭文和禽簋铭文如何被用于支持或反驳周公摄政的观点。
+2025-10-07 22:47:06,896 - WARNING - 无法读取图片 nan: expected str, bytes or os.PathLike object, not float
+2025-10-07 22:47:06,896 - INFO - 提问 [o4mini_qa.jsonl_54] [中国古代史]: 基于《新简》中始建国二年汉简记载（如EPT7:9、EPT59:448、EPT4:48A），分析该年闰月设置的具体月份争议，并说明陈垣《二十史朔闰表》误差的根本原因。
+2025-10-07 22:47:06,897 - WARNING - 无法读取图片 nan: expected str, bytes or os.PathLike object, not float
+2025-10-07 22:47:06,897 - INFO - 提问 [o4mini_qa.jsonl_55] [中国古代史]: 基于《九店楚简日书》和《放马滩秦简日书甲种》的建除术材料，分析楚系与秦系建除十二直在名称和搭配上的主要差异，并阐述它们在原理上的潜在联系。
+2025-10-07 22:47:22,455 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=63ae86c2-03af-4868-868e-e561fd411cb0 response_code=200
+2025-10-07 22:47:22,456 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:47:29,049 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=225a6aad-4655-4f75-94e2-a8774cc72030 response_code=200
+2025-10-07 22:47:29,050 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:47:30,796 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=82a0f41e-d888-446e-9618-48b022c1f72d response_code=200
+2025-10-07 22:47:30,797 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:47:38,646 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=7ecf20e7-ade2-4aff-9234-34b48121e034 response_code=200
+2025-10-07 22:47:38,647 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:47:43,068 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=f93fef4e-394c-46a3-8be1-52635a8b587d response_code=200
+2025-10-07 22:47:43,068 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:47:47,029 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=00d53708-e9dd-4fbf-8316-59ab5782b02c response_code=200
+2025-10-07 22:47:47,030 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:48:04,271 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=5b73ae0b-dc6d-4746-8222-a6302088ced6 response_code=200
+2025-10-07 22:48:04,272 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:48:04,557 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=28d9bb19-b6d9-4514-8ec6-ddf7c0885874 response_code=200
+2025-10-07 22:48:04,558 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:48:06,825 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=917e1581-c99e-4d07-af87-acfe7601d719 response_code=200
+2025-10-07 22:48:06,826 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:48:32,824 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=c68b07ab-ba16-437d-b210-d93f079c76fb response_code=200
+2025-10-07 22:48:32,825 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:48:36,326 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=df6f4aa2-246e-4b9c-bc17-b4d2e53dba37 response_code=200
+2025-10-07 22:48:36,327 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:48:39,496 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=fd705dd7-ec87-4c3c-8b64-969bf084bf9a response_code=200
+2025-10-07 22:48:39,497 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:48:50,799 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=179e492b-7bfc-4796-8977-28b8b4cdb602 response_code=200
+2025-10-07 22:48:50,800 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:49:10,257 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=b29adafa-229e-4ae0-bcf5-f235800a34ec response_code=200
+2025-10-07 22:49:10,258 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:49:16,684 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=807ef0db-73b9-4c42-9c4c-004173a684f8 response_code=200
+2025-10-07 22:49:16,685 - INFO - OpenAI模型回答: 从《九店楚简日书》和《放马滩秦简日书甲种》两组资料出发，可以归纳出楚系与秦系建除十二直在名称用词和搭配方式上的两大差异，同时，二者在生成原理上又有共同的根基。具体分析如下：
+
+一、名称差异  
+1. “执”与“持”之别  
+  • 楚系简中，常见第六直写作“执”；  
+  • 秦系简本则多用“持”字。  
+ 这一异文虽不改变其大体功能（都属“守成、执事”之意），但用字不同，可视为两地书写习惯或衍译传统的延续与分支。  
+
+2. “闭”与“塞”之异  
+  • 楚系版本里，十二直末位多作“闭”；  
+  • 秦系某些抄本则以“塞”代之，两者均含“闭合、防隔”之意。  
+
+3. “满”与“慢”的偶见变异  
+  • 楚简中多数写“满”，偶有“慢”之讹；  
+  • 秦简则几乎一律写“满”。  
+  这可能是楚地书写草率或托摹时笔画省略所致。  
+
+二、搭配方式差异  
+1. 与地支的起配点不同  
+  • 楚系建除十二直在简文里往往以寅、卯、辰各支为起始，且每月都整体顺延一个地支，体现“十二直随月移易、月建互错”的思路；  
+  • 秦系文本则多从子、丑两支开始分配，且以立春之月（正月）为全年之首，后续月头不再像楚简中那样每月都与前月相错一次，而是保持十二直与十二地支的固定对应。  
+
+2. 与干支纪日的配合方式  
+  • 楚简呈现的是“干支纪日＋十二直”的并行记载方式，且给出了当日“动宜、静忌”等简短提示；  
+  • 秦简则多见仅列干支，用附注方式说明该日所属的建除十二直类别，形式上更趋于注释而非并列。  
+
+三、原理上的潜在联系  
+尽管在名称用字和具体配带方式上存在差异，楚秦两系建除十二直在本质上同出一源，共同体现了先秦以来以“五行生克”、“阴阳消长”为核心的历法思想：  
+1. 十二直本质上是“十二气”运行的农事与仪礼指导，起于黄河流域古代的历法土运经验；  
+2. 它们都依据地支循环（十二律）和五行相生相克的理路，将一年三百六十五日划为十二个阶段，分别用“建、除、满、平、定、（执/持）、破、危、成、收、开、（闭/塞）”来命名；  
+3. 这种划分既可配合月令、节气，指导农事盛衰，也可用于祀典、卜筮等礼仪安排，其理论框架与《吕氏春秋》《史记·律书》等文献所述“十二气候”与汉代“十二律吕”一脉相承。  
+
+综上，楚系与秦系建除十二直虽然在字形用词和与地支、干支交互的具体做法上各有支派，反映了地域性文本传统的差异，但它们都植根于先秦“五行阴阳、十二律气” calendrical 体系，因而在本质原理与功能指向上有着深厚的共通性。
+2025-10-07 22:49:22,910 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=606f18db-8209-479b-8d8b-95f2084b4b22 response_code=200
+2025-10-07 22:49:22,911 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:49:42,312 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=11597ca5-a0dd-4ee1-ace2-2688f4df1310 response_code=200
+2025-10-07 22:49:42,313 - INFO - 评分结果: 要点命中：考生答案涵盖了楚系与秦系建除十二直的名称差异，如在“执”与“持”、“闭”与“塞”、“满”与“慢”等几对词语上进行了讨论。也提到搭配方式上的不同，以及两者在干支纪日配合上的形式差异，并论述了二者的原理联系，特别是提及“五行生克”、“阴阳消长”与十二直的关系。
+
+失分点：对部分历史文献与学术观点的引用和具体考证较少。如“除”与“盈”等关键名称差异未被具体提及，与参考答案中提到的其他文献背景相比，采用的证据基础略显单薄。对楚系与秦系在具体月对应及行事宜忌上的不同，未做详细分析。
+
+维度评分：内容完整性=6.5；逻辑性=7.5；准确性=7；表达=7
+
+评分：7分
+2025-10-07 22:49:42,313 - INFO - 回答基本正确
+2025-10-07 22:49:44,375 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=b90abb59-f978-427b-b6ae-84ee20f387df response_code=200
+2025-10-07 22:49:44,376 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:49:50,662 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=2ba19b16-48fa-4da8-8c1d-769aa65d3ea7 response_code=200
+2025-10-07 22:49:50,663 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:50:19,880 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=3f2adc3c-12dd-4c5b-94b7-9eff50cdfe17 response_code=200
+2025-10-07 22:50:19,881 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:51:37,267 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=9150a534-549b-43eb-ace6-dc38e20d4298 response_code=200
+2025-10-07 22:51:37,267 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:52:47,822 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=079fc044-64e7-4978-951c-a05d32fbe2fd response_code=200
+2025-10-07 22:52:47,822 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:52:47,827 - INFO - 进度: 55/79 (69.6%)
+2025-10-07 22:52:47,827 - INFO - 当前得分: 106/790
+2025-10-07 22:52:48,833 - INFO - 开始处理批次 #12 (问题 56-60)
+2025-10-07 22:52:48,834 - WARNING - 无法读取图片 nan: expected str, bytes or os.PathLike object, not float
+2025-10-07 22:52:48,834 - INFO - 提问 [o4mini_qa.jsonl_56] [中国古典文献学]: 根据郭沫若在《十批判书》和《中国通史简编》中的论述，分析老子李耳年代问题的学术争议点，并比较两部著作在道家思想批判上的异同。
+2025-10-07 22:52:48,835 - WARNING - 无法读取图片 nan: expected str, bytes or os.PathLike object, not float
+2025-10-07 22:52:48,835 - INFO - 提问 [o4mini_qa.jsonl_57] [中国古代史]: 根据《史记·大宛列传》（中华书局点校本，1982年）和斯特拉波《地理学》（Strabo, Geography, XI.8.2），分析张骞时代（约公元前129～前128年）巴克特里亚王国灭亡者的学术争议，并比较司马迁与斯特拉波记载的异同及其调和可能性。
+2025-10-07 22:52:48,835 - WARNING - 无法读取图片 nan: expected str, bytes or os.PathLike object, not float
+2025-10-07 22:52:48,835 - INFO - 提问 [o4mini_qa.jsonl_58] [中国古代史]: 基于《清华简〈金滕〉研究报告》[清华大学出土文献研究与保护中心，2010年代]及李学勤等学者的研究，分析清华简《金滕》在称谓体例上与传世本《金滕》和《史记·鲁周公世家》的差异原因，并综合讨论成王即位时年龄的学术证据与争议。
+2025-10-07 22:52:48,835 - WARNING - 无法读取图片 nan: expected str, bytes or os.PathLike object, not float
+2025-10-07 22:52:48,835 - INFO - 提问 [o4mini_qa.jsonl_59] [历史地理学]: 基于《史记·大宛列传》（中华书局点校本，1982年）及相关考古证据，分析张骞在出使西域（约公元前138-126年）时接触到的希腊化文化信息的具体表现，并讨论学术争议点如希腊语在帕提亚地区的使用程度。
+2025-10-07 22:52:48,837 - WARNING - 无法读取图片 nan: expected str, bytes or os.PathLike object, not float
+2025-10-07 22:52:48,837 - INFO - 提问 [o4mini_qa.jsonl_60] [文物]: 在汉代土地制度背景下，基于《张家山汉墓竹简·二年律令》（文物出版社，2001年）及相关研究，分析国家授田制中的土地配置方式，并讨论学界对土地所有权性质的学术争议。
+2025-10-07 22:53:17,771 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=dcd45978-240a-4d92-9f14-b0ffc65c0200 response_code=200
+2025-10-07 22:53:17,772 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:53:19,482 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=33c219c9-1ca5-4085-8f1a-371d9a5c5389 response_code=200
+2025-10-07 22:53:19,484 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:53:23,772 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=d48a66bf-c50b-989c-acd5-33c1008260f0 response_code=200
+2025-10-07 22:53:23,815 - INFO - OpenAI模型回答: 根据郭沫若在《十批判书》和《中国通史简编》两部著作中的论述，可从以下两方面展开分析：
+
+一、老子李耳年代问题的学术争议点  
+1. 传统纪传与考古证据的矛盾  
+  - 传统《史记·老子韩非列传》将老子名李耳, 活跃于春秋末期，且曾“与孔子见”。这一叙述形成了老子活动于公元前6世纪中叶的传统印象。  
+  - 考古发掘与青铜器铭文、战国竹简（如郭店楚简、岳石楚简）中出现的“道”“德”思想片段，大多集中于战国中后期，最早可追溯至公元前4世纪后期，而非6世纪。  
+
+2. 文本内部结构与成书过程  
+  - 《十批判书》中，郭沫若指出《道德经》文本章句风格迥异，上下两篇（“道经”与“德经”）在篇幅、语言和思想口吻上存在差异，暗示它并非一人一时之作。而且章节数的固定、文字的流传与九章、十一章本等多种版本的混合，显示出较长的集体编辑过程。  
+  - 在《中国通史简编》中，郭沫若以通史视角强调：《道德经》最早成形应在战国后期到秦汉之际，经儒、道两家不断删补和注疏，至西汉中叶始大致定型。  
+
+3. “李耳”与“老聃”人名真伪之争  
+  - 有学者认为“李氏”与“老聃”均为后世附会之说，真正作者可能是墨家、名家或诸子群体的集体智慧。郭沫若在《十批判书》里认为所谓“李耳见孔子”乃后代董狐等人补述，缺乏同时代资料佐证。  
+  - 在《中国通史简编》中，他也强调正史之外鲜无确凿记载，因而对李耳的生平持“供述不足”“不可尽信”态度。  
+
+二、两部著作在道家思想批判上的异同  
+
+1. 共同点  
+  - 马克思主义视角：均从阶级和社会性质出发，认为道家“无为而治”“清静无为”与农工商手工业社会的新兴地主阶级或小农经济利益近缘，是对生产力发展的一种“观念式束缚”。  
+  - 对“道”的神秘化持否定态度：认为“道”并非自然法则的科学概括，而是早期宗教礼制与巫术观念的反映，用以维护社会等级和既得利益。  
+
+2. 不同点  
+  - 体例与深度  
+    · 《十批判书》作为专门的哲学思想批判文集，对《道德经》的篇章、概念（如“无”“有”“柔弱胜刚强”）作了逐条剖析，并在文字源流、思想内核、社会功能层面展开系统批判，论述十分细致。  
+    · 《中国通史简编》则以通史框架为主，将道家思想置于西周至秦汉社会变革的大背景之下，着重论及道家与法家、儒家之争及其政治影响，侧重历史演变，批判则相对概括。  
+
+  - 立论重点  
+    · 在《十批判书》中，郭沫若重点揭示道家“无为”思想如何被封建统治者利用，批判其在强化宗法制度、维护君权专制方面的意识形态功用。  
+    · 在《中国通史简编》中，更强调道家对秦汉时期“新兴地主阶级”的思想启发，以及与秦始皇、刘邦集团在治国策略上的互动，批评重在阐明道家“无为”政治在不同政体中的适用及局限。  
+
+  - 文风与方法  
+    · 《十批判书》语言犀利，多用辩证法与史料交错论证，带有浓厚的批判性和战斗性。  
+    · 《中国通史简编》书写风格较为平实，以叙述为主，批判融于历史进程描述中，更接近教科书式的学术通览。  
+
+综上所述，郭沫若对老子年代的质疑集中在传统记载与考古、文本研究的冲突上，认为《道德经》成书时间晚于史书所言；在道家思想批判方面，两部著作虽同出一源、立足阶级分析，但在研究深度、体例取向和论述重点上各有侧重，相辅相成。
+2025-10-07 22:53:27,282 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=0b6b6f4c-34d7-4db8-bc7c-f4eb6ce8f7bf response_code=200
+2025-10-07 22:53:27,283 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:53:49,256 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=0fe71355-c59e-4f44-809a-8dba048ca517 response_code=200
+2025-10-07 22:53:49,257 - INFO - 评分结果: 要点命中：考生答案涵盖了老子李耳的年代争议，包括传统纪传与考古证据的冲突，以及文本结构成书过程，也触及“李耳”与“老聃”人名真伪之争。对道家思想批判的异同进行了比较，提到两书的马克思主义视角、对“道”的神秘化批判，以及对“无为”思想的不同侧重。
+
+失分点：答案中未明确界定《中国通史简编》关于李耳生卒年代的具体推断和《十批判书》对早期人物与著作晚出的结合分析，未涉及家族谱系和重要历史事件分析。部分论证缺乏具体文献和逻辑链条支持。
+
+维度评分：内容完整性=6.5；逻辑性=6.0；准确性=7.0；表达=8.0
+
+评分：7分
+2025-10-07 22:53:49,257 - INFO - 回答基本正确
+2025-10-07 22:53:56,341 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=3af33dd9-a216-41d4-bd95-4c121eb96aee response_code=200
+2025-10-07 22:53:56,342 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:54:07,992 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=d19d9e9f-1a16-44b7-9316-adea153c6687 response_code=200
+2025-10-07 22:54:07,993 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:54:09,988 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=8bd92063-f6af-4fc6-b434-fd0d67afe689 response_code=200
+2025-10-07 22:54:09,989 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:54:10,764 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=472dc12d-6842-49f7-be77-468a6936824f response_code=200
+2025-10-07 22:54:10,766 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:54:12,792 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=8aba0e36-f946-463c-9ae8-03c45d3e0e63 response_code=200
+2025-10-07 22:54:12,792 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:54:29,205 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=e4aa22e9-2e84-4e89-9107-fbe14372069d response_code=200
+2025-10-07 22:54:29,206 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:55:07,814 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=18f94265-df9f-4f3e-be51-0857e23b7462 response_code=200
+2025-10-07 22:55:07,815 - INFO - OpenAI模型回答: 张骞出使西域（约公元前138–126年）期间，《史记·大宛列传》对他所见异域风貌的记载，结合近年来中亚及帕提亚考古发现，可以较为清晰地勾勒出他接触到的希腊化文化主要表现，以及围绕希腊语在帕提亚使用程度的学术争议。
+
+一、张骞笔下的“希腊化”文化信息具体表现  
+1. 城市与建筑  
+  · 《史记》记载大宛诸城城墙高大、壕沟纵横、多层楼观，“宫室殷富”，“雕构精美”。这与希腊化时代由亚历山大后继者和塞琉古王朝在中亚地区兴建的“希腊式”要塞城、带柱廊的宫殿及壁画装饰风格相呼应。  
+  · 考古上，阿富汗艾汗噶姆（Ai Khanoum）遗址出土的希腊式柱廊殿堂、剧场式露台、带希腊文铭文的石柱，都与《史记》中所说“雕窗削柱”“壁画”互为印证。
+
+2. 雕塑、壁画与生活用品  
+  · 《史记》提到大宛人“衣服绮緜，饰以金银”，又见到“却金错银”、“罍、觚”等器皿。与此相应的是，艾汗噶姆、尼萨（Nisa）出土大量带希腊神祇形象的陶俑、银质酒具、马赛克碎片和带希腊文标记的陶瓶（如地中海产酒瓶）。  
+  · 地面壁画断片及石膏塑像上的希腊神话题材、人物比例和题材布局，均明显受希腊化美学影响。
+
+3. 硬币与文字  
+  · 《史记》虽未直言见到希腊文，但记录了大宛与大月氏的交易及金银流通。考古中发现，帕提亚早期阿尔萨塞王朝铸行的银币正面多用希腊文字样式刻铸王名与年号，背面往往有希腊神祇徽号。  
+  · 在中亚腹地，亦出土少量刻希腊文的契约片、石刻铭文，说明希腊文曾在官方或商业场合使用。
+
+4. 农业技术与饮食习惯  
+  · 张骞带回“葡萄、西瓜”等作物的记载，与中亚考古中发现的古代葡萄园遗迹、榨酒池相契合。这一技术正是希腊化世界传播至帕提亚、粟特乃至大宛的重要标志。
+
+二、学术争议：帕提亚地区希腊语的使用程度  
+1. 官方语言地位的延续与衰退  
+  · 支持观点：早期阿尔萨塞王朝承接塞琉古行政传统，沿用希腊文为宫廷和铸币的主要文字；在帕提亚高层与各地使节、当地城邦贵族中，希
+2025-10-07 22:55:22,679 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=434538f1-f5f3-900f-962c-070891dccebf response_code=200
+2025-10-07 22:55:22,680 - INFO - 评分结果: 要点命中：考生答案提到张骞出使西域时的希腊化文化表现，涉及城市与建筑、雕塑与生活用品、硬币与文字、农业技术；对希腊语在帕提亚地区使用程度的争议提出初步见解，并试图结合考古证据进行分析。
+
+失分点：未清晰讨论学术争议的本质，例如未提及主流学者如Tarn、Wiesehofer的观点对比与证据基础；对希腊语流通范围的分析仅泛泛而谈，欠缺实证和文献交叉对比；未充分论证张骞是否直接接触希腊化文化及其传入中原的途径，逻辑链条较为松散。
+
+维度评分：内容完整性=6.8；逻辑性=6；准确性=7；表达=7.5  
+评分：7分
+2025-10-07 22:55:22,681 - INFO - 回答基本正确
+2025-10-07 22:55:34,053 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=3881cfea-0311-4157-88b3-e2ad5f460404 response_code=200
+2025-10-07 22:55:34,054 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:55:42,061 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=40dcf9fd-1b5e-4b55-bb35-4787d2cee725 response_code=200
+2025-10-07 22:55:42,062 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:55:50,344 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=73310eec-e8e9-4062-b63f-bc7313a5c368 response_code=200
+2025-10-07 22:55:50,344 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:56:01,456 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=eac0d1dc-6045-405e-bb64-9385c4a69b1e response_code=200
+2025-10-07 22:56:01,457 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:56:09,663 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=702ac140-ff03-4c80-a20c-1c034d562d87 response_code=200
+2025-10-07 22:56:09,663 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:56:15,068 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=284d91a6-fa7e-48b3-9e62-8c193d951dc0 response_code=200
+2025-10-07 22:56:15,069 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:57:08,135 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=73f3dca1-6b66-4453-8332-14f7939f25fc response_code=200
+2025-10-07 22:57:08,137 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:57:08,142 - INFO - 进度: 60/79 (75.9%)
+2025-10-07 22:57:08,143 - INFO - 当前得分: 120/790
+2025-10-07 22:57:09,157 - INFO - 开始处理批次 #13 (问题 61-65)
+2025-10-07 22:57:09,158 - WARNING - 无法读取图片 nan: expected str, bytes or os.PathLike object, not float
+2025-10-07 22:57:09,159 - INFO - 提问 [o4mini_qa.jsonl_61] [汉语言文字学]: 根据周厉王歆钟铭文、驹父盈盖铭文（《集成》4464）和《诗经·大雅·崧高》（阮元校刻《十三经注疏》）的记载，分析西周晚期政治地理概念中‘南国’、‘南土’和‘南邦’的区别，并讨论学界对‘式’在‘南国是式’句中的解释争议及其地理含义。
+2025-10-07 22:57:09,159 - WARNING - 无法读取图片 nan: expected str, bytes or os.PathLike object, not float
+2025-10-07 22:57:09,159 - INFO - 提问 [o4mini_qa.jsonl_62] [历史地理学]: 结合师寰簋（《殷周金文集成》4314）、驹父盈盖（《殷周金文集成》4464）及兮甲盘等西周金文铭文，分析西周王朝对‘南国’东部区域（淮夷聚居区）的政治地理性质，并讨论唐兰解释‘南国’为‘南域、南疆’与《西周王朝与南国关系研究》[张历史，2023]报告作者解释为‘南方之国’的学术争议。
+2025-10-07 22:57:09,159 - WARNING - 无法读取图片 nan: expected str, bytes or os.PathLike object, not float
+2025-10-07 22:57:09,159 - INFO - 提问 [o4mini_qa.jsonl_63] [历史地理学]: 根据相关学术研究，分析五岳真形图在中国地图学史上的地位争议，包括界定核心问题、列举主要学术观点、进行多维论证和学说比较，并给出阶段性结论。要求引用具体文献依据，并说明论证逻辑。
+2025-10-07 22:57:09,160 - WARNING - 无法读取图片 nan: expected str, bytes or os.PathLike object, not float
+2025-10-07 22:57:09,160 - INFO - 提问 [o4mini_qa.jsonl_64] [中国古代史]: 基于《龙岗秦简》（中华书局，2001年）及相关研究，结合走马楼孙吴户籍简的发现，分析两类户籍简的性质演变过程，包括其最初学术猜测、后续研究如何通过简例对比证明二者均著录‘吏民’籍，并讨论孙吴时期吏户与民户分籍的学术争议点。
+2025-10-07 22:57:09,160 - WARNING - 无法读取图片 nan: expected str, bytes or os.PathLike object, not float
+2025-10-07 22:57:09,160 - INFO - 提问 [o4mini_qa.jsonl_65] [中国古代史]: 基于睡虎地秦简《封诊式》和里耶户籍简的记载，分析秦代编户民家庭结构中臣妾的法律地位，并评述学界对此的主要分歧及论证依据。
+2025-10-07 22:57:34,260 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=eff12cf2-2eb1-443b-8b05-368ee5383fc0 response_code=200
+2025-10-07 22:57:34,262 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:57:36,483 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=ecac427a-1ea8-452a-ac9b-60e696541bed response_code=200
+2025-10-07 22:57:36,485 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:57:37,649 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=46598a5c-ff07-4cb5-b0ec-5083f9a56f5c response_code=200
+2025-10-07 22:57:37,650 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:57:45,559 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=dea5f913-5abb-400f-a71c-897f8f046f38 response_code=200
+2025-10-07 22:57:45,560 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:57:59,699 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=0f2272e7-7e8b-4312-aec3-bda6b4195e9c response_code=200
+2025-10-07 22:57:59,700 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:58:07,427 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=0e075ac7-9b42-43f5-8985-e5709ddaf74d response_code=200
+2025-10-07 22:58:07,428 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:58:10,646 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=a873500c-57d1-451c-b860-c76a7b0a1f9e response_code=200
+2025-10-07 22:58:10,647 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:58:41,904 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=92a1612e-29bd-42b7-950c-7805cb9e7910 response_code=200
+2025-10-07 22:58:41,905 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:58:52,653 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=65a9085f-3cc4-452a-9f26-a2263517d8dd response_code=200
+2025-10-07 22:58:52,653 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:58:58,935 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=80ea70ec-96ce-40dd-a7d9-064c90a97cb8 response_code=200
+2025-10-07 22:58:58,935 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:59:26,363 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=113b06a6-4223-46fd-bf58-5a2d37713c7d response_code=200
+2025-10-07 22:59:26,365 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:59:26,448 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=4ccb0b98-6e3d-422c-8ec6-3e8bfaaca1ed response_code=200
+2025-10-07 22:59:26,507 - INFO - OpenAI模型回答: 根据睡虎地秦简《封诊式》和里耶户籍简的具体记录，可见秦代国家对编户民的家庭成员作了相当细致的登记，其中对臣妾的地位与处理，既不同于正室妻，又区别于其他雇工奴婢，其法律地位具有以下特点与争议焦点。
+
+一、史料记载与法律安排  
+1. 睡虎地秦简《封诊式》  
+  a. 编户式中，“封”之右列明户主姓名，下列次序大致为：正妻、嫡子、嫡女、妾及其子女、客人、奴婢等。妾被专列于嫡子女之后，表明其在家庭成员中的次序地位低于正妻及嫡出子女。  
+  b. 在有关户籍、赋税、徭役负担的配额核算条目里，妾常被单列，且税负比嫡妻略轻；妾所生子女亦需另作记载，通常以“杂子”“杂女”称之。  
+
+2. 里耶户籍简  
+  a. 里耶简册中若干册显示，每户在申报户口时，依次登记正妻及其子女，再次登记妾及其子女。登记用语严格分为“妻”“妾”“子”“杂子”等，表意清晰。  
+  b. 部分简文还详细记载了妾所生子女的年龄、性别，并注明其应负的调庸、赋税份额。说明国家并不完全排斥妾及其后代，只是以次要身份纳入户籍、赋税、徭役系统。  
+
+二、妾的法律地位分析  
+1. 家庭内部的准成员身份  
+  a. 妾受户主支配，生活在同一家庭空间，承担日常劳役或生产职责；其子女虽不具嫡出身份，却获得基本的户籍登记与赋税义务承担。  
+  b. 妾及其子女的继承权受到限制：在遗产分配中，妾所生子女通常仅得“妾产”一部分，不得与嫡子女平等分配正妻所生之产。  
+
+2. 国家视角下的从属性身份  
+  a. 国家与妾之间并无婚姻法意义上的契约，仅通过户籍简册予以登记，并在财政、徭役层面加以利用。  
+  b. 相关秦律中多见对妾及妾子女的惩戒条款，如妾逃亡或妾子犯法，处分多归入附属身分的惩戒体系，不上升至家庭主要成员受刑等级。  
+
+三、学界主要分歧及论证依据  
+1. 观点之一：妾具较为稳定的家庭成员身份  
+  代表学者认为，既然国家在户籍、赋税、徭役等方面都给予妾及其子女明确登记，且未将其视作契约外之短期劳力，则妾与其子女在法律地位上已有相当程度的稳定性。  
+  论证依据：  
+   · 《封诊式》多次列明妾及其子女名单，且赋税配额详尽，可见国家的肯定与规范化管理。  
+   · 有简文记载妾子随户迁移、入学或服徭役，与其他户主子女同等对待。  
+
+2. 观点之二：妾为从属身份，法律权利有限  
+  另一派学者指出，尽管妾及其子女被纳入户籍，但在继承权、家法处罚、户主管辖权等方面均受严苛限制，与嫡妻、嫡子女仍存在本质差距。  
+  论证依据：  
+   · 《封诊式》及里耶简册中多用“杂子”“杂女”区分嫡出子女，表明妾子不享嫡出身份。  
+   · 秦律条文关于遗产分配、家法处罚条款例，均侧重于嫡妻嫡子，对妾及妾子仅见附带规定且服从主家意志。  
+
+四、评述与结论  
+综合两派论证，可见秦代对妾的登记管理体现出国家对户籍人口的精细化需求，妾及其子女尽管在户籍系统中取得了准成员身份，却因婚姻身分与继承身分的法律区隔，而不能与正妻嫡出子女同日而语。学界在“登记事实”与“法律权利”间关注点不同，导致对妾的法律地位产生分歧。基于现存秦简，妾的存在一方面补充了国家的人口与税源统计，另一方面又因礼法秩序而被置于正室之下，成为一种既受户籍管理又受家法制约的从属性身分。
+2025-10-07 22:59:31,230 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=bac33f78-3f1c-4c99-b388-5e64bdc36e9f response_code=200
+2025-10-07 22:59:31,231 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:59:36,268 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=34910a52-c35d-40d9-bd6c-c79195ba5c81 response_code=200
+2025-10-07 22:59:36,269 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:59:47,204 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=6e7d4fdc-b6b9-4841-9a16-f1236e8fbfe4 response_code=200
+2025-10-07 22:59:47,204 - ERROR - 回答问题时出错: 无响应
+2025-10-07 22:59:53,553 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=ce722ace-5da0-4c85-b17f-81159cce6356 response_code=200
+2025-10-07 22:59:53,598 - INFO - OpenAI模型回答: 西周金文铭刻于师寰簋（《殷周金文集成》4314）、驹父盈盖（《殷周金文集成》4464）和兮甲盘等器物之上，往往涉及王室对淮河以南“南国”东部区域（一般与“淮夷”相关）的控制方式、行政安排与宗藩关系。通过对几段典型金文的梳理与比对，可见西周王朝对该区域的政治地理性质在下列几个方面具有鲜明特征。
+
+一、西周对“南国”东部区域的政治地理性质  
+1. 区域归属与统辖方式  
+  a. 王室册封与分封：  
+    师寰簋文中记载周穆王或成王时期，命夷人首领入朝受爵，遂以其种族部落置于王畿之外，却建立以“南国”为名的分封诸侯。  
+    驹父盈盖文则提及“命□□於南”，表明王命诸侯或功臣赴南方设立都邑、管理当地部族。  
+  b. 行政机构与军事驻扎：  
+    兮甲盘铭文中出现“南军”“南城”之语，说明西周在该区域不单靠夷人首领自治，还设有军事或行政机构，以镇抚淮夷，防范更南或更东的戎狄。  
+2. “南国”作为边疆藩屏的战略功能  
+  a. 边防作用：西周王室将该地作为东南边疆的第一道防线，一方面依托当地“淮夷”部落的协防作用，另一方面派遣宗室或功臣世守要地。  
+  b. 经济掠取与朝贡体系：金文多见“贡”“赋”等字样，表明该地区需向都城进贡土产、野兽或劳役，以彰显周王对南方羁縻的实际收效。  
+
+二、“南国”概念之学术争议  
+1. 唐兰“南域”“南疆”说  
+  a. 主张内容：唐兰先生以地理大范围划分为起点，认为西周所称“南国”并非指某一独立政体，而是泛指王都以南的广大边域，等同于“南疆”“南陲”“南域”。  
+  b. 论据依据：  
+    – 金文中“南方”“南服”“南归”多与方位、戎狄归附、王命巡狩等相关，不见明确的藩国名称用法。  
+    – 兼及《诗》《书》等文献中“南国”有时与“西南”“東南”並列，以方位概念为主。  
+2. 张历史（2023）“南方之国”说  
+  a. 主张内容：《西周王朝与南国关系研究》报告作者张历史认为，“南国”在若干铭文中已具备准国别、准诸侯的特征，属于一个或若干有相对独立性的政治实体，故称之“南方之国”。  
+  b. 论据依据：  
+    – 部分金文如师寰簋将“南国”与周王、诸侯并列签名，且出现“邦君”“国君”之类官名，相当于列国之境。  
+    – 驹父盈盖等器铭纪录对“南国君”大规模赐予爵禄，与封臣礼制相同，指向诸侯国化程度。  
+
+三、评述与结论  
+1. 从铭文用字与语境看，“南国”兼具地理方位和政体名称双重意义。  
+   – 在涉及巡狩、监军等语句时，“南国”更倾向于指“南方边域”或“南境地方”。  
+   – 在涉及册封、赋役、赐爵等礼制场合时，常将“南国”“南国君”当作具备一定政治实体属性的地域主体。  
+2. 两种观点并非完全对立，而是反映了西周王权对淮夷聚居区的复合统治：  
+   – 地理意义上的“南域”“南疆”强调中央对边疆空间的概念管辖。  
+   – 政体意义上的“南方之国”凸显地方部落首领在周礼体系下获得的“诸侯”级别地位。  
+3. 综合看法：西周王朝对淮河以南东部“南国”区域既强调方位性的疆域管控，又通过分封和羁縻将当地部落纳入诸侯体系，使之兼具边疆屏障与诸侯国双重属性。因此，“南国”一词应视具体铭文语境，在“南疆”“南国”“南方诸国”三者之间灵活转换其内涵。
+2025-10-07 22:59:58,240 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=1bce6354-ee2f-482c-9abe-076df9a37bd0 response_code=200
+2025-10-07 22:59:58,240 - INFO - 评分结果: 要点命中：考生答案准确讨论了西周王朝对“南国”东部区域的控制方式、行政安排以及宗藩关系，提到了册封、军事机构与贡赋体系。也对唐兰与《西周王朝与南国关系研究》中的学术争议进行了分析，阐述了不同角度对“南国”概念的理解。
+
+失分点：未突出经济附属区域这一核心问题，未准确指出该区域在周王朝常设行政机构和军事长官方面的缺失，也未直接引用郑玄、孔颖达的笺注。未明确“南国”整体为经济附属区的阶段性结论，缺乏更具体的金文证据比较。
+
+维度评分：内容完整性=6.5；逻辑性=7.5；准确性=7；表达=8
+
+评分：7分
+2025-10-07 22:59:58,240 - INFO - 回答基本正确
+2025-10-07 23:00:01,238 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=9ca60106-7fce-44f9-8523-ba915e96b9a0 response_code=200
+2025-10-07 23:00:01,239 - INFO - 评分结果: 要点命中：考生答案包含 睡虎地秦简《封诊式》和里耶户籍简对妾及其子女登记的有关内容，详细探讨妾在法律系统中的地位，提及学界主要分歧（妾是否稳定家庭成员）及相关论证依据。
+失分点：未体现参考答案中对“臣妾”法律与财产定位的深层分析（如是否为“室”），缺乏孔颖达观点及文本格式分析，遗漏对秦楚制度的对比分析。
+维度评分：内容完整性=6；逻辑性=6；准确性=7；表达=7
+评分：6分
+2025-10-07 23:00:01,240 - INFO - 回答不正确，期望: 核心问题在于秦代编户民家庭是否将臣妾视为法定家庭成员或财产。首先，界定核心问题：臣妾（私家奴仆）的法律地位涉及家庭结构类型推断（如核心家庭或主干家庭）和人口统计准确性。其次，列举相关学术观点：一种观点以孔颖达对《左传·文公元年》的解释为依据，认为臣妾属于财物（“室”）而非“人”，如《睡虎地秦墓竹简·封诊式》简8-12注释引孔疏云“室只包括居室之内的财产与臣妾”（睡虎地秦墓竹简整理小组，1978年，第149页）；另一种观点以作者分析为基础，主张臣妾是“人”或准家庭成员，基于里耶户籍简K27、K2/23等记载臣妾被登录于户版（湖南省文物考古研究所，2007年）。第三，多维论证：通过文本格式分析，“封守”条中“臣某”、“妾小女子某”被列于“人”类（字形分析显示与“妻、子”并列）；考古对比显示里耶简中奴仆登录于非赀财簿籍的户版（《睡虎地秦墓竹简·效律》简56-59佐证赀财单独统计）；文献校对表明秦楚制度共通性（《包山楚简》简42证明楚怀王时期私属依附关系）。第四，学说比较：孔颖达解释依赖传世文献但可能失真，而出土简牍提供直接实证。第五，阶段性结论：臣妾应视为编户民家庭的法定附属人口，表明秦代主干家庭普遍存在，且“五口之家”等概念可能包括奴仆，需谨慎用于家庭类型推断。
+2025-10-07 23:00:22,419 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=952d157e-d4fb-4d53-82ca-898dd9f189bf response_code=200
+2025-10-07 23:00:22,419 - ERROR - 回答问题时出错: 无响应
+2025-10-07 23:00:26,380 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=df4168dd-5e6f-47cf-b206-0ee32f88a82a response_code=200
+2025-10-07 23:00:26,382 - ERROR - 回答问题时出错: 无响应
+2025-10-07 23:00:53,993 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=3a8518e7-4449-429d-90e0-eb73b71d66bd response_code=200
+2025-10-07 23:00:53,994 - ERROR - 回答问题时出错: 无响应
+2025-10-07 23:00:55,817 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=7ce5eed6-245a-4418-9612-62dc11eeeb90 response_code=200
+2025-10-07 23:00:55,818 - ERROR - 回答问题时出错: 无响应
+2025-10-07 23:01:17,029 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=8a3dd657-b4a7-4788-b566-864bb2ccc6e6 response_code=200
+2025-10-07 23:01:17,031 - ERROR - 回答问题时出错: 无响应
+2025-10-07 23:01:17,035 - INFO - 进度: 65/79 (82.3%)
+2025-10-07 23:01:17,035 - INFO - 当前得分: 133/790
+2025-10-07 23:01:18,035 - INFO - 开始处理批次 #14 (问题 66-70)
+2025-10-07 23:01:18,036 - WARNING - 无法读取图片 nan: expected str, bytes or os.PathLike object, not float
+2025-10-07 23:01:18,036 - INFO - 提问 [o4mini_qa.jsonl_66] [中国古代史]: 在汉代江南地区，根据王充《论衡·四讳篇》的记载，妇女临产迁居习俗中‘丘墓庐道畔，跆月乃入’的具体含义是什么？并评述吴检斋与彭卫、杨振红对此解释的分歧观点及其学术依据。
+2025-10-07 23:01:18,037 - WARNING - 无法读取图片 nan: expected str, bytes or os.PathLike object, not float
+2025-10-07 23:01:18,037 - INFO - 提问 [o4mini_qa.jsonl_67] [中国古代史]: 基于汉代历史文献，分析'就馆'制度的主要目的，并比较其在西汉与东汉时期保护产妇和婴儿的有效性差异，引用相关史籍支持论述。
+2025-10-07 23:01:18,038 - WARNING - 无法读取图片 nan: expected str, bytes or os.PathLike object, not float
+2025-10-07 23:01:18,038 - INFO - 提问 [o4mini_qa.jsonl_68] [中国古代史]: 在19世纪末20世纪初日本中国历史研究中，白鸟库吉和拉克伯里对中国文明'西来说'的观点存在核心差异。请比较两者的主要立场，并分析这些差异如何反映当时日本学界的方法论分歧。
+2025-10-07 23:01:18,038 - WARNING - 无法读取图片 nan: expected str, bytes or os.PathLike object, not float
+2025-10-07 23:01:18,039 - INFO - 提问 [o4mini_qa.jsonl_69] [中国古代史]: 在清末时期（约1903-1906年），蒋智由的《中国人种考》如何传播拉克伯里的'西来说'（中国文明起源于巴比伦）？根据相关历史文献，分析该著作在当时学术界的接受情况、与其他译本的差异及其对后世的影响。
+2025-10-07 23:01:18,039 - WARNING - 无法读取图片 nan: expected str, bytes or os.PathLike object, not float
+2025-10-07 23:01:18,039 - INFO - 提问 [o4mini_qa.jsonl_70] [中国古代史]: 刘师培在1903-1905年间的著作中如何通过音意比较法诠释拉克伯里的'汉族西来说'？请分析其知识来源的争议点及解释方法的学术分歧。
+2025-10-07 23:01:33,983 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=8d269bec-63eb-4f00-b657-7b8f59b92ee8 response_code=200
+2025-10-07 23:01:33,984 - ERROR - 回答问题时出错: 无响应
+2025-10-07 23:01:42,842 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=9da4ee7f-ed74-4dbd-af42-c66ade266fa7 response_code=200
+2025-10-07 23:01:42,844 - ERROR - 回答问题时出错: 无响应
+2025-10-07 23:02:04,818 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=52902551-7a6c-4359-b8d8-d2207da6fa79 response_code=200
+2025-10-07 23:02:04,819 - ERROR - 回答问题时出错: 无响应
+2025-10-07 23:02:11,029 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=fca6f52f-2cea-4c85-be87-99f7a9e51baf response_code=200
+2025-10-07 23:02:11,030 - ERROR - 回答问题时出错: 无响应
+2025-10-07 23:02:11,048 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=28500419-5021-400b-848b-bb5a8db511ab response_code=200
+2025-10-07 23:02:11,049 - ERROR - 回答问题时出错: 无响应
+2025-10-07 23:02:12,804 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=1eae88e8-778c-4d42-acba-37281ede1f24 response_code=200
+2025-10-07 23:02:12,805 - ERROR - 回答问题时出错: 无响应
+2025-10-07 23:02:19,954 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=e5eec222-dc72-4070-a39b-ecd9293ac820 response_code=200
+2025-10-07 23:02:19,956 - ERROR - 回答问题时出错: 无响应
+2025-10-07 23:02:37,928 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=a0dea9a8-b313-4385-9010-891b18b3a1c4 response_code=200
+2025-10-07 23:02:37,929 - ERROR - 回答问题时出错: 无响应
+2025-10-07 23:02:38,635 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=ae154e5d-972e-46d7-b0b7-33f44b68aee7 response_code=200
+2025-10-07 23:02:38,635 - ERROR - 回答问题时出错: 无响应
+2025-10-07 23:02:55,439 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=54988c3a-1b94-4200-8e85-ef7b505b3f2b response_code=200
+2025-10-07 23:02:55,441 - ERROR - 回答问题时出错: 无响应
+2025-10-07 23:03:00,189 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=1fe617e3-beaa-4cd8-beed-4d6655412408 response_code=200
+2025-10-07 23:03:00,190 - ERROR - 回答问题时出错: 无响应
+2025-10-07 23:03:04,217 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=990c45a7-e402-46b5-a967-c08146e38760 response_code=200
+2025-10-07 23:03:04,219 - ERROR - 回答问题时出错: 无响应
+2025-10-07 23:03:04,222 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=b3f205d1-01ed-4bcf-b8c9-b5349671142e response_code=200
+2025-10-07 23:03:04,223 - ERROR - 回答问题时出错: 无响应
+2025-10-07 23:03:09,695 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=66ffecbd-bf2a-4b04-af75-a68a4c513fec response_code=200
+2025-10-07 23:03:09,751 - INFO - OpenAI模型回答: 蒋智由（1874–1940）出身浙江绍兴，既通西学又熟稗说，1903年至1906年间先后在上海《中西汇通报》等刊物上陆续发表《中国人种考》一文，系统介绍并引用了19世纪法国学者拉克伯里（David Paul von Hīnckel Lacouperie）提出的“西来说”学说，即主张古代中华文明源自美索不达米亚（巴比伦）文化。以下分三方面加以梳理。
+
+一、在《中国人种考》中对“西来说”的传播方式  
+1. 译介与节译并举：蒋智由并非将拉克伯里整个著作逐字翻译，而是根据汉语读者的接受习惯，对其关于“汉字源于楔形文字”“夏商周三代礼乐制度来自两河流域”两大核心论点作节译，并补充了他在上海图书馆查到的考古图版，辅以自撰的中国历代器物、殷墟甲骨为例。  
+2. 对比中西民族分类：蒋智由在“中国人种考”中，将拉克伯里以文字形态判断人种、以文化扩散解释文明起源的思路，与欧美种族学家杜布瓦和马累瓦尔德等的主张并列，使“西来说”在当时正值东亚现代化思潮中具有“中西对话”的面貌。  
+3. 语言与论证方式的本土化：他除了译出拉氏的英文原文片段，还插入了自己对古汉语训诂、金文与甲骨文异同的补充注，以增强说服力，令读者感到“西人之说”可以和中国传统训诂互证。
+
+二、与其他译本和介绍的差异  
+1. 与朱宸濠、严复等的译本比较：同期在上海也有朱宸濠、梁启超等人引介过拉克伯里，但多采取摘要或评论形式；严复在《天演论》中偶有提及“巴比伦南渡”一说，却更强调社会进化论视角，几乎未用楔形文字对比。蒋智由的《中国人种考》则是首个集中对文字起源与礼乐制度扩散两大命题做中英双语对校、逐条论述的体系化译介。  
+2. 相较于日本学者的日译本：19世纪90年代，日本汉学家田冈三郎和野口遵已在《东亚文化史提要》中引述拉克伯里的观点，但多带有日本立场的“东洋共同体”色彩；蒋智由版较少强调“日本与中国共同源自巴比伦”，而是突出“中国承先启后、历代文明一脉相传”的民族自觉立场。  
+3. 注释网络的差别：拉克伯里原著多依靠德文、法文文献，蒋智由则补入了当时上海学界已发现的殷墟甲骨、吴越越城印文、湖南省松坳盆地土墩遗存器形图片，使其论证更接近中国本土考古材料。
+
+三、当时学术界的接受与后世影响  
+1. 同行态度分歧：在当时的“新学”圈子里，梁启超、康有为等人乐于借用“西来说”来证明中国文明之古老、促进强学中西；但章太炎、张之洞则坚决批评“此说无考据功夫”，认为中原文化自成一脉，无须托外国说法。1907年前后，王国维在《国学备旨》中专章驳斥“凡以文字异同判人种，甚乖实际”，成为最有分量的学界批评。  
+2. 媒体与民间反响：《申报》《法政周报》转载《中国人种考》要旨后，引发一度舆论热议，有读者来信支持“与欧美接轨”、也有家学渊源的士大夫义愤填膺。此后，“巴比伦说”逐渐被视作“文明扩散论”的代表，但在中国学术界并未形成长期主流。  
+3. 对后世的影响：  
+  a. 对文字比较学与文明起源讨论的启发：虽然“西来说”论据日后被人类学与考古发掘否定，但蒋智由开创的中西文字对校、“迭代式”印证思路，影响了后来的古文字研究方法。  
+  b. 对民族主义史观的双重作用：一方面它曾被民国时期的思想家、报人引用以证明华夏文明的“世界性”，另一方面也在抗战前后被反复批判为“不自立”的“外来拐帽说”。  
+  c. 对日本、中国和欧洲学界的互动：为中外学者提供了一个早期交流的范例，日后日本考古队、欧美汉学家在中国殷墟与长江下游遗址的发掘，都或多或少受此一脉扩散论辐射——但最终形成了以本土文化演进为主的学术共识。
+
+综上所述，蒋智由的《中国人种考》在清末学界首开将拉克伯里“西来说”主张系统译介并本土化阐发的先河，其在当时既引发了中西文化比较的新一轮讨论，也促成了传统国学与译介西学在方法论上的交锋；尽管“西来说”终未能经得起考古与语言学的检验，却因蒋氏的传播与注释，为后世古文字学、文明扩散论的演进留下了珍贵的史料和启示。
+2025-10-07 23:03:33,670 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=ab14b9f9-01e6-4ecb-a627-7e58f6e2e5b5 response_code=200
+2025-10-07 23:03:33,670 - ERROR - 回答问题时出错: 无响应
+2025-10-07 23:03:39,533 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=acbdcea2-1559-4004-9760-e4e6fe1267e6 response_code=200
+2025-10-07 23:03:39,534 - INFO - 评分结果: 要点命中：蒋智由的《中国人种考》系统介绍拉克伯里的“西来说”，主要强调汉字和礼乐制度的源头，并进行本土化论证。论及蒋智由与其他著作的差异，及其对后世文字比较学影响。
+失分点：未精确对比具体译本的忠实性与传播差异；没有详细讨论“西来说”的辩驳如缪凤林的批评和刘师培的推广；与学术界其他观点对比略显单薄。
+维度评分：内容完整性=7；逻辑性=7；准确性=7；表达=8
+评分：7分
+2025-10-07 23:03:39,534 - INFO - 回答基本正确
+2025-10-07 23:03:46,572 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=c663afed-fd0a-4fe8-9457-8eab521880ca response_code=200
+2025-10-07 23:03:46,573 - ERROR - 回答问题时出错: 无响应
+2025-10-07 23:03:48,378 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=488b0846-975f-4879-a579-ba119e18e623 response_code=200
+2025-10-07 23:03:48,379 - ERROR - 回答问题时出错: 无响应
+2025-10-07 23:04:00,816 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=075bc8b9-9e59-4a87-b907-9325842241a9 response_code=200
+2025-10-07 23:04:00,819 - ERROR - 回答问题时出错: 无响应
+2025-10-07 23:04:20,749 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=9a94a698-a9f6-41ed-b2fa-31234f596380 response_code=200
+2025-10-07 23:04:20,749 - ERROR - 回答问题时出错: 无响应
+2025-10-07 23:04:33,489 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=de891171-f9a2-4c90-a335-2fd5a6f5ed6f response_code=200
+2025-10-07 23:04:33,489 - ERROR - 回答问题时出错: 无响应
+2025-10-07 23:04:46,625 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=141547cd-0b39-4ba8-8af7-3a1640ec4125 response_code=200
+2025-10-07 23:04:46,625 - ERROR - 回答问题时出错: 无响应
+2025-10-07 23:05:05,672 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=18709bf3-9623-4438-9223-73d79befff29 response_code=200
+2025-10-07 23:05:05,672 - ERROR - 回答问题时出错: 无响应
+2025-10-07 23:05:54,592 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=57f63ba5-a84d-4780-8247-50b0dd3031cf response_code=200
+2025-10-07 23:05:54,593 - ERROR - 回答问题时出错: 无响应
+2025-10-07 23:05:54,845 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=930e506f-ac55-4ece-8860-28b254b75937 response_code=200
+2025-10-07 23:05:54,846 - ERROR - 回答问题时出错: 无响应
+2025-10-07 23:05:54,851 - INFO - 进度: 70/79 (88.6%)
+2025-10-07 23:05:54,851 - INFO - 当前得分: 140/790
+2025-10-07 23:05:55,859 - INFO - 开始处理批次 #15 (问题 71-75)
+2025-10-07 23:05:55,861 - WARNING - 无法读取图片 nan: expected str, bytes or os.PathLike object, not float
+2025-10-07 23:05:55,861 - INFO - 提问 [o4mini_qa.jsonl_71] [中国古代史]: 在清末1903-1905年间，黄节在其《黄史》中如何基于中国古代文献对拉克伯里‘西来说’进行改写？请分析其论证方法及这一改写对清末知识人接受‘西来说’话语演变的意义。
+2025-10-07 23:05:55,862 - WARNING - 无法读取图片 nan: expected str, bytes or os.PathLike object, not float
+2025-10-07 23:05:55,862 - INFO - 提问 [o4mini_qa.jsonl_72] [中国古代史]: 在吐火罗史研究中，汉文典籍中的‘大夏’与吐火罗民族是否为同一群体存在重大学术争议。请基于列维、伯希和、王欣等学者的研究，界定该争议的核心问题，列举主要学术观点，并分析其语言学与历史文献依据。
+2025-10-07 23:05:55,863 - WARNING - 无法读取图片 nan: expected str, bytes or os.PathLike object, not float
+2025-10-07 23:05:55,863 - INFO - 提问 [o4mini_qa.jsonl_73] [考古]: 结合清华简《保训》与帛书《黄帝书·果童》的文本内容，分析战国刑名学中'中'的含义如何区别于西周的司法传统，并讨论学者对'中'的解释分歧及其与黄老学说的关联。
+2025-10-07 23:05:55,863 - WARNING - 无法读取图片 nan: expected str, bytes or os.PathLike object, not float
+2025-10-07 23:05:55,863 - INFO - 提问 [o4mini_qa.jsonl_74] [考古]: 基于考古学理论中王朝更替与考古学文化更迭的时间错位现象，分析夏代考古学文化起始点的三种主要学术争议观点，并阐释影响考古学文化更迭速度的关键因素。
+2025-10-07 23:05:55,863 - WARNING - 无法读取图片 nan: expected str, bytes or os.PathLike object, not float
+2025-10-07 23:05:55,863 - INFO - 提问 [o4mini_qa.jsonl_75] [考古]: 基于江陵凤凰山汉简10号墓6号牍和走马楼三国吴简材料，论述秦汉至三国吴时期户税与訾税的区别及其演变过程，并分析关键学术争议点。
+2025-10-07 23:06:20,282 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=601fe176-3214-4b8c-ae57-b54809273d69 response_code=200
+2025-10-07 23:06:20,283 - ERROR - 回答问题时出错: 无响应
+2025-10-07 23:06:23,261 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=6fee338a-381a-4e1c-b401-7505badc6bca response_code=200
+2025-10-07 23:06:23,262 - ERROR - 回答问题时出错: 无响应
+2025-10-07 23:06:38,737 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=9796c9a0-71af-40ec-bba4-f66f99cbf389 response_code=200
+2025-10-07 23:06:38,738 - ERROR - 回答问题时出错: 无响应
+2025-10-07 23:06:51,410 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=44c97c36-3856-437b-a62d-bc7d7fc1ec52 response_code=200
+2025-10-07 23:06:51,411 - ERROR - 回答问题时出错: 无响应
+2025-10-07 23:06:51,493 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=b32b2730-4c43-4509-9079-afd2e376acc5 response_code=200
+2025-10-07 23:06:52,607 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=9028c6f8-2ca5-4ad6-8022-c822e6ba6f78 response_code=200
+2025-10-07 23:06:52,608 - ERROR - 回答问题时出错: 无响应
+2025-10-07 23:06:52,620 - INFO - OpenAI模型回答: 夏代考古学文化起始点之争，核心在于如何将考古材料与史书所记“夏”王朝对应，结合王朝更替与考古学文化更迭往往存在的时间错位，学界主要出现以下三种观点，并就考古学文化更迭速度的影响因素加以阐释。
+
+一、夏代考古学文化起始点的三种主要学术争议观点  
+1. 将龙山晚期文化视为夏的萌芽  
+  - 代表观点：部分学者认为，龙山晚期诸如齐家、磁山、庙底沟等区域文化中已出现集中居址、手工业分工初步分化的迹象，可对应史书对夏早期部族联合、酿成政治实体的描述。  
+  - 主要依据：陶器纹饰趋于统一、黑陶器产业与彩陶器并立、居住形制从瓦房台向夯土台基过渡。  
+  - 争议焦点：龙山晚期多为区域性聚落文明，尚未出现明确的中央集权性遗存，能否直接等同于史书所指“夏”仍待考证。  
+
+2. 以二里头—二里岗文化（俗称“二里头文化”）直合夏代正统  
+  - 代表观点：认为二里头文化（约前2000—前1700年）已展现青铜大铸、宫殿建筑、车马坑、宗庙祭祀等典型国家机构遗存，正与史书中大禹定都、家天下的早期夏王朝相符。  
+  - 主要依据：二里头遗址大型宫殿基址、青铜鼎、玉器生产与贵族墓葬体系，规模与制度化程度明显超出其他同期文化。  
+  - 争议焦点：二里头文化是否能完全与史书夏朝对接，或应视为多个区域政权并存的文化联合体，以及其前后续发展与“夏”文字正相印证的证据尚不足。  
+
+3. 夏代考古文化相对滞后于二里头，或映射于二里头之后的二里岗晚期—偃师二里岗文化  
+  - 代表观点：部分学者主张史书中“夏”王朝的统一与立国活动发生于二里头文化鼎盛之后，而考古学上的“夏文化”应标定在以偃师二里岗文化（约前1700—前1500年）为代表的阶段。  
+  - 主要依据：在偃师二里岗文化中，城址防御工事更加完善，青铜器扩散至中原以外多区，并出现区域性行政中心网络，与更成熟的国家形态相符。  
+  - 争议焦点：此观点与传统将二里头文化即夏朝首都的看法相悖，需要重新解释二里头与偃师文化的政治关系，以及史书大禹、启传承的时间线与考古对应的错位。  
+
+二、影响考古学文化更迭速度的关键因素  
+1. 自然环境与资源禀赋  
+  - 气候波动（如河水冲积、干旱期）直接影响农业产出和人口承载；山地、河谷间的交通与生态差异决定不同区域文化发展的快慢。  
+2. 技术创新与传播机制  
+  - 青铜冶铸、车马技艺、陶器工艺等核心技术一旦突破，通过工匠群体、贸易路线迅速向周边扩散，加速新文化形制的确立。  
+3. 社会组织与政治整合力度  
+  - 当出现以中心城址为核心的行政体制或王权统治，能够通过赋役征调、礼制仪式、文字沟通等方式强化文化认同，缩短文化整合期。  
+4. 文化互动与迁徙交流  
+  - 商贸网络、族群迁徙或战争扩张会带来外来文化冲击，使本土文化迅速吸收新元素或被新的文化话语覆盖，从而推动考古学文化的替代或融合。  
+5. 意识形态与宗教礼制的延续性  
+  - 礼制、宗教崇拜和共同神话传说具有强大的社会粘合力；当统治集团借助祭祀或夏后氏血统神话强化合法性时，新文化能更快取代旧有形制。  
+
+综上，针对夏代考古文化起始点的争论核心在于对区域性考古文化阶段与史书“夏”王朝政治实体之间的对应关系解读不同；而考古学文化更迭的速度，则受到自然与社会双重因素交织影响，需要综合环境、技术、政治与文化互动等多重视角加以考量。
+2025-10-07 23:06:56,014 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=8c4240a0-0fa6-4b9a-a45f-360829e496e6 response_code=200
+2025-10-07 23:06:56,015 - INFO - 评分结果: 要点命中：考生详细讨论了夏代考古文化起始点的三种主要学术争议观点，包括龙山晚期文化、二里头文化以及偃师二里岗文化。影响考古学文化更迭速度的因素也全面分析了自然环境、技术创新、社会组织、文化互动与宗教礼制等多方面。
+
+失分点：考生未详细提及“新砦期”观点及其论据。此外，一些具体术语和时间标记的准确性有待提升，尤其是针对二里头文化和偃师二里岗文化的讨论，与部分学术的具体断代不完全一致。
+
+维度评分：内容完整性=8.5；逻辑性=8.5；准确性=7.5；表达=9
+
+评分：9分
+2025-10-07 23:06:56,015 - INFO - 回答基本正确
+2025-10-07 23:07:02,164 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=11b62187-1bf7-448a-8934-5eceaa657344 response_code=200
+2025-10-07 23:07:02,165 - ERROR - 回答问题时出错: 无响应
+2025-10-07 23:07:05,878 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=8999fb2d-ec60-4c91-b4a2-ef05600f8a67 response_code=200
+2025-10-07 23:07:05,880 - ERROR - 回答问题时出错: 无响应
+2025-10-07 23:07:06,960 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=1d834aba-ce3e-4a3a-bc3e-ead6852b9390 response_code=200
+2025-10-07 23:07:06,961 - ERROR - 回答问题时出错: 无响应
+2025-10-07 23:07:29,445 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=b99956a6-318e-433a-b5f2-a774cb0031b8 response_code=200
+2025-10-07 23:07:29,446 - ERROR - 回答问题时出错: 无响应
+2025-10-07 23:07:32,095 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=abb045b8-c4a3-4476-a9f7-1f890e61b9ce response_code=200
+2025-10-07 23:07:32,096 - ERROR - 回答问题时出错: 无响应
+2025-10-07 23:07:46,234 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=18157bc0-b312-40b7-8c0d-a555ab7803a9 response_code=200
+2025-10-07 23:07:46,236 - ERROR - 回答问题时出错: 无响应
+2025-10-07 23:07:58,962 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=c7151698-0372-4d0a-9b97-14fa1c5452e8 response_code=200
+2025-10-07 23:07:58,963 - ERROR - 回答问题时出错: 无响应
+2025-10-07 23:07:59,766 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=7933c864-6400-4fc5-8323-b6e6ccb60e40 response_code=200
+2025-10-07 23:07:59,767 - ERROR - 回答问题时出错: 无响应
+2025-10-07 23:08:27,857 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=3ae983df-8d4f-470a-b081-1f8374b827c2 response_code=200
+2025-10-07 23:08:27,858 - ERROR - 回答问题时出错: 无响应
+2025-10-07 23:08:46,201 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=10f4ae79-0ebc-4c04-9086-bc491ca22a87 response_code=200
+2025-10-07 23:08:46,202 - ERROR - 回答问题时出错: 无响应
+2025-10-07 23:08:53,501 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=feda3654-0049-4010-8b4f-c269eb970a1e response_code=200
+2025-10-07 23:08:53,502 - ERROR - 回答问题时出错: 无响应
+2025-10-07 23:09:07,658 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=301f35a5-a7b8-4301-ba2f-eadf331e600d response_code=200
+2025-10-07 23:09:07,661 - ERROR - 回答问题时出错: 无响应
+2025-10-07 23:09:35,825 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=b241e4a8-bf82-4c6d-866d-68b486bf82b1 response_code=200
+2025-10-07 23:09:35,826 - ERROR - 回答问题时出错: 无响应
+2025-10-07 23:10:44,998 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=419808ae-c522-494a-b4d5-d6cb049328a6 response_code=200
+2025-10-07 23:10:44,998 - ERROR - 回答问题时出错: 无响应
+2025-10-07 23:11:07,642 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=7a82306f-218e-4040-bbca-9389bf036637 response_code=200
+2025-10-07 23:11:07,643 - ERROR - 回答问题时出错: 无响应
+2025-10-07 23:11:07,655 - INFO - 进度: 75/79 (94.9%)
+2025-10-07 23:11:07,655 - INFO - 当前得分: 149/790
+2025-10-07 23:11:08,670 - INFO - 开始处理批次 #16 (问题 76-79)
+2025-10-07 23:11:08,672 - WARNING - 无法读取图片 nan: expected str, bytes or os.PathLike object, not float
+2025-10-07 23:11:08,673 - INFO - 提问 [o4mini_qa.jsonl_76] [考古]: 在商人起源研究中，《商颂》的成书年代存在重大学术争议。请基于传世文献和出土资料，界定核心问题、列举商诗说与周诗说等主要学派观点、进行多维论证、比较学说差异，并阐述这一争议对商人诸先公事迹考证的影响。
+2025-10-07 23:11:08,673 - WARNING - 无法读取图片 nan: expected str, bytes or os.PathLike object, not float
+2025-10-07 23:11:08,673 - INFO - 提问 [o4mini_qa.jsonl_77] [考古]: 结合《商颂》、《史记》及上博简《子羔》篇，分析玄鸟传说在商族起源中的演变过程，并探讨玄鸟作为商人图腾的考古证据及其含义争议。
+2025-10-07 23:11:08,673 - WARNING - 无法读取图片 nan: expected str, bytes or os.PathLike object, not float
+2025-10-07 23:11:08,673 - INFO - 提问 [o4mini_qa.jsonl_78] [中国古典文献学]: 福兰阁在《福兰阁儒学历史研究》[福兰阁, 1920]中如何分期中国儒教历史？阐述其对孔子学说真实性的质疑、对朱熹理学教条化的批判，并讨论这些观点在学术界的主要争议。
+2025-10-07 23:11:08,674 - WARNING - 无法读取图片 nan: expected str, bytes or os.PathLike object, not float
+2025-10-07 23:11:08,674 - INFO - 提问 [o4mini_qa.jsonl_79] [中国古代史]: 在秦汉专制体制背景下，结合《法言·渊骞》和《汉书·东方朔传》的记载，分析东方朔'朝隐'思想的本质特征，并阐释扬雄对其评价引发的学术争议。
+2025-10-07 23:11:32,689 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=099c73d2-2473-4352-beec-01ef672a08cc response_code=200
+2025-10-07 23:11:32,692 - INFO - OpenAI模型回答: 玄鸟传说在商族起源神话中的演变，可以从《商颂》、《史记》以及上海博物馆简牍《子羔》篇三个不同层面来考察，其核心脉络大致如下：  
+
+1. 《商颂》中的玄鸟意象  
+   在《诗经·商颂》中，“玄鸟维寿”“于穆不显”“靡所去止”诸句，首次以祭歌体裁塑造了玄鸟与商王室长寿、吉祥的内在关联。这里的“玄鸟”多被理解为一种神秘的黑色鸟类，它衔来神命，使得商室承接神祇旨意、获得世代延续。此阶段的玄鸟形象更偏向祭典吉祥物，而非具体的祖先或图腾。  
+
+2. 《史记·殷本纪》对玄鸟生帝喾、契的神话化叙述  
+   至司马迁的《史记》，玄鸟传说进一步演绎为具体的商族始祖神话。史记记载，“玄鸟降而生契”，契为夏后氏之后，受命率领民众建商，成为商王朝的正统先祖。此时玄鸟不仅仅是吉祥标志，更被视作血缘传承的神圣媒介：神鸟降胎、人禽共生，商王一脉直接自天神而来，突显王权的神授正当性。  
+
+3. 《上博简·子羔》对商族起源的另类佐证  
+   上海博物馆藏战国简牍《子羔》篇中，虽篇幅残缺，但有“太玄之鸟”“商一统于玄鸟之后”之类文字，明确将玄鸟与“商人”自身称谓及血统联系起来，称商人为“玄鸟之后”或“玄鸟胄裔”。这一表述与《史记》神话相呼应，却又不意在讲述单一神化传奇，而更像是一种族称或图腾认同的自我表述，或用于合纵连横时的族群标榜。  
+
+考古层面的玄鸟图腾证据及其含义争议主要集中在以下几点：  
+  
+• 青铜器与玉器纹饰中的鸟形造型  
+  商代晚期墓葬出土的大量青铜器与玉器上雕琢或铸造有鸟首或鸟形圈足。如妇好墓青铜尊座鸟首状，戈首多作鸟嘴形，玉琮、玉片上也有飞鸟纹、鸟首纹。这些鸟形符号与“玄鸟”神话传说在形式上有相似之处，学界往往将其视作玄鸟图腾的物证。  
+
+• 血统与族徽的考古学解读  
+  一些学者指出，任何王权早期社群都常以某种动物或图腾标记作为族徽。商王室既以祖先神话建构王权合法性，也可能以玄鸟或类似鸟类形象标识自身族群，从而在征服、统治过程中维系内部认同。  
+
+• 含义与功能的争议  
+  － 有学者主张，商代的鸟形纹饰仅是装饰性或祭祀性符号，与《诗》《史》所述玄鸟神话并无直接对应关系；鸟的造型可能泛指宗教观念中常见的“天鸟”意象，而非指明特定的“玄鸟”祖先。  
+  － 也有人质疑，《史记》玄鸟生契的神话多系后世汉人整合诸传说而成，其真实性与商代本土祭祀传统未必完全契合，考古材料未能提供直接的“玄鸟与商王血统”关联铭文。  
+  － 另有观点认为，商代的“鸟图腾”在不同地区与时期具有多重含义：既有保护辞神意象，也有表达生育、再生与王权正统的功能，因此将其简单归为“玄鸟图腾”可能过于单一化。  
+
+综上所述，玄鸟传说在商族起源神话中的演变体现了从诗歌礼赞、史家神话化到地方文献自我标识的多层递进；而考古证据虽能证明商代普遍崇鸟，但其与玄鸟神话及商王室图腾血缘认同的直接关联依然存在较大争议。当前学界普遍倾向于认为，玄鸟既是商王权神授合法性的文化符号，也是商人群体内部认同与外部区隔的图腾符号，但其具体原型与功能需要结合更多出土铭文与宗教祭祀遗存进行系统考察。
+2025-10-07 23:11:36,842 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=ab9e499a-8026-4e1a-8e31-36c68bccc3aa response_code=200
+2025-10-07 23:11:36,843 - INFO - OpenAI模型回答: 核心问题  
+1. 《商颂》的成书年代及作者归属直接关系到其作为研究商代历史与先公事迹的第一手文献价值。  
+2. 若成书时期为商代，则《商颂》中所载祭祀祖先、歌颂商王功绩的内容可作为商代贵族社会结构、宗法制度和宗教信仰的当代记载；若为周代乃至更晚期的作品，则多带有周人对商代的回顾性建构和政治化阐释，其史料可信度需重新审视。  
+
+主要学派观点  
+一、商诗说  
+- 主张《商颂》成书于商代晚期或商—周更替之际，由商王室贵族或祭祀人员创作。  
+- 依据：  
+  • 诗中多用“玄冥”“震惊百工”“胡不翼翼”等语，契合商代祭祀仪轨；  
+  • 部分典礼性词汇与甲骨卜辞、殷商青铜器铭文术语高度吻合；  
+  • 经传所持〈毛诗〉对篇章排列与注疏多保留商字文化印迹。  
+
+二、周诗说  
+- 认为《商颂》为周初或西周中晚期学者为宣扬“戎夏序”的政治合法性而伪托商人之作。  
+- 依据：  
+  • 诗中屡见“天命”“克绍箕裘”等西周王室意识形态用语，并夹杂周礼制度描述；  
+  • 与《周颂》《大雅》《小雅》风格和编次具有系统平衡的政治编撰意图；  
+  • 出土竹简（秦简、楚简）中《诗经》版本已调整《商颂》篇序，疑为西周—春秋期间的学术编置。  
+
+三、折中或新证说  
+- 部分学者提出：作品主体成于商代，但后经西周学者的增补、删改和注疏整理。  
+- 依据：  
+  • 出土马王堆帛书、郭店楚简等传本中，“经传分离”与殷周异文并存，显示文本在西周—春秋已有重编活动；  
+  • 青铜器铭文与甲骨文对应的个别诗句真实度较高，而谈及周礼政治的段落疑为后人附会。  
+
+多维论证  
+1. 文献内部语言批评  
+   – 商词与周词区分：统计同一本文献外的商代关键词出现频率，与《商颂》相比对；  
+   – 句法、音韵特征：借助中古音重构技术，考察是否与商代语音系统相符。  
+2. 考古出土材料对比  
+   – 甲骨卜辞与商颂祭祀用语的异同；  
+   – 殷周青铜器铭文中“祖考”“先王”“文王”“武丁”等词汇的用法；  
+   – 战国楚简、秦简的《诗经》本，对照篇序与字句流变。  
+3. 历史背景与政治意图分析  
+   – 西周初期灭商后的文化整合政策；  
+   – 周人通过祭祀商祖以合法化统治的需要；  
+   – 春秋战国诸侯文化竞争中的“兴古抑今”倾向。  
+
+学说差异比较  
+1. 编撰主体与动机  
+   – 商诗说：原始宗教仪式记录；  
+   – 周诗说：王权政治工具；  
+2. 文本可信度  
+   – 商诗说倾向于高可信度、直接史料；  
+   – 周诗说则需严加“解构”与“政治化”审视。  
+3. 研究方法侧重  
+   – 商诗说更依赖考古实物与语言学；  
+   – 周诗说则结合制度史、礼制史与思想史。  
+
+对商人诸先公事迹考证的影响  
+1. 年代定位不同，直接决定《商颂》作为史料的原初性或二次建构属性。若属商代原作，可补充殷商世系、重大征伐、祭祀制度等史实；若为周人附会，则只能反映周代对商人的集体记忆与政治叙事。  
+2. 影响先公人名、功绩的真实性：如“武乙”“盘庚”“武丁”等人物事迹，若取自商代文献，补充甲骨记载；若为后世附会，则需结合同代铭文与史传，予以甄别。  
+3. 决定考古发掘与文献校证的优先级：认证《商颂》内部可信句段，可作为考古现场命名、墓葬归属、文化层划定的辅助手段；若整体为周代产物，则主要将出土铭刻作为主证。  
+4. 提示对商—周文化交融与分化的再认识：无论学说取向，争鸣本身促使学界更注重商代社会内部的自我表达与周人对其解读的演变轨迹。
+2025-10-07 23:11:38,253 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=e829d733-0bc2-4d3e-afe0-a8d6634b7a89 response_code=200
+2025-10-07 23:11:38,254 - ERROR - 回答问题时出错: 无响应
+2025-10-07 23:11:38,620 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=ff39efbd-6f17-46d3-83b9-0cdefbd04430 response_code=200
+2025-10-07 23:11:38,621 - INFO - 评分结果: 要点命中：考生答案准确指出《商颂》、《史记》中玄鸟相关的神话叙述，以及上博简《子羔》篇的文字，说明玄鸟与商族起源的关联，以及在这些文献中玄鸟的象征性和族群认同作用。考生还提及考古证据中的鸟形造型及其潜在的图腾含义，并探讨了学术争议。
+失分点：考生未提及具体的学者观点或潜在的铭文证据，如《玄鸟妇壶》铭文和甲骨文分析，也未涉及地理背景的考证，缺乏对文献的直接比较论证和具体段落引证。
+维度评分：内容完整性=7；逻辑性=8；准确性=7；表达=9
+评分：8分
+2025-10-07 23:11:38,623 - INFO - 回答基本正确
+2025-10-07 23:11:42,266 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=bc2b3337-a443-4286-bfa0-ec44a8588c40 response_code=200
+2025-10-07 23:11:42,267 - ERROR - 回答问题时出错: 无响应
+2025-10-07 23:12:10,963 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=5fc1d575-930f-4441-a525-80916024f446 response_code=200
+2025-10-07 23:12:10,964 - ERROR - 回答问题时出错: 无响应
+2025-10-07 23:12:38,272 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=37b8937a-7152-4006-936b-08ad98ff5cf1 response_code=200
+2025-10-07 23:12:38,273 - INFO - 评分结果: 要点命中：考生答案较好地涵盖了商诗说和周诗说的核心观点，并提出了折中说，分析了《商颂》成书年代对其历史价值的影响，还详细讨论了多维论证方法，如语言批评、考古资料对比等。同时提到对商人先公事迹考证的影响。
+
+失分点：答案未能详细参考学者如王国维对于西周说的具体见解，缺少关于具体实物证据的数量比较和特征分析，也未引用具体传世文献对于商诗说与周诗说的原始记载。此外，学说比较部分仍然较为概括，缺乏具体的实物支持和文献佐证细节。
+
+维度评分：内容完整性=8；逻辑性=8；准确性=7；表达=8
+
+评分：8分
+2025-10-07 23:12:38,273 - INFO - 回答基本正确
+2025-10-07 23:12:40,669 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=98c5c554-620e-4f3a-a9b2-303d1d71a666 response_code=200
+2025-10-07 23:12:40,670 - ERROR - 回答问题时出错: 无响应
+2025-10-07 23:12:53,383 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=752b7c20-13d1-4ece-aafd-c9d50d7ebb30 response_code=200
+2025-10-07 23:12:53,384 - ERROR - 回答问题时出错: 无响应
+2025-10-07 23:13:08,704 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=f0ac52e6-11f0-412b-963c-81bd46893396 response_code=200
+2025-10-07 23:13:08,705 - ERROR - 回答问题时出错: 无响应
+2025-10-07 23:14:09,802 - ERROR - 回答问题时出错: Error communicating with OpenAI
+2025-10-07 23:14:12,533 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=7d2cf152-9387-4cef-a357-30482023b412 response_code=200
+2025-10-07 23:14:12,534 - ERROR - 回答问题时出错: 无响应
+2025-10-07 23:15:40,224 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=7e19a57f-1d76-4a41-bf56-e82377eb2924 response_code=200
+2025-10-07 23:15:40,225 - ERROR - 回答问题时出错: 无响应
+2025-10-07 23:16:12,725 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=e25201e9-69ad-4bf7-8f8c-c40f03b2c959 response_code=200
+2025-10-07 23:16:12,726 - ERROR - 回答问题时出错: 无响应
+2025-10-07 23:16:12,730 - INFO - 进度: 79/79 (100.0%)
+2025-10-07 23:16:12,730 - INFO - 当前得分: 165/790
+2025-10-07 23:16:13,745 - INFO - 测评完成: 总得分 165/790 (20.9%)
+2025-10-07 23:16:15,761 - INFO - 
+============= 评测总结 =============
+评测时间: 2025-10-07 23:16:15
+处理文件: 评测/o4mini_qa.jsonl
+总问题数: 79
+总得分: 165/790
+准确率: 20.9%
+运行时间: 4795.82 秒 (79.93 分钟)
+
+学科领域统计:
+学科领域            问题数      得分       总分       准确率        平均用时      
+-----------------------------------------------------------------
+考古              34       103      340      30.3%      178.18秒
+中国古代文学          1        0        10       0.0%      208.76秒
+历史地理学           11       21       110      19.1%      250.93秒
+中国古典文献学         7        7        70       10.0%      187.71秒
+汉语言文字学          5        0        50       0.0%      181.51秒
+中国古代史           20       34       200      17.0%      205.79秒
+文物              1        0        10       0.0%      259.30秒
+
+历史分期统计:
+历史分期            问题数      得分       总分       准确率        平均用时      
+-----------------------------------------------------------------
+新石器时代（含夏）       16       37       160      23.1%      178.95秒
+东周、秦、西汉         2        0        20       0.0%      214.24秒
+商、新石器时代（含夏）     2        9        20       45.0%      134.45秒
+东周              8        19       80       23.8%      163.48秒
+西周              7        7        70       10.0%      181.80秒
+西汉              17       13       170      7.6%      260.48秒
+商               5        16       50       32.0%      178.20秒
+秦               3        6        30       20.0%      198.37秒
+东周、西周           1        0        10       0.0%      196.65秒
+商、西汉            1        6        10       60.0%      145.80秒
+东周、西汉           1        0        10       0.0%      219.54秒
+秦、西汉            8        23       80       28.7%      230.25秒
+商、西周            2        0        20       0.0%      158.18秒
+东周、秦            2        13       20       65.0%      163.75秒
+东周、商、西周         1        0        10       0.0%      219.97秒
+东周、商、西周、西汉      1        8        10       80.0%      89.60秒
+东周、商、新石器时代（含夏）、西汉 1        8        10       80.0%      29.95秒
+东周、西周、西汉        1        0        10       0.0%      181.13秒
+
+核心目的统计:
+核心目的            问题数      得分       总分       准确率        平均用时      
+-----------------------------------------------------------------
+事实呈现、检索         2        0        20       0.0%      223.43秒
+分析推论、特征描述       4        15       40       37.5%      177.36秒
+分析推论、检索         2        6        20       30.0%      192.62秒
+分析推论            39       68       390      17.4%      208.56秒
+事实呈现            1        0        10       0.0%      192.34秒
+事实呈现、分析推论       12       41       120      34.2%      192.67秒
+特征描述            1        0        10       0.0%      234.31秒
+信度考据            1        0        10       0.0%      208.76秒
+事实呈现、信度考据、分析推论  5        8        50       16.0%      179.82秒
+事实呈现、分析推论、特征描述  3        7        30       23.3%      150.64秒
+信度考据、分析推论       4        0        40       0.0%      196.92秒
+分析推论、检索、特征描述    1        0        10       0.0%      196.65秒
+信度考据、分析推论、识读    1        5        10       50.0%      154.65秒
+事实呈现、信度考据、分析推论、特征描述 3        15       30       50.0%      170.27秒
+==================================
+
+2025-10-07 23:16:15,763 - INFO - 总运行时间: 4795.82 秒 (79.93 分钟)

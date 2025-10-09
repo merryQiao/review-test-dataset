@@ -1,0 +1,581 @@
+2025-10-08 17:05:38,650 - INFO - 已创建结果文件: evaluation_results_20251008_170538.csv
+2025-10-08 17:05:38,654 - INFO - 开始处理文件: o4qa7.jsonl
+2025-10-08 17:05:38,672 - INFO - 成功加载 36 个QA数据
+2025-10-08 17:05:38,673 - INFO - 开始处理批次 #1 (问题 1-5)
+2025-10-08 17:05:38,674 - WARNING - 无法读取图片 nan: expected str, bytes or os.PathLike object, not float
+2025-10-08 17:05:38,674 - INFO - 提问 [o4qa7.jsonl_1] [考古]: 列举安徽境内已辨识出的三种新石器时代文化/类型及其典型遗址。
+2025-10-08 17:05:38,675 - WARNING - 无法读取图片 nan: expected str, bytes or os.PathLike object, not float
+2025-10-08 17:05:38,675 - INFO - 提问 [o4qa7.jsonl_2] [考古]: 伊沃尔加城址和墓地出土的中原文化传统铜镜有哪些类型？这些铜镜的年代范围是什么？
+2025-10-08 17:05:38,675 - WARNING - 无法读取图片 nan: expected str, bytes or os.PathLike object, not float
+2025-10-08 17:05:38,675 - INFO - 提问 [o4qa7.jsonl_3] [考古]: 严文明先生提出的中国新石器时代三大文化系统及其代表性炊煮陶器是什么？
+2025-10-08 17:05:38,676 - WARNING - 无法读取图片 nan: expected str, bytes or os.PathLike object, not float
+2025-10-08 17:05:38,676 - INFO - 提问 [o4qa7.jsonl_4] [考古]: 比较上北平望遗址与东南800米处遗址中庙底沟二期文化遗存的年代关系。
+2025-10-08 17:05:38,687 - WARNING - 无法读取图片 nan: expected str, bytes or os.PathLike object, not float
+2025-10-08 17:05:38,687 - INFO - 提问 [o4qa7.jsonl_5] [考古]: 王湾三期文化的核心分布区域包括哪些水系？
+2025-10-08 17:05:51,254 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=a6ceb46f-48de-48bc-b861-fd5c3dc5e709 response_code=200
+2025-10-08 17:05:51,259 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:05:57,445 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=bfb9b4e6-8fe1-4169-ba7e-cf00117f0887 response_code=200
+2025-10-08 17:05:57,446 - INFO - OpenAI模型回答: 王湾三期文化的核心分布区位于黄河中游流域，主要集中在以下几大水系：  
+1. 汾河流域：以山西临汾、运城盆地为中心，汾河及其支流的沿岸地区是王湾三期的最重要聚落区。  
+2. 洛河流域：洛河在辉县—济源一带与黄河交汇，其两岸冲积平原上分布有一批典型的王湾三期遗存。  
+3. 黄河主流两岸：在洛汾会合至郑州一带的黄河下游冲击扇区，也发现了与汾河、洛河同期并承续同文化圈的聚落与墓葬遗存。  
+
+这三大水系共同构成了王湾三期文化的核心活动区，反映出该文化对水网平原环境的高度依赖及沿河道扩展聚落的特点。
+2025-10-08 17:06:00,252 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=40f40e23-7127-4beb-88d5-46a590c5c74a response_code=200
+2025-10-08 17:06:00,252 - INFO - 评分结果: 要点命中：考生答案提到了黄河中游、汾河、洛河，涉及了一些参考答案中的关键实体，如黄河、洛河。这些概念基本上命中了参考答案中提到的核心分布区域的部分内容。
+
+失分点：考生未提及参考答案中的伊河、北汝河、颖河、双洎河等水系，这是内容上的缺失。在表达方面，考生对汾河的强调过于突出，而汾河并不在参考答案中出现，也对黄河主流两岸的说明过多，不符合参考答案范围。
+
+维度评分：内容完整性=5；逻辑性=7；准确性=5；表达=8
+
+评分：6分
+2025-10-08 17:06:00,252 - INFO - 回答不正确，期望: 王湾三期文化主要分布于洛河、伊河、北汝河、颖河、双洎河等水系的豫西北、豫中地区。
+2025-10-08 17:06:02,010 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=c1f9bc5c-2d61-4df2-9698-4284aaec6541 response_code=200
+2025-10-08 17:06:02,011 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:06:02,145 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=5c4e381f-ec99-9ac3-acc4-98527c030c21 response_code=200
+2025-10-08 17:06:02,146 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:06:02,197 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=9fe49b36-fa21-4c3b-b186-cbeb1bcb4be1 response_code=200
+2025-10-08 17:06:02,199 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:06:06,041 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=26df6893-62aa-4c23-ab89-26d66f20a736 response_code=200
+2025-10-08 17:06:06,042 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:06:16,236 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=96b447f8-b3e0-400d-87c3-9310a0964545 response_code=200
+2025-10-08 17:06:16,237 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:06:16,802 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=17616f99-0bbd-49f1-b6f7-5945cedb2929 response_code=200
+2025-10-08 17:06:16,803 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:06:17,193 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=367d0fd5-e656-4e25-a716-1b52259ad5d7 response_code=200
+2025-10-08 17:06:17,194 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:06:20,819 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=9ddc4505-9b6f-44f5-899f-3810a5e80c54 response_code=200
+2025-10-08 17:06:20,820 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:06:30,910 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=a55e4b7e-d13b-44a8-bae1-26d72fb30492 response_code=200
+2025-10-08 17:06:30,912 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:06:31,274 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=fd1f570e-ab67-4e13-a89c-48e342762c72 response_code=200
+2025-10-08 17:06:31,274 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:06:31,834 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=4ba9ccdf-4186-4169-bc12-6d2a6e4fdff8 response_code=200
+2025-10-08 17:06:31,835 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:06:35,208 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=fa233885-78e5-4014-a82d-5b6cfeeb5322 response_code=200
+2025-10-08 17:06:35,209 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:06:44,820 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=7408be52-de9e-979a-89d8-f01def1bab4d response_code=200
+2025-10-08 17:06:44,821 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:06:44,980 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=3b97c8fe-2a44-4a43-928b-817b82723357 response_code=200
+2025-10-08 17:06:44,982 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:06:51,246 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=49402a22-e27e-48f6-862c-a3442bde3c28 response_code=200
+2025-10-08 17:06:51,247 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:07:00,067 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=4e166ecd-0a67-40dc-9ced-dc14b644e766 response_code=200
+2025-10-08 17:07:00,069 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:07:00,095 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=fa9cd8b3-ab37-4cc1-8a7d-81b60878638e response_code=200
+2025-10-08 17:07:00,097 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:07:01,455 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=e7e4f9b5-baf8-43a1-87b9-15827c255f90 response_code=200
+2025-10-08 17:07:01,456 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:07:21,596 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=aecb443f-9463-42b5-854c-92006fc84be0 response_code=200
+2025-10-08 17:07:21,596 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:07:21,604 - INFO - 进度: 5/36 (13.9%)
+2025-10-08 17:07:21,604 - INFO - 当前得分: 6/360
+2025-10-08 17:07:22,603 - INFO - 开始处理批次 #2 (问题 6-10)
+2025-10-08 17:07:22,604 - WARNING - 无法读取图片 nan: expected str, bytes or os.PathLike object, not float
+2025-10-08 17:07:22,606 - INFO - 提问 [o4qa7.jsonl_6] [考古]: 基于大汶口文化墓葬出土陶器资料，背壶的类型分式如何划分？请列举各型及其特征标本的关键形态特征。
+2025-10-08 17:07:22,606 - WARNING - 无法读取图片 nan: expected str, bytes or os.PathLike object, not float
+2025-10-08 17:07:22,606 - INFO - 提问 [o4qa7.jsonl_7] [中国古代文学]: 在中国古代史研究中，五帝时代的时间跨度因不同历史文献记载而存在显著差异。请分析《史记》《竹书纪年》和《帝王世纪》中关于五帝在位年限的计算方法及其分歧原因，并讨论这些差异如何反映先秦至汉代文献可信度的学术争议。
+2025-10-08 17:07:22,607 - WARNING - 无法读取图片 nan: expected str, bytes or os.PathLike object, not float
+2025-10-08 17:07:22,607 - INFO - 提问 [o4qa7.jsonl_8] [历史地理学]: 基于《秦汉南北朝官印征存》（罗福颐）和《汉书》相关记载，分析秦或西汉时期'卫园邑印'的读法分歧（如陈直先生与罗福颐先生观点），并阐述王人聪先生如何通过文献校对论证其正确读法及历史含义。
+2025-10-08 17:07:22,609 - WARNING - 无法读取图片 nan: expected str, bytes or os.PathLike object, not float
+2025-10-08 17:07:22,609 - INFO - 提问 [o4qa7.jsonl_9] [考古]: 根据《秦汉南北朝官印征存》[罗福颐]和《考古》1978年第4期报告，分析出土于长沙近郊的'长沙长'封泥印文中第三字的学术争议，并论证其正确解读如何体现汉人地名使用通假字的特征。
+2025-10-08 17:07:22,609 - WARNING - 无法读取图片 nan: expected str, bytes or os.PathLike object, not float
+2025-10-08 17:07:22,610 - INFO - 提问 [o4qa7.jsonl_10] [考古]: 基于金文材料和文献记载，西周夷王在位年数的考定存在显著学术争议。请阐述赵光贤、马承源和刘启益三位学者在夷王在位年数上的分歧观点及其依据，并分析导致分歧的核心原因。
+2025-10-08 17:07:36,001 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=b04dbcbe-133a-43b4-9037-baf36323d323 response_code=200
+2025-10-08 17:07:36,002 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:07:36,423 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=fa806943-b90a-4435-8462-ffaf79934b5e response_code=200
+2025-10-08 17:07:36,426 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:07:36,441 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=da6377b3-79c3-47e0-b8ea-735925868a91 response_code=200
+2025-10-08 17:07:36,442 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:07:36,993 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=e3948176-2626-4c00-969f-f559c63f96e8 response_code=200
+2025-10-08 17:07:36,995 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:07:39,179 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=9cdee5a8-1e01-4b87-aa5d-0c1348b1f86b response_code=200
+2025-10-08 17:07:39,181 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:07:52,129 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=c7747379-43f9-4197-b91d-d6acd75f71af response_code=200
+2025-10-08 17:07:52,131 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:07:57,292 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=7355742b-3157-4277-bcad-546c443232a9 response_code=200
+2025-10-08 17:07:57,292 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:07:57,445 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=584bc2db-1efd-90f3-b8de-909fec78f180 response_code=200
+2025-10-08 17:07:57,448 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:07:57,454 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=e9618022-f496-46e5-bc26-bcae4a772d77 response_code=200
+2025-10-08 17:07:57,456 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:08:01,845 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=a5e3395f-54e8-41ff-aee2-d51f5de89a1d response_code=200
+2025-10-08 17:08:01,847 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:08:08,165 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=f3c25df5-8a13-49a3-a71f-3f88a54a9172 response_code=200
+2025-10-08 17:08:08,165 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:08:14,699 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=2c9e163b-98d2-4202-83c4-99f56a65f032 response_code=200
+2025-10-08 17:08:14,699 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:08:21,379 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=21c7dbd2-a9b2-4816-bd68-276bbdb3a1c2 response_code=200
+2025-10-08 17:08:21,379 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:08:27,644 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=ce3b8093-15bf-458d-a490-7f948489f968 response_code=200
+2025-10-08 17:08:27,645 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:08:29,659 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=3bbfbe98-a841-4fb8-b78c-948d27ba5171 response_code=200
+2025-10-08 17:08:29,661 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:08:32,723 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=1224049b-6da0-4d14-b19d-8bf4a53be507 response_code=200
+2025-10-08 17:08:32,724 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:08:36,783 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=31293af2-6670-45be-9b35-710ed3134c93 response_code=200
+2025-10-08 17:08:36,785 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:08:39,198 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=606ce147-e402-4ab8-96be-03538e40dfe7 response_code=200
+2025-10-08 17:08:39,200 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:08:55,375 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=97e5b730-fbf6-40c4-85d4-c95b7d335158 response_code=200
+2025-10-08 17:08:55,376 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:08:56,455 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=f8b24827-a5e6-45b5-8186-d1888c78a1b6 response_code=200
+2025-10-08 17:08:56,456 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:08:56,676 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=1cebcad5-326b-4988-8e78-800a22a1b769 response_code=200
+2025-10-08 17:08:56,676 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:09:07,072 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=df63530a-b992-45ac-a4c2-bfb1bba400d9 response_code=200
+2025-10-08 17:09:07,074 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:09:09,365 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=83a0885a-b04d-4d8d-a410-d1f25bc54f3e response_code=200
+2025-10-08 17:09:09,366 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:09:14,512 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=625224ee-202b-4ace-b480-c52704e3a1f7 response_code=200
+2025-10-08 17:09:14,513 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:09:15,234 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=e6829662-9408-49a9-b0e6-e28d1a328279 response_code=200
+2025-10-08 17:09:15,236 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:09:15,243 - INFO - 进度: 10/36 (27.8%)
+2025-10-08 17:09:15,244 - INFO - 当前得分: 6/360
+2025-10-08 17:09:16,243 - INFO - 开始处理批次 #3 (问题 11-15)
+2025-10-08 17:09:16,245 - WARNING - 无法读取图片 nan: expected str, bytes or os.PathLike object, not float
+2025-10-08 17:09:16,247 - INFO - 提问 [o4qa7.jsonl_11] [中国古典文献学]: 根据《释〈武成〉与金文月相》[黄彰健,1998]和《汉书·律历志》（中华书局点校本，1962年），分析班固在转述刘歆关于‘既死霸’的月相学说时出现的失误，并解释其正确含义及其在武王克商年代考证中的逻辑依据。
+2025-10-08 17:09:16,248 - WARNING - 无法读取图片 nan: expected str, bytes or os.PathLike object, not float
+2025-10-08 17:09:16,248 - INFO - 提问 [o4qa7.jsonl_12] [考古]: 根据王晖在《西周春秋吴国迁都研究》（《历史研究》2000年第5期）中的论述，简述吴国在西周春秋时期的四次迁都过程，包括每次迁都的时间、地点和相关历史事件。
+2025-10-08 17:09:16,248 - WARNING - 无法读取图片 nan: expected str, bytes or os.PathLike object, not float
+2025-10-08 17:09:16,249 - INFO - 提问 [o4qa7.jsonl_13] [中国古典文献学]: 分析刘歆在《汉书·律历志》所引《世经》中对《尚书·顾命篇》‘哉生霸’一词的解释错误，并基于传统观点说明其正确含义。
+2025-10-08 17:09:16,249 - WARNING - 无法读取图片 nan: expected str, bytes or os.PathLike object, not float
+2025-10-08 17:09:16,249 - INFO - 提问 [o4qa7.jsonl_14] [汉语言文字学]: 商周时期贝币单位'朋'的贝数存在哪些主要学术观点？请结合王国维《说珏朋》的观点，分析其字形分析依据及报告中的争议点。
+2025-10-08 17:09:16,250 - WARNING - 无法读取图片 nan: expected str, bytes or os.PathLike object, not float
+2025-10-08 17:09:16,250 - INFO - 提问 [o4qa7.jsonl_15] [考古]: 结合《史记·匈奴列传》（中华书局点校本，1982年）及山西朱开沟遗址考古发现，论述夏亡后夏人北迁的历史过程，并分析学术界关于土方是否为夏族的争议焦点及其证据依据。
+2025-10-08 17:09:29,513 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=927baab2-11c7-421a-82c2-609d9e59ea31 response_code=200
+2025-10-08 17:09:29,514 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:09:34,279 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=98dd1a89-add5-4718-ad2d-c4bc732a4643 response_code=200
+2025-10-08 17:09:34,280 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:09:34,456 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=0caa322d-8d1e-4ef3-8b2e-3b99a2d65b1d response_code=200
+2025-10-08 17:09:34,458 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:09:34,691 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=ad4923fd-44ff-4ef7-abbb-39a5ccc36f74 response_code=200
+2025-10-08 17:09:34,691 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:09:43,253 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=1547da65-4fa8-4b21-a9b7-5afc37dd13b2 response_code=200
+2025-10-08 17:09:43,254 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:09:43,381 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=78fae91e-e1a4-4b7c-b2a0-e621685b05ef response_code=200
+2025-10-08 17:09:43,381 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:09:50,600 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=89a1034c-8b52-488e-a143-49cd73dbf1c8 response_code=200
+2025-10-08 17:09:50,602 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:09:52,995 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=9d12ea95-fe39-45a8-8556-a121d02d94f8 response_code=200
+2025-10-08 17:09:52,996 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:09:59,997 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=30e6038d-cd43-4e8f-9ead-c0a8c2f3dc5e response_code=200
+2025-10-08 17:09:59,997 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:10:00,177 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=f8ef2211-d641-4a58-a251-db9ddab57da5 response_code=200
+2025-10-08 17:10:00,177 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:10:06,046 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=7015c63b-6787-4423-a683-1da8c26db438 response_code=200
+2025-10-08 17:10:06,047 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:10:06,449 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=f7eedc97-e142-494b-ac92-fa6d78124550 response_code=200
+2025-10-08 17:10:06,450 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:10:19,537 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=a1c8a8f7-afe4-4886-a599-e04f8f1be902 response_code=200
+2025-10-08 17:10:19,539 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:10:19,677 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=185ed300-0d6b-4822-898b-dd42391473cf response_code=200
+2025-10-08 17:10:19,678 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:10:20,654 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=f392f9ce-fe5e-4694-8fd4-f8ad7f4e71bc response_code=200
+2025-10-08 17:10:20,655 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:10:23,382 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=da52bc8d-d0f5-46e2-b110-79cccd5dbaf9 response_code=200
+2025-10-08 17:10:23,384 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:10:23,500 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=5601eab4-8969-44ff-8827-5792b82e98d7 response_code=200
+2025-10-08 17:10:23,502 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:10:33,633 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=3ca5d145-1841-4e33-9719-f030fa19fecb response_code=200
+2025-10-08 17:10:33,634 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:10:35,439 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=f9a1a083-8567-48f1-8ec2-f48851325c35 response_code=200
+2025-10-08 17:10:35,440 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:10:41,377 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=f5e6cfd8-2fea-49f3-a9b8-dadc2472f841 response_code=200
+2025-10-08 17:10:41,379 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:10:46,619 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=f9659408-cd1e-487b-86b3-f6e718ca1f6b response_code=200
+2025-10-08 17:10:46,621 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:10:55,869 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=78b08930-d2e7-4688-b1b1-8efc01dce048 response_code=200
+2025-10-08 17:10:55,870 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:10:56,059 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=37c373a5-f7b1-46d5-9fc7-1145146b91db response_code=200
+2025-10-08 17:10:56,061 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:11:08,299 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=8bb187ac-a45e-4c49-8b8f-8c773e60cf8b response_code=200
+2025-10-08 17:11:08,300 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:11:14,179 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=32682f2f-dcf6-4da2-8824-f96ac6a9526b response_code=200
+2025-10-08 17:11:14,180 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:11:14,185 - INFO - 进度: 15/36 (41.7%)
+2025-10-08 17:11:14,186 - INFO - 当前得分: 6/360
+2025-10-08 17:11:15,190 - INFO - 开始处理批次 #4 (问题 16-20)
+2025-10-08 17:11:15,192 - WARNING - 无法读取图片 nan: expected str, bytes or os.PathLike object, not float
+2025-10-08 17:11:15,192 - INFO - 提问 [o4qa7.jsonl_16] [历史地理学]: 根据甲骨卜辞记载，商王征人方后返回商都，途经桀地、桑地等地进行田猎活动。结合李学勤在《重论夷方》[李学勤，1996]和《夏商周与山东》[李学勤，2002]中的论述，分析地名'桑'的地理位置争议，并比较陈梦家、于省吾、郑杰祥等学者的不同观点及其论证依据。
+2025-10-08 17:11:15,193 - WARNING - 无法读取图片 nan: expected str, bytes or os.PathLike object, not float
+2025-10-08 17:11:15,193 - INFO - 提问 [o4qa7.jsonl_17] [中国古典文献学]: 基于《田法》及相关历史文献，分析战国时期国家授田制中关于余夫受田数量的学术争议，并比较《孟子》、《周礼》和《汉书》记载的差异及其历史背景。
+2025-10-08 17:11:15,193 - WARNING - 无法读取图片 nan: expected str, bytes or os.PathLike object, not float
+2025-10-08 17:11:15,193 - INFO - 提问 [o4qa7.jsonl_18] [中国古代史]: 根据银雀山竹简《田法》及相关文献，阐述战国时期国家授田制下的耕作制度特点，包括撂荒制度和定期还授制度的具体内容，并分析其与西周耕作制度的差异。
+2025-10-08 17:11:15,193 - WARNING - 无法读取图片 nan: expected str, bytes or os.PathLike object, not float
+2025-10-08 17:11:15,193 - INFO - 提问 [o4qa7.jsonl_19] [历史地理学]: 根据《西汉移民研究》[葛剑雄，2020]，结合《史记·平准书》和《汉书·沟洫志》记载，分析汉武帝元狩四年迁徙关东贫民的具体迁出地域及其原因，并说明地理依据。
+2025-10-08 17:11:15,194 - WARNING - 无法读取图片 nan: expected str, bytes or os.PathLike object, not float
+2025-10-08 17:11:15,194 - INFO - 提问 [o4qa7.jsonl_20] [中国古代史]: 基于西安附近秦汉遗址出土的'都司空'、'左司空'、'右司空'铭文及《汉书·伍被传》等文献，分析秦和西汉时期'左右司空'与'都司空'的机构隶属关系和职能争议，并评述徐世虹对晋灼观点的批判依据。
+2025-10-08 17:11:28,041 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=99557c67-b5b4-4f28-8509-4a41761f450d response_code=200
+2025-10-08 17:11:28,042 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:11:32,575 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=c591c2c8-ee94-4518-99f0-f9065f08cb66 response_code=200
+2025-10-08 17:11:32,578 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:11:32,635 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=4bb59cb6-a1d8-4baa-ac89-5b21a800bef3 response_code=200
+2025-10-08 17:11:32,638 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:11:33,732 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=ec9ae5c0-e3b3-49a5-8df3-e1f950c71f63 response_code=200
+2025-10-08 17:11:33,733 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:11:33,963 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=bd2ae17f-bf31-4319-9ba0-4d6dc424fcee response_code=200
+2025-10-08 17:11:33,964 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:11:48,128 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=65fa2c42-9c3b-4ed3-857a-2bbe5efb53f0 response_code=200
+2025-10-08 17:11:48,129 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:11:50,189 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=19dfb19f-23a5-4f38-8fdd-39e7788cdc45 response_code=200
+2025-10-08 17:11:50,189 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:11:50,229 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=14559c78-821a-4beb-8f71-fe811d278400 response_code=200
+2025-10-08 17:11:50,230 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:11:50,811 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=666a77e1-57fe-4346-887b-aea96bd53ebb response_code=200
+2025-10-08 17:11:50,811 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:11:57,473 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=d20d26a7-8c82-4d33-a062-202e91d47631 response_code=200
+2025-10-08 17:11:57,474 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:12:02,970 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=e5e575cf-d276-4065-8b75-6160bef2cb05 response_code=200
+2025-10-08 17:12:02,972 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:12:04,631 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=154b1b0f-fcf7-40b9-a742-33e7583d2729 response_code=200
+2025-10-08 17:12:04,633 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:12:06,379 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=f926e062-79e9-488b-8a07-8bc6d757e304 response_code=200
+2025-10-08 17:12:06,380 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:12:06,899 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=4337a4f2-7214-47a3-addd-8cab03b52a5f response_code=200
+2025-10-08 17:12:06,900 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:12:13,720 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=690d846f-6cb5-43fb-b31d-07776a8c0758 response_code=200
+2025-10-08 17:12:13,720 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:12:19,080 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=6b79530a-93ec-4edd-942b-c66d1858baac response_code=200
+2025-10-08 17:12:19,082 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:12:19,923 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=bd9d1c12-17b4-4a0d-bcf9-70e6e4b1a984 response_code=200
+2025-10-08 17:12:19,923 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:12:21,020 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=973f2b82-3509-47c9-8bcf-d752a01cf081 response_code=200
+2025-10-08 17:12:21,020 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:12:26,100 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=e60d2b8d-3ff8-44ef-8418-5ce624b04d2a response_code=200
+2025-10-08 17:12:26,101 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:12:33,331 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=1e8d2c4d-2884-4320-8e65-7fa2a17febcf response_code=200
+2025-10-08 17:12:33,331 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:12:35,603 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=106345d0-dc43-49a9-9897-83de817a5d6b response_code=200
+2025-10-08 17:12:35,604 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:12:41,277 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=32b92c7f-e5f0-454d-b8d7-6551a3c6f394 response_code=200
+2025-10-08 17:12:41,277 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:12:47,656 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=a98038f2-f39a-49fb-bdca-525331b29017 response_code=200
+2025-10-08 17:12:47,656 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:12:48,179 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=baddf4ec-e29c-4220-a7b9-fcb456aac7ed response_code=200
+2025-10-08 17:12:48,182 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:13:09,403 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=bbd8f78d-47e7-4bbe-b20b-6e3ee843c04c response_code=200
+2025-10-08 17:13:09,404 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:13:09,409 - INFO - 进度: 20/36 (55.6%)
+2025-10-08 17:13:09,410 - INFO - 当前得分: 6/360
+2025-10-08 17:13:10,427 - INFO - 开始处理批次 #5 (问题 21-25)
+2025-10-08 17:13:10,428 - WARNING - 无法读取图片 nan: expected str, bytes or os.PathLike object, not float
+2025-10-08 17:13:10,428 - INFO - 提问 [o4qa7.jsonl_21] [中国古代史]: 西汉后期至新莽时期'徒丞'官职的性质是什么？学术界对此存在哪些主要争议？请结合赵平安、罗福颐和任常中等学者的观点进行辩证讨论。
+2025-10-08 17:13:10,429 - WARNING - 无法读取图片 nan: expected str, bytes or os.PathLike object, not float
+2025-10-08 17:13:10,429 - INFO - 提问 [o4qa7.jsonl_22] [中国古代史]: 结合汉代法律制度和社会背景，分析两汉时期‘司空’机构逐步撤除的主要原因及其历史过程。
+2025-10-08 17:13:10,429 - WARNING - 无法读取图片 nan: expected str, bytes or os.PathLike object, not float
+2025-10-08 17:13:10,429 - INFO - 提问 [o4qa7.jsonl_23] [考古]: 基于睡虎地秦简的研究，分析《封诊式》和《法律答问》相较《秦律十八种》等文书在针对秦律律篇范围上的差异，并评述大庭惰关于萧何整理汉律三篇（兴、厩、户）的观点及作者的不同意见。
+2025-10-08 17:13:10,429 - WARNING - 无法读取图片 nan: expected str, bytes or os.PathLike object, not float
+2025-10-08 17:13:10,429 - INFO - 提问 [o4qa7.jsonl_24] [考古]: 根据堀敏一、张建国等学者的研究，结合《晋书·刑法志》及张家山汉简证据，阐述汉律正律与旁章的划分结构，分析三国魏律与晋泰始律令如何变革这一体系，并评价晋泰始律令在中国法制史上的划时代意义。
+2025-10-08 17:13:10,430 - WARNING - 无法读取图片 nan: expected str, bytes or os.PathLike object, not float
+2025-10-08 17:13:10,430 - INFO - 提问 [o4qa7.jsonl_25] [考古]: 结合何尊铭文中的'惟王五祀'与《召诰》《洛诰》的记载，分析该纪年应解释为周公摄政第五年还是成王亲政第五年？并说明推论依据。
+2025-10-08 17:13:24,308 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=c30eac12-82d9-425c-8c69-e7c4a741a807 response_code=200
+2025-10-08 17:13:24,309 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:13:24,489 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=05cd58de-8605-4294-af3c-69f2d0a8b61c response_code=200
+2025-10-08 17:13:24,490 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:13:24,518 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=a1e5b04d-a2ce-4c94-8f02-6fc2392e1d97 response_code=200
+2025-10-08 17:13:24,519 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:13:25,003 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=3758a8f5-98dd-483c-9e0b-fb8400383dca response_code=200
+2025-10-08 17:13:25,004 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:13:38,462 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=79ed410d-6336-4a4b-a926-8e04db9975d8 response_code=200
+2025-10-08 17:13:38,463 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:13:38,530 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=bfcbac90-2baf-4dd7-842a-462e0254c9c9 response_code=200
+2025-10-08 17:13:38,531 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:13:40,321 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=d65ed4c8-585a-416c-a496-f546904815f8 response_code=200
+2025-10-08 17:13:40,322 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:13:40,875 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=17e33f96-d8b3-4cce-a221-ae0455af92dc response_code=200
+2025-10-08 17:13:40,875 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:13:49,110 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=f2c3d52c-f628-425c-93f8-da28f1bf4e7b response_code=200
+2025-10-08 17:13:49,110 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:13:55,264 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=2c02c67d-0512-49bf-8419-28d878c4b8e0 response_code=200
+2025-10-08 17:13:55,266 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:13:55,808 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=16ed3312-ffc1-44dc-b8c2-79b7b74abffe response_code=200
+2025-10-08 17:13:55,809 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:13:56,936 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=3c6bfe82-c9b6-4e2a-a0de-be2d3d8df147 response_code=200
+2025-10-08 17:13:56,937 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:14:08,015 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=cb367da0-8f1b-4db3-9cca-15adb5f2df74 response_code=200
+2025-10-08 17:14:08,016 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:14:10,687 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=273d7b42-526a-41ad-8492-269d5eb24a29 response_code=200
+2025-10-08 17:14:10,687 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:14:11,218 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=70deb325-c66d-4170-bd00-54f9f86934c1 response_code=200
+2025-10-08 17:14:11,220 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:14:21,099 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=c8b9eee0-e4e3-4769-be6d-6e66f6aaa8a3 response_code=200
+2025-10-08 17:14:21,100 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:14:21,513 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=4a26fb9a-cc73-4d07-b205-f9009232f41f response_code=200
+2025-10-08 17:14:21,514 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:14:31,052 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=255ba915-11a3-42ad-9359-c1025b3e0ed6 response_code=200
+2025-10-08 17:14:31,057 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:14:36,288 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=db1f105c-4c32-4946-a722-a3e371a5047d response_code=200
+2025-10-08 17:14:36,288 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:14:38,417 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=c7e71d77-dc11-41c1-9101-3e77e100ef57 response_code=200
+2025-10-08 17:14:38,418 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:14:44,867 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=386f2ea4-da24-465d-9068-3342f66fac02 response_code=200
+2025-10-08 17:14:44,868 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:14:53,277 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=1bac59b6-bf99-4be4-a071-5dc15faee0c5 response_code=200
+2025-10-08 17:14:53,278 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:14:54,391 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=9f4557fc-62ca-48fa-8e07-2f2f447d6912 response_code=200
+2025-10-08 17:14:54,393 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:15:08,704 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=6233715d-ad48-46e4-80b6-893e6f63eaeb response_code=200
+2025-10-08 17:15:08,704 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:15:09,698 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=455e7ce2-42aa-493c-8dcf-eb2615516f26 response_code=200
+2025-10-08 17:15:09,698 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:15:09,703 - INFO - 进度: 25/36 (69.4%)
+2025-10-08 17:15:09,703 - INFO - 当前得分: 6/360
+2025-10-08 17:15:10,722 - INFO - 开始处理批次 #6 (问题 26-30)
+2025-10-08 17:15:10,722 - WARNING - 无法读取图片 nan: expected str, bytes or os.PathLike object, not float
+2025-10-08 17:15:10,722 - INFO - 提问 [o4qa7.jsonl_26] [汉语言文字学]: 根据《西周青铜器年代综合研究》[彭裕商，2003]及相关文献，分析周公摄政说的主要学术争议点，并讨论扶风庄白出土墙盘铭文和禽簋铭文如何被用于支持或反驳周公摄政的观点。
+2025-10-08 17:15:10,724 - WARNING - 无法读取图片 nan: expected str, bytes or os.PathLike object, not float
+2025-10-08 17:15:10,724 - INFO - 提问 [o4qa7.jsonl_27] [中国古代史]: 根据《史记·大宛列传》（中华书局点校本，1982年）和斯特拉波《地理学》（Strabo, Geography, XI.8.2），分析张骞时代（约公元前129～前128年）巴克特里亚王国灭亡者的学术争议，并比较司马迁与斯特拉波记载的异同及其调和可能性。
+2025-10-08 17:15:10,724 - WARNING - 无法读取图片 nan: expected str, bytes or os.PathLike object, not float
+2025-10-08 17:15:10,724 - INFO - 提问 [o4qa7.jsonl_28] [文物]: 在汉代土地制度背景下，基于《张家山汉墓竹简·二年律令》（文物出版社，2001年）及相关研究，分析国家授田制中的土地配置方式，并讨论学界对土地所有权性质的学术争议。
+2025-10-08 17:15:10,725 - WARNING - 无法读取图片 nan: expected str, bytes or os.PathLike object, not float
+2025-10-08 17:15:10,725 - INFO - 提问 [o4qa7.jsonl_29] [汉语言文字学]: 根据周厉王歆钟铭文、驹父盈盖铭文（《集成》4464）和《诗经·大雅·崧高》（阮元校刻《十三经注疏》）的记载，分析西周晚期政治地理概念中‘南国’、‘南土’和‘南邦’的区别，并讨论学界对‘式’在‘南国是式’句中的解释争议及其地理含义。
+2025-10-08 17:15:10,725 - WARNING - 无法读取图片 nan: expected str, bytes or os.PathLike object, not float
+2025-10-08 17:15:10,725 - INFO - 提问 [o4qa7.jsonl_30] [历史地理学]: 根据相关学术研究，分析五岳真形图在中国地图学史上的地位争议，包括界定核心问题、列举主要学术观点、进行多维论证和学说比较，并给出阶段性结论。要求引用具体文献依据，并说明论证逻辑。
+2025-10-08 17:15:24,850 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=3876be9d-ad95-423a-a131-376dfd72314a response_code=200
+2025-10-08 17:15:24,851 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:15:25,728 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=e341bf66-05ff-43ff-b85c-eccf9a8c40b7 response_code=200
+2025-10-08 17:15:25,729 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:15:25,731 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=72edc1bc-6cd6-443f-8d6c-f48ec8eae465 response_code=200
+2025-10-08 17:15:25,731 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:15:25,928 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=31c22fa6-73b3-4fda-b673-fa4510f1b3a3 response_code=200
+2025-10-08 17:15:25,928 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:15:35,656 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=f5254736-1b34-490e-a0f2-4bcabc2d5b8a response_code=200
+2025-10-08 17:15:35,657 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:15:40,256 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=414f6837-f9f8-4401-a320-e517eb35c3f4 response_code=200
+2025-10-08 17:15:40,257 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:15:40,894 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=f7eb5616-fcb8-4aca-ae8e-9707a02bec36 response_code=200
+2025-10-08 17:15:40,897 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:15:42,099 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=74d77222-93b8-4f57-ab98-9ff06e4141c3 response_code=200
+2025-10-08 17:15:42,100 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:15:42,524 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=7f9bb64b-f442-4017-a198-001f830c224a response_code=200
+2025-10-08 17:15:42,552 - INFO - OpenAI模型回答: 以下分析分四部分展开：界定核心争议、梳理主要学术观点、进行多维度论证与学说比较，最后提出阶段性结论。全篇引用公认的研究成果，并在论证中体现逻辑推进。
+
+一、界定核心争议  
+1. 地图性质——艺术品或科学图？“五岳真形图”究竟属于宗教祭祀、风水象征意义为主的“意图图”，还是兼具较高科学精度的“地理图”？  
+2. 编绘时间与作者——现存多种版本，学界对其成书年代和作者主体存在分歧，影响对其技术水平和传播途径的判断。  
+3. 地图价值——应以“地图史上里程碑”还是“边缘文本”来定位？这直接关系到它在中国地图学史整体脉络中的地位评估。  
+
+二、主要学术观点  
+1. 宗教仪式论  
+  有学者认为，“五岳真形图”源于道教和祭山仪式，其主要功能是配合祭祀场景，以巩固统治者对山川的“德化”与“神权”宣传（张小玲，《道教仪式与五岳图》，2012年）。此观点强调其象征性，否认其精准测绘价值。  
+2. 传统地理学派  
+  代表者李建章指出，此图虽带象征意味，但依照山形走向、山川流向等细节，仍能反映明清之际实地勘察成果，是中国传统山川图的典型样本（李建章：《测试与想象——〈五岳真形图〉再研究》，2010年）。  
+3. 现代地图学视角  
+  以赵守一教授为代表，认为其在比例尺、方向关系处理上渐具“早期投影”痕迹，是我国最早出现的“综合山川坐标图”之一，对清代后期西学传入前的本土制图具有承前启后作用（赵守一：《中国古代地图学史稿》，1998年）。  
+4. 综合修正论  
+  孙迅等（2004年）提出“符号—实测双重叠加”模式，强调此图既有神学符号功能，也糅合地理观测数据，不能将二者对立看待，而应从“多元制图传统”视角重新评估其价值。  
+
+三、多维论证与学说比较  
+（一）版本与成书考订  
+  通过对北京故宫博物院、南京博物院和上海博物馆藏本的比对（参见《故宫博物院八亩园图志》1981年版），可确认最早版本大约流布于万历中后期（16 世纪末—17 世纪初），而后有所增补。作者署名多寡不一，推测为官修或士人集体创作，但基本遏制在明末士大夫体系内。  
+
+（二）制图技术分析  
+  – 方向与投影：图中均以北岳恒山置上端，采用类似扇形方位布局，虽非现代圆锥投影，却已有试图解决东西伸展与南北走向关系的萌芽（赵守一，1998）。  
+  – 比例尺与标注：各岳之间并未统一标尺，但结合《山海志》及实地测量记录，其相对距离误差可控制在5%以内（李建章，2010）。  
+  – 地形表现：用线形等高叠加表现山势起伏，兼具“地形素描”与“意象符号”双重属性，与同时期欧洲山岳图有趣的可比性。  
+
+（三）符号与象征维度  
+  “真形”二字本意揭示“山体真实形状”，但在道教祭山仪轨中有“形神合一”理念（张小玲，2012）。图中山名、神祇、祭坛符号往往置于山峰顶端，强化了文化意蕴。由此可见，该图在视觉与符号上融汇地理与宗教双重话语。  
+
+（四）与同时期其他地图比较  
+  – 与明代鄂州里程图、朱熹浙西详图相比，“五岳真形图”更加注重整体山系连贯性，而鄂州图则偏重交通网络。  
+  – 与穆勒东渡后形成的“中西合璧”测绘图（如利玛窦《坤舆万国全图》）相比，其技术虽尚未引入经纬格网，却已在本土传统中体现出定向问题的早期尝试。  
+
+（五）传播与影响  
+  清中叶以后，此图被纳入《四库全书总目》与各地“山川志”中，频繁被摹刻与转载（见《四库全书总目提要》，乾隆四十年版）。由此可见，其在官方典籍与士人圈层中均有较大影响力。  
+
+四、阶段性结论  
+1. “五岳真形图”既非纯粹宗教意象图，也非完全意义上的科学制图，二者相互叠加，形成了中国传统“地—神一体”的山川表征方式。  
+2. 从技术层面看，其在方向、山形表现及局部比例处理上已有相当成熟的本土发展，是本土测绘技术与文化艺术相结合的典范；从文化层面看，它承担了政治仪式与地域意识的双重功能。  
+3. 在中国地图学史上，该图不可简单定性为“边缘文本”，也尚不足以称为“里程碑式投影法图”，更合理的定位应是“多元制图传统中的典范”，是晚明—清初地理知识体系向近代地图学过渡的重要载体。  
+
+本分析既吸收了传统地理学派的实测数据，也涵纳宗教人文视角，并通过与同期中西地图的比较，展示了“实践—符号—传播”三维一体的研究框架，为后续深入探讨中国早期近似投影实践提供了参考。
+2025-10-08 17:15:47,157 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=2e8cbdc8-80fe-4c89-b5f8-a9e0933f6964 response_code=200
+2025-10-08 17:15:47,158 - INFO - 评分结果: 要点命中：考生答案基本覆盖了五岳真形图在中国地图学史上地位争议的核心问题，包括属性界定（宗教性/地理性/融合性）、编绘时间与作者、地图价值评估等。同时，列举了不同学术观点，如宗教仪式论、传统地理学派、现代地图学视角与综合修正论，涵盖了不同的主流学术见解及其代表性学者和观点。多维论证部分涉及版本、技术、符号象征及传播多个方面，并通过与同期地图的比较进行学术对话。结论部分对五岳真形图的地位做出综合判断，提出较为合理的定位，分析思路条理清晰。整体结构与题目要求高度吻合。
+
+失分点：尽管内容全面，但部分关键文献的引证未尽详实，尤其未提及参考答案中《汉武帝内传》或施舟人对五岳真形图宗教意义的研究。此外，虽然结论部分提及了技术层面的过渡作用，但对这一判断的具体依据论述较为泛泛，缺乏更细致的逻辑链条和数据支持，如远古地形标识研究成果的对比分析未深入展开。局部语言表达稍显松散，例如“比较展示内容”具体结论阐释不足。
+
+维度评分：内容完整性=8.8；逻辑性=8.5；准确性=9.0；表达=8.0  
+评分：9分
+2025-10-08 17:15:47,159 - INFO - 回答基本正确
+2025-10-08 17:15:53,786 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=f62d3c96-16c1-4ed2-aa9c-584046ae71a3 response_code=200
+2025-10-08 17:15:53,788 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:15:54,244 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=ac95f046-e14d-4e23-bfee-3c8c6f7f91ba response_code=200
+2025-10-08 17:15:54,245 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:15:56,910 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=7ea88402-9dda-41f9-b8ed-3d44af643e62 response_code=200
+2025-10-08 17:15:56,911 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:16:08,017 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=2379f294-a657-4cf2-b08b-85cdba27e1a8 response_code=200
+2025-10-08 17:16:08,018 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:16:10,597 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=b010f50b-3bac-4f5f-b72f-eb4d660f31eb response_code=200
+2025-10-08 17:16:10,598 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:16:12,988 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=514994ff-ff25-45d1-bc23-44a12ef9426b response_code=200
+2025-10-08 17:16:12,993 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:16:25,370 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=73020297-9446-420f-9272-685ed8830be2 response_code=200
+2025-10-08 17:16:25,371 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:16:25,636 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=f3ccb2dc-e59f-40a3-a515-3452eecf5e38 response_code=200
+2025-10-08 17:16:25,637 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:16:27,524 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=c170ad5e-aaed-4a02-ad11-971a90bc83e1 response_code=200
+2025-10-08 17:16:27,525 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:16:30,205 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=c37802b9-ebac-4dc1-987a-d8f77396c16e response_code=200
+2025-10-08 17:16:30,206 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:16:43,960 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=bd56147d-d5f5-4f3e-8895-fa7923cc59bd response_code=200
+2025-10-08 17:16:43,961 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:16:45,338 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=cc5a81dc-cc20-4afd-b81c-aaf21d1a049f response_code=200
+2025-10-08 17:16:45,339 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:16:51,798 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 17:16:51,799 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:16:51,805 - INFO - 进度: 30/36 (83.3%)
+2025-10-08 17:16:51,805 - INFO - 当前得分: 15/360
+2025-10-08 17:16:52,813 - INFO - 开始处理批次 #7 (问题 31-35)
+2025-10-08 17:16:52,814 - WARNING - 无法读取图片 nan: expected str, bytes or os.PathLike object, not float
+2025-10-08 17:16:52,815 - INFO - 提问 [o4qa7.jsonl_31] [中国古代史]: 基于《龙岗秦简》（中华书局，2001年）及相关研究，结合走马楼孙吴户籍简的发现，分析两类户籍简的性质演变过程，包括其最初学术猜测、后续研究如何通过简例对比证明二者均著录‘吏民’籍，并讨论孙吴时期吏户与民户分籍的学术争议点。
+2025-10-08 17:16:52,815 - WARNING - 无法读取图片 nan: expected str, bytes or os.PathLike object, not float
+2025-10-08 17:16:52,815 - INFO - 提问 [o4qa7.jsonl_32] [中国古代史]: 在汉代江南地区，根据王充《论衡·四讳篇》的记载，妇女临产迁居习俗中‘丘墓庐道畔，跆月乃入’的具体含义是什么？并评述吴检斋与彭卫、杨振红对此解释的分歧观点及其学术依据。
+2025-10-08 17:16:52,815 - WARNING - 无法读取图片 nan: expected str, bytes or os.PathLike object, not float
+2025-10-08 17:16:52,815 - INFO - 提问 [o4qa7.jsonl_33] [中国古代史]: 刘师培在1903-1905年间的著作中如何通过音意比较法诠释拉克伯里的'汉族西来说'？请分析其知识来源的争议点及解释方法的学术分歧。
+2025-10-08 17:16:52,817 - WARNING - 无法读取图片 nan: expected str, bytes or os.PathLike object, not float
+2025-10-08 17:16:52,817 - INFO - 提问 [o4qa7.jsonl_34] [中国古代史]: 在吐火罗史研究中，汉文典籍中的‘大夏’与吐火罗民族是否为同一群体存在重大学术争议。请基于列维、伯希和、王欣等学者的研究，界定该争议的核心问题，列举主要学术观点，并分析其语言学与历史文献依据。
+2025-10-08 17:16:52,818 - WARNING - 无法读取图片 nan: expected str, bytes or os.PathLike object, not float
+2025-10-08 17:16:52,818 - INFO - 提问 [o4qa7.jsonl_35] [考古]: 结合清华简《保训》与帛书《黄帝书·果童》的文本内容，分析战国刑名学中'中'的含义如何区别于西周的司法传统，并讨论学者对'中'的解释分歧及其与黄老学说的关联。
+2025-10-08 17:17:08,229 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=9b2615dd-88f0-44e4-b7ef-9e8e87b0b996 response_code=200
+2025-10-08 17:17:08,229 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:17:08,504 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=21436b22-7fcb-4bb7-a6e0-8201613d8c03 response_code=200
+2025-10-08 17:17:08,504 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:17:08,504 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=cb96db89-6f4a-46cd-8bfd-9d52d7c6e9fa response_code=200
+2025-10-08 17:17:08,509 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:17:23,472 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=39b4793d-ba07-40dd-9207-4f2961784e8c response_code=200
+2025-10-08 17:17:23,473 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:17:24,386 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=22b72f7b-e91a-4aa7-8703-89275f6cde5f response_code=200
+2025-10-08 17:17:24,387 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:17:24,534 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=ecbc9efb-c931-42a3-9f45-f3c0877bbdbf response_code=200
+2025-10-08 17:17:24,536 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:17:25,552 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=fb0eff7c-0234-4874-804d-a3746d15c0a1 response_code=200
+2025-10-08 17:17:25,553 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:17:37,028 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=127d8eec-a786-4ffb-af36-8b0d25903d61 response_code=200
+2025-10-08 17:17:37,029 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:17:41,198 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=355791d3-9d10-4f43-8462-28c118343a78 response_code=200
+2025-10-08 17:17:41,200 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:17:41,587 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=64b55b6f-ced3-4b66-9205-b24da4b38896 response_code=200
+2025-10-08 17:17:41,588 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:17:42,330 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=f013590d-ebbf-4bb2-b794-22d05dc50408 response_code=200
+2025-10-08 17:17:42,331 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:17:54,109 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=ba5b8295-7c81-49e0-b547-9990e4b37d96 response_code=200
+2025-10-08 17:17:54,111 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:17:54,523 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=2c3dc67d-b976-4e56-bf7b-ea89d0a095b1 response_code=200
+2025-10-08 17:17:54,525 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:17:59,347 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=a134ffbe-4136-4776-bd80-5e0aafc57ce4 response_code=200
+2025-10-08 17:17:59,348 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:18:10,387 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=1a387c5e-ee95-48fa-a06f-e7284a68002f response_code=200
+2025-10-08 17:18:10,388 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:18:14,966 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=2bd619c7-8452-4a8d-8f6f-0a61cd0df753 response_code=200
+2025-10-08 17:18:14,967 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:18:20,043 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=50683f7d-ccdb-4f98-894f-8931fa296165 response_code=200
+2025-10-08 17:18:20,045 - INFO - OpenAI模型回答: “丘墓庐道畔，跆月乃入”一句出自王充《论衡·四
+2025-10-08 17:18:23,324 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=269ba9e2-90ba-4b98-8b17-77de0cf8cf4d response_code=200
+2025-10-08 17:18:23,325 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:18:24,976 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=4c908461-7b1c-4cba-a545-e320b667f228 response_code=200
+2025-10-08 17:18:24,978 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:18:25,854 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=805656d6-5468-4c24-96df-c7c4f73c91cc response_code=200
+2025-10-08 17:18:25,855 - INFO - 评分结果: 要点命中：考生答案仅提及《论衡·四讳篇》中“丘墓庐道畔，跆月乃入”的源出处，但未展开其具体含义，没有明确涉及妇女迁居待产习俗的细节，也未触及关键学术观点如吴检斋与彭卫、杨振红的分歧及依据，仅泛泛引述，未能深入回答问题。
+
+失分点：未解释“丘墓庐道畔，跆月乃入”中任何关键实义（如迁居避秽、产后滞留），忽略了王充描述的文化背景；未涉及吴检斋误读文字意义的观点和“弃婴”争议；未论述彭卫、杨振红基于考古与文献多维推断的合理性，更未就两派学术观点做比较分析；整体缺乏逻辑链条和深度。
+
+维度评分：内容完整性=2；逻辑性=1；准确性=3；表达=4
+
+评分：2分
+2025-10-08 17:18:25,856 - INFO - 回答不正确，期望: 核心问题在于对《论衡·四讳篇》中‘丘墓庐道畔，跆月乃入’的解读，涉及汉代江南妇女临产迁居习俗的本质。答案结构如下：
+1. 界定核心问题：该句描述汉代江南地区妇女临产前迁居以避免‘女半’（月经或分娩污血）带来的不吉，习俗包括迁出旧宅、待产及产后滞留，争议焦点是‘丘墓’的具体含义和迁居形式（《论衡·四讳篇》原文记载）。
+2. 列举相关学术观点：
+   - 吴检斋认为‘丘墓’一词有误，意指产后将婴儿置于宅外道旁，满月后抱回，强调文字误读（《论衡校释》引吴检斋论）。
+   - 彭卫、杨振红解释为妇女择处筑庐别居，产后逾月方归，强调实际可行性（《汉代生育习俗研究》[彭卫、杨振红，2005]）。
+3. 多维论证：
+   - 文献依据：《论衡·四讳篇》载‘乳子之家，亦忌恶之，丘墓庐道畔，跆月乃入，恶之甚也’，结合汉代禁忌‘女半变不得侍祠’（《说文解字·女部》引《汉律》），显示迁居为避秽。
+   - 逻辑依据：吴检斋观点被驳斥因婴儿弃置户外无法生存（《汉代生育习俗研究》[匿名研究者，2020]页38），而彭卫等基于考古对比（如汉代‘外舍’建筑遗迹）和文化背景（江南避忌习俗），解释更合理。
+   - 技术参数：通过字形分析，‘丘墓’可能指临时搭建的简陋居所（庐），非墓地；‘跆月’指产后一月（《论衡校释》黄晖校注）。
+4. 学说比较：吴检斋侧重文本表面解读，忽略社会实际；彭卫等整合文献、考古和逻辑推论，更符合汉代妇女‘就馆’习俗（如宫廷迁长定宫）。
+5. 阶段性结论：彭卫、杨振红的解释更可信，习俗是妇女临产迁至‘外舍’（如道旁庐舍）待产，产后滞留一月，反映汉代南北风俗差异（江南盛行避忌）。
+2025-10-08 17:18:30,327 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=d0bf2fdb-c468-415b-b985-fc7096bf1964 response_code=200
+2025-10-08 17:18:30,328 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:18:38,225 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=250d25e3-6022-425c-90d7-9f2bb490a271 response_code=200
+2025-10-08 17:18:38,225 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:18:52,091 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=67cfcd87-243e-4910-a3eb-05315e41ef30 response_code=200
+2025-10-08 17:18:52,093 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:18:59,651 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=402612f5-3ac7-40f9-84a3-6dbe40b3a97e response_code=200
+2025-10-08 17:18:59,652 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:19:11,329 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=4fbeda83-5289-4905-9150-14d327dbcdd1 response_code=200
+2025-10-08 17:19:11,330 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:19:11,332 - INFO - 进度: 35/36 (97.2%)
+2025-10-08 17:19:11,332 - INFO - 当前得分: 17/360
+2025-10-08 17:19:12,343 - INFO - 开始处理批次 #8 (问题 36-36)
+2025-10-08 17:19:12,345 - WARNING - 无法读取图片 nan: expected str, bytes or os.PathLike object, not float
+2025-10-08 17:19:12,345 - INFO - 提问 [o4qa7.jsonl_36] [考古]: 基于江陵凤凰山汉简10号墓6号牍和走马楼三国吴简材料，论述秦汉至三国吴时期户税与訾税的区别及其演变过程，并分析关键学术争议点。
+2025-10-08 17:19:32,583 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=009e0949-52e4-44d5-8efc-753e05730d59 response_code=200
+2025-10-08 17:19:32,583 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:19:59,859 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=4db18ae6-086e-44c2-85ae-94a736165ab9 response_code=200
+2025-10-08 17:19:59,860 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:20:27,588 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=ece0d7ea-6989-4e81-85e5-a334b0d9dfe0 response_code=200
+2025-10-08 17:20:27,588 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:20:42,569 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=78ab0c0c-f3f4-4825-a7d6-4a460babc81c response_code=200
+2025-10-08 17:20:42,570 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:20:56,181 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=14b6630f-26ce-4d00-bc51-9b3b09344891 response_code=200
+2025-10-08 17:20:56,182 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:20:56,184 - INFO - 进度: 36/36 (100.0%)
+2025-10-08 17:20:56,184 - INFO - 当前得分: 17/360
+2025-10-08 17:20:57,196 - INFO - 测评完成: 总得分 17/360 (4.7%)
+2025-10-08 17:20:59,199 - INFO - 
+============= 评测总结 =============
+评测时间: 2025-10-08 17:20:59
+处理文件: o4qa7.jsonl
+总问题数: 36
+总得分: 17/360
+准确率: 4.7%
+运行时间: 920.55 秒 (15.34 分钟)
+
+学科领域统计:
+学科领域            问题数      得分       总分       准确率        平均用时      
+-----------------------------------------------------------------
+考古              15       6        150      4.0%      91.80秒
+中国古代文学          1        0        10       0.0%      112.63秒
+历史地理学           4        9        40       22.5%      77.42秒
+中国古典文献学         3        0        30       0.0%      93.74秒
+汉语言文字学          3        0        30       0.0%      94.49秒
+中国古代史           9        2        90       2.2%      104.23秒
+文物              1        0        10       0.0%      93.24秒
+
+历史分期统计:
+历史分期            问题数      得分       总分       准确率        平均用时      
+-----------------------------------------------------------------
+新石器时代（含夏）       8        6        80       7.5%      90.88秒
+东周、秦、西汉         1        0        10       0.0%      81.40秒
+商、新石器时代（含夏）     1        0        10       0.0%      112.63秒
+东周              4        0        40       0.0%      97.25秒
+西周              3        0        30       0.0%      102.22秒
+西汉              9        11       90       12.2%      87.01秒
+商               2        0        20       0.0%      96.23秒
+东周、西周           1        0        10       0.0%      92.99秒
+秦、西汉            3        0        30       0.0%      105.85秒
+商、西周            2        0        20       0.0%      106.45秒
+秦               1        0        10       0.0%      97.52秒
+东周、商、西周         1        0        10       0.0%      82.15秒
+
+核心目的统计:
+核心目的            问题数      得分       总分       准确率        平均用时      
+-----------------------------------------------------------------
+事实呈现、检索         2        0        20       0.0%      87.75秒
+分析推论、特征描述       1        0        10       0.0%      81.40秒
+分析推论            15       2        150      1.3%      96.42秒
+事实呈现            1        6        10       60.0%      21.58秒
+特征描述            1        0        10       0.0%      92.77秒
+信度考据            1        0        10       0.0%      112.63秒
+事实呈现、信度考据、分析推论  2        0        20       0.0%      103.19秒
+事实呈现、分析推论、特征描述  2        0        20       0.0%      93.31秒
+信度考据、分析推论       3        0        30       0.0%      98.91秒
+分析推论、检索         1        0        10       0.0%      112.06秒
+分析推论、检索、特征描述    1        0        10       0.0%      92.99秒
+事实呈现、分析推论       5        9        50       18.0%      93.31秒
+事实呈现、信度考据、分析推论、特征描述 1        0        10       0.0%      103.84秒
+==================================
+
+2025-10-08 17:20:59,199 - INFO - 总运行时间: 920.55 秒 (15.34 分钟)
