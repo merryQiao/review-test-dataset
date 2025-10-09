@@ -1,0 +1,1088 @@
+2025-10-08 17:54:03,042 - INFO - 已创建结果文件: evaluation_results_20251008_175403.csv
+2025-10-08 17:54:03,046 - INFO - 开始处理文件: o4high_qa8.jsonl
+2025-10-08 17:54:03,073 - INFO - 成功加载 56 个QA数据
+2025-10-08 17:54:03,073 - INFO - 开始处理批次 #1 (问题 1-5)
+2025-10-08 17:54:03,075 - WARNING - 无法读取图片 nan: expected str, bytes or os.PathLike object, not float
+2025-10-08 17:54:03,075 - INFO - 提问 [o4high_qa8.jsonl_1] [考古]: 列举安徽境内已辨识出的三种新石器时代文化/类型及其典型遗址。
+2025-10-08 17:54:03,076 - WARNING - 无法读取图片 nan: expected str, bytes or os.PathLike object, not float
+2025-10-08 17:54:03,076 - INFO - 提问 [o4high_qa8.jsonl_2] [考古]: 分析三门峡市三里桥秦人墓第三期墓葬的年代判定依据及其反映的社会经济背景。
+2025-10-08 17:54:03,076 - WARNING - 无法读取图片 nan: expected str, bytes or os.PathLike object, not float
+2025-10-08 17:54:03,076 - INFO - 提问 [o4high_qa8.jsonl_3] [考古]: 伊沃尔加城址和墓地出土的中原文化传统铜镜有哪些类型？这些铜镜的年代范围是什么？
+2025-10-08 17:54:03,077 - WARNING - 无法读取图片 nan: expected str, bytes or os.PathLike object, not float
+2025-10-08 17:54:03,077 - INFO - 提问 [o4high_qa8.jsonl_4] [考古]: 北万回头遗址彩陶盆（G1：1）的考古学文化属性判断依据是什么？
+2025-10-08 17:54:03,090 - WARNING - 无法读取图片 nan: expected str, bytes or os.PathLike object, not float
+2025-10-08 17:54:03,090 - INFO - 提问 [o4high_qa8.jsonl_5] [考古]: 鱼凫村遗址第三期文化遗存的陶器组合可分为哪三组？请分别说明各组陶器的文化属性和典型器类。
+2025-10-08 17:54:30,172 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=79b1d5c7-dad2-436e-85c6-bd3aa028a410 response_code=200
+2025-10-08 17:54:30,176 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:54:30,196 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=0c053a5c-4fe6-497d-9863-d9f3b4f16580 response_code=200
+2025-10-08 17:54:30,197 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:54:30,330 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=040a14b4-a10c-4b4e-a4dc-c26098022914 response_code=200
+2025-10-08 17:54:30,331 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:54:30,452 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=1226928c-db5e-4a76-b75f-274b067c7cb1 response_code=200
+2025-10-08 17:54:30,453 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:54:30,999 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=8118c6ab-ba95-44d7-afa5-0743e2c9668e response_code=200
+2025-10-08 17:54:31,000 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:54:47,423 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=49211505-2a4a-4336-a0b7-a410f362f9a4 response_code=200
+2025-10-08 17:54:47,425 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:54:47,612 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=7e7632bd-5da1-48af-80b8-df892ace870e response_code=200
+2025-10-08 17:54:47,613 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:54:48,224 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=90aa376a-4404-4855-b81c-0b63cc8b6593 response_code=200
+2025-10-08 17:54:48,226 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:54:59,243 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=5e1e172d-d77d-4efe-93f7-53acadaf04be response_code=200
+2025-10-08 17:54:59,244 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:54:59,489 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=f9ad4e4f-831d-4405-8ac1-2a38c2481acb response_code=200
+2025-10-08 17:54:59,490 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:55:04,645 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=d9de23d5-64d4-4232-a8f6-9238826bf67e response_code=200
+2025-10-08 17:55:04,646 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:55:12,658 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=f20e7243-2307-4887-a273-207b78089a7e response_code=200
+2025-10-08 17:55:12,659 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:55:12,683 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=d65826cb-d9af-4e79-adab-4814baeb61ec response_code=200
+2025-10-08 17:55:12,684 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:55:32,044 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=b87212ac-80ca-40f8-969a-3f3c8171c95e response_code=200
+2025-10-08 17:55:32,045 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:55:32,919 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=b25b5ab8-257b-45cd-9537-bfb4f399a91d response_code=200
+2025-10-08 17:55:32,920 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:55:33,432 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=5febcdea-725e-4ccf-8c45-5d261cdce933 response_code=200
+2025-10-08 17:55:33,433 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:55:34,845 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=36e6ce03-e153-4e99-8c6b-19cbb3c5caf0 response_code=200
+2025-10-08 17:55:34,846 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:55:41,551 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=ac878fe4-1a78-4346-bf25-33931110007c response_code=200
+2025-10-08 17:55:41,552 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:55:48,884 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=64ea7ee8-5512-49e4-9071-8deeca1735e6 response_code=200
+2025-10-08 17:55:48,885 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:55:49,458 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=ea4e1c39-33a5-43f5-9962-48e2e50da541 response_code=200
+2025-10-08 17:55:49,458 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:55:52,482 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=e568d7bd-9b88-4731-bcf3-eddc5e84d2f6 response_code=200
+2025-10-08 17:55:52,483 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:55:56,981 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=e7dfaac1-f8db-408b-9de5-87ca020eaa5d response_code=200
+2025-10-08 17:55:56,981 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:56:00,543 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=e793939f-09f9-4d85-8f7b-04b4f383848f response_code=200
+2025-10-08 17:56:00,543 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:56:04,394 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=edd6099f-86d5-4df2-8af6-e632aaf3a407 response_code=200
+2025-10-08 17:56:04,394 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:56:11,246 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=c6308860-00ce-427b-b61f-6881a2eeccd2 response_code=200
+2025-10-08 17:56:11,248 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:56:11,260 - INFO - 进度: 5/56 (8.9%)
+2025-10-08 17:56:11,260 - INFO - 当前得分: 0/560
+2025-10-08 17:56:12,276 - INFO - 开始处理批次 #2 (问题 6-10)
+2025-10-08 17:56:12,278 - WARNING - 无法读取图片 nan: expected str, bytes or os.PathLike object, not float
+2025-10-08 17:56:12,278 - INFO - 提问 [o4high_qa8.jsonl_6] [考古]: 鱼凫村遗址的地理位置在哪里？
+2025-10-08 17:56:12,278 - WARNING - 无法读取图片 nan: expected str, bytes or os.PathLike object, not float
+2025-10-08 17:56:12,278 - INFO - 提问 [o4high_qa8.jsonl_7] [考古]: 严文明先生提出的中国新石器时代三大文化系统及其代表性炊煮陶器是什么？
+2025-10-08 17:56:12,279 - WARNING - 无法读取图片 nan: expected str, bytes or os.PathLike object, not float
+2025-10-08 17:56:12,279 - INFO - 提问 [o4high_qa8.jsonl_8] [考古]: 罗坡岗墓地的年代和所属文化背景是什么？
+2025-10-08 17:56:12,279 - WARNING - 无法读取图片 nan: expected str, bytes or os.PathLike object, not float
+2025-10-08 17:56:12,279 - INFO - 提问 [o4high_qa8.jsonl_9] [考古]: 上北平望遗址第一地点主要包含哪些考古学文化遗存？
+2025-10-08 17:56:12,279 - WARNING - 无法读取图片 nan: expected str, bytes or os.PathLike object, not float
+2025-10-08 17:56:12,279 - INFO - 提问 [o4high_qa8.jsonl_10] [考古]: 比较上北平望遗址与东南800米处遗址中庙底沟二期文化遗存的年代关系。
+2025-10-08 17:56:25,506 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=add606ad-157a-48d0-bf4d-f8769143e0d9 response_code=200
+2025-10-08 17:56:25,507 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:56:27,774 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=722ccc73-033c-49af-b3ed-44a8b149a4f2 response_code=200
+2025-10-08 17:56:27,775 - INFO - OpenAI模型回答: 鱼凫村遗址位于江苏省扬州市高邮市（原属宝应县）双桥镇鱼凫村一带。遗址坐落在长江下游冲洪积平原的三级河流阶地边缘，距扬子江支流水系约2公里，海拔约2—4米，地理坐标大约为北纬32°47′、东经119°27′。该地带地势平坦，土壤以冲积土为主，素有“鱼凫胜景”之称，考古人员正是在道路建设和田间试耕过程中发现了该处保存较好的新石器至战国时期文化层。
+2025-10-08 17:56:29,632 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 17:56:29,632 - INFO - 评分结果: 考生的答案和参考答案描述的地理位置不一致。根据参考答案，鱼凫村遗址位于四川省成都市温江区，而不是江苏省扬州市高邮市。考生的答案可能是对其他遗址的描述。鱼凫村遗址的正确位置应该是在成都平原的腹心地带，即四川省成都市温江区。
+2025-10-08 17:56:29,633 - INFO - 回答不正确，期望: 鱼凫村遗址位于成都平原腹心地带的四川成都市温江区。
+2025-10-08 17:56:30,714 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=682a0a53-e06f-4397-9ebd-603948b6de10 response_code=200
+2025-10-08 17:56:30,715 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:56:38,830 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=9251c96c-5399-4d92-82f3-02332e156dce response_code=200
+2025-10-08 17:56:38,831 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:56:41,261 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=9301d96d-4486-4e3b-9f05-971dca53e711 response_code=200
+2025-10-08 17:56:41,262 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:56:44,296 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=454ddc81-45a2-4c1a-aa71-7e5469a4ba0c response_code=200
+2025-10-08 17:56:44,297 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:56:54,230 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=f190a254-d3b6-4ca0-be07-cd227c8b1c4d response_code=200
+2025-10-08 17:56:54,231 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:57:07,846 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=8d40f835-e4b4-4cac-9c6e-c7a4f9aeddff response_code=200
+2025-10-08 17:57:07,848 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:57:13,323 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=9e89b246-c897-43ea-89a4-b6227d9e9a93 response_code=200
+2025-10-08 17:57:13,324 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:57:16,396 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=f97c8ad9-7f78-440a-96cc-8b3bc4943291 response_code=200
+2025-10-08 17:57:16,397 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:57:18,337 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=7ed753fe-89f7-4a57-b3dd-be98e52a3daf response_code=200
+2025-10-08 17:57:18,338 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:57:31,539 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=0d667035-e470-48b2-b7a9-4602daa69177 response_code=200
+2025-10-08 17:57:31,541 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:57:35,393 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=ca77156d-e0f6-4a4a-b1ec-f9a66ce5977e response_code=200
+2025-10-08 17:57:35,393 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:57:42,223 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=d53c6f1b-d08e-4068-82b7-81bd0505b2aa response_code=200
+2025-10-08 17:57:42,224 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:57:45,547 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=69a34ecf-f186-4e2e-89ed-4e6fb51461e0 response_code=200
+2025-10-08 17:57:45,548 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:57:46,542 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=220ec4ca-e75c-4a13-a67f-3714e5c57d9c response_code=200
+2025-10-08 17:57:46,542 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:57:49,523 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=37b927bd-3cfe-4452-82ae-70c7ec2a8752 response_code=200
+2025-10-08 17:57:49,524 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:57:59,913 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=d6c92367-fb6a-440a-b08c-4e230ee795b3 response_code=200
+2025-10-08 17:57:59,914 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:58:10,588 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=734ebae0-6560-414f-94a8-39740d14bb4e response_code=200
+2025-10-08 17:58:10,589 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:58:12,278 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=f49f30e0-df54-4d23-afec-09e02b046864 response_code=200
+2025-10-08 17:58:12,279 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:58:13,596 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=8b8925b3-9253-44f6-b59a-5d353e8ed859 response_code=200
+2025-10-08 17:58:13,596 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:58:13,602 - INFO - 进度: 10/56 (17.9%)
+2025-10-08 17:58:13,602 - INFO - 当前得分: 0/560
+2025-10-08 17:58:14,603 - INFO - 开始处理批次 #3 (问题 11-15)
+2025-10-08 17:58:14,604 - WARNING - 无法读取图片 nan: expected str, bytes or os.PathLike object, not float
+2025-10-08 17:58:14,605 - INFO - 提问 [o4high_qa8.jsonl_11] [考古]: 王湾三期文化的核心分布区域包括哪些水系？
+2025-10-08 17:58:14,605 - WARNING - 无法读取图片 nan: expected str, bytes or os.PathLike object, not float
+2025-10-08 17:58:14,605 - INFO - 提问 [o4high_qa8.jsonl_12] [考古]: 根据庙底沟二期文化遗址的考古发现，简述夹砂陶罐的类型分类及其典型特征，并各举一例说明。
+2025-10-08 17:58:14,605 - WARNING - 无法读取图片 nan: expected str, bytes or os.PathLike object, not float
+2025-10-08 17:58:14,605 - INFO - 提问 [o4high_qa8.jsonl_13] [考古]: 基于红山文化（约6500-5000 aB.P.）、富河文化（约5300 aB.P.）和夏家店下层文化大甸子墓地（约2000-1500 aB.C.）的考古发现，分析中国北方地区新石器时代至青铜时代环境变迁的特征，并讨论这些变迁对人类生计策略的影响。要求引用具体考古证据和科学数据。
+2025-10-08 17:58:14,605 - WARNING - 无法读取图片 nan: expected str, bytes or os.PathLike object, not float
+2025-10-08 17:58:14,606 - INFO - 提问 [o4high_qa8.jsonl_14] [考古]: 基于湖北王家畈墓群M1和M2的考古材料，考古学家如何通过类型学方法推断其年代为六朝早期？请列举关键实物依据和比较分析过程。
+2025-10-08 17:58:14,606 - WARNING - 无法读取图片 nan: expected str, bytes or os.PathLike object, not float
+2025-10-08 17:58:14,606 - INFO - 提问 [o4high_qa8.jsonl_15] [考古]: 二里头文化三、四期归属问题存在学术争议，结合偃师商城与郑州商城的考古发现，分析二里头文化分期与商代都城序列的关系，并评述夏商分界的关键证据链。
+2025-10-08 17:58:29,785 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=ded67fe2-cd39-4cf7-bf6e-50c64e9fdba8 response_code=200
+2025-10-08 17:58:29,785 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:58:32,595 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=d386973a-0f8d-4aa0-9b17-3730b27820cf response_code=200
+2025-10-08 17:58:32,596 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:58:34,669 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=52428474-5947-47ec-9473-f61a609e83f1 response_code=200
+2025-10-08 17:58:34,671 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:58:36,942 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=8909571a-1c43-43b4-848d-69b5d8c6defb response_code=200
+2025-10-08 17:58:36,943 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:58:37,041 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=4735cb0a-4d7b-4ce1-8f8d-8b261b33c4ac response_code=200
+2025-10-08 17:58:37,042 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:58:50,716 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=728be831-3af4-4749-9f65-118405a481ce response_code=200
+2025-10-08 17:58:50,717 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:58:52,716 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=33f903bb-b215-43eb-a1e9-4a83c12e3107 response_code=200
+2025-10-08 17:58:52,717 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:58:56,239 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=1fb153e8-2155-4560-881c-fef80577e44b response_code=200
+2025-10-08 17:58:56,240 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:58:58,271 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=e428d71f-4aa4-428d-92ca-4e841a0267d8 response_code=200
+2025-10-08 17:58:58,307 - INFO - OpenAI模型回答: 考古学家在对湖北王家畈墓群M1、M2进行发掘和研究时，主要借助“类型学”方法——即通过对墓葬建筑、随葬品形制、装饰纹样、工艺技术等一系列可观测要素进行类型划分，并与已知年代墓葬的同类类型进行系统比较，以此推断出M1、M2墓葬的相对、绝对时代位置。下面分两部分说明关键实物依据与比较分析过程。
+
+一、关键实物依据  
+1. 墓葬结构与砖制材料  
+  - 墓道、竖穴土坑与砖室并存，砖砌墓室常见单室或双室并列布局，室顶覆置扁平青砖；  
+  - 青砖尺寸集中在44×22×6厘米左右，这一规格与江南六朝（东晋—南朝）早、中期墓葬砖制相符；  
+  - 砖面常有云雷纹、莲瓣纹等凸饰图案，此种纹饰盛行于东晋至南朝初年。  
+
+2. 陶器类型  
+  - 缸、壶类：以“口沿外撇、肩部鼓起、底部平底”型为主，其壶身斜壁明显、双耳或环纽装饰，是东晋末至南朝早期常见器形；  
+  - 盘、碟类：底部施圈足，器壁薄而起伏不大，器沿宽扁；这种圈足盘在六朝早期较汉晋时期明显演变，早期尚保留少量曝气孔；  
+  - 盏、杯类：高足杯底部柱形足与盏身分离明显、杯唇微外撇，与晋宋时代名器“桓公盏”相近。  
+
+3. 漆木器与漆纹装饰  
+  - 随葬漆盒、漆盘、漆板等器物，以赭红、褐黑双色漆层相间；装饰纹以折枝花卉、云纹、几何间隔带形式出现，纹饰布局疏朗、线条流畅，典型于东晋末—刘宋初期；  
+  - 漆面下往往残留白灰色填漆层，符合南方稳湿墓室环境下常见的漆工工艺特征。  
+
+4. 青铜镜与金属制品  
+  - 出土折沿镜、平沿镜多属四神与八卦组合式镜面，镜钮呈环钮贴底或方钮，结合镜背铭文多为短铭“永宝”“光大”等，镜面局部镀锡已出现剥落；  
+  - 铜镜类型与前秦—东晋时期以“长信宫镂空”式和“四神四象”式过渡，到六朝早期逐渐简化、铭文缩短一致；  
+  - 铁制刀、锄、钉类亦呈小型化、扁平化趋势，与东晋末期斧头短柄化、钉长多集中在3.5–4厘米相符。  
+
+5. 钱币与饰件  
+  - 墓中零星出土“五铢”钱、少量“水泉”样式币，其中“五铢”钱筋粗、穿廓偏长，与三国—两晋中后期五铢铸型近似；  
+  - 佩饰铜环、链坠造型精巧，多用双环连珠、回纹、菱形小片装饰，与南朝贵族妇女随葬配饰体系吻合。  
+
+二、比较分析过程  
+1. 类型归类  
+  考古学家首先将所有随葬品按主要门类（砖、陶、漆、铜、铁、钱币、饰件）分组，进一步对每一组中的器形、尺寸、装饰纹样、工艺技术进行细分，并提取出“形制要素”（如口沿形状、肩部曲线、底足结构、纹饰节点与组合、铸造铭文短语等）。  
+
+2. 建立对比样本库  
+  研究者汇总湖北、湖南、江西、江苏等地已发掘或出土并作过年代学定年（结合出土文字、碳十四测年、同穴配葬典籍记载等）可确证的东晋—南朝墓葬及其随葬品类型资料，确立起形制—年代的对应序列。  
+
+3. 特征匹配与分期排序  
+  将M1、M2墓群的每一类器物特征，与样本库中各年代层次的典型器形反复比对，如：  
+  - M1内砖面云雷纹样与某湖广地区420–440年间墓葬的砖纹高度一致；  
+  - M2中出高足盏的足身样式与江陵东晋末期标志性葬品相符，而其盘、
+2025-10-08 17:59:03,509 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=6b87eb11-e12c-4021-8c02-c2250c661de8 response_code=200
+2025-10-08 17:59:03,509 - INFO - 评分结果: 要点命中：考生答案提及了墓葬结构（砖制材料与形制）、陶器类型（缸、壶、盘等）、漆木器、青铜镜、钱币与饰件等，涵盖了不少出土关键实物；描述了类型学方法的应用流程，包括类型归类、样本库建立和特征匹配；在一定程度上提到砖面纹饰、器物特征与六朝早期的对应，但未具体落实到关键参考资料如孝感棉田、荆门胡家湾等墓地的对比。
+
+失分点：未提及M1碗和M2盘口壶的具体尺寸和施釉特征，遗漏了孝感棉田茶山墓地及荆门胡家湾墓群的具体对比依据；未提到砖室人字形铺底这一重要形制特征；部分叙述过于概括，例如“类型归类”与“特征匹配”未明确具体器物的比对逻辑和结果；关于推断年代的论证链条虽然结构完整，但缺乏与东晋末期至六朝早期进程的明确衔接。
+
+维度评分：内容完整性=7.5；逻辑性=7；准确性=8；表达=7。
+
+评分：8分
+2025-10-08 17:59:03,511 - INFO - 回答基本正确
+2025-10-08 17:59:06,226 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=b36da99b-dec8-4a01-802a-1b7a6e95c5d7 response_code=200
+2025-10-08 17:59:06,269 - INFO - OpenAI模型回答: 中国北方从新石器时代中—晚期（约6500 aB.P.起）迈入青铜时代（至约3500 aB.P.），经历了一轮由湿热向冷干的整体环境转型。考古与多种自然科学数据相互印证，揭示了气候—植被—水文的演变特征及其对人群生计策略的深刻影响。以下结合红山文化、富河文化和夏家店下层文化大甸子墓地的代表性考古材料和相关科学数据，具体分析环境变迁及人类应对。
+
+一、环境变迁的阶段特征  
+1. 中—晚新石器时代早期（约6500–5300 aB.P.，对应红山文化阶段）  
+  1）温湿峰值。多项洞穴冷涡（δ18O）和湖泊沉积（有机碳含量、粒度）记录表明，6000–5000 aB.P.期间北方夏季风最强。  
+     – 东南贵州洞穴δ18O资料：约6000 aB.P.的δ18O值比现代平均偏低2‰，表明降水显著增加。  
+     – 内蒙古达赉湖沉积层：前期湖相沉积厚度最大，水位高于现代5–6 m。  
+  2）植被以阔叶林—针阔混交林为主。河北河套地区花粉分析显示Quercus、Ulmus峰值期集中于5800–5200 aB.P.，Pinus亦保持中高频率。  
+  3）地表水资源充足，大小湖泊众多，河网密集。  
+2. 中—晚新石器时代中期（约5300–4200 aB.P.，对应富河文化阶段）  
+  1）5200 aB.P.冷干事件影响初显。北方夏季风强度较前期已有弱化趋势，年均降水量比前期减少约10%（现代年均约400 mm，降至350–360 mm）。  
+  2）植被出现由阔叶林向林草交错带的转变。花粉谱中草本（Poaceae、Artemisia）比例上升约15个百分点。  
+  3）河流湖泊水位有所下降，但仍维持相对稳定利用强度。  
+3. 新石器时代晚期至青铜时代初期（约4200–3500 aB.P.，对应夏家店下层文化／大甸子墓地阶段）  
+  1）持续冷干。洞穴δ18O、湖泊δ13C有机质和粒度指标一致表明，约4200 aB.P.后北方气候步入持续偏冷偏干阶段，年均温度比现代低约1.0–1.5 °C，降水减少至250–300 mm。  
+  2）植被由林—草交错转为森林稀疏—干旱草原。北方多地（如河北承德、内蒙古科尔沁）花粉记录中Pinus、Quercus急剧下降，Artemisia、Chenopodiaceae占主导。  
+  3）水体大幅萎缩。夏家店附近小型洼地多见季节性积水，永久浅湖仅存少数。
+
+二、环境变化对生计策略的影响  
+1. 从以捕猎采集兼渔猎为主到混合农业的引入（红山文化阶段）  
+  – 考古层中出土的鱼钩、网坠和鱼骨（鲤科、鲢科）占动物遗存总数的30%以上，表明当时渔猎活动高度发达。  
+  – 同时，河北辽宁多处聚落内发现小米（Setaria italica）与黍（Panicum miliaceum）
+2025-10-08 17:59:10,769 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=e08515be-a64e-4883-aa1a-0c4106866432 response_code=200
+2025-10-08 17:59:10,769 - INFO - 评分结果: 要点命中：考生提及红山文化阶段的渔猎和农业工具，湖泊沉积和植被特征，环境湿热向冷干转型，且引用了具体考古数据，如洞穴δ18O、湖泊沉积等指标。还涉及与富河文化和夏家店下层文化相关的环境变迁及对生计策略的影响。这些要点体现了考生对环境变化阶段特征及生计策略的理解。
+
+失分点：考生答案中，富河文化和夏家店下层文化的具体生计策略如田间作业、家畜饲养等详细信息、关键考古遗物的具体描述较少。此外，未提到具体的年代测定以及与参考答案对照的一些具体例子如牛、羊等家畜的出土和陶罐内谷物孢粉的考古发现。
+
+维度评分：内容完整性=6.5；逻辑性=7.5；准确性=7；表达=8
+
+评分：7分
+2025-10-08 17:59:10,776 - INFO - 回答基本正确
+2025-10-08 17:59:11,232 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=ffb15588-fb77-4935-beaf-59562f21e0f5 response_code=200
+2025-10-08 17:59:11,233 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:59:17,321 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=2c6a7a31-ab82-4113-939a-805a0c56014b response_code=200
+2025-10-08 17:59:17,354 - INFO - OpenAI模型回答: 二里头文化作为中国考古学上承夏、下启商的关键文化类型，其三、四期（通常对应二里头文化晚期与余下文化期）归属问题，一直与夏商分界以及商代都城序列的划分密切相关。结合偃师商城与郑州商城的最新考古成果，可从以下几方面展开分析，并据此勾勒出夏商分界的核心证据链。
+
+一、二里头文化三、四期的文化特征与时代定位  
+1. 三期特征  
+  - 城址规模大幅扩大，出现完整的宫殿区、工坊区和居址区分区格局；  
+  - 青铜器数量显著增多，器型向饕餮纹饰、尊彝等典型商代早期样式过渡；  
+  - 陶器形制向高领罐、执壶等商代风格靠拢，但仍保留钵、盘等晚二里头传统。  
+2. 四期特征  
+  - 青铜器制作技艺进一步成熟，铜铸分模澄泥范技术已趋稳定；  
+  - 甲骨原始征兆消失，尚无成熟甲骨文，但殷墟前期出现的“甲骨占卜”雏形或预示文书记录的萌芽；  
+  - 都城规模、建筑格局更接近郑州商城（“二里头遗存”与“商城”向郑州过渡之地）。  
+
+二、偃师商城与郑州商城考古发现对比  
+1. 偃师商城（②号馆）  
+  - 出土大批三、四期遗存，城墙断面暴露表明其筑城方式自西向东经历了多次增扩；  
+  - 青铜器以仿二里头器形与早期殷商器形并存，同时大量陶范与铸造下脚料验证铜铸工坊存在。  
+2. 郑州商城（上汇、北里、南里区）  
+  - 遗址略推后于偃师商城四期，但城墙体量更大，排水、道路规划更为规整；  
+  - 出土成熟的甲骨占卜片与阶段性文字标记（刀刻符号），初步确认其已有文字记载功能；  
+  - 大量青铜礼器、玉器礼器多出现于核心宫殿区，而民居区器物相对简单。  
+
+三、二里头文化分期与商代都城序列的关系  
+综合二里头三、四期与偃师、郑州商城资料，可见：  
+  - 二里头三期可视作从“晚夏文化”向“早期商都”过渡的起始阶段，对应所谓夏代晚期中央集权正在加强的都邑雏形；  
+  - 二里头四期与偃师商城并行，是区域性都城中心的鼎盛与转移，正在酝酿向郑州商城的再平衡；  
+  - 郑州商城则标志着真正意义上的商代都城体系初成，具备文字记录、礼制祭祀与青铜文化的完整框架。  
+
+四、夏商分界的关键证据链评述  
+1. 年代测定与年代学框架  
+  - 多点碳十四交叉校准，显示二里头三期（约前17—16世纪）、四期至偃师商城（约前16世纪中叶）与郑州商城（约前16—15世纪）形成相对连续的中期青铜时代序列。  
+2. 青铜器技术与礼制  
+  - 二里头文化晚期铜器由单范铸造逐步过渡为分范铸造，并出现饕餮纹、雕母线等商代早期标志；  
+  - 礼器品级、数量和分布高度制度化，配合宫殿建筑规模，反映出中央王权祭祀功能与官僚体系的确立。  
+3. 文字萌芽与甲骨占卜  
+  - 偶有刀刻符号、陶片铭文与放牧穴符，预示文字活动起始；  
+  - 郑州商城出土的原始甲骨占卜，虽载辞零碎，却已具有“记录预兆、向神祈求、王权决策”之功能，为商代文字政教统合奠基。  
+4. 都城规划与社会组织  
+  - 自二里头三期起即出现宫殿－工坊－民居分区布局，至郑州商城达成完整的城市骨架；  
+  - 城墙加固、内外沟渠排水系统，以及道路网格显示王权对土地与人口的严格管理。  
+5. 墓葬葬制演变  
+  - 二里头三、四期贵族祭祀坑由单一兽面纹鼎演变为簋、甗、簠、尊组合；  
+  - 郑州商城墓葬出现车马、玉器、青铜礼器同葬，官阶等级分明，与殷墟贵族墓制相承。  
+
+五、结论  
+二里头文化三、四期恰处于晚夏向早商的文化断裂与连续交汇处：三期偏向“夏末都邑”雏形，四期更多体现“朝代更迭”下的都城过渡；偃师商城与郑州商城的考古资料则将这一过渡置于有形的城址布局、青铜技术层次和文字记载雏形之中。以碳十四年代、青铜工艺革新、文字萌芽、都城规划和墓葬礼制等五条主线串联，便可建立起夏商分界的关键证据链：这一链条最终确认，二里头三、四期既不同于纯粹的“晚夏文化”，也尚未完全达到殷墟成熟殷商的高度，而正是“初创商代”都城序列的必要阶段。
+2025-10-08 17:59:20,095 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=ea8f0c75-ac00-41ca-9072-7bdfec0252b1 response_code=200
+2025-10-08 17:59:20,096 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:59:25,225 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 17:59:25,227 - INFO - 评分结果: 考生的答案对二里头文化三、四期的归属问题进行了详细分析，并结合偃师商城与郑州商城的考古发现，探讨了二里头文化分期与商代都城序列的关系，同时评述了夏商分界的关键证据链。以下是对考生答案的评述和补充：
+
+1. **二里头文化三、四期的文化特征与时代定位**：
+   - 考生详细描述了二里头三、四期的文化特征，尤其是青铜器和陶器的演变，体现了从晚夏文化向早期商代文化的过渡。这种过渡在考古学上是通过器物形制和技术的变化来体现的。
+
+2. **偃师商城与郑州商城考古发现对比**：
+   - 偃师商城和郑州商城的考古发现为理解二里头文化的分期提供了重要的实物证据。考生指出偃师商城的遗存与二里头四期的联系，以及郑州商城在都城规划和文字记录上的进步，显示了商代都城体系的初步形成。
+
+3. **二里头文化分期与商代都城序列的关系**：
+   - 考生将二里头三期视为晚夏文化向早期商代过渡的起始阶段，而四期则与偃师商城并行，标志着区域性都城中心的转移。这种分析有助于理解二里头文化在夏商过渡中的角色。
+
+4. **夏商分界的关键证据链评述**：
+   - 考生从年代测定、青铜器技术、文字萌芽、都城规划和墓葬葬制等方面构建了夏商分界的证据链。这些证据链条为理解二里头文化在夏商过渡中的地位提供了多维度的支持。
+
+5. **结论**：
+   - 考生认为二里头三、四期处于晚夏向早商的文化断裂与连续交汇处，既不同于纯粹的晚夏文化，也尚未达到殷墟成熟殷商的高度，而是“初创商代”都城序列的必要阶段。
+
+**补充建议**：
+- 可以进一步探讨二里头文化与商代早期文化在社会组织、经济结构等方面的连续性和断裂性。
+- 对比其他地区的考古发现，进一步验证二里头文化在夏商过渡中的独特性和普遍性。
+- 考虑到考古学证据的局限性，结合文献记载进行多角度分析，以增强论证的全面性和说服力。
+
+总体而言，考生的答案结构清晰，论证有力，能够较好地结合考古发现分析二里头文化分期与商代都城序列的关系，并评述夏商分界的关键证据链。
+2025-10-08 17:59:25,228 - INFO - 回答不正确，期望: 1. 争议焦点界定：二里头文化分期归属存在两种核心假说——假说A主张一、二期属夏代，三、四期属商代早期；假说B认为全部四期均属夏代文化。核心分歧在于三期青铜爵、宫殿基址等遗存的文化属性判定。
+2. 偃师商城证据链：该城址城墙夯土层含二里头三、四期典型陶器（绳纹陶鬲足/鸡冠形握手陶盆/圆唇陶澄滤器），其城门被二里岗期墓葬打破，证实早于郑州商城。城垣规模（1700×1200米）与宫殿基址（200×200米）符合都城特征，且地望与《汉书·地理志》尸乡'汤都西亳'记载吻合。
+3. 郑州商城参照系：该城出土饕餮纹铜鼎（高1米/重86.4公斤）及宫殿群基址（60×13米）反映商中期技术水平。偃师商城发现后，其与二里岗期遗存的层位关系支持'隞都'假说，形成偃师（早商）-郑州（中商）的都城序列。
+4. 二里头分期佐证：三期出现万平方米夯土台基、青铜爵（河南最早青铜容器）及铸铜作坊，其陶器形制/夯窝结构与二里岗文化存在谱系关联。四期遗存与偃师商城早期地层陶器类型学高度连续。
+5. 阶段性结论：陶器类型学序列（二里头三四期→二里岗）、都城规模演进（二里头宫殿→偃师城垣→郑州窖藏铜鼎）及碳十四年代框架共同支持假说A，将夏商分界锚定于二里头二、三期之际。
+2025-10-08 17:59:27,127 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=0156a86b-987b-44f6-be92-603055b3e63b response_code=200
+2025-10-08 17:59:27,128 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:59:42,183 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=5e0d57a1-be42-48c7-aef6-5d50448a9619 response_code=200
+2025-10-08 17:59:42,184 - ERROR - 回答问题时出错: 无响应
+2025-10-08 17:59:49,002 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=dd9f1d39-8f21-4ae4-90ff-0d475a6d5d0d response_code=200
+2025-10-08 17:59:49,004 - ERROR - 回答问题时出错: 无响应
+2025-10-08 18:00:20,254 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=7dc931f9-1104-4192-9eb7-e230965f67fb response_code=200
+2025-10-08 18:00:20,254 - ERROR - 回答问题时出错: 无响应
+2025-10-08 18:00:20,259 - INFO - 进度: 15/56 (26.8%)
+2025-10-08 18:00:20,260 - INFO - 当前得分: 15/560
+2025-10-08 18:00:21,267 - INFO - 开始处理批次 #4 (问题 16-20)
+2025-10-08 18:00:21,269 - WARNING - 无法读取图片 nan: expected str, bytes or os.PathLike object, not float
+2025-10-08 18:00:21,269 - INFO - 提问 [o4high_qa8.jsonl_16] [考古]: 在贾湖遗址墓葬分期研究中，考古学家如何通过层位关系和器物组合演变将墓葬划分为三期五段？请阐述分期依据及核心逻辑过程。
+2025-10-08 18:00:21,269 - WARNING - 无法读取图片 nan: expected str, bytes or os.PathLike object, not float
+2025-10-08 18:00:21,269 - INFO - 提问 [o4high_qa8.jsonl_17] [历史地理学]: 基于《秦汉南北朝官印征存》（罗福颐）和《汉书》相关记载，分析秦或西汉时期'卫园邑印'的读法分歧（如陈直先生与罗福颐先生观点），并阐述王人聪先生如何通过文献校对论证其正确读法及历史含义。
+2025-10-08 18:00:21,270 - WARNING - 无法读取图片 nan: expected str, bytes or os.PathLike object, not float
+2025-10-08 18:00:21,270 - INFO - 提问 [o4high_qa8.jsonl_18] [考古]: 根据《秦汉南北朝官印征存》[罗福颐]和《考古》1978年第4期报告，分析出土于长沙近郊的'长沙长'封泥印文中第三字的学术争议，并论证其正确解读如何体现汉人地名使用通假字的特征。
+2025-10-08 18:00:21,270 - WARNING - 无法读取图片 nan: expected str, bytes or os.PathLike object, not float
+2025-10-08 18:00:21,270 - INFO - 提问 [o4high_qa8.jsonl_19] [中国古代史]: 在探讨西周夷王在位年数的学术争议中，学者如何基于《史记·秦本纪》的记载推断夷王在位年数不长？请分析该推断的局限性，并讨论彭裕商等学者提出的反驳观点。
+2025-10-08 18:00:21,270 - WARNING - 无法读取图片 nan: expected str, bytes or os.PathLike object, not float
+2025-10-08 18:00:21,270 - INFO - 提问 [o4high_qa8.jsonl_20] [汉语言文字学]: 根据出土古文字资料如邗王是野戈铭文和赵孟壶铭文，以及《管子·小问》《史记》等文献记载，分析春秋时期吴国被称为'邗'或'干'的原因，并评述郭沫若与后续学者在此问题上的学术争议。
+2025-10-08 18:00:34,734 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=8d9caca9-83f8-4fd3-8607-8b067aecb059 response_code=200
+2025-10-08 18:46:34,545 - ERROR - 回答问题时出错: 无响应
+2025-10-08 18:46:34,545 - WARNING - 问题 '在贾湖遗址墓葬分期研究中，考古学家如何通过层位关系和器物组合演变将墓葬划分为三期五段？请阐述分期依据及核心逻辑过程。' 回答超时
+2025-10-08 18:46:34,546 - WARNING - 问题 '根据《秦汉南北朝官印征存》[罗福颐]和《考古》1978年第4期报告，分析出土于长沙近郊的'长沙长'封泥印文中第三字的学术争议，并论证其正确解读如何体现汉人地名使用通假字的特征。' 回答超时
+2025-10-08 18:46:34,546 - WARNING - 问题 '在探讨西周夷王在位年数的学术争议中，学者如何基于《史记·秦本纪》的记载推断夷王在位年数不长？请分析该推断的局限性，并讨论彭裕商等学者提出的反驳观点。' 回答超时
+2025-10-08 18:46:34,546 - WARNING - 问题 '基于《秦汉南北朝官印征存》（罗福颐）和《汉书》相关记载，分析秦或西汉时期'卫园邑印'的读法分歧（如陈直先生与罗福颐先生观点），并阐述王人聪先生如何通过文献校对论证其正确读法及历史含义。' 回答超时
+2025-10-08 18:46:36,528 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=403
+2025-10-08 18:46:36,529 - INFO - error_code=local:insufficient_quota error_message='user quota is not enough (request id: 20251008184636109773836hqdErKNO)' error_param= error_type=new_api_error message='OpenAI API error received' stream_error=False
+2025-10-08 18:46:36,539 - ERROR - 回答问题时出错: user quota is not enough (request id: 20251008184636109773836hqdErKNO)
+2025-10-08 18:46:37,677 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=502
+2025-10-08 18:46:37,679 - INFO - error_code=None error_message='Service temporarily unavailable' error_param=None error_type=service_error message='OpenAI API error received' stream_error=False
+2025-10-08 18:46:37,690 - ERROR - 回答问题时出错: Service temporarily unavailable {"error":{"message":"Service temporarily unavailable","type":"service_error"}} 502 {'error': {'message': 'Service temporarily unavailable', 'type': 'service_error'}} <CIMultiDictProxy('Server': 'openresty', 'Date': 'Wed, 08 Oct 2025 10:46:37 GMT', 'Content-Type': 'application/json', 'Content-Length': '78', 'Connection': 'keep-alive')>
+2025-10-08 18:46:38,836 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=502
+2025-10-08 18:46:38,841 - INFO - error_code=None error_message='Service temporarily unavailable' error_param=None error_type=service_error message='OpenAI API error received' stream_error=False
+2025-10-08 18:46:38,842 - ERROR - 回答问题时出错: Service temporarily unavailable {"error":{"message":"Service temporarily unavailable","type":"service_error"}} 502 {'error': {'message': 'Service temporarily unavailable', 'type': 'service_error'}} <CIMultiDictProxy('Server': 'openresty', 'Date': 'Wed, 08 Oct 2025 10:46:38 GMT', 'Content-Type': 'application/json', 'Content-Length': '78', 'Connection': 'keep-alive')>
+2025-10-08 18:46:39,989 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=502
+2025-10-08 18:46:39,989 - INFO - error_code=None error_message='Service temporarily unavailable' error_param=None error_type=service_error message='OpenAI API error received' stream_error=False
+2025-10-08 18:46:39,992 - ERROR - 回答问题时出错: Service temporarily unavailable {"error":{"message":"Service temporarily unavailable","type":"service_error"}} 502 {'error': {'message': 'Service temporarily unavailable', 'type': 'service_error'}} <CIMultiDictProxy('Server': 'openresty', 'Date': 'Wed, 08 Oct 2025 10:46:39 GMT', 'Content-Type': 'application/json', 'Content-Length': '78', 'Connection': 'keep-alive')>
+2025-10-08 18:46:50,001 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=5542af93-a493-45fb-9eaf-a924f1836242 response_code=200
+2025-10-08 18:46:50,002 - ERROR - 回答问题时出错: 无响应
+2025-10-08 18:46:50,164 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=a3979b9b-7edb-4023-9ae4-a248a75b79a3 response_code=200
+2025-10-08 18:46:50,164 - ERROR - 回答问题时出错: 无响应
+2025-10-08 18:46:50,228 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=b28148bf-6ca7-4c15-b9b3-7d53c477edab response_code=200
+2025-10-08 18:46:50,229 - ERROR - 回答问题时出错: 无响应
+2025-10-08 18:46:51,157 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=502
+2025-10-08 18:46:51,158 - INFO - error_code=None error_message='Service temporarily unavailable' error_param=None error_type=service_error message='OpenAI API error received' stream_error=False
+2025-10-08 18:46:51,158 - ERROR - 回答问题时出错: Service temporarily unavailable {"error":{"message":"Service temporarily unavailable","type":"service_error"}} 502 {'error': {'message': 'Service temporarily unavailable', 'type': 'service_error'}} <CIMultiDictProxy('Server': 'openresty', 'Date': 'Wed, 08 Oct 2025 10:46:50 GMT', 'Content-Type': 'application/json', 'Content-Length': '78', 'Connection': 'keep-alive')>
+2025-10-08 18:46:51,290 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=502
+2025-10-08 18:46:51,290 - INFO - error_code=None error_message='Service temporarily unavailable' error_param=None error_type=service_error message='OpenAI API error received' stream_error=False
+2025-10-08 18:46:51,291 - ERROR - 回答问题时出错: Service temporarily unavailable {"error":{"message":"Service temporarily unavailable","type":"service_error"}} 502 {'error': {'message': 'Service temporarily unavailable', 'type': 'service_error'}} <CIMultiDictProxy('Server': 'openresty', 'Date': 'Wed, 08 Oct 2025 10:46:51 GMT', 'Content-Type': 'application/json', 'Content-Length': '78', 'Connection': 'keep-alive')>
+2025-10-08 18:46:51,417 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=502
+2025-10-08 18:46:51,418 - INFO - error_code=None error_message='Service temporarily unavailable' error_param=None error_type=service_error message='OpenAI API error received' stream_error=False
+2025-10-08 18:46:51,419 - ERROR - 回答问题时出错: Service temporarily unavailable {"error":{"message":"Service temporarily unavailable","type":"service_error"}} 502 {'error': {'message': 'Service temporarily unavailable', 'type': 'service_error'}} <CIMultiDictProxy('Server': 'openresty', 'Date': 'Wed, 08 Oct 2025 10:46:51 GMT', 'Content-Type': 'application/json', 'Content-Length': '78', 'Connection': 'keep-alive')>
+2025-10-08 18:46:52,415 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=502
+2025-10-08 18:46:52,415 - INFO - error_code=None error_message='Service temporarily unavailable' error_param=None error_type=service_error message='OpenAI API error received' stream_error=False
+2025-10-08 18:46:52,417 - ERROR - 回答问题时出错: Service temporarily unavailable {"error":{"message":"Service temporarily unavailable","type":"service_error"}} 502 {'error': {'message': 'Service temporarily unavailable', 'type': 'service_error'}} <CIMultiDictProxy('Server': 'openresty', 'Date': 'Wed, 08 Oct 2025 10:46:52 GMT', 'Content-Type': 'application/json', 'Content-Length': '78', 'Connection': 'keep-alive')>
+2025-10-08 18:46:52,496 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=502
+2025-10-08 18:46:52,496 - INFO - error_code=None error_message='Service temporarily unavailable' error_param=None error_type=service_error message='OpenAI API error received' stream_error=False
+2025-10-08 18:46:52,497 - ERROR - 回答问题时出错: Service temporarily unavailable {"error":{"message":"Service temporarily unavailable","type":"service_error"}} 502 {'error': {'message': 'Service temporarily unavailable', 'type': 'service_error'}} <CIMultiDictProxy('Server': 'openresty', 'Date': 'Wed, 08 Oct 2025 10:46:52 GMT', 'Content-Type': 'application/json', 'Content-Length': '78', 'Connection': 'keep-alive')>
+2025-10-08 18:46:52,534 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=502
+2025-10-08 18:46:52,534 - INFO - error_code=None error_message='Service temporarily unavailable' error_param=None error_type=service_error message='OpenAI API error received' stream_error=False
+2025-10-08 18:46:52,536 - ERROR - 回答问题时出错: Service temporarily unavailable {"error":{"message":"Service temporarily unavailable","type":"service_error"}} 502 {'error': {'message': 'Service temporarily unavailable', 'type': 'service_error'}} <CIMultiDictProxy('Server': 'openresty', 'Date': 'Wed, 08 Oct 2025 10:46:52 GMT', 'Content-Type': 'application/json', 'Content-Length': '78', 'Connection': 'keep-alive')>
+2025-10-08 18:46:53,546 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=502
+2025-10-08 18:46:53,547 - INFO - error_code=None error_message='Service temporarily unavailable' error_param=None error_type=service_error message='OpenAI API error received' stream_error=False
+2025-10-08 18:46:53,548 - ERROR - 回答问题时出错: Service temporarily unavailable {"error":{"message":"Service temporarily unavailable","type":"service_error"}} 502 {'error': {'message': 'Service temporarily unavailable', 'type': 'service_error'}} <CIMultiDictProxy('Server': 'openresty', 'Date': 'Wed, 08 Oct 2025 10:46:53 GMT', 'Content-Type': 'application/json', 'Content-Length': '78', 'Connection': 'keep-alive')>
+2025-10-08 18:46:53,632 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=502
+2025-10-08 18:46:53,632 - INFO - error_code=None error_message='Service temporarily unavailable' error_param=None error_type=service_error message='OpenAI API error received' stream_error=False
+2025-10-08 18:46:53,632 - ERROR - 回答问题时出错: Service temporarily unavailable {"error":{"message":"Service temporarily unavailable","type":"service_error"}} 502 {'error': {'message': 'Service temporarily unavailable', 'type': 'service_error'}} <CIMultiDictProxy('Server': 'openresty', 'Date': 'Wed, 08 Oct 2025 10:46:53 GMT', 'Content-Type': 'application/json', 'Content-Length': '78', 'Connection': 'keep-alive')>
+2025-10-08 18:46:53,671 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=502
+2025-10-08 18:46:53,671 - INFO - error_code=None error_message='Service temporarily unavailable' error_param=None error_type=service_error message='OpenAI API error received' stream_error=False
+2025-10-08 18:46:53,671 - ERROR - 回答问题时出错: Service temporarily unavailable {"error":{"message":"Service temporarily unavailable","type":"service_error"}} 502 {'error': {'message': 'Service temporarily unavailable', 'type': 'service_error'}} <CIMultiDictProxy('Server': 'openresty', 'Date': 'Wed, 08 Oct 2025 10:46:53 GMT', 'Content-Type': 'application/json', 'Content-Length': '78', 'Connection': 'keep-alive')>
+2025-10-08 18:46:57,662 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=043d362b-b72c-489e-8e6e-91404156ac93 response_code=200
+2025-10-08 18:46:57,663 - ERROR - 回答问题时出错: 无响应
+2025-10-08 18:46:59,589 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=502
+2025-10-08 18:46:59,589 - INFO - error_code=None error_message='Service temporarily unavailable' error_param=None error_type=service_error message='OpenAI API error received' stream_error=False
+2025-10-08 18:46:59,589 - ERROR - 回答问题时出错: Service temporarily unavailable {"error":{"message":"Service temporarily unavailable","type":"service_error"}} 502 {'error': {'message': 'Service temporarily unavailable', 'type': 'service_error'}} <CIMultiDictProxy('Server': 'openresty', 'Date': 'Wed, 08 Oct 2025 10:46:59 GMT', 'Content-Type': 'application/json', 'Content-Length': '78', 'Connection': 'keep-alive')>
+2025-10-08 18:47:01,054 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=502
+2025-10-08 18:47:01,055 - INFO - error_code=None error_message='Service temporarily unavailable' error_param=None error_type=service_error message='OpenAI API error received' stream_error=False
+2025-10-08 18:47:01,056 - ERROR - 回答问题时出错: Service temporarily unavailable {"error":{"message":"Service temporarily unavailable","type":"service_error"}} 502 {'error': {'message': 'Service temporarily unavailable', 'type': 'service_error'}} <CIMultiDictProxy('Server': 'openresty', 'Date': 'Wed, 08 Oct 2025 10:47:00 GMT', 'Content-Type': 'application/json', 'Content-Length': '78', 'Connection': 'keep-alive')>
+2025-10-08 18:47:02,207 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=502
+2025-10-08 18:47:02,207 - INFO - error_code=None error_message='Service temporarily unavailable' error_param=None error_type=service_error message='OpenAI API error received' stream_error=False
+2025-10-08 18:47:02,209 - ERROR - 回答问题时出错: Service temporarily unavailable {"error":{"message":"Service temporarily unavailable","type":"service_error"}} 502 {'error': {'message': 'Service temporarily unavailable', 'type': 'service_error'}} <CIMultiDictProxy('Server': 'openresty', 'Date': 'Wed, 08 Oct 2025 10:47:01 GMT', 'Content-Type': 'application/json', 'Content-Length': '78', 'Connection': 'keep-alive')>
+2025-10-08 18:47:02,213 - INFO - 进度: 20/56 (35.7%)
+2025-10-08 18:47:02,214 - INFO - 当前得分: 15/560
+2025-10-08 18:47:03,212 - INFO - 开始处理批次 #5 (问题 21-25)
+2025-10-08 18:47:03,213 - WARNING - 无法读取图片 nan: expected str, bytes or os.PathLike object, not float
+2025-10-08 18:47:03,213 - INFO - 提问 [o4high_qa8.jsonl_21] [考古]: 根据王晖在《西周春秋吴国迁都研究》（《历史研究》2000年第5期）中的论述，简述吴国在西周春秋时期的四次迁都过程，包括每次迁都的时间、地点和相关历史事件。
+2025-10-08 18:47:03,213 - WARNING - 无法读取图片 nan: expected str, bytes or os.PathLike object, not float
+2025-10-08 18:47:03,213 - INFO - 提问 [o4high_qa8.jsonl_22] [中国古典文献学]: 根据《经今古文学问题新论》（台湾版）对《武成》和《逸周书·世俘篇》的研究，分析刘歆在解读《武成》'惟一月壬辰旁死霸'时的误解如何导致清代学者卢文和陈逢衡对《世俘篇》校勘产生分歧，并阐述现代学者如何修正这一错误。
+2025-10-08 18:47:03,214 - WARNING - 无法读取图片 nan: expected str, bytes or os.PathLike object, not float
+2025-10-08 18:47:03,214 - INFO - 提问 [o4high_qa8.jsonl_23] [汉语言文字学]: 根据张政等学者对利簋铭文的研究，解释'岁鼎'一词的含义及其天文学依据，并分析相关学术争议点。
+2025-10-08 18:47:03,215 - WARNING - 无法读取图片 nan: expected str, bytes or os.PathLike object, not float
+2025-10-08 18:47:03,215 - INFO - 提问 [o4high_qa8.jsonl_24] [考古]: 结合《史记·匈奴列传》（中华书局点校本，1982年）及山西朱开沟遗址考古发现，论述夏亡后夏人北迁的历史过程，并分析学术界关于土方是否为夏族的争议焦点及其证据依据。
+2025-10-08 18:47:03,215 - WARNING - 无法读取图片 nan: expected str, bytes or os.PathLike object, not float
+2025-10-08 18:47:03,215 - INFO - 提问 [o4high_qa8.jsonl_25] [中国古代史]: 根据银雀山竹简《田法》及相关文献，阐述战国时期国家授田制下的耕作制度特点，包括撂荒制度和定期还授制度的具体内容，并分析其与西周耕作制度的差异。
+2025-10-08 18:47:03,333 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=502
+2025-10-08 18:47:03,333 - INFO - error_code=None error_message='Service temporarily unavailable' error_param=None error_type=service_error message='OpenAI API error received' stream_error=False
+2025-10-08 18:47:03,333 - ERROR - 回答问题时出错: Service temporarily unavailable {"error":{"message":"Service temporarily unavailable","type":"service_error"}} 502 {'error': {'message': 'Service temporarily unavailable', 'type': 'service_error'}} <CIMultiDictProxy('Server': 'openresty', 'Date': 'Wed, 08 Oct 2025 10:47:03 GMT', 'Content-Type': 'application/json', 'Content-Length': '78', 'Connection': 'keep-alive')>
+2025-10-08 18:47:03,333 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=502
+2025-10-08 18:47:03,333 - INFO - error_code=None error_message='Service temporarily unavailable' error_param=None error_type=service_error message='OpenAI API error received' stream_error=False
+2025-10-08 18:47:03,333 - ERROR - 回答问题时出错: Service temporarily unavailable {"error":{"message":"Service temporarily unavailable","type":"service_error"}} 502 {'error': {'message': 'Service temporarily unavailable', 'type': 'service_error'}} <CIMultiDictProxy('Server': 'openresty', 'Date': 'Wed, 08 Oct 2025 10:47:03 GMT', 'Content-Type': 'application/json', 'Content-Length': '78', 'Connection': 'keep-alive')>
+2025-10-08 18:47:03,333 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=502
+2025-10-08 18:47:03,333 - INFO - error_code=None error_message='Service temporarily unavailable' error_param=None error_type=service_error message='OpenAI API error received' stream_error=False
+2025-10-08 18:47:03,333 - ERROR - 回答问题时出错: Service temporarily unavailable {"error":{"message":"Service temporarily unavailable","type":"service_error"}} 502 {'error': {'message': 'Service temporarily unavailable', 'type': 'service_error'}} <CIMultiDictProxy('Server': 'openresty', 'Date': 'Wed, 08 Oct 2025 10:47:03 GMT', 'Content-Type': 'application/json', 'Content-Length': '78', 'Connection': 'keep-alive')>
+2025-10-08 18:47:03,437 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=502
+2025-10-08 18:47:03,438 - INFO - error_code=None error_message='Service temporarily unavailable' error_param=None error_type=service_error message='OpenAI API error received' stream_error=False
+2025-10-08 18:47:03,439 - ERROR - 回答问题时出错: Service temporarily unavailable {"error":{"message":"Service temporarily unavailable","type":"service_error"}} 502 {'error': {'message': 'Service temporarily unavailable', 'type': 'service_error'}} <CIMultiDictProxy('Server': 'openresty', 'Date': 'Wed, 08 Oct 2025 10:47:03 GMT', 'Content-Type': 'application/json', 'Content-Length': '78', 'Connection': 'keep-alive')>
+2025-10-08 18:47:03,449 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=502
+2025-10-08 18:47:03,450 - INFO - error_code=None error_message='Service temporarily unavailable' error_param=None error_type=service_error message='OpenAI API error received' stream_error=False
+2025-10-08 18:47:03,450 - ERROR - 回答问题时出错: Service temporarily unavailable {"error":{"message":"Service temporarily unavailable","type":"service_error"}} 502 {'error': {'message': 'Service temporarily unavailable', 'type': 'service_error'}} <CIMultiDictProxy('Server': 'openresty', 'Date': 'Wed, 08 Oct 2025 10:47:03 GMT', 'Content-Type': 'application/json', 'Content-Length': '78', 'Connection': 'keep-alive')>
+2025-10-08 18:47:04,461 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=502
+2025-10-08 18:47:04,463 - INFO - error_code=None error_message='Service temporarily unavailable' error_param=None error_type=service_error message='OpenAI API error received' stream_error=False
+2025-10-08 18:47:04,464 - ERROR - 回答问题时出错: Service temporarily unavailable {"error":{"message":"Service temporarily unavailable","type":"service_error"}} 502 {'error': {'message': 'Service temporarily unavailable', 'type': 'service_error'}} <CIMultiDictProxy('Server': 'openresty', 'Date': 'Wed, 08 Oct 2025 10:47:04 GMT', 'Content-Type': 'application/json', 'Content-Length': '78', 'Connection': 'keep-alive')>
+2025-10-08 18:47:04,491 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=502
+2025-10-08 18:47:04,491 - INFO - error_code=None error_message='Service temporarily unavailable' error_param=None error_type=service_error message='OpenAI API error received' stream_error=False
+2025-10-08 18:47:04,492 - ERROR - 回答问题时出错: Service temporarily unavailable {"error":{"message":"Service temporarily unavailable","type":"service_error"}} 502 {'error': {'message': 'Service temporarily unavailable', 'type': 'service_error'}} <CIMultiDictProxy('Server': 'openresty', 'Date': 'Wed, 08 Oct 2025 10:47:04 GMT', 'Content-Type': 'application/json', 'Content-Length': '78', 'Connection': 'keep-alive')>
+2025-10-08 18:47:04,544 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=502
+2025-10-08 18:47:04,545 - INFO - error_code=None error_message='Service temporarily unavailable' error_param=None error_type=service_error message='OpenAI API error received' stream_error=False
+2025-10-08 18:47:04,546 - ERROR - 回答问题时出错: Service temporarily unavailable {"error":{"message":"Service temporarily unavailable","type":"service_error"}} 502 {'error': {'message': 'Service temporarily unavailable', 'type': 'service_error'}} <CIMultiDictProxy('Server': 'openresty', 'Date': 'Wed, 08 Oct 2025 10:47:04 GMT', 'Content-Type': 'application/json', 'Content-Length': '78', 'Connection': 'keep-alive')>
+2025-10-08 18:47:04,570 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=502
+2025-10-08 18:47:04,570 - INFO - error_code=None error_message='Service temporarily unavailable' error_param=None error_type=service_error message='OpenAI API error received' stream_error=False
+2025-10-08 18:47:04,570 - ERROR - 回答问题时出错: Service temporarily unavailable {"error":{"message":"Service temporarily unavailable","type":"service_error"}} 502 {'error': {'message': 'Service temporarily unavailable', 'type': 'service_error'}} <CIMultiDictProxy('Server': 'openresty', 'Date': 'Wed, 08 Oct 2025 10:47:04 GMT', 'Content-Type': 'application/json', 'Content-Length': '78', 'Connection': 'keep-alive')>
+2025-10-08 18:47:04,594 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=502
+2025-10-08 18:47:04,594 - INFO - error_code=None error_message='Service temporarily unavailable' error_param=None error_type=service_error message='OpenAI API error received' stream_error=False
+2025-10-08 18:47:04,594 - ERROR - 回答问题时出错: Service temporarily unavailable {"error":{"message":"Service temporarily unavailable","type":"service_error"}} 502 {'error': {'message': 'Service temporarily unavailable', 'type': 'service_error'}} <CIMultiDictProxy('Server': 'openresty', 'Date': 'Wed, 08 Oct 2025 10:47:04 GMT', 'Content-Type': 'application/json', 'Content-Length': '78', 'Connection': 'keep-alive')>
+2025-10-08 18:47:05,599 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=502
+2025-10-08 18:47:05,600 - INFO - error_code=None error_message='Service temporarily unavailable' error_param=None error_type=service_error message='OpenAI API error received' stream_error=False
+2025-10-08 18:47:05,602 - ERROR - 回答问题时出错: Service temporarily unavailable {"error":{"message":"Service temporarily unavailable","type":"service_error"}} 502 {'error': {'message': 'Service temporarily unavailable', 'type': 'service_error'}} <CIMultiDictProxy('Server': 'openresty', 'Date': 'Wed, 08 Oct 2025 10:47:05 GMT', 'Content-Type': 'application/json', 'Content-Length': '78', 'Connection': 'keep-alive')>
+2025-10-08 18:47:05,632 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=502
+2025-10-08 18:47:05,632 - INFO - error_code=None error_message='Service temporarily unavailable' error_param=None error_type=service_error message='OpenAI API error received' stream_error=False
+2025-10-08 18:47:05,633 - ERROR - 回答问题时出错: Service temporarily unavailable {"error":{"message":"Service temporarily unavailable","type":"service_error"}} 502 {'error': {'message': 'Service temporarily unavailable', 'type': 'service_error'}} <CIMultiDictProxy('Server': 'openresty', 'Date': 'Wed, 08 Oct 2025 10:47:05 GMT', 'Content-Type': 'application/json', 'Content-Length': '78', 'Connection': 'keep-alive')>
+2025-10-08 18:47:05,673 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=502
+2025-10-08 18:47:05,674 - INFO - error_code=None error_message='Service temporarily unavailable' error_param=None error_type=service_error message='OpenAI API error received' stream_error=False
+2025-10-08 18:47:05,674 - ERROR - 回答问题时出错: Service temporarily unavailable {"error":{"message":"Service temporarily unavailable","type":"service_error"}} 502 {'error': {'message': 'Service temporarily unavailable', 'type': 'service_error'}} <CIMultiDictProxy('Server': 'openresty', 'Date': 'Wed, 08 Oct 2025 10:47:05 GMT', 'Content-Type': 'application/json', 'Content-Length': '78', 'Connection': 'keep-alive')>
+2025-10-08 18:47:05,717 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=502
+2025-10-08 18:47:05,717 - INFO - error_code=None error_message='Service temporarily unavailable' error_param=None error_type=service_error message='OpenAI API error received' stream_error=False
+2025-10-08 18:47:05,718 - ERROR - 回答问题时出错: Service temporarily unavailable {"error":{"message":"Service temporarily unavailable","type":"service_error"}} 502 {'error': {'message': 'Service temporarily unavailable', 'type': 'service_error'}} <CIMultiDictProxy('Server': 'openresty', 'Date': 'Wed, 08 Oct 2025 10:47:05 GMT', 'Content-Type': 'application/json', 'Content-Length': '78', 'Connection': 'keep-alive')>
+2025-10-08 18:47:05,722 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=502
+2025-10-08 18:47:05,723 - INFO - error_code=None error_message='Service temporarily unavailable' error_param=None error_type=service_error message='OpenAI API error received' stream_error=False
+2025-10-08 18:47:05,723 - ERROR - 回答问题时出错: Service temporarily unavailable {"error":{"message":"Service temporarily unavailable","type":"service_error"}} 502 {'error': {'message': 'Service temporarily unavailable', 'type': 'service_error'}} <CIMultiDictProxy('Server': 'openresty', 'Date': 'Wed, 08 Oct 2025 10:47:05 GMT', 'Content-Type': 'application/json', 'Content-Length': '78', 'Connection': 'keep-alive')>
+2025-10-08 18:47:06,731 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=502
+2025-10-08 18:47:06,733 - INFO - error_code=None error_message='Service temporarily unavailable' error_param=None error_type=service_error message='OpenAI API error received' stream_error=False
+2025-10-08 18:47:06,735 - ERROR - 回答问题时出错: Service temporarily unavailable {"error":{"message":"Service temporarily unavailable","type":"service_error"}} 502 {'error': {'message': 'Service temporarily unavailable', 'type': 'service_error'}} <CIMultiDictProxy('Server': 'openresty', 'Date': 'Wed, 08 Oct 2025 10:47:06 GMT', 'Content-Type': 'application/json', 'Content-Length': '78', 'Connection': 'keep-alive')>
+2025-10-08 18:47:06,757 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=502
+2025-10-08 18:47:06,757 - INFO - error_code=None error_message='Service temporarily unavailable' error_param=None error_type=service_error message='OpenAI API error received' stream_error=False
+2025-10-08 18:47:06,757 - ERROR - 回答问题时出错: Service temporarily unavailable {"error":{"message":"Service temporarily unavailable","type":"service_error"}} 502 {'error': {'message': 'Service temporarily unavailable', 'type': 'service_error'}} <CIMultiDictProxy('Server': 'openresty', 'Date': 'Wed, 08 Oct 2025 10:47:06 GMT', 'Content-Type': 'application/json', 'Content-Length': '78', 'Connection': 'keep-alive')>
+2025-10-08 18:47:06,810 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=502
+2025-10-08 18:47:06,811 - INFO - error_code=None error_message='Service temporarily unavailable' error_param=None error_type=service_error message='OpenAI API error received' stream_error=False
+2025-10-08 18:47:06,812 - ERROR - 回答问题时出错: Service temporarily unavailable {"error":{"message":"Service temporarily unavailable","type":"service_error"}} 502 {'error': {'message': 'Service temporarily unavailable', 'type': 'service_error'}} <CIMultiDictProxy('Server': 'openresty', 'Date': 'Wed, 08 Oct 2025 10:47:06 GMT', 'Content-Type': 'application/json', 'Content-Length': '78', 'Connection': 'keep-alive')>
+2025-10-08 18:47:06,849 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=502
+2025-10-08 18:47:06,849 - INFO - error_code=None error_message='Service temporarily unavailable' error_param=None error_type=service_error message='OpenAI API error received' stream_error=False
+2025-10-08 18:47:06,850 - ERROR - 回答问题时出错: Service temporarily unavailable {"error":{"message":"Service temporarily unavailable","type":"service_error"}} 502 {'error': {'message': 'Service temporarily unavailable', 'type': 'service_error'}} <CIMultiDictProxy('Server': 'openresty', 'Date': 'Wed, 08 Oct 2025 10:47:06 GMT', 'Content-Type': 'application/json', 'Content-Length': '78', 'Connection': 'keep-alive')>
+2025-10-08 18:47:07,308 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=502
+2025-10-08 18:47:07,309 - INFO - error_code=None error_message='Service temporarily unavailable' error_param=None error_type=service_error message='OpenAI API error received' stream_error=False
+2025-10-08 18:47:07,309 - ERROR - 回答问题时出错: Service temporarily unavailable {"error":{"message":"Service temporarily unavailable","type":"service_error"}} 502 {'error': {'message': 'Service temporarily unavailable', 'type': 'service_error'}} <CIMultiDictProxy('Server': 'openresty', 'Date': 'Wed, 08 Oct 2025 10:47:06 GMT', 'Content-Type': 'application/json', 'Content-Length': '78', 'Connection': 'keep-alive')>
+2025-10-08 18:47:07,870 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=502
+2025-10-08 18:47:07,871 - INFO - error_code=None error_message='Service temporarily unavailable' error_param=None error_type=service_error message='OpenAI API error received' stream_error=False
+2025-10-08 18:47:07,872 - ERROR - 回答问题时出错: Service temporarily unavailable {"error":{"message":"Service temporarily unavailable","type":"service_error"}} 502 {'error': {'message': 'Service temporarily unavailable', 'type': 'service_error'}} <CIMultiDictProxy('Server': 'openresty', 'Date': 'Wed, 08 Oct 2025 10:47:07 GMT', 'Content-Type': 'application/json', 'Content-Length': '78', 'Connection': 'keep-alive')>
+2025-10-08 18:47:07,983 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=502
+2025-10-08 18:47:07,984 - INFO - error_code=None error_message='Service temporarily unavailable' error_param=None error_type=service_error message='OpenAI API error received' stream_error=False
+2025-10-08 18:47:07,984 - ERROR - 回答问题时出错: Service temporarily unavailable {"error":{"message":"Service temporarily unavailable","type":"service_error"}} 502 {'error': {'message': 'Service temporarily unavailable', 'type': 'service_error'}} <CIMultiDictProxy('Server': 'openresty', 'Date': 'Wed, 08 Oct 2025 10:47:07 GMT', 'Content-Type': 'application/json', 'Content-Length': '78', 'Connection': 'keep-alive')>
+2025-10-08 18:47:08,001 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=502
+2025-10-08 18:47:08,002 - INFO - error_code=None error_message='Service temporarily unavailable' error_param=None error_type=service_error message='OpenAI API error received' stream_error=False
+2025-10-08 18:47:08,002 - ERROR - 回答问题时出错: Service temporarily unavailable {"error":{"message":"Service temporarily unavailable","type":"service_error"}} 502 {'error': {'message': 'Service temporarily unavailable', 'type': 'service_error'}} <CIMultiDictProxy('Server': 'openresty', 'Date': 'Wed, 08 Oct 2025 10:47:07 GMT', 'Content-Type': 'application/json', 'Content-Length': '78', 'Connection': 'keep-alive')>
+2025-10-08 18:47:08,151 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=502
+2025-10-08 18:47:08,151 - INFO - error_code=None error_message='Service temporarily unavailable' error_param=None error_type=service_error message='OpenAI API error received' stream_error=False
+2025-10-08 18:47:08,152 - ERROR - 回答问题时出错: Service temporarily unavailable {"error":{"message":"Service temporarily unavailable","type":"service_error"}} 502 {'error': {'message': 'Service temporarily unavailable', 'type': 'service_error'}} <CIMultiDictProxy('Server': 'openresty', 'Date': 'Wed, 08 Oct 2025 10:47:07 GMT', 'Content-Type': 'application/json', 'Content-Length': '78', 'Connection': 'keep-alive')>
+2025-10-08 18:47:08,449 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=502
+2025-10-08 18:47:08,449 - INFO - error_code=None error_message='Service temporarily unavailable' error_param=None error_type=service_error message='OpenAI API error received' stream_error=False
+2025-10-08 18:47:08,450 - ERROR - 回答问题时出错: Service temporarily unavailable {"error":{"message":"Service temporarily unavailable","type":"service_error"}} 502 {'error': {'message': 'Service temporarily unavailable', 'type': 'service_error'}} <CIMultiDictProxy('Server': 'openresty', 'Date': 'Wed, 08 Oct 2025 10:47:08 GMT', 'Content-Type': 'application/json', 'Content-Length': '78', 'Connection': 'keep-alive')>
+2025-10-08 18:47:08,456 - INFO - 进度: 25/56 (44.6%)
+2025-10-08 18:47:08,456 - INFO - 当前得分: 15/560
+2025-10-08 18:47:09,471 - INFO - 开始处理批次 #6 (问题 26-30)
+2025-10-08 18:47:09,472 - WARNING - 无法读取图片 nan: expected str, bytes or os.PathLike object, not float
+2025-10-08 18:47:09,472 - INFO - 提问 [o4high_qa8.jsonl_26] [考古]: 根据《后汉书·南蛮西南夷列传》和殷墟卜辞记载，结合近代学术争议，分析盘瓠传说中‘犬’的真实含义，并论述盘瓠与盘古之间的关系。
+2025-10-08 18:47:09,472 - WARNING - 无法读取图片 nan: expected str, bytes or os.PathLike object, not float
+2025-10-08 18:47:09,472 - INFO - 提问 [o4high_qa8.jsonl_27] [历史地理学]: 基于《汉书·五行志》和《史记·南越列传》等史料，分析汉文帝二年（公元前178年）发生的‘南越反’事件的实质争议，并论证南海王织在汉初历史中的角色、封地位置及其消亡原因。
+2025-10-08 18:47:09,472 - WARNING - 无法读取图片 nan: expected str, bytes or os.PathLike object, not float
+2025-10-08 18:47:09,472 - INFO - 提问 [o4high_qa8.jsonl_28] [历史地理学]: 请结合陈直、梁玉绳等学者的研究，分析秦汉时期‘南武侯’封号的属性（地名或尊称），并讨论其封邑位置争议的核心问题及相关学术观点。
+2025-10-08 18:47:09,472 - WARNING - 无法读取图片 nan: expected str, bytes or os.PathLike object, not float
+2025-10-08 18:47:09,472 - INFO - 提问 [o4high_qa8.jsonl_29] [汉语言文字学]: 根据汉初历史地理背景和学者研究，分析南海王织封地的位置争议，并阐释全祖望、梁玉绳与文颖对'虚封'含义的分歧及其历史依据。
+2025-10-08 18:47:09,474 - WARNING - 无法读取图片 nan: expected str, bytes or os.PathLike object, not float
+2025-10-08 18:47:09,474 - INFO - 提问 [o4high_qa8.jsonl_30] [考古]: 在商代三戈铭文中，作器者家族记录了大祖、大父、中父、诸兄等称谓及其日名（以十日命名）。王国维认为此铭文证明殷以前无嫡庶之制，而杨希枚和张光直提出不同见解。请分析王国维、杨希枚、张光直三位学者对商代家族制度中嫡庶制度和日名来源的主要争议观点，并讨论这些观点如何解释铭文所反映的父子兄弟异名现象。
+2025-10-08 18:47:09,598 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=502
+2025-10-08 18:47:09,599 - INFO - error_code=None error_message='Service temporarily unavailable' error_param=None error_type=service_error message='OpenAI API error received' stream_error=False
+2025-10-08 18:47:09,599 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=502
+2025-10-08 18:47:09,600 - INFO - error_code=None error_message='Service temporarily unavailable' error_param=None error_type=service_error message='OpenAI API error received' stream_error=False
+2025-10-08 18:47:09,600 - ERROR - 回答问题时出错: Service temporarily unavailable {"error":{"message":"Service temporarily unavailable","type":"service_error"}} 502 {'error': {'message': 'Service temporarily unavailable', 'type': 'service_error'}} <CIMultiDictProxy('Server': 'openresty', 'Date': 'Wed, 08 Oct 2025 10:47:09 GMT', 'Content-Type': 'application/json', 'Content-Length': '78', 'Connection': 'keep-alive')>
+2025-10-08 18:47:09,600 - ERROR - 回答问题时出错: Service temporarily unavailable {"error":{"message":"Service temporarily unavailable","type":"service_error"}} 502 {'error': {'message': 'Service temporarily unavailable', 'type': 'service_error'}} <CIMultiDictProxy('Server': 'openresty', 'Date': 'Wed, 08 Oct 2025 10:47:09 GMT', 'Content-Type': 'application/json', 'Content-Length': '78', 'Connection': 'keep-alive')>
+2025-10-08 18:47:09,623 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=502
+2025-10-08 18:47:09,623 - INFO - error_code=None error_message='Service temporarily unavailable' error_param=None error_type=service_error message='OpenAI API error received' stream_error=False
+2025-10-08 18:47:09,624 - ERROR - 回答问题时出错: Service temporarily unavailable {"error":{"message":"Service temporarily unavailable","type":"service_error"}} 502 {'error': {'message': 'Service temporarily unavailable', 'type': 'service_error'}} <CIMultiDictProxy('Server': 'openresty', 'Date': 'Wed, 08 Oct 2025 10:47:09 GMT', 'Content-Type': 'application/json', 'Content-Length': '78', 'Connection': 'keep-alive')>
+2025-10-08 18:47:09,655 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=502
+2025-10-08 18:47:09,655 - INFO - error_code=None error_message='Service temporarily unavailable' error_param=None error_type=service_error message='OpenAI API error received' stream_error=False
+2025-10-08 18:47:09,656 - ERROR - 回答问题时出错: Service temporarily unavailable {"error":{"message":"Service temporarily unavailable","type":"service_error"}} 502 {'error': {'message': 'Service temporarily unavailable', 'type': 'service_error'}} <CIMultiDictProxy('Server': 'openresty', 'Date': 'Wed, 08 Oct 2025 10:47:09 GMT', 'Content-Type': 'application/json', 'Content-Length': '78', 'Connection': 'keep-alive')>
+2025-10-08 18:47:09,677 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=502
+2025-10-08 18:47:09,679 - INFO - error_code=None error_message='Service temporarily unavailable' error_param=None error_type=service_error message='OpenAI API error received' stream_error=False
+2025-10-08 18:47:09,679 - ERROR - 回答问题时出错: Service temporarily unavailable {"error":{"message":"Service temporarily unavailable","type":"service_error"}} 502 {'error': {'message': 'Service temporarily unavailable', 'type': 'service_error'}} <CIMultiDictProxy('Server': 'openresty', 'Date': 'Wed, 08 Oct 2025 10:47:09 GMT', 'Content-Type': 'application/json', 'Content-Length': '78', 'Connection': 'keep-alive')>
+2025-10-08 18:47:10,741 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=502
+2025-10-08 18:47:10,741 - INFO - error_code=None error_message='Service temporarily unavailable' error_param=None error_type=service_error message='OpenAI API error received' stream_error=False
+2025-10-08 18:47:10,742 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=502
+2025-10-08 18:47:10,743 - INFO - error_code=None error_message='Service temporarily unavailable' error_param=None error_type=service_error message='OpenAI API error received' stream_error=False
+2025-10-08 18:47:10,744 - ERROR - 回答问题时出错: Service temporarily unavailable {"error":{"message":"Service temporarily unavailable","type":"service_error"}} 502 {'error': {'message': 'Service temporarily unavailable', 'type': 'service_error'}} <CIMultiDictProxy('Server': 'openresty', 'Date': 'Wed, 08 Oct 2025 10:47:10 GMT', 'Content-Type': 'application/json', 'Content-Length': '78', 'Connection': 'keep-alive')>
+2025-10-08 18:47:10,744 - ERROR - 回答问题时出错: Service temporarily unavailable {"error":{"message":"Service temporarily unavailable","type":"service_error"}} 502 {'error': {'message': 'Service temporarily unavailable', 'type': 'service_error'}} <CIMultiDictProxy('Server': 'openresty', 'Date': 'Wed, 08 Oct 2025 10:47:10 GMT', 'Content-Type': 'application/json', 'Content-Length': '78', 'Connection': 'keep-alive')>
+2025-10-08 18:47:10,781 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=502
+2025-10-08 18:47:10,781 - INFO - error_code=None error_message='Service temporarily unavailable' error_param=None error_type=service_error message='OpenAI API error received' stream_error=False
+2025-10-08 18:47:10,782 - ERROR - 回答问题时出错: Service temporarily unavailable {"error":{"message":"Service temporarily unavailable","type":"service_error"}} 502 {'error': {'message': 'Service temporarily unavailable', 'type': 'service_error'}} <CIMultiDictProxy('Server': 'openresty', 'Date': 'Wed, 08 Oct 2025 10:47:10 GMT', 'Content-Type': 'application/json', 'Content-Length': '78', 'Connection': 'keep-alive')>
+2025-10-08 18:47:10,813 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=502
+2025-10-08 18:47:10,814 - INFO - error_code=None error_message='Service temporarily unavailable' error_param=None error_type=service_error message='OpenAI API error received' stream_error=False
+2025-10-08 18:47:10,815 - ERROR - 回答问题时出错: Service temporarily unavailable {"error":{"message":"Service temporarily unavailable","type":"service_error"}} 502 {'error': {'message': 'Service temporarily unavailable', 'type': 'service_error'}} <CIMultiDictProxy('Server': 'openresty', 'Date': 'Wed, 08 Oct 2025 10:47:10 GMT', 'Content-Type': 'application/json', 'Content-Length': '78', 'Connection': 'keep-alive')>
+2025-10-08 18:47:10,819 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=502
+2025-10-08 18:47:10,819 - INFO - error_code=None error_message='Service temporarily unavailable' error_param=None error_type=service_error message='OpenAI API error received' stream_error=False
+2025-10-08 18:47:10,820 - ERROR - 回答问题时出错: Service temporarily unavailable {"error":{"message":"Service temporarily unavailable","type":"service_error"}} 502 {'error': {'message': 'Service temporarily unavailable', 'type': 'service_error'}} <CIMultiDictProxy('Server': 'openresty', 'Date': 'Wed, 08 Oct 2025 10:47:10 GMT', 'Content-Type': 'application/json', 'Content-Length': '78', 'Connection': 'keep-alive')>
+2025-10-08 18:47:11,862 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=502
+2025-10-08 18:47:11,864 - INFO - error_code=None error_message='Service temporarily unavailable' error_param=None error_type=service_error message='OpenAI API error received' stream_error=False
+2025-10-08 18:47:11,865 - ERROR - 回答问题时出错: Service temporarily unavailable {"error":{"message":"Service temporarily unavailable","type":"service_error"}} 502 {'error': {'message': 'Service temporarily unavailable', 'type': 'service_error'}} <CIMultiDictProxy('Server': 'openresty', 'Date': 'Wed, 08 Oct 2025 10:47:11 GMT', 'Content-Type': 'application/json', 'Content-Length': '78', 'Connection': 'keep-alive')>
+2025-10-08 18:47:11,891 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=502
+2025-10-08 18:47:11,891 - INFO - error_code=None error_message='Service temporarily unavailable' error_param=None error_type=service_error message='OpenAI API error received' stream_error=False
+2025-10-08 18:47:11,893 - ERROR - 回答问题时出错: Service temporarily unavailable {"error":{"message":"Service temporarily unavailable","type":"service_error"}} 502 {'error': {'message': 'Service temporarily unavailable', 'type': 'service_error'}} <CIMultiDictProxy('Server': 'openresty', 'Date': 'Wed, 08 Oct 2025 10:47:11 GMT', 'Content-Type': 'application/json', 'Content-Length': '78', 'Connection': 'keep-alive')>
+2025-10-08 18:47:11,942 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=502
+2025-10-08 18:47:11,943 - INFO - error_code=None error_message='Service temporarily unavailable' error_param=None error_type=service_error message='OpenAI API error received' stream_error=False
+2025-10-08 18:47:11,944 - ERROR - 回答问题时出错: Service temporarily unavailable {"error":{"message":"Service temporarily unavailable","type":"service_error"}} 502 {'error': {'message': 'Service temporarily unavailable', 'type': 'service_error'}} <CIMultiDictProxy('Server': 'openresty', 'Date': 'Wed, 08 Oct 2025 10:47:11 GMT', 'Content-Type': 'application/json', 'Content-Length': '78', 'Connection': 'keep-alive')>
+2025-10-08 18:47:11,951 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=502
+2025-10-08 18:47:11,952 - INFO - error_code=None error_message='Service temporarily unavailable' error_param=None error_type=service_error message='OpenAI API error received' stream_error=False
+2025-10-08 18:47:11,952 - ERROR - 回答问题时出错: Service temporarily unavailable {"error":{"message":"Service temporarily unavailable","type":"service_error"}} 502 {'error': {'message': 'Service temporarily unavailable', 'type': 'service_error'}} <CIMultiDictProxy('Server': 'openresty', 'Date': 'Wed, 08 Oct 2025 10:47:11 GMT', 'Content-Type': 'application/json', 'Content-Length': '78', 'Connection': 'keep-alive')>
+2025-10-08 18:47:11,981 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=502
+2025-10-08 18:47:11,981 - INFO - error_code=None error_message='Service temporarily unavailable' error_param=None error_type=service_error message='OpenAI API error received' stream_error=False
+2025-10-08 18:47:11,982 - ERROR - 回答问题时出错: Service temporarily unavailable {"error":{"message":"Service temporarily unavailable","type":"service_error"}} 502 {'error': {'message': 'Service temporarily unavailable', 'type': 'service_error'}} <CIMultiDictProxy('Server': 'openresty', 'Date': 'Wed, 08 Oct 2025 10:47:11 GMT', 'Content-Type': 'application/json', 'Content-Length': '78', 'Connection': 'keep-alive')>
+2025-10-08 18:47:13,047 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=502
+2025-10-08 18:47:13,047 - INFO - error_code=None error_message='Service temporarily unavailable' error_param=None error_type=service_error message='OpenAI API error received' stream_error=False
+2025-10-08 18:47:13,054 - ERROR - 回答问题时出错: Service temporarily unavailable {"error":{"message":"Service temporarily unavailable","type":"service_error"}} 502 {'error': {'message': 'Service temporarily unavailable', 'type': 'service_error'}} <CIMultiDictProxy('Server': 'openresty', 'Date': 'Wed, 08 Oct 2025 10:47:12 GMT', 'Content-Type': 'application/json', 'Content-Length': '78', 'Connection': 'keep-alive')>
+2025-10-08 18:47:13,094 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=502
+2025-10-08 18:47:13,094 - INFO - error_code=None error_message='Service temporarily unavailable' error_param=None error_type=service_error message='OpenAI API error received' stream_error=False
+2025-10-08 18:47:13,095 - ERROR - 回答问题时出错: Service temporarily unavailable {"error":{"message":"Service temporarily unavailable","type":"service_error"}} 502 {'error': {'message': 'Service temporarily unavailable', 'type': 'service_error'}} <CIMultiDictProxy('Server': 'openresty', 'Date': 'Wed, 08 Oct 2025 10:47:12 GMT', 'Content-Type': 'application/json', 'Content-Length': '78', 'Connection': 'keep-alive')>
+2025-10-08 18:47:13,175 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=502
+2025-10-08 18:47:13,176 - INFO - error_code=None error_message='Service temporarily unavailable' error_param=None error_type=service_error message='OpenAI API error received' stream_error=False
+2025-10-08 18:47:13,177 - ERROR - 回答问题时出错: Service temporarily unavailable {"error":{"message":"Service temporarily unavailable","type":"service_error"}} 502 {'error': {'message': 'Service temporarily unavailable', 'type': 'service_error'}} <CIMultiDictProxy('Server': 'openresty', 'Date': 'Wed, 08 Oct 2025 10:47:12 GMT', 'Content-Type': 'application/json', 'Content-Length': '78', 'Connection': 'keep-alive')>
+2025-10-08 18:47:13,201 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=502
+2025-10-08 18:47:13,201 - INFO - error_code=None error_message='Service temporarily unavailable' error_param=None error_type=service_error message='OpenAI API error received' stream_error=False
+2025-10-08 18:47:13,202 - ERROR - 回答问题时出错: Service temporarily unavailable {"error":{"message":"Service temporarily unavailable","type":"service_error"}} 502 {'error': {'message': 'Service temporarily unavailable', 'type': 'service_error'}} <CIMultiDictProxy('Server': 'openresty', 'Date': 'Wed, 08 Oct 2025 10:47:12 GMT', 'Content-Type': 'application/json', 'Content-Length': '78', 'Connection': 'keep-alive')>
+2025-10-08 18:47:13,286 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=502
+2025-10-08 18:47:13,286 - INFO - error_code=None error_message='Service temporarily unavailable' error_param=None error_type=service_error message='OpenAI API error received' stream_error=False
+2025-10-08 18:47:13,287 - ERROR - 回答问题时出错: Service temporarily unavailable {"error":{"message":"Service temporarily unavailable","type":"service_error"}} 502 {'error': {'message': 'Service temporarily unavailable', 'type': 'service_error'}} <CIMultiDictProxy('Server': 'openresty', 'Date': 'Wed, 08 Oct 2025 10:47:13 GMT', 'Content-Type': 'application/json', 'Content-Length': '78', 'Connection': 'keep-alive')>
+2025-10-08 18:47:14,191 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=502
+2025-10-08 18:47:14,192 - INFO - error_code=None error_message='Service temporarily unavailable' error_param=None error_type=service_error message='OpenAI API error received' stream_error=False
+2025-10-08 18:47:14,193 - ERROR - 回答问题时出错: Service temporarily unavailable {"error":{"message":"Service temporarily unavailable","type":"service_error"}} 502 {'error': {'message': 'Service temporarily unavailable', 'type': 'service_error'}} <CIMultiDictProxy('Server': 'openresty', 'Date': 'Wed, 08 Oct 2025 10:47:13 GMT', 'Content-Type': 'application/json', 'Content-Length': '78', 'Connection': 'keep-alive')>
+2025-10-08 18:47:14,229 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=502
+2025-10-08 18:47:14,230 - INFO - error_code=None error_message='Service temporarily unavailable' error_param=None error_type=service_error message='OpenAI API error received' stream_error=False
+2025-10-08 18:47:14,230 - ERROR - 回答问题时出错: Service temporarily unavailable {"error":{"message":"Service temporarily unavailable","type":"service_error"}} 502 {'error': {'message': 'Service temporarily unavailable', 'type': 'service_error'}} <CIMultiDictProxy('Server': 'openresty', 'Date': 'Wed, 08 Oct 2025 10:47:13 GMT', 'Content-Type': 'application/json', 'Content-Length': '78', 'Connection': 'keep-alive')>
+2025-10-08 18:47:14,325 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=502
+2025-10-08 18:47:14,325 - INFO - error_code=None error_message='Service temporarily unavailable' error_param=None error_type=service_error message='OpenAI API error received' stream_error=False
+2025-10-08 18:47:14,326 - ERROR - 回答问题时出错: Service temporarily unavailable {"error":{"message":"Service temporarily unavailable","type":"service_error"}} 502 {'error': {'message': 'Service temporarily unavailable', 'type': 'service_error'}} <CIMultiDictProxy('Server': 'openresty', 'Date': 'Wed, 08 Oct 2025 10:47:14 GMT', 'Content-Type': 'application/json', 'Content-Length': '78', 'Connection': 'keep-alive')>
+2025-10-08 18:47:14,399 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=502
+2025-10-08 18:47:14,399 - INFO - error_code=None error_message='Service temporarily unavailable' error_param=None error_type=service_error message='OpenAI API error received' stream_error=False
+2025-10-08 18:47:14,400 - ERROR - 回答问题时出错: Service temporarily unavailable {"error":{"message":"Service temporarily unavailable","type":"service_error"}} 502 {'error': {'message': 'Service temporarily unavailable', 'type': 'service_error'}} <CIMultiDictProxy('Server': 'openresty', 'Date': 'Wed, 08 Oct 2025 10:47:14 GMT', 'Content-Type': 'application/json', 'Content-Length': '78', 'Connection': 'keep-alive')>
+2025-10-08 18:47:14,401 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=502
+2025-10-08 18:47:14,401 - INFO - error_code=None error_message='Service temporarily unavailable' error_param=None error_type=service_error message='OpenAI API error received' stream_error=False
+2025-10-08 18:47:14,402 - ERROR - 回答问题时出错: Service temporarily unavailable {"error":{"message":"Service temporarily unavailable","type":"service_error"}} 502 {'error': {'message': 'Service temporarily unavailable', 'type': 'service_error'}} <CIMultiDictProxy('Server': 'openresty', 'Date': 'Wed, 08 Oct 2025 10:47:14 GMT', 'Content-Type': 'application/json', 'Content-Length': '78', 'Connection': 'keep-alive')>
+2025-10-08 18:47:14,406 - INFO - 进度: 30/56 (53.6%)
+2025-10-08 18:47:14,406 - INFO - 当前得分: 15/560
+2025-10-08 18:47:15,425 - INFO - 开始处理批次 #7 (问题 31-35)
+2025-10-08 18:47:15,427 - WARNING - 无法读取图片 nan: expected str, bytes or os.PathLike object, not float
+2025-10-08 18:47:15,428 - INFO - 提问 [o4high_qa8.jsonl_31] [考古]: 基于商三戈铭文，阐述日名制如何体现商代子姓贵族的内婚制结构，并解释堂亲通婚与表亲通婚在日名制中的区别及其学术争议。
+2025-10-08 18:47:15,428 - WARNING - 无法读取图片 nan: expected str, bytes or os.PathLike object, not float
+2025-10-08 18:47:15,428 - INFO - 提问 [o4high_qa8.jsonl_32] [考古]: 基于商代甲骨文和考古证据，分析日名系统如何体现商代子姓贵族内婚制中的母系分宗原则，并阐述其与父系族制的互动关系及学术争议焦点。
+2025-10-08 18:47:15,428 - WARNING - 无法读取图片 nan: expected str, bytes or os.PathLike object, not float
+2025-10-08 18:47:15,428 - INFO - 提问 [o4high_qa8.jsonl_33] [考古]: 在商代甲骨文研究中，商王名号如'沃丁'、'雍己'等常冠以别称。根据胡厚宣、胡振宇的《殷商史》（上海人民出版社，2003年）等文献，分析这些别称的可能地理来源，并解释研究者为何怀疑这些商王（包括沃丁、雍己、河直甲、沃甲、南庚、阳甲、盘庚、廪辛）不是按正常程序即位。
+2025-10-08 18:47:15,428 - WARNING - 无法读取图片 nan: expected str, bytes or os.PathLike object, not float
+2025-10-08 18:47:15,428 - INFO - 提问 [o4high_qa8.jsonl_34] [考古]: 根据《秦简·法律答问》和《汉简·二年律令》的记载，分析'系城旦舂'刑罚的性质及其在秦汉刑罚体系中的作用，特别是针对隶臣妾等累犯的处理方式，并解释其与完城旦舂的区别。
+2025-10-08 18:47:15,428 - WARNING - 无法读取图片 nan: expected str, bytes or os.PathLike object, not float
+2025-10-08 18:47:15,428 - INFO - 提问 [o4high_qa8.jsonl_35] [考古]: 基于《张家山汉墓竹简[二四七号墓]》（张家山二四七号汉墓竹简整理小组，文物出版社，2001年）和《睡虎地秦墓竹简》（睡虎地秦简整理小组，文物出版社，1978年）的考古证据，结合《史记》与《汉书》的文献记载，分析司马迁与班固对汉初萧何作律描述的差异，并论证班固‘九章律’说法的历史真实性？
+2025-10-08 18:47:15,570 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=502
+2025-10-08 18:47:15,570 - INFO - error_code=None error_message='Service temporarily unavailable' error_param=None error_type=service_error message='OpenAI API error received' stream_error=False
+2025-10-08 18:47:15,572 - ERROR - 回答问题时出错: Service temporarily unavailable {"error":{"message":"Service temporarily unavailable","type":"service_error"}} 502 {'error': {'message': 'Service temporarily unavailable', 'type': 'service_error'}} <CIMultiDictProxy('Server': 'openresty', 'Date': 'Wed, 08 Oct 2025 10:47:15 GMT', 'Content-Type': 'application/json', 'Content-Length': '78', 'Connection': 'keep-alive')>
+2025-10-08 18:47:15,578 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=502
+2025-10-08 18:47:15,580 - INFO - error_code=None error_message='Service temporarily unavailable' error_param=None error_type=service_error message='OpenAI API error received' stream_error=False
+2025-10-08 18:47:15,580 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=502
+2025-10-08 18:47:15,580 - INFO - error_code=None error_message='Service temporarily unavailable' error_param=None error_type=service_error message='OpenAI API error received' stream_error=False
+2025-10-08 18:47:15,581 - ERROR - 回答问题时出错: Service temporarily unavailable {"error":{"message":"Service temporarily unavailable","type":"service_error"}} 502 {'error': {'message': 'Service temporarily unavailable', 'type': 'service_error'}} <CIMultiDictProxy('Server': 'openresty', 'Date': 'Wed, 08 Oct 2025 10:47:15 GMT', 'Content-Type': 'application/json', 'Content-Length': '78', 'Connection': 'keep-alive')>
+2025-10-08 18:47:15,581 - ERROR - 回答问题时出错: Service temporarily unavailable {"error":{"message":"Service temporarily unavailable","type":"service_error"}} 502 {'error': {'message': 'Service temporarily unavailable', 'type': 'service_error'}} <CIMultiDictProxy('Server': 'openresty', 'Date': 'Wed, 08 Oct 2025 10:47:15 GMT', 'Content-Type': 'application/json', 'Content-Length': '78', 'Connection': 'keep-alive')>
+2025-10-08 18:47:15,621 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=502
+2025-10-08 18:47:15,622 - INFO - error_code=None error_message='Service temporarily unavailable' error_param=None error_type=service_error message='OpenAI API error received' stream_error=False
+2025-10-08 18:47:15,622 - ERROR - 回答问题时出错: Service temporarily unavailable {"error":{"message":"Service temporarily unavailable","type":"service_error"}} 502 {'error': {'message': 'Service temporarily unavailable', 'type': 'service_error'}} <CIMultiDictProxy('Server': 'openresty', 'Date': 'Wed, 08 Oct 2025 10:47:15 GMT', 'Content-Type': 'application/json', 'Content-Length': '78', 'Connection': 'keep-alive')>
+2025-10-08 18:47:15,642 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=502
+2025-10-08 18:47:15,642 - INFO - error_code=None error_message='Service temporarily unavailable' error_param=None error_type=service_error message='OpenAI API error received' stream_error=False
+2025-10-08 18:47:15,642 - ERROR - 回答问题时出错: Service temporarily unavailable {"error":{"message":"Service temporarily unavailable","type":"service_error"}} 502 {'error': {'message': 'Service temporarily unavailable', 'type': 'service_error'}} <CIMultiDictProxy('Server': 'openresty', 'Date': 'Wed, 08 Oct 2025 10:47:15 GMT', 'Content-Type': 'application/json', 'Content-Length': '78', 'Connection': 'keep-alive')>
+2025-10-08 18:47:16,704 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=502
+2025-10-08 18:47:16,704 - INFO - error_code=None error_message='Service temporarily unavailable' error_param=None error_type=service_error message='OpenAI API error received' stream_error=False
+2025-10-08 18:47:16,705 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=502
+2025-10-08 18:47:16,705 - INFO - error_code=None error_message='Service temporarily unavailable' error_param=None error_type=service_error message='OpenAI API error received' stream_error=False
+2025-10-08 18:47:16,706 - ERROR - 回答问题时出错: Service temporarily unavailable {"error":{"message":"Service temporarily unavailable","type":"service_error"}} 502 {'error': {'message': 'Service temporarily unavailable', 'type': 'service_error'}} <CIMultiDictProxy('Server': 'openresty', 'Date': 'Wed, 08 Oct 2025 10:47:16 GMT', 'Content-Type': 'application/json', 'Content-Length': '78', 'Connection': 'keep-alive')>
+2025-10-08 18:47:16,706 - ERROR - 回答问题时出错: Service temporarily unavailable {"error":{"message":"Service temporarily unavailable","type":"service_error"}} 502 {'error': {'message': 'Service temporarily unavailable', 'type': 'service_error'}} <CIMultiDictProxy('Server': 'openresty', 'Date': 'Wed, 08 Oct 2025 10:47:16 GMT', 'Content-Type': 'application/json', 'Content-Length': '78', 'Connection': 'keep-alive')>
+2025-10-08 18:47:16,718 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=502
+2025-10-08 18:47:16,719 - INFO - error_code=None error_message='Service temporarily unavailable' error_param=None error_type=service_error message='OpenAI API error received' stream_error=False
+2025-10-08 18:47:16,719 - ERROR - 回答问题时出错: Service temporarily unavailable {"error":{"message":"Service temporarily unavailable","type":"service_error"}} 502 {'error': {'message': 'Service temporarily unavailable', 'type': 'service_error'}} <CIMultiDictProxy('Server': 'openresty', 'Date': 'Wed, 08 Oct 2025 10:47:16 GMT', 'Content-Type': 'application/json', 'Content-Length': '78', 'Connection': 'keep-alive')>
+2025-10-08 18:47:16,744 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=502
+2025-10-08 18:47:16,744 - INFO - error_code=None error_message='Service temporarily unavailable' error_param=None error_type=service_error message='OpenAI API error received' stream_error=False
+2025-10-08 18:47:16,745 - ERROR - 回答问题时出错: Service temporarily unavailable {"error":{"message":"Service temporarily unavailable","type":"service_error"}} 502 {'error': {'message': 'Service temporarily unavailable', 'type': 'service_error'}} <CIMultiDictProxy('Server': 'openresty', 'Date': 'Wed, 08 Oct 2025 10:47:16 GMT', 'Content-Type': 'application/json', 'Content-Length': '78', 'Connection': 'keep-alive')>
+2025-10-08 18:47:16,776 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=502
+2025-10-08 18:47:16,776 - INFO - error_code=None error_message='Service temporarily unavailable' error_param=None error_type=service_error message='OpenAI API error received' stream_error=False
+2025-10-08 18:47:16,777 - ERROR - 回答问题时出错: Service temporarily unavailable {"error":{"message":"Service temporarily unavailable","type":"service_error"}} 502 {'error': {'message': 'Service temporarily unavailable', 'type': 'service_error'}} <CIMultiDictProxy('Server': 'openresty', 'Date': 'Wed, 08 Oct 2025 10:47:16 GMT', 'Content-Type': 'application/json', 'Content-Length': '78', 'Connection': 'keep-alive')>
+2025-10-08 18:47:17,845 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=502
+2025-10-08 18:47:17,845 - INFO - error_code=None error_message='Service temporarily unavailable' error_param=None error_type=service_error message='OpenAI API error received' stream_error=False
+2025-10-08 18:47:17,845 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=502
+2025-10-08 18:47:17,845 - INFO - error_code=None error_message='Service temporarily unavailable' error_param=None error_type=service_error message='OpenAI API error received' stream_error=False
+2025-10-08 18:47:17,845 - ERROR - 回答问题时出错: Service temporarily unavailable {"error":{"message":"Service temporarily unavailable","type":"service_error"}} 502 {'error': {'message': 'Service temporarily unavailable', 'type': 'service_error'}} <CIMultiDictProxy('Server': 'openresty', 'Date': 'Wed, 08 Oct 2025 10:47:17 GMT', 'Content-Type': 'application/json', 'Content-Length': '78', 'Connection': 'keep-alive')>
+2025-10-08 18:47:17,845 - ERROR - 回答问题时出错: Service temporarily unavailable {"error":{"message":"Service temporarily unavailable","type":"service_error"}} 502 {'error': {'message': 'Service temporarily unavailable', 'type': 'service_error'}} <CIMultiDictProxy('Server': 'openresty', 'Date': 'Wed, 08 Oct 2025 10:47:17 GMT', 'Content-Type': 'application/json', 'Content-Length': '78', 'Connection': 'keep-alive')>
+2025-10-08 18:47:17,908 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=502
+2025-10-08 18:47:17,909 - INFO - error_code=None error_message='Service temporarily unavailable' error_param=None error_type=service_error message='OpenAI API error received' stream_error=False
+2025-10-08 18:47:17,909 - ERROR - 回答问题时出错: Service temporarily unavailable {"error":{"message":"Service temporarily unavailable","type":"service_error"}} 502 {'error': {'message': 'Service temporarily unavailable', 'type': 'service_error'}} <CIMultiDictProxy('Server': 'openresty', 'Date': 'Wed, 08 Oct 2025 10:47:17 GMT', 'Content-Type': 'application/json', 'Content-Length': '78', 'Connection': 'keep-alive')>
+2025-10-08 18:47:17,949 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=502
+2025-10-08 18:47:17,950 - INFO - error_code=None error_message='Service temporarily unavailable' error_param=None error_type=service_error message='OpenAI API error received' stream_error=False
+2025-10-08 18:47:17,951 - ERROR - 回答问题时出错: Service temporarily unavailable {"error":{"message":"Service temporarily unavailable","type":"service_error"}} 502 {'error': {'message': 'Service temporarily unavailable', 'type': 'service_error'}} <CIMultiDictProxy('Server': 'openresty', 'Date': 'Wed, 08 Oct 2025 10:47:17 GMT', 'Content-Type': 'application/json', 'Content-Length': '78', 'Connection': 'keep-alive')>
+2025-10-08 18:47:17,961 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=502
+2025-10-08 18:47:17,962 - INFO - error_code=None error_message='Service temporarily unavailable' error_param=None error_type=service_error message='OpenAI API error received' stream_error=False
+2025-10-08 18:47:17,962 - ERROR - 回答问题时出错: Service temporarily unavailable {"error":{"message":"Service temporarily unavailable","type":"service_error"}} 502 {'error': {'message': 'Service temporarily unavailable', 'type': 'service_error'}} <CIMultiDictProxy('Server': 'openresty', 'Date': 'Wed, 08 Oct 2025 10:47:17 GMT', 'Content-Type': 'application/json', 'Content-Length': '78', 'Connection': 'keep-alive')>
+2025-10-08 18:47:18,980 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=502
+2025-10-08 18:47:18,980 - INFO - error_code=None error_message='Service temporarily unavailable' error_param=None error_type=service_error message='OpenAI API error received' stream_error=False
+2025-10-08 18:47:18,981 - ERROR - 回答问题时出错: Service temporarily unavailable {"error":{"message":"Service temporarily unavailable","type":"service_error"}} 502 {'error': {'message': 'Service temporarily unavailable', 'type': 'service_error'}} <CIMultiDictProxy('Server': 'openresty', 'Date': 'Wed, 08 Oct 2025 10:47:18 GMT', 'Content-Type': 'application/json', 'Content-Length': '78', 'Connection': 'keep-alive')>
+2025-10-08 18:47:19,009 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=502
+2025-10-08 18:47:19,009 - INFO - error_code=None error_message='Service temporarily unavailable' error_param=None error_type=service_error message='OpenAI API error received' stream_error=False
+2025-10-08 18:47:19,009 - ERROR - 回答问题时出错: Service temporarily unavailable {"error":{"message":"Service temporarily unavailable","type":"service_error"}} 502 {'error': {'message': 'Service temporarily unavailable', 'type': 'service_error'}} <CIMultiDictProxy('Server': 'openresty', 'Date': 'Wed, 08 Oct 2025 10:47:18 GMT', 'Content-Type': 'application/json', 'Content-Length': '78', 'Connection': 'keep-alive')>
+2025-10-08 18:47:19,074 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=502
+2025-10-08 18:47:19,075 - INFO - error_code=None error_message='Service temporarily unavailable' error_param=None error_type=service_error message='OpenAI API error received' stream_error=False
+2025-10-08 18:47:19,076 - ERROR - 回答问题时出错: Service temporarily unavailable {"error":{"message":"Service temporarily unavailable","type":"service_error"}} 502 {'error': {'message': 'Service temporarily unavailable', 'type': 'service_error'}} <CIMultiDictProxy('Server': 'openresty', 'Date': 'Wed, 08 Oct 2025 10:47:18 GMT', 'Content-Type': 'application/json', 'Content-Length': '78', 'Connection': 'keep-alive')>
+2025-10-08 18:47:19,149 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=502
+2025-10-08 18:47:19,151 - INFO - error_code=None error_message='Service temporarily unavailable' error_param=None error_type=service_error message='OpenAI API error received' stream_error=False
+2025-10-08 18:47:19,151 - ERROR - 回答问题时出错: Service temporarily unavailable {"error":{"message":"Service temporarily unavailable","type":"service_error"}} 502 {'error': {'message': 'Service temporarily unavailable', 'type': 'service_error'}} <CIMultiDictProxy('Server': 'openresty', 'Date': 'Wed, 08 Oct 2025 10:47:18 GMT', 'Content-Type': 'application/json', 'Content-Length': '78', 'Connection': 'keep-alive')>
+2025-10-08 18:47:19,154 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=502
+2025-10-08 18:47:19,154 - INFO - error_code=None error_message='Service temporarily unavailable' error_param=None error_type=service_error message='OpenAI API error received' stream_error=False
+2025-10-08 18:47:19,154 - ERROR - 回答问题时出错: Service temporarily unavailable {"error":{"message":"Service temporarily unavailable","type":"service_error"}} 502 {'error': {'message': 'Service temporarily unavailable', 'type': 'service_error'}} <CIMultiDictProxy('Server': 'openresty', 'Date': 'Wed, 08 Oct 2025 10:47:18 GMT', 'Content-Type': 'application/json', 'Content-Length': '78', 'Connection': 'keep-alive')>
+2025-10-08 18:47:20,125 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=502
+2025-10-08 18:47:20,126 - INFO - error_code=None error_message='Service temporarily unavailable' error_param=None error_type=service_error message='OpenAI API error received' stream_error=False
+2025-10-08 18:47:20,127 - ERROR - 回答问题时出错: Service temporarily unavailable {"error":{"message":"Service temporarily unavailable","type":"service_error"}} 502 {'error': {'message': 'Service temporarily unavailable', 'type': 'service_error'}} <CIMultiDictProxy('Server': 'openresty', 'Date': 'Wed, 08 Oct 2025 10:47:19 GMT', 'Content-Type': 'application/json', 'Content-Length': '78', 'Connection': 'keep-alive')>
+2025-10-08 18:47:20,164 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=502
+2025-10-08 18:47:20,164 - INFO - error_code=None error_message='Service temporarily unavailable' error_param=None error_type=service_error message='OpenAI API error received' stream_error=False
+2025-10-08 18:47:20,164 - ERROR - 回答问题时出错: Service temporarily unavailable {"error":{"message":"Service temporarily unavailable","type":"service_error"}} 502 {'error': {'message': 'Service temporarily unavailable', 'type': 'service_error'}} <CIMultiDictProxy('Server': 'openresty', 'Date': 'Wed, 08 Oct 2025 10:47:19 GMT', 'Content-Type': 'application/json', 'Content-Length': '78', 'Connection': 'keep-alive')>
+2025-10-08 18:47:20,231 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=502
+2025-10-08 18:47:20,232 - INFO - error_code=None error_message='Service temporarily unavailable' error_param=None error_type=service_error message='OpenAI API error received' stream_error=False
+2025-10-08 18:47:20,232 - ERROR - 回答问题时出错: Service temporarily unavailable {"error":{"message":"Service temporarily unavailable","type":"service_error"}} 502 {'error': {'message': 'Service temporarily unavailable', 'type': 'service_error'}} <CIMultiDictProxy('Server': 'openresty', 'Date': 'Wed, 08 Oct 2025 10:47:19 GMT', 'Content-Type': 'application/json', 'Content-Length': '78', 'Connection': 'keep-alive')>
+2025-10-08 18:47:20,270 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=502
+2025-10-08 18:47:20,270 - INFO - error_code=None error_message='Service temporarily unavailable' error_param=None error_type=service_error message='OpenAI API error received' stream_error=False
+2025-10-08 18:47:20,271 - ERROR - 回答问题时出错: Service temporarily unavailable {"error":{"message":"Service temporarily unavailable","type":"service_error"}} 502 {'error': {'message': 'Service temporarily unavailable', 'type': 'service_error'}} <CIMultiDictProxy('Server': 'openresty', 'Date': 'Wed, 08 Oct 2025 10:47:20 GMT', 'Content-Type': 'application/json', 'Content-Length': '78', 'Connection': 'keep-alive')>
+2025-10-08 18:47:20,407 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=502
+2025-10-08 18:47:20,408 - INFO - error_code=None error_message='Service temporarily unavailable' error_param=None error_type=service_error message='OpenAI API error received' stream_error=False
+2025-10-08 18:47:20,409 - ERROR - 回答问题时出错: Service temporarily unavailable {"error":{"message":"Service temporarily unavailable","type":"service_error"}} 502 {'error': {'message': 'Service temporarily unavailable', 'type': 'service_error'}} <CIMultiDictProxy('Server': 'openresty', 'Date': 'Wed, 08 Oct 2025 10:47:20 GMT', 'Content-Type': 'application/json', 'Content-Length': '78', 'Connection': 'keep-alive')>
+2025-10-08 18:47:20,415 - INFO - 进度: 35/56 (62.5%)
+2025-10-08 18:47:20,416 - INFO - 当前得分: 15/560
+2025-10-08 18:47:21,414 - INFO - 开始处理批次 #8 (问题 36-40)
+2025-10-08 18:47:21,417 - WARNING - 无法读取图片 nan: expected str, bytes or os.PathLike object, not float
+2025-10-08 18:47:21,417 - INFO - 提问 [o4high_qa8.jsonl_36] [考古]: 请结合《尹湾汉简》中的名谒使用实例和邵弘对‘名不如字’的解释，分析邵弘的观点与《谷梁传》庄公十四年记载的分歧，并阐述这一分歧如何反映秦汉至唐代‘名字’制度在理解上的演变及其学术争议。
+2025-10-08 18:47:21,418 - WARNING - 无法读取图片 nan: expected str, bytes or os.PathLike object, not float
+2025-10-08 18:47:21,418 - INFO - 提问 [o4high_qa8.jsonl_37] [考古]: 在春秋时期晋国的侯马出土'载书'中，'委质类'文书涉及'质'字的解释存在哪些主要学术争议？请结合相关学者观点，分析其分歧依据及对理解'策名委质'制度的影响。
+2025-10-08 18:47:21,419 - WARNING - 无法读取图片 nan: expected str, bytes or os.PathLike object, not float
+2025-10-08 18:47:21,419 - INFO - 提问 [o4high_qa8.jsonl_38] [中国古代史]: 基于西安附近秦汉遗址出土的'都司空'、'左司空'、'右司空'铭文及《汉书·伍被传》等文献，分析秦和西汉时期'左右司空'与'都司空'的机构隶属关系和职能争议，并评述徐世虹对晋灼观点的批判依据。
+2025-10-08 18:47:21,419 - WARNING - 无法读取图片 nan: expected str, bytes or os.PathLike object, not float
+2025-10-08 18:47:21,419 - INFO - 提问 [o4high_qa8.jsonl_39] [中国古代史]: 结合北周武帝宇文邕的言论及甘怀真的研究，分析秦汉以后官府府主与僚属间君臣关系的演变过程，并讨论'策名委质'在这一演变中的作用及其引发的学术争议。
+2025-10-08 18:47:21,419 - WARNING - 无法读取图片 nan: expected str, bytes or os.PathLike object, not float
+2025-10-08 18:47:21,420 - INFO - 提问 [o4high_qa8.jsonl_40] [中国古代史]: 根据战国至汉代的制度实践，分析'物勒工名'中'名'的核心含义，并比较其与商鞅变法中'名田宅'制度之'名'的异同。
+2025-10-08 18:47:21,541 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=502
+2025-10-08 18:47:21,543 - INFO - error_code=None error_message='Service temporarily unavailable' error_param=None error_type=service_error message='OpenAI API error received' stream_error=False
+2025-10-08 18:47:21,544 - ERROR - 回答问题时出错: Service temporarily unavailable {"error":{"message":"Service temporarily unavailable","type":"service_error"}} 502 {'error': {'message': 'Service temporarily unavailable', 'type': 'service_error'}} <CIMultiDictProxy('Server': 'openresty', 'Date': 'Wed, 08 Oct 2025 10:47:21 GMT', 'Content-Type': 'application/json', 'Content-Length': '78', 'Connection': 'keep-alive')>
+2025-10-08 18:47:21,545 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=502
+2025-10-08 18:47:21,545 - INFO - error_code=None error_message='Service temporarily unavailable' error_param=None error_type=service_error message='OpenAI API error received' stream_error=False
+2025-10-08 18:47:21,545 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=502
+2025-10-08 18:47:21,545 - INFO - error_code=None error_message='Service temporarily unavailable' error_param=None error_type=service_error message='OpenAI API error received' stream_error=False
+2025-10-08 18:47:21,546 - ERROR - 回答问题时出错: Service temporarily unavailable {"error":{"message":"Service temporarily unavailable","type":"service_error"}} 502 {'error': {'message': 'Service temporarily unavailable', 'type': 'service_error'}} <CIMultiDictProxy('Server': 'openresty', 'Date': 'Wed, 08 Oct 2025 10:47:21 GMT', 'Content-Type': 'application/json', 'Content-Length': '78', 'Connection': 'keep-alive')>
+2025-10-08 18:47:21,546 - ERROR - 回答问题时出错: Service temporarily unavailable {"error":{"message":"Service temporarily unavailable","type":"service_error"}} 502 {'error': {'message': 'Service temporarily unavailable', 'type': 'service_error'}} <CIMultiDictProxy('Server': 'openresty', 'Date': 'Wed, 08 Oct 2025 10:47:21 GMT', 'Content-Type': 'application/json', 'Content-Length': '78', 'Connection': 'keep-alive')>
+2025-10-08 18:47:21,552 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=502
+2025-10-08 18:47:21,552 - INFO - error_code=None error_message='Service temporarily unavailable' error_param=None error_type=service_error message='OpenAI API error received' stream_error=False
+2025-10-08 18:47:21,553 - ERROR - 回答问题时出错: Service temporarily unavailable {"error":{"message":"Service temporarily unavailable","type":"service_error"}} 502 {'error': {'message': 'Service temporarily unavailable', 'type': 'service_error'}} <CIMultiDictProxy('Server': 'openresty', 'Date': 'Wed, 08 Oct 2025 10:47:21 GMT', 'Content-Type': 'application/json', 'Content-Length': '78', 'Connection': 'keep-alive')>
+2025-10-08 18:47:21,570 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=502
+2025-10-08 18:47:21,570 - INFO - error_code=None error_message='Service temporarily unavailable' error_param=None error_type=service_error message='OpenAI API error received' stream_error=False
+2025-10-08 18:47:21,570 - ERROR - 回答问题时出错: Service temporarily unavailable {"error":{"message":"Service temporarily unavailable","type":"service_error"}} 502 {'error': {'message': 'Service temporarily unavailable', 'type': 'service_error'}} <CIMultiDictProxy('Server': 'openresty', 'Date': 'Wed, 08 Oct 2025 10:47:21 GMT', 'Content-Type': 'application/json', 'Content-Length': '78', 'Connection': 'keep-alive')>
+2025-10-08 18:47:22,679 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=502
+2025-10-08 18:47:22,681 - INFO - error_code=None error_message='Service temporarily unavailable' error_param=None error_type=service_error message='OpenAI API error received' stream_error=False
+2025-10-08 18:47:22,681 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=502
+2025-10-08 18:47:22,681 - INFO - error_code=None error_message='Service temporarily unavailable' error_param=None error_type=service_error message='OpenAI API error received' stream_error=False
+2025-10-08 18:47:22,681 - ERROR - 回答问题时出错: Service temporarily unavailable {"error":{"message":"Service temporarily unavailable","type":"service_error"}} 502 {'error': {'message': 'Service temporarily unavailable', 'type': 'service_error'}} <CIMultiDictProxy('Server': 'openresty', 'Date': 'Wed, 08 Oct 2025 10:47:22 GMT', 'Content-Type': 'application/json', 'Content-Length': '78', 'Connection': 'keep-alive')>
+2025-10-08 18:47:22,681 - ERROR - 回答问题时出错: Service temporarily unavailable {"error":{"message":"Service temporarily unavailable","type":"service_error"}} 502 {'error': {'message': 'Service temporarily unavailable', 'type': 'service_error'}} <CIMultiDictProxy('Server': 'openresty', 'Date': 'Wed, 08 Oct 2025 10:47:22 GMT', 'Content-Type': 'application/json', 'Content-Length': '78', 'Connection': 'keep-alive')>
+2025-10-08 18:47:22,687 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=502
+2025-10-08 18:47:22,687 - INFO - error_code=None error_message='Service temporarily unavailable' error_param=None error_type=service_error message='OpenAI API error received' stream_error=False
+2025-10-08 18:47:22,687 - ERROR - 回答问题时出错: Service temporarily unavailable {"error":{"message":"Service temporarily unavailable","type":"service_error"}} 502 {'error': {'message': 'Service temporarily unavailable', 'type': 'service_error'}} <CIMultiDictProxy('Server': 'openresty', 'Date': 'Wed, 08 Oct 2025 10:47:22 GMT', 'Content-Type': 'application/json', 'Content-Length': '78', 'Connection': 'keep-alive')>
+2025-10-08 18:47:22,790 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=502
+2025-10-08 18:47:22,790 - INFO - error_code=None error_message='Service temporarily unavailable' error_param=None error_type=service_error message='OpenAI API error received' stream_error=False
+2025-10-08 18:47:22,796 - ERROR - 回答问题时出错: Service temporarily unavailable {"error":{"message":"Service temporarily unavailable","type":"service_error"}} 502 {'error': {'message': 'Service temporarily unavailable', 'type': 'service_error'}} <CIMultiDictProxy('Server': 'openresty', 'Date': 'Wed, 08 Oct 2025 10:47:22 GMT', 'Content-Type': 'application/json', 'Content-Length': '78', 'Connection': 'keep-alive')>
+2025-10-08 18:47:22,985 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=502
+2025-10-08 18:47:22,986 - INFO - error_code=None error_message='Service temporarily unavailable' error_param=None error_type=service_error message='OpenAI API error received' stream_error=False
+2025-10-08 18:47:22,991 - ERROR - 回答问题时出错: Service temporarily unavailable {"error":{"message":"Service temporarily unavailable","type":"service_error"}} 502 {'error': {'message': 'Service temporarily unavailable', 'type': 'service_error'}} <CIMultiDictProxy('Server': 'openresty', 'Date': 'Wed, 08 Oct 2025 10:47:22 GMT', 'Content-Type': 'application/json', 'Content-Length': '78', 'Connection': 'keep-alive')>
+2025-10-08 18:47:23,804 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=502
+2025-10-08 18:47:23,805 - INFO - error_code=None error_message='Service temporarily unavailable' error_param=None error_type=service_error message='OpenAI API error received' stream_error=False
+2025-10-08 18:47:23,805 - ERROR - 回答问题时出错: Service temporarily unavailable {"error":{"message":"Service temporarily unavailable","type":"service_error"}} 502 {'error': {'message': 'Service temporarily unavailable', 'type': 'service_error'}} <CIMultiDictProxy('Server': 'openresty', 'Date': 'Wed, 08 Oct 2025 10:47:23 GMT', 'Content-Type': 'application/json', 'Content-Length': '78', 'Connection': 'keep-alive')>
+2025-10-08 18:47:23,824 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=502
+2025-10-08 18:47:23,825 - INFO - error_code=None error_message='Service temporarily unavailable' error_param=None error_type=service_error message='OpenAI API error received' stream_error=False
+2025-10-08 18:47:23,826 - ERROR - 回答问题时出错: Service temporarily unavailable {"error":{"message":"Service temporarily unavailable","type":"service_error"}} 502 {'error': {'message': 'Service temporarily unavailable', 'type': 'service_error'}} <CIMultiDictProxy('Server': 'openresty', 'Date': 'Wed, 08 Oct 2025 10:47:23 GMT', 'Content-Type': 'application/json', 'Content-Length': '78', 'Connection': 'keep-alive')>
+2025-10-08 18:47:23,868 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=502
+2025-10-08 18:47:23,868 - INFO - error_code=None error_message='Service temporarily unavailable' error_param=None error_type=service_error message='OpenAI API error received' stream_error=False
+2025-10-08 18:47:23,870 - ERROR - 回答问题时出错: Service temporarily unavailable {"error":{"message":"Service temporarily unavailable","type":"service_error"}} 502 {'error': {'message': 'Service temporarily unavailable', 'type': 'service_error'}} <CIMultiDictProxy('Server': 'openresty', 'Date': 'Wed, 08 Oct 2025 10:47:23 GMT', 'Content-Type': 'application/json', 'Content-Length': '78', 'Connection': 'keep-alive')>
+2025-10-08 18:47:23,904 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=502
+2025-10-08 18:47:23,906 - INFO - error_code=None error_message='Service temporarily unavailable' error_param=None error_type=service_error message='OpenAI API error received' stream_error=False
+2025-10-08 18:47:23,907 - ERROR - 回答问题时出错: Service temporarily unavailable {"error":{"message":"Service temporarily unavailable","type":"service_error"}} 502 {'error': {'message': 'Service temporarily unavailable', 'type': 'service_error'}} <CIMultiDictProxy('Server': 'openresty', 'Date': 'Wed, 08 Oct 2025 10:47:23 GMT', 'Content-Type': 'application/json', 'Content-Length': '78', 'Connection': 'keep-alive')>
+2025-10-08 18:47:24,110 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=502
+2025-10-08 18:47:24,111 - INFO - error_code=None error_message='Service temporarily unavailable' error_param=None error_type=service_error message='OpenAI API error received' stream_error=False
+2025-10-08 18:47:24,112 - ERROR - 回答问题时出错: Service temporarily unavailable {"error":{"message":"Service temporarily unavailable","type":"service_error"}} 502 {'error': {'message': 'Service temporarily unavailable', 'type': 'service_error'}} <CIMultiDictProxy('Server': 'openresty', 'Date': 'Wed, 08 Oct 2025 10:47:23 GMT', 'Content-Type': 'application/json', 'Content-Length': '78', 'Connection': 'keep-alive')>
+2025-10-08 18:47:24,933 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=502
+2025-10-08 18:47:24,933 - INFO - error_code=None error_message='Service temporarily unavailable' error_param=None error_type=service_error message='OpenAI API error received' stream_error=False
+2025-10-08 18:47:24,934 - ERROR - 回答问题时出错: Service temporarily unavailable {"error":{"message":"Service temporarily unavailable","type":"service_error"}} 502 {'error': {'message': 'Service temporarily unavailable', 'type': 'service_error'}} <CIMultiDictProxy('Server': 'openresty', 'Date': 'Wed, 08 Oct 2025 10:47:24 GMT', 'Content-Type': 'application/json', 'Content-Length': '78', 'Connection': 'keep-alive')>
+2025-10-08 18:47:24,945 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=502
+2025-10-08 18:47:24,945 - INFO - error_code=None error_message='Service temporarily unavailable' error_param=None error_type=service_error message='OpenAI API error received' stream_error=False
+2025-10-08 18:47:24,945 - ERROR - 回答问题时出错: Service temporarily unavailable {"error":{"message":"Service temporarily unavailable","type":"service_error"}} 502 {'error': {'message': 'Service temporarily unavailable', 'type': 'service_error'}} <CIMultiDictProxy('Server': 'openresty', 'Date': 'Wed, 08 Oct 2025 10:47:24 GMT', 'Content-Type': 'application/json', 'Content-Length': '78', 'Connection': 'keep-alive')>
+2025-10-08 18:47:24,985 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=502
+2025-10-08 18:47:24,985 - INFO - error_code=None error_message='Service temporarily unavailable' error_param=None error_type=service_error message='OpenAI API error received' stream_error=False
+2025-10-08 18:47:24,986 - ERROR - 回答问题时出错: Service temporarily unavailable {"error":{"message":"Service temporarily unavailable","type":"service_error"}} 502 {'error': {'message': 'Service temporarily unavailable', 'type': 'service_error'}} <CIMultiDictProxy('Server': 'openresty', 'Date': 'Wed, 08 Oct 2025 10:47:24 GMT', 'Content-Type': 'application/json', 'Content-Length': '78', 'Connection': 'keep-alive')>
+2025-10-08 18:47:25,008 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=502
+2025-10-08 18:47:25,008 - INFO - error_code=None error_message='Service temporarily unavailable' error_param=None error_type=service_error message='OpenAI API error received' stream_error=False
+2025-10-08 18:47:25,008 - ERROR - 回答问题时出错: Service temporarily unavailable {"error":{"message":"Service temporarily unavailable","type":"service_error"}} 502 {'error': {'message': 'Service temporarily unavailable', 'type': 'service_error'}} <CIMultiDictProxy('Server': 'openresty', 'Date': 'Wed, 08 Oct 2025 10:47:24 GMT', 'Content-Type': 'application/json', 'Content-Length': '78', 'Connection': 'keep-alive')>
+2025-10-08 18:47:25,266 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=502
+2025-10-08 18:47:25,266 - INFO - error_code=None error_message='Service temporarily unavailable' error_param=None error_type=service_error message='OpenAI API error received' stream_error=False
+2025-10-08 18:47:25,267 - ERROR - 回答问题时出错: Service temporarily unavailable {"error":{"message":"Service temporarily unavailable","type":"service_error"}} 502 {'error': {'message': 'Service temporarily unavailable', 'type': 'service_error'}} <CIMultiDictProxy('Server': 'openresty', 'Date': 'Wed, 08 Oct 2025 10:47:24 GMT', 'Content-Type': 'application/json', 'Content-Length': '78', 'Connection': 'keep-alive')>
+2025-10-08 18:47:26,054 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=502
+2025-10-08 18:47:26,054 - INFO - error_code=None error_message='Service temporarily unavailable' error_param=None error_type=service_error message='OpenAI API error received' stream_error=False
+2025-10-08 18:47:26,055 - ERROR - 回答问题时出错: Service temporarily unavailable {"error":{"message":"Service temporarily unavailable","type":"service_error"}} 502 {'error': {'message': 'Service temporarily unavailable', 'type': 'service_error'}} <CIMultiDictProxy('Server': 'openresty', 'Date': 'Wed, 08 Oct 2025 10:47:25 GMT', 'Content-Type': 'application/json', 'Content-Length': '78', 'Connection': 'keep-alive')>
+2025-10-08 18:47:26,099 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=502
+2025-10-08 18:47:26,099 - INFO - error_code=None error_message='Service temporarily unavailable' error_param=None error_type=service_error message='OpenAI API error received' stream_error=False
+2025-10-08 18:47:26,099 - ERROR - 回答问题时出错: Service temporarily unavailable {"error":{"message":"Service temporarily unavailable","type":"service_error"}} 502 {'error': {'message': 'Service temporarily unavailable', 'type': 'service_error'}} <CIMultiDictProxy('Server': 'openresty', 'Date': 'Wed, 08 Oct 2025 10:47:25 GMT', 'Content-Type': 'application/json', 'Content-Length': '78', 'Connection': 'keep-alive')>
+2025-10-08 18:47:26,111 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=502
+2025-10-08 18:47:26,111 - INFO - error_code=None error_message='Service temporarily unavailable' error_param=None error_type=service_error message='OpenAI API error received' stream_error=False
+2025-10-08 18:47:26,111 - ERROR - 回答问题时出错: Service temporarily unavailable {"error":{"message":"Service temporarily unavailable","type":"service_error"}} 502 {'error': {'message': 'Service temporarily unavailable', 'type': 'service_error'}} <CIMultiDictProxy('Server': 'openresty', 'Date': 'Wed, 08 Oct 2025 10:47:25 GMT', 'Content-Type': 'application/json', 'Content-Length': '78', 'Connection': 'keep-alive')>
+2025-10-08 18:47:26,193 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=502
+2025-10-08 18:47:26,194 - INFO - error_code=None error_message='Service temporarily unavailable' error_param=None error_type=service_error message='OpenAI API error received' stream_error=False
+2025-10-08 18:47:26,196 - ERROR - 回答问题时出错: Service temporarily unavailable {"error":{"message":"Service temporarily unavailable","type":"service_error"}} 502 {'error': {'message': 'Service temporarily unavailable', 'type': 'service_error'}} <CIMultiDictProxy('Server': 'openresty', 'Date': 'Wed, 08 Oct 2025 10:47:25 GMT', 'Content-Type': 'application/json', 'Content-Length': '78', 'Connection': 'keep-alive')>
+2025-10-08 18:47:27,314 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=502
+2025-10-08 18:47:27,315 - INFO - error_code=None error_message='Service temporarily unavailable' error_param=None error_type=service_error message='OpenAI API error received' stream_error=False
+2025-10-08 18:47:27,316 - ERROR - 回答问题时出错: Service temporarily unavailable {"error":{"message":"Service temporarily unavailable","type":"service_error"}} 502 {'error': {'message': 'Service temporarily unavailable', 'type': 'service_error'}} <CIMultiDictProxy('Server': 'openresty', 'Date': 'Wed, 08 Oct 2025 10:47:26 GMT', 'Content-Type': 'application/json', 'Content-Length': '78', 'Connection': 'keep-alive')>
+2025-10-08 18:47:27,323 - INFO - 进度: 40/56 (71.4%)
+2025-10-08 18:47:27,323 - INFO - 当前得分: 15/560
+2025-10-08 18:47:28,320 - INFO - 开始处理批次 #9 (问题 41-45)
+2025-10-08 18:47:28,322 - WARNING - 无法读取图片 nan: expected str, bytes or os.PathLike object, not float
+2025-10-08 18:47:28,323 - INFO - 提问 [o4high_qa8.jsonl_41] [历史地理学]: 王恢在《汉王国与侯国之演变》中提出《汉书·地理志》后序所载‘侯国二百四十一’的统计数字反映绥和二年三月的政区断限，而非钱大昕主张的元延之末。请分析王恢这一判断的核心依据及其论证中的主要错误。
+2025-10-08 18:47:28,323 - WARNING - 无法读取图片 nan: expected str, bytes or os.PathLike object, not float
+2025-10-08 18:47:28,323 - INFO - 提问 [o4high_qa8.jsonl_42] [历史地理学]: 根据西汉《汉书·地理志》研究，分析‘道’目数量的历史变动及其学术争议焦点，并评述齐召南、黄以周等学者在研究中的疏误。
+2025-10-08 18:47:28,324 - WARNING - 无法读取图片 nan: expected str, bytes or os.PathLike object, not float
+2025-10-08 18:47:28,324 - INFO - 提问 [o4high_qa8.jsonl_43] [考古]: 根据《二年律令》出土简牍材料，分析简317和简239的律条归类争议，并讨论这一争议如何反映汉律九章篇章结构中一级篇目与二级篇目的关系问题。
+2025-10-08 18:47:28,324 - WARNING - 无法读取图片 nan: expected str, bytes or os.PathLike object, not float
+2025-10-08 18:47:28,324 - INFO - 提问 [o4high_qa8.jsonl_44] [考古]: 根据堀敏一、张建国等学者的研究，结合《晋书·刑法志》及张家山汉简证据，阐述汉律正律与旁章的划分结构，分析三国魏律与晋泰始律令如何变革这一体系，并评价晋泰始律令在中国法制史上的划时代意义。
+2025-10-08 18:47:28,324 - WARNING - 无法读取图片 nan: expected str, bytes or os.PathLike object, not float
+2025-10-08 18:47:28,324 - INFO - 提问 [o4high_qa8.jsonl_45] [考古]: 根据张政娘《何尊铭文解释补遗》和马承源《何尊铭文初释》中的学术争议，分析何尊铭文中‘遥宅’一词的解释分歧（包括‘遥’字读法及‘宅’的内涵），并论述该分歧如何影响对西周成周作为政治中心地位的理解。
+2025-10-08 18:47:28,452 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=502
+2025-10-08 18:47:28,453 - INFO - error_code=None error_message='Service temporarily unavailable' error_param=None error_type=service_error message='OpenAI API error received' stream_error=False
+2025-10-08 18:47:28,453 - ERROR - 回答问题时出错: Service temporarily unavailable {"error":{"message":"Service temporarily unavailable","type":"service_error"}} 502 {'error': {'message': 'Service temporarily unavailable', 'type': 'service_error'}} <CIMultiDictProxy('Server': 'openresty', 'Date': 'Wed, 08 Oct 2025 10:47:28 GMT', 'Content-Type': 'application/json', 'Content-Length': '78', 'Connection': 'keep-alive')>
+2025-10-08 18:47:28,528 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=502
+2025-10-08 18:47:28,529 - INFO - error_code=None error_message='Service temporarily unavailable' error_param=None error_type=service_error message='OpenAI API error received' stream_error=False
+2025-10-08 18:47:28,529 - ERROR - 回答问题时出错: Service temporarily unavailable {"error":{"message":"Service temporarily unavailable","type":"service_error"}} 502 {'error': {'message': 'Service temporarily unavailable', 'type': 'service_error'}} <CIMultiDictProxy('Server': 'openresty', 'Date': 'Wed, 08 Oct 2025 10:47:28 GMT', 'Content-Type': 'application/json', 'Content-Length': '78', 'Connection': 'keep-alive')>
+2025-10-08 18:47:28,537 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=502
+2025-10-08 18:47:28,537 - INFO - error_code=None error_message='Service temporarily unavailable' error_param=None error_type=service_error message='OpenAI API error received' stream_error=False
+2025-10-08 18:47:28,537 - ERROR - 回答问题时出错: Service temporarily unavailable {"error":{"message":"Service temporarily unavailable","type":"service_error"}} 502 {'error': {'message': 'Service temporarily unavailable', 'type': 'service_error'}} <CIMultiDictProxy('Server': 'openresty', 'Date': 'Wed, 08 Oct 2025 10:47:28 GMT', 'Content-Type': 'application/json', 'Content-Length': '78', 'Connection': 'keep-alive')>
+2025-10-08 18:47:28,569 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=502
+2025-10-08 18:47:28,569 - INFO - error_code=None error_message='Service temporarily unavailable' error_param=None error_type=service_error message='OpenAI API error received' stream_error=False
+2025-10-08 18:47:28,570 - ERROR - 回答问题时出错: Service temporarily unavailable {"error":{"message":"Service temporarily unavailable","type":"service_error"}} 502 {'error': {'message': 'Service temporarily unavailable', 'type': 'service_error'}} <CIMultiDictProxy('Server': 'openresty', 'Date': 'Wed, 08 Oct 2025 10:47:28 GMT', 'Content-Type': 'application/json', 'Content-Length': '78', 'Connection': 'keep-alive')>
+2025-10-08 18:47:28,783 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=502
+2025-10-08 18:47:28,783 - INFO - error_code=None error_message='Service temporarily unavailable' error_param=None error_type=service_error message='OpenAI API error received' stream_error=False
+2025-10-08 18:47:28,784 - ERROR - 回答问题时出错: Service temporarily unavailable {"error":{"message":"Service temporarily unavailable","type":"service_error"}} 502 {'error': {'message': 'Service temporarily unavailable', 'type': 'service_error'}} <CIMultiDictProxy('Server': 'openresty', 'Date': 'Wed, 08 Oct 2025 10:47:28 GMT', 'Content-Type': 'application/json', 'Content-Length': '78', 'Connection': 'keep-alive')>
+2025-10-08 18:47:29,645 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=502
+2025-10-08 18:47:29,645 - INFO - error_code=None error_message='Service temporarily unavailable' error_param=None error_type=service_error message='OpenAI API error received' stream_error=False
+2025-10-08 18:47:29,647 - ERROR - 回答问题时出错: Service temporarily unavailable {"error":{"message":"Service temporarily unavailable","type":"service_error"}} 502 {'error': {'message': 'Service temporarily unavailable', 'type': 'service_error'}} <CIMultiDictProxy('Server': 'openresty', 'Date': 'Wed, 08 Oct 2025 10:47:29 GMT', 'Content-Type': 'application/json', 'Content-Length': '78', 'Connection': 'keep-alive')>
+2025-10-08 18:47:29,677 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=502
+2025-10-08 18:47:29,678 - INFO - error_code=None error_message='Service temporarily unavailable' error_param=None error_type=service_error message='OpenAI API error received' stream_error=False
+2025-10-08 18:47:29,680 - ERROR - 回答问题时出错: Service temporarily unavailable {"error":{"message":"Service temporarily unavailable","type":"service_error"}} 502 {'error': {'message': 'Service temporarily unavailable', 'type': 'service_error'}} <CIMultiDictProxy('Server': 'openresty', 'Date': 'Wed, 08 Oct 2025 10:47:29 GMT', 'Content-Type': 'application/json', 'Content-Length': '78', 'Connection': 'keep-alive')>
+2025-10-08 18:47:29,721 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=502
+2025-10-08 18:47:29,722 - INFO - error_code=None error_message='Service temporarily unavailable' error_param=None error_type=service_error message='OpenAI API error received' stream_error=False
+2025-10-08 18:47:29,723 - ERROR - 回答问题时出错: Service temporarily unavailable {"error":{"message":"Service temporarily unavailable","type":"service_error"}} 502 {'error': {'message': 'Service temporarily unavailable', 'type': 'service_error'}} <CIMultiDictProxy('Server': 'openresty', 'Date': 'Wed, 08 Oct 2025 10:47:29 GMT', 'Content-Type': 'application/json', 'Content-Length': '78', 'Connection': 'keep-alive')>
+2025-10-08 18:47:29,734 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=502
+2025-10-08 18:47:29,734 - INFO - error_code=None error_message='Service temporarily unavailable' error_param=None error_type=service_error message='OpenAI API error received' stream_error=False
+2025-10-08 18:47:29,734 - ERROR - 回答问题时出错: Service temporarily unavailable {"error":{"message":"Service temporarily unavailable","type":"service_error"}} 502 {'error': {'message': 'Service temporarily unavailable', 'type': 'service_error'}} <CIMultiDictProxy('Server': 'openresty', 'Date': 'Wed, 08 Oct 2025 10:47:29 GMT', 'Content-Type': 'application/json', 'Content-Length': '78', 'Connection': 'keep-alive')>
+2025-10-08 18:47:30,035 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=502
+2025-10-08 18:47:30,035 - INFO - error_code=None error_message='Service temporarily unavailable' error_param=None error_type=service_error message='OpenAI API error received' stream_error=False
+2025-10-08 18:47:30,038 - ERROR - 回答问题时出错: Service temporarily unavailable {"error":{"message":"Service temporarily unavailable","type":"service_error"}} 502 {'error': {'message': 'Service temporarily unavailable', 'type': 'service_error'}} <CIMultiDictProxy('Server': 'openresty', 'Date': 'Wed, 08 Oct 2025 10:47:29 GMT', 'Content-Type': 'application/json', 'Content-Length': '78', 'Connection': 'keep-alive')>
+2025-10-08 18:47:30,781 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=502
+2025-10-08 18:47:30,782 - INFO - error_code=None error_message='Service temporarily unavailable' error_param=None error_type=service_error message='OpenAI API error received' stream_error=False
+2025-10-08 18:47:30,784 - ERROR - 回答问题时出错: Service temporarily unavailable {"error":{"message":"Service temporarily unavailable","type":"service_error"}} 502 {'error': {'message': 'Service temporarily unavailable', 'type': 'service_error'}} <CIMultiDictProxy('Server': 'openresty', 'Date': 'Wed, 08 Oct 2025 10:47:30 GMT', 'Content-Type': 'application/json', 'Content-Length': '78', 'Connection': 'keep-alive')>
+2025-10-08 18:47:30,854 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=502
+2025-10-08 18:47:30,855 - INFO - error_code=None error_message='Service temporarily unavailable' error_param=None error_type=service_error message='OpenAI API error received' stream_error=False
+2025-10-08 18:47:30,855 - ERROR - 回答问题时出错: Service temporarily unavailable {"error":{"message":"Service temporarily unavailable","type":"service_error"}} 502 {'error': {'message': 'Service temporarily unavailable', 'type': 'service_error'}} <CIMultiDictProxy('Server': 'openresty', 'Date': 'Wed, 08 Oct 2025 10:47:30 GMT', 'Content-Type': 'application/json', 'Content-Length': '78', 'Connection': 'keep-alive')>
+2025-10-08 18:47:30,894 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=502
+2025-10-08 18:47:30,895 - INFO - error_code=None error_message='Service temporarily unavailable' error_param=None error_type=service_error message='OpenAI API error received' stream_error=False
+2025-10-08 18:47:30,895 - ERROR - 回答问题时出错: Service temporarily unavailable {"error":{"message":"Service temporarily unavailable","type":"service_error"}} 502 {'error': {'message': 'Service temporarily unavailable', 'type': 'service_error'}} <CIMultiDictProxy('Server': 'openresty', 'Date': 'Wed, 08 Oct 2025 10:47:30 GMT', 'Content-Type': 'application/json', 'Content-Length': '78', 'Connection': 'keep-alive')>
+2025-10-08 18:47:30,932 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=502
+2025-10-08 18:47:30,933 - INFO - error_code=None error_message='Service temporarily unavailable' error_param=None error_type=service_error message='OpenAI API error received' stream_error=False
+2025-10-08 18:47:30,934 - ERROR - 回答问题时出错: Service temporarily unavailable {"error":{"message":"Service temporarily unavailable","type":"service_error"}} 502 {'error': {'message': 'Service temporarily unavailable', 'type': 'service_error'}} <CIMultiDictProxy('Server': 'openresty', 'Date': 'Wed, 08 Oct 2025 10:47:30 GMT', 'Content-Type': 'application/json', 'Content-Length': '78', 'Connection': 'keep-alive')>
+2025-10-08 18:47:31,148 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=502
+2025-10-08 18:47:31,149 - INFO - error_code=None error_message='Service temporarily unavailable' error_param=None error_type=service_error message='OpenAI API error received' stream_error=False
+2025-10-08 18:47:31,149 - ERROR - 回答问题时出错: Service temporarily unavailable {"error":{"message":"Service temporarily unavailable","type":"service_error"}} 502 {'error': {'message': 'Service temporarily unavailable', 'type': 'service_error'}} <CIMultiDictProxy('Server': 'openresty', 'Date': 'Wed, 08 Oct 2025 10:47:30 GMT', 'Content-Type': 'application/json', 'Content-Length': '78', 'Connection': 'keep-alive')>
+2025-10-08 18:47:32,006 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=502
+2025-10-08 18:47:32,007 - INFO - error_code=None error_message='Service temporarily unavailable' error_param=None error_type=service_error message='OpenAI API error received' stream_error=False
+2025-10-08 18:47:32,007 - ERROR - 回答问题时出错: Service temporarily unavailable {"error":{"message":"Service temporarily unavailable","type":"service_error"}} 502 {'error': {'message': 'Service temporarily unavailable', 'type': 'service_error'}} <CIMultiDictProxy('Server': 'openresty', 'Date': 'Wed, 08 Oct 2025 10:47:31 GMT', 'Content-Type': 'application/json', 'Content-Length': '78', 'Connection': 'keep-alive')>
+2025-10-08 18:47:32,057 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=502
+2025-10-08 18:47:32,057 - INFO - error_code=None error_message='Service temporarily unavailable' error_param=None error_type=service_error message='OpenAI API error received' stream_error=False
+2025-10-08 18:47:32,058 - ERROR - 回答问题时出错: Service temporarily unavailable {"error":{"message":"Service temporarily unavailable","type":"service_error"}} 502 {'error': {'message': 'Service temporarily unavailable', 'type': 'service_error'}} <CIMultiDictProxy('Server': 'openresty', 'Date': 'Wed, 08 Oct 2025 10:47:31 GMT', 'Content-Type': 'application/json', 'Content-Length': '78', 'Connection': 'keep-alive')>
+2025-10-08 18:47:32,111 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=502
+2025-10-08 18:47:32,111 - INFO - error_code=None error_message='Service temporarily unavailable' error_param=None error_type=service_error message='OpenAI API error received' stream_error=False
+2025-10-08 18:47:32,111 - ERROR - 回答问题时出错: Service temporarily unavailable {"error":{"message":"Service temporarily unavailable","type":"service_error"}} 502 {'error': {'message': 'Service temporarily unavailable', 'type': 'service_error'}} <CIMultiDictProxy('Server': 'openresty', 'Date': 'Wed, 08 Oct 2025 10:47:31 GMT', 'Content-Type': 'application/json', 'Content-Length': '78', 'Connection': 'keep-alive')>
+2025-10-08 18:47:32,233 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=502
+2025-10-08 18:47:32,233 - INFO - error_code=None error_message='Service temporarily unavailable' error_param=None error_type=service_error message='OpenAI API error received' stream_error=False
+2025-10-08 18:47:32,234 - ERROR - 回答问题时出错: Service temporarily unavailable {"error":{"message":"Service temporarily unavailable","type":"service_error"}} 502 {'error': {'message': 'Service temporarily unavailable', 'type': 'service_error'}} <CIMultiDictProxy('Server': 'openresty', 'Date': 'Wed, 08 Oct 2025 10:47:31 GMT', 'Content-Type': 'application/json', 'Content-Length': '78', 'Connection': 'keep-alive')>
+2025-10-08 18:47:32,341 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=502
+2025-10-08 18:47:32,342 - INFO - error_code=None error_message='Service temporarily unavailable' error_param=None error_type=service_error message='OpenAI API error received' stream_error=False
+2025-10-08 18:47:32,342 - ERROR - 回答问题时出错: Service temporarily unavailable {"error":{"message":"Service temporarily unavailable","type":"service_error"}} 502 {'error': {'message': 'Service temporarily unavailable', 'type': 'service_error'}} <CIMultiDictProxy('Server': 'openresty', 'Date': 'Wed, 08 Oct 2025 10:47:32 GMT', 'Content-Type': 'application/json', 'Content-Length': '78', 'Connection': 'keep-alive')>
+2025-10-08 18:47:33,189 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=502
+2025-10-08 18:47:33,190 - INFO - error_code=None error_message='Service temporarily unavailable' error_param=None error_type=service_error message='OpenAI API error received' stream_error=False
+2025-10-08 18:47:33,191 - ERROR - 回答问题时出错: Service temporarily unavailable {"error":{"message":"Service temporarily unavailable","type":"service_error"}} 502 {'error': {'message': 'Service temporarily unavailable', 'type': 'service_error'}} <CIMultiDictProxy('Server': 'openresty', 'Date': 'Wed, 08 Oct 2025 10:47:32 GMT', 'Content-Type': 'application/json', 'Content-Length': '78', 'Connection': 'keep-alive')>
+2025-10-08 18:47:33,210 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=502
+2025-10-08 18:47:33,211 - INFO - error_code=None error_message='Service temporarily unavailable' error_param=None error_type=service_error message='OpenAI API error received' stream_error=False
+2025-10-08 18:47:33,212 - ERROR - 回答问题时出错: Service temporarily unavailable {"error":{"message":"Service temporarily unavailable","type":"service_error"}} 502 {'error': {'message': 'Service temporarily unavailable', 'type': 'service_error'}} <CIMultiDictProxy('Server': 'openresty', 'Date': 'Wed, 08 Oct 2025 10:47:32 GMT', 'Content-Type': 'application/json', 'Content-Length': '78', 'Connection': 'keep-alive')>
+2025-10-08 18:47:33,357 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=502
+2025-10-08 18:47:33,357 - INFO - error_code=None error_message='Service temporarily unavailable' error_param=None error_type=service_error message='OpenAI API error received' stream_error=False
+2025-10-08 18:47:33,359 - ERROR - 回答问题时出错: Service temporarily unavailable {"error":{"message":"Service temporarily unavailable","type":"service_error"}} 502 {'error': {'message': 'Service temporarily unavailable', 'type': 'service_error'}} <CIMultiDictProxy('Server': 'openresty', 'Date': 'Wed, 08 Oct 2025 10:47:33 GMT', 'Content-Type': 'application/json', 'Content-Length': '78', 'Connection': 'keep-alive')>
+2025-10-08 18:47:33,387 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=502
+2025-10-08 18:47:33,388 - INFO - error_code=None error_message='Service temporarily unavailable' error_param=None error_type=service_error message='OpenAI API error received' stream_error=False
+2025-10-08 18:47:33,389 - ERROR - 回答问题时出错: Service temporarily unavailable {"error":{"message":"Service temporarily unavailable","type":"service_error"}} 502 {'error': {'message': 'Service temporarily unavailable', 'type': 'service_error'}} <CIMultiDictProxy('Server': 'openresty', 'Date': 'Wed, 08 Oct 2025 10:47:33 GMT', 'Content-Type': 'application/json', 'Content-Length': '78', 'Connection': 'keep-alive')>
+2025-10-08 18:47:33,522 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=502
+2025-10-08 18:47:33,523 - INFO - error_code=None error_message='Service temporarily unavailable' error_param=None error_type=service_error message='OpenAI API error received' stream_error=False
+2025-10-08 18:47:33,524 - ERROR - 回答问题时出错: Service temporarily unavailable {"error":{"message":"Service temporarily unavailable","type":"service_error"}} 502 {'error': {'message': 'Service temporarily unavailable', 'type': 'service_error'}} <CIMultiDictProxy('Server': 'openresty', 'Date': 'Wed, 08 Oct 2025 10:47:33 GMT', 'Content-Type': 'application/json', 'Content-Length': '78', 'Connection': 'keep-alive')>
+2025-10-08 18:47:33,531 - INFO - 进度: 45/56 (80.4%)
+2025-10-08 18:47:33,532 - INFO - 当前得分: 15/560
+2025-10-08 18:47:34,542 - INFO - 开始处理批次 #10 (问题 46-50)
+2025-10-08 18:47:34,544 - WARNING - 无法读取图片 nan: expected str, bytes or os.PathLike object, not float
+2025-10-08 18:47:34,544 - INFO - 提问 [o4high_qa8.jsonl_46] [中国古代史]: 基于《新简》中始建国二年汉简记载（如EPT7:9、EPT59:448、EPT4:48A），分析该年闰月设置的具体月份争议，并说明陈垣《二十史朔闰表》误差的根本原因。
+2025-10-08 18:47:34,545 - WARNING - 无法读取图片 nan: expected str, bytes or os.PathLike object, not float
+2025-10-08 18:47:34,545 - INFO - 提问 [o4high_qa8.jsonl_47] [中国古代史]: 基于《新简》EPT50:10和EPT53:128的汉简记录，结合《汉旧仪》和《汉书·赵充国传》的文献，解释汉代居延至张掖郡治的里程估算方法，并分析驿骑传递文书的速度特点。
+2025-10-08 18:47:34,545 - WARNING - 无法读取图片 nan: expected str, bytes or os.PathLike object, not float
+2025-10-08 18:47:34,545 - INFO - 提问 [o4high_qa8.jsonl_48] [中国古代史]: 基于《九店楚简日书》和《放马滩秦简日书甲种》的建除术材料，分析楚系与秦系建除十二直在名称和搭配上的主要差异，并阐述它们在原理上的潜在联系。
+2025-10-08 18:47:34,545 - WARNING - 无法读取图片 nan: expected str, bytes or os.PathLike object, not float
+2025-10-08 18:47:34,546 - INFO - 提问 [o4high_qa8.jsonl_49] [历史地理学]: 根据朱凤瀚的研究报告，阐释西周时期'南国'和'东国'的政治地理性质，并分析学者对《礼记·乐记》中'南国是疆'解释的分歧及其对理解西周王朝附庸区的影响。
+2025-10-08 18:47:34,546 - WARNING - 无法读取图片 nan: expected str, bytes or os.PathLike object, not float
+2025-10-08 18:47:34,546 - INFO - 提问 [o4high_qa8.jsonl_50] [中国古代史]: 1922年底，胡适在《国学季刊·发刊宣言》中对罗振玉、王国维的古史研究作出高度评价，但根据陈以爱的研究，这一评价主要是受外力推导的被动举措。请分析导致胡适在1917年至1923年间对王国维古史研究成果接受延迟的主要因素，并讨论这一延迟对北大学圈古史研究的影响。
+2025-10-08 18:47:34,666 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=502
+2025-10-08 18:47:34,666 - INFO - error_code=None error_message='Service temporarily unavailable' error_param=None error_type=service_error message='OpenAI API error received' stream_error=False
+2025-10-08 18:47:34,668 - ERROR - 回答问题时出错: Service temporarily unavailable {"error":{"message":"Service temporarily unavailable","type":"service_error"}} 502 {'error': {'message': 'Service temporarily unavailable', 'type': 'service_error'}} <CIMultiDictProxy('Server': 'openresty', 'Date': 'Wed, 08 Oct 2025 10:47:34 GMT', 'Content-Type': 'application/json', 'Content-Length': '78', 'Connection': 'keep-alive')>
+2025-10-08 18:47:34,669 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=502
+2025-10-08 18:47:34,669 - INFO - error_code=None error_message='Service temporarily unavailable' error_param=None error_type=service_error message='OpenAI API error received' stream_error=False
+2025-10-08 18:47:34,669 - ERROR - 回答问题时出错: Service temporarily unavailable {"error":{"message":"Service temporarily unavailable","type":"service_error"}} 502 {'error': {'message': 'Service temporarily unavailable', 'type': 'service_error'}} <CIMultiDictProxy('Server': 'openresty', 'Date': 'Wed, 08 Oct 2025 10:47:34 GMT', 'Content-Type': 'application/json', 'Content-Length': '78', 'Connection': 'keep-alive')>
+2025-10-08 18:47:34,672 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=502
+2025-10-08 18:47:34,672 - INFO - error_code=None error_message='Service temporarily unavailable' error_param=None error_type=service_error message='OpenAI API error received' stream_error=False
+2025-10-08 18:47:34,672 - ERROR - 回答问题时出错: Service temporarily unavailable {"error":{"message":"Service temporarily unavailable","type":"service_error"}} 502 {'error': {'message': 'Service temporarily unavailable', 'type': 'service_error'}} <CIMultiDictProxy('Server': 'openresty', 'Date': 'Wed, 08 Oct 2025 10:47:34 GMT', 'Content-Type': 'application/json', 'Content-Length': '78', 'Connection': 'keep-alive')>
+2025-10-08 18:47:34,672 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=502
+2025-10-08 18:47:34,672 - INFO - error_code=None error_message='Service temporarily unavailable' error_param=None error_type=service_error message='OpenAI API error received' stream_error=False
+2025-10-08 18:47:34,672 - ERROR - 回答问题时出错: Service temporarily unavailable {"error":{"message":"Service temporarily unavailable","type":"service_error"}} 502 {'error': {'message': 'Service temporarily unavailable', 'type': 'service_error'}} <CIMultiDictProxy('Server': 'openresty', 'Date': 'Wed, 08 Oct 2025 10:47:34 GMT', 'Content-Type': 'application/json', 'Content-Length': '78', 'Connection': 'keep-alive')>
+2025-10-08 18:47:34,762 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=502
+2025-10-08 18:47:34,762 - INFO - error_code=None error_message='Service temporarily unavailable' error_param=None error_type=service_error message='OpenAI API error received' stream_error=False
+2025-10-08 18:47:34,763 - ERROR - 回答问题时出错: Service temporarily unavailable {"error":{"message":"Service temporarily unavailable","type":"service_error"}} 502 {'error': {'message': 'Service temporarily unavailable', 'type': 'service_error'}} <CIMultiDictProxy('Server': 'openresty', 'Date': 'Wed, 08 Oct 2025 10:47:34 GMT', 'Content-Type': 'application/json', 'Content-Length': '78', 'Connection': 'keep-alive')>
+2025-10-08 18:47:35,793 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=502
+2025-10-08 18:47:35,793 - INFO - error_code=None error_message='Service temporarily unavailable' error_param=None error_type=service_error message='OpenAI API error received' stream_error=False
+2025-10-08 18:47:35,794 - ERROR - 回答问题时出错: Service temporarily unavailable {"error":{"message":"Service temporarily unavailable","type":"service_error"}} 502 {'error': {'message': 'Service temporarily unavailable', 'type': 'service_error'}} <CIMultiDictProxy('Server': 'openresty', 'Date': 'Wed, 08 Oct 2025 10:47:35 GMT', 'Content-Type': 'application/json', 'Content-Length': '78', 'Connection': 'keep-alive')>
+2025-10-08 18:47:35,797 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=502
+2025-10-08 18:47:35,797 - INFO - error_code=None error_message='Service temporarily unavailable' error_param=None error_type=service_error message='OpenAI API error received' stream_error=False
+2025-10-08 18:47:35,797 - ERROR - 回答问题时出错: Service temporarily unavailable {"error":{"message":"Service temporarily unavailable","type":"service_error"}} 502 {'error': {'message': 'Service temporarily unavailable', 'type': 'service_error'}} <CIMultiDictProxy('Server': 'openresty', 'Date': 'Wed, 08 Oct 2025 10:47:35 GMT', 'Content-Type': 'application/json', 'Content-Length': '78', 'Connection': 'keep-alive')>
+2025-10-08 18:47:35,810 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=502
+2025-10-08 18:47:35,810 - INFO - error_code=None error_message='Service temporarily unavailable' error_param=None error_type=service_error message='OpenAI API error received' stream_error=False
+2025-10-08 18:47:35,811 - ERROR - 回答问题时出错: Service temporarily unavailable {"error":{"message":"Service temporarily unavailable","type":"service_error"}} 502 {'error': {'message': 'Service temporarily unavailable', 'type': 'service_error'}} <CIMultiDictProxy('Server': 'openresty', 'Date': 'Wed, 08 Oct 2025 10:47:35 GMT', 'Content-Type': 'application/json', 'Content-Length': '78', 'Connection': 'keep-alive')>
+2025-10-08 18:47:35,882 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=502
+2025-10-08 18:47:35,882 - INFO - error_code=None error_message='Service temporarily unavailable' error_param=None error_type=service_error message='OpenAI API error received' stream_error=False
+2025-10-08 18:47:35,883 - ERROR - 回答问题时出错: Service temporarily unavailable {"error":{"message":"Service temporarily unavailable","type":"service_error"}} 502 {'error': {'message': 'Service temporarily unavailable', 'type': 'service_error'}} <CIMultiDictProxy('Server': 'openresty', 'Date': 'Wed, 08 Oct 2025 10:47:35 GMT', 'Content-Type': 'application/json', 'Content-Length': '78', 'Connection': 'keep-alive')>
+2025-10-08 18:47:36,098 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=502
+2025-10-08 18:47:36,099 - INFO - error_code=None error_message='Service temporarily unavailable' error_param=None error_type=service_error message='OpenAI API error received' stream_error=False
+2025-10-08 18:47:36,100 - ERROR - 回答问题时出错: Service temporarily unavailable {"error":{"message":"Service temporarily unavailable","type":"service_error"}} 502 {'error': {'message': 'Service temporarily unavailable', 'type': 'service_error'}} <CIMultiDictProxy('Server': 'openresty', 'Date': 'Wed, 08 Oct 2025 10:47:35 GMT', 'Content-Type': 'application/json', 'Content-Length': '78', 'Connection': 'keep-alive')>
+2025-10-08 18:47:36,934 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=502
+2025-10-08 18:47:36,934 - INFO - error_code=None error_message='Service temporarily unavailable' error_param=None error_type=service_error message='OpenAI API error received' stream_error=False
+2025-10-08 18:47:36,935 - ERROR - 回答问题时出错: Service temporarily unavailable {"error":{"message":"Service temporarily unavailable","type":"service_error"}} 502 {'error': {'message': 'Service temporarily unavailable', 'type': 'service_error'}} <CIMultiDictProxy('Server': 'openresty', 'Date': 'Wed, 08 Oct 2025 10:47:36 GMT', 'Content-Type': 'application/json', 'Content-Length': '78', 'Connection': 'keep-alive')>
+2025-10-08 18:47:36,999 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=502
+2025-10-08 18:47:36,999 - INFO - error_code=None error_message='Service temporarily unavailable' error_param=None error_type=service_error message='OpenAI API error received' stream_error=False
+2025-10-08 18:47:36,999 - ERROR - 回答问题时出错: Service temporarily unavailable {"error":{"message":"Service temporarily unavailable","type":"service_error"}} 502 {'error': {'message': 'Service temporarily unavailable', 'type': 'service_error'}} <CIMultiDictProxy('Server': 'openresty', 'Date': 'Wed, 08 Oct 2025 10:47:36 GMT', 'Content-Type': 'application/json', 'Content-Length': '78', 'Connection': 'keep-alive')>
+2025-10-08 18:47:37,072 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=502
+2025-10-08 18:47:37,072 - INFO - error_code=None error_message='Service temporarily unavailable' error_param=None error_type=service_error message='OpenAI API error received' stream_error=False
+2025-10-08 18:47:37,072 - ERROR - 回答问题时出错: Service temporarily unavailable {"error":{"message":"Service temporarily unavailable","type":"service_error"}} 502 {'error': {'message': 'Service temporarily unavailable', 'type': 'service_error'}} <CIMultiDictProxy('Server': 'openresty', 'Date': 'Wed, 08 Oct 2025 10:47:36 GMT', 'Content-Type': 'application/json', 'Content-Length': '78', 'Connection': 'keep-alive')>
+2025-10-08 18:47:37,117 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=502
+2025-10-08 18:47:37,117 - INFO - error_code=None error_message='Service temporarily unavailable' error_param=None error_type=service_error message='OpenAI API error received' stream_error=False
+2025-10-08 18:47:37,118 - ERROR - 回答问题时出错: Service temporarily unavailable {"error":{"message":"Service temporarily unavailable","type":"service_error"}} 502 {'error': {'message': 'Service temporarily unavailable', 'type': 'service_error'}} <CIMultiDictProxy('Server': 'openresty', 'Date': 'Wed, 08 Oct 2025 10:47:36 GMT', 'Content-Type': 'application/json', 'Content-Length': '78', 'Connection': 'keep-alive')>
+2025-10-08 18:47:37,223 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=502
+2025-10-08 18:47:37,223 - INFO - error_code=None error_message='Service temporarily unavailable' error_param=None error_type=service_error message='OpenAI API error received' stream_error=False
+2025-10-08 18:47:37,225 - ERROR - 回答问题时出错: Service temporarily unavailable {"error":{"message":"Service temporarily unavailable","type":"service_error"}} 502 {'error': {'message': 'Service temporarily unavailable', 'type': 'service_error'}} <CIMultiDictProxy('Server': 'openresty', 'Date': 'Wed, 08 Oct 2025 10:47:36 GMT', 'Content-Type': 'application/json', 'Content-Length': '78', 'Connection': 'keep-alive')>
+2025-10-08 18:47:38,052 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=502
+2025-10-08 18:47:38,053 - INFO - error_code=None error_message='Service temporarily unavailable' error_param=None error_type=service_error message='OpenAI API error received' stream_error=False
+2025-10-08 18:47:38,054 - ERROR - 回答问题时出错: Service temporarily unavailable {"error":{"message":"Service temporarily unavailable","type":"service_error"}} 502 {'error': {'message': 'Service temporarily unavailable', 'type': 'service_error'}} <CIMultiDictProxy('Server': 'openresty', 'Date': 'Wed, 08 Oct 2025 10:47:37 GMT', 'Content-Type': 'application/json', 'Content-Length': '78', 'Connection': 'keep-alive')>
+2025-10-08 18:47:38,116 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=502
+2025-10-08 18:47:38,117 - INFO - error_code=None error_message='Service temporarily unavailable' error_param=None error_type=service_error message='OpenAI API error received' stream_error=False
+2025-10-08 18:47:38,117 - ERROR - 回答问题时出错: Service temporarily unavailable {"error":{"message":"Service temporarily unavailable","type":"service_error"}} 502 {'error': {'message': 'Service temporarily unavailable', 'type': 'service_error'}} <CIMultiDictProxy('Server': 'openresty', 'Date': 'Wed, 08 Oct 2025 10:47:37 GMT', 'Content-Type': 'application/json', 'Content-Length': '78', 'Connection': 'keep-alive')>
+2025-10-08 18:47:38,190 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=502
+2025-10-08 18:47:38,191 - INFO - error_code=None error_message='Service temporarily unavailable' error_param=None error_type=service_error message='OpenAI API error received' stream_error=False
+2025-10-08 18:47:38,192 - ERROR - 回答问题时出错: Service temporarily unavailable {"error":{"message":"Service temporarily unavailable","type":"service_error"}} 502 {'error': {'message': 'Service temporarily unavailable', 'type': 'service_error'}} <CIMultiDictProxy('Server': 'openresty', 'Date': 'Wed, 08 Oct 2025 10:47:37 GMT', 'Content-Type': 'application/json', 'Content-Length': '78', 'Connection': 'keep-alive')>
+2025-10-08 18:47:38,252 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=502
+2025-10-08 18:47:38,253 - INFO - error_code=None error_message='Service temporarily unavailable' error_param=None error_type=service_error message='OpenAI API error received' stream_error=False
+2025-10-08 18:47:38,254 - ERROR - 回答问题时出错: Service temporarily unavailable {"error":{"message":"Service temporarily unavailable","type":"service_error"}} 502 {'error': {'message': 'Service temporarily unavailable', 'type': 'service_error'}} <CIMultiDictProxy('Server': 'openresty', 'Date': 'Wed, 08 Oct 2025 10:47:37 GMT', 'Content-Type': 'application/json', 'Content-Length': '78', 'Connection': 'keep-alive')>
+2025-10-08 18:47:38,471 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=502
+2025-10-08 18:47:38,472 - INFO - error_code=None error_message='Service temporarily unavailable' error_param=None error_type=service_error message='OpenAI API error received' stream_error=False
+2025-10-08 18:47:38,474 - ERROR - 回答问题时出错: Service temporarily unavailable {"error":{"message":"Service temporarily unavailable","type":"service_error"}} 502 {'error': {'message': 'Service temporarily unavailable', 'type': 'service_error'}} <CIMultiDictProxy('Server': 'openresty', 'Date': 'Wed, 08 Oct 2025 10:47:38 GMT', 'Content-Type': 'application/json', 'Content-Length': '78', 'Connection': 'keep-alive')>
+2025-10-08 18:47:39,257 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=502
+2025-10-08 18:47:39,257 - INFO - error_code=None error_message='Service temporarily unavailable' error_param=None error_type=service_error message='OpenAI API error received' stream_error=False
+2025-10-08 18:47:39,259 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=502
+2025-10-08 18:47:39,259 - INFO - error_code=None error_message='Service temporarily unavailable' error_param=None error_type=service_error message='OpenAI API error received' stream_error=False
+2025-10-08 18:47:39,260 - ERROR - 回答问题时出错: Service temporarily unavailable {"error":{"message":"Service temporarily unavailable","type":"service_error"}} 502 {'error': {'message': 'Service temporarily unavailable', 'type': 'service_error'}} <CIMultiDictProxy('Server': 'openresty', 'Date': 'Wed, 08 Oct 2025 10:47:38 GMT', 'Content-Type': 'application/json', 'Content-Length': '78', 'Connection': 'keep-alive')>
+2025-10-08 18:47:39,260 - ERROR - 回答问题时出错: Service temporarily unavailable {"error":{"message":"Service temporarily unavailable","type":"service_error"}} 502 {'error': {'message': 'Service temporarily unavailable', 'type': 'service_error'}} <CIMultiDictProxy('Server': 'openresty', 'Date': 'Wed, 08 Oct 2025 10:47:38 GMT', 'Content-Type': 'application/json', 'Content-Length': '78', 'Connection': 'keep-alive')>
+2025-10-08 18:47:39,320 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=502
+2025-10-08 18:47:39,321 - INFO - error_code=None error_message='Service temporarily unavailable' error_param=None error_type=service_error message='OpenAI API error received' stream_error=False
+2025-10-08 18:47:39,323 - ERROR - 回答问题时出错: Service temporarily unavailable {"error":{"message":"Service temporarily unavailable","type":"service_error"}} 502 {'error': {'message': 'Service temporarily unavailable', 'type': 'service_error'}} <CIMultiDictProxy('Server': 'openresty', 'Date': 'Wed, 08 Oct 2025 10:47:39 GMT', 'Content-Type': 'application/json', 'Content-Length': '78', 'Connection': 'keep-alive')>
+2025-10-08 18:47:39,369 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=502
+2025-10-08 18:47:39,369 - INFO - error_code=None error_message='Service temporarily unavailable' error_param=None error_type=service_error message='OpenAI API error received' stream_error=False
+2025-10-08 18:47:39,370 - ERROR - 回答问题时出错: Service temporarily unavailable {"error":{"message":"Service temporarily unavailable","type":"service_error"}} 502 {'error': {'message': 'Service temporarily unavailable', 'type': 'service_error'}} <CIMultiDictProxy('Server': 'openresty', 'Date': 'Wed, 08 Oct 2025 10:47:39 GMT', 'Content-Type': 'application/json', 'Content-Length': '78', 'Connection': 'keep-alive')>
+2025-10-08 18:47:39,605 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=502
+2025-10-08 18:47:39,605 - INFO - error_code=None error_message='Service temporarily unavailable' error_param=None error_type=service_error message='OpenAI API error received' stream_error=False
+2025-10-08 18:47:39,606 - ERROR - 回答问题时出错: Service temporarily unavailable {"error":{"message":"Service temporarily unavailable","type":"service_error"}} 502 {'error': {'message': 'Service temporarily unavailable', 'type': 'service_error'}} <CIMultiDictProxy('Server': 'openresty', 'Date': 'Wed, 08 Oct 2025 10:47:39 GMT', 'Content-Type': 'application/json', 'Content-Length': '78', 'Connection': 'keep-alive')>
+2025-10-08 18:47:39,610 - INFO - 进度: 50/56 (89.3%)
+2025-10-08 18:47:39,611 - INFO - 当前得分: 15/560
+2025-10-08 18:47:40,628 - INFO - 开始处理批次 #11 (问题 51-55)
+2025-10-08 18:47:40,629 - WARNING - 无法读取图片 nan: expected str, bytes or os.PathLike object, not float
+2025-10-08 18:47:40,629 - INFO - 提问 [o4high_qa8.jsonl_51] [中国古代史]: 根据周代文献记载，孕妇临产前需居'侧室'、'蒌室'或'宴室'，请分析这些居所名称的具体含义、相互关系，并阐述其中存在的学术争议点。
+2025-10-08 18:47:40,629 - WARNING - 无法读取图片 nan: expected str, bytes or os.PathLike object, not float
+2025-10-08 18:47:40,630 - INFO - 提问 [o4high_qa8.jsonl_52] [考古]: 根据《商周铜器群综合研究》（郭宝钧，1981年）及相关考古学研究，阐述西周中期（约公元前900年）青铜器质变的具体表现，分析其在商周文化更迭中的学术意义，并讨论学术界关于文化形成滞后性与突变性的主要争议点。
+2025-10-08 18:47:40,630 - WARNING - 无法读取图片 nan: expected str, bytes or os.PathLike object, not float
+2025-10-08 18:47:40,630 - INFO - 提问 [o4high_qa8.jsonl_53] [历史地理学]: 结合《商颂·长发》和《左传》昭公元年、襄公九年等文献，分析相土居商丘的地望争议的主要学术观点及其依据，并论述该争议的核心问题。
+2025-10-08 18:47:40,630 - WARNING - 无法读取图片 nan: expected str, bytes or os.PathLike object, not float
+2025-10-08 18:47:40,630 - INFO - 提问 [o4high_qa8.jsonl_54] [中国古代史]: 在清华简《尹至》和《尹诰》中记载了商代夏桀‘弗虞其有众’、‘自竭其有民’等事件，以及伊尹建议商汤处理‘众’、‘民’关系的策略。夏大兆、黄德宽与廖名春等学者对商代重民思想的起源存在分歧，请结合相关文献阐述这一学术争议的核心点，并讨论清华简作为史料的可靠性。
+2025-10-08 18:47:40,630 - WARNING - 无法读取图片 nan: expected str, bytes or os.PathLike object, not float
+2025-10-08 18:47:40,630 - INFO - 提问 [o4high_qa8.jsonl_55] [中国古代史]: 东汉时期议郎的职位发生了哪些变化？根据李都都《两汉议郎考补》的研究，描述其分流现象的具体表现及冗散化倾向的历史影响。
+2025-10-08 18:47:40,745 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=502
+2025-10-08 18:47:40,746 - INFO - error_code=None error_message='Service temporarily unavailable' error_param=None error_type=service_error message='OpenAI API error received' stream_error=False
+2025-10-08 18:47:40,746 - ERROR - 回答问题时出错: Service temporarily unavailable {"error":{"message":"Service temporarily unavailable","type":"service_error"}} 502 {'error': {'message': 'Service temporarily unavailable', 'type': 'service_error'}} <CIMultiDictProxy('Server': 'openresty', 'Date': 'Wed, 08 Oct 2025 10:47:40 GMT', 'Content-Type': 'application/json', 'Content-Length': '78', 'Connection': 'keep-alive')>
+2025-10-08 18:47:40,747 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=502
+2025-10-08 18:47:40,748 - INFO - error_code=None error_message='Service temporarily unavailable' error_param=None error_type=service_error message='OpenAI API error received' stream_error=False
+2025-10-08 18:47:40,748 - ERROR - 回答问题时出错: Service temporarily unavailable {"error":{"message":"Service temporarily unavailable","type":"service_error"}} 502 {'error': {'message': 'Service temporarily unavailable', 'type': 'service_error'}} <CIMultiDictProxy('Server': 'openresty', 'Date': 'Wed, 08 Oct 2025 10:47:40 GMT', 'Content-Type': 'application/json', 'Content-Length': '78', 'Connection': 'keep-alive')>
+2025-10-08 18:47:40,750 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=502
+2025-10-08 18:47:40,750 - INFO - error_code=None error_message='Service temporarily unavailable' error_param=None error_type=service_error message='OpenAI API error received' stream_error=False
+2025-10-08 18:47:40,750 - ERROR - 回答问题时出错: Service temporarily unavailable {"error":{"message":"Service temporarily unavailable","type":"service_error"}} 502 {'error': {'message': 'Service temporarily unavailable', 'type': 'service_error'}} <CIMultiDictProxy('Server': 'openresty', 'Date': 'Wed, 08 Oct 2025 10:47:40 GMT', 'Content-Type': 'application/json', 'Content-Length': '78', 'Connection': 'keep-alive')>
+2025-10-08 18:47:40,765 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=502
+2025-10-08 18:47:40,765 - INFO - error_code=None error_message='Service temporarily unavailable' error_param=None error_type=service_error message='OpenAI API error received' stream_error=False
+2025-10-08 18:47:40,765 - ERROR - 回答问题时出错: Service temporarily unavailable {"error":{"message":"Service temporarily unavailable","type":"service_error"}} 502 {'error': {'message': 'Service temporarily unavailable', 'type': 'service_error'}} <CIMultiDictProxy('Server': 'openresty', 'Date': 'Wed, 08 Oct 2025 10:47:40 GMT', 'Content-Type': 'application/json', 'Content-Length': '78', 'Connection': 'keep-alive')>
+2025-10-08 18:47:40,771 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=502
+2025-10-08 18:47:40,771 - INFO - error_code=None error_message='Service temporarily unavailable' error_param=None error_type=service_error message='OpenAI API error received' stream_error=False
+2025-10-08 18:47:40,771 - ERROR - 回答问题时出错: Service temporarily unavailable {"error":{"message":"Service temporarily unavailable","type":"service_error"}} 502 {'error': {'message': 'Service temporarily unavailable', 'type': 'service_error'}} <CIMultiDictProxy('Server': 'openresty', 'Date': 'Wed, 08 Oct 2025 10:47:40 GMT', 'Content-Type': 'application/json', 'Content-Length': '78', 'Connection': 'keep-alive')>
+2025-10-08 18:47:41,868 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=502
+2025-10-08 18:47:41,869 - INFO - error_code=None error_message='Service temporarily unavailable' error_param=None error_type=service_error message='OpenAI API error received' stream_error=False
+2025-10-08 18:47:41,869 - ERROR - 回答问题时出错: Service temporarily unavailable {"error":{"message":"Service temporarily unavailable","type":"service_error"}} 502 {'error': {'message': 'Service temporarily unavailable', 'type': 'service_error'}} <CIMultiDictProxy('Server': 'openresty', 'Date': 'Wed, 08 Oct 2025 10:47:41 GMT', 'Content-Type': 'application/json', 'Content-Length': '78', 'Connection': 'keep-alive')>
+2025-10-08 18:47:41,887 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=502
+2025-10-08 18:47:41,887 - INFO - error_code=None error_message='Service temporarily unavailable' error_param=None error_type=service_error message='OpenAI API error received' stream_error=False
+2025-10-08 18:47:41,887 - ERROR - 回答问题时出错: Service temporarily unavailable {"error":{"message":"Service temporarily unavailable","type":"service_error"}} 502 {'error': {'message': 'Service temporarily unavailable', 'type': 'service_error'}} <CIMultiDictProxy('Server': 'openresty', 'Date': 'Wed, 08 Oct 2025 10:47:41 GMT', 'Content-Type': 'application/json', 'Content-Length': '78', 'Connection': 'keep-alive')>
+2025-10-08 18:47:41,907 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=502
+2025-10-08 18:47:41,907 - INFO - error_code=None error_message='Service temporarily unavailable' error_param=None error_type=service_error message='OpenAI API error received' stream_error=False
+2025-10-08 18:47:41,907 - ERROR - 回答问题时出错: Service temporarily unavailable {"error":{"message":"Service temporarily unavailable","type":"service_error"}} 502 {'error': {'message': 'Service temporarily unavailable', 'type': 'service_error'}} <CIMultiDictProxy('Server': 'openresty', 'Date': 'Wed, 08 Oct 2025 10:47:41 GMT', 'Content-Type': 'application/json', 'Content-Length': '78', 'Connection': 'keep-alive')>
+2025-10-08 18:47:41,914 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=502
+2025-10-08 18:47:41,914 - INFO - error_code=None error_message='Service temporarily unavailable' error_param=None error_type=service_error message='OpenAI API error received' stream_error=False
+2025-10-08 18:47:41,914 - ERROR - 回答问题时出错: Service temporarily unavailable {"error":{"message":"Service temporarily unavailable","type":"service_error"}} 502 {'error': {'message': 'Service temporarily unavailable', 'type': 'service_error'}} <CIMultiDictProxy('Server': 'openresty', 'Date': 'Wed, 08 Oct 2025 10:47:41 GMT', 'Content-Type': 'application/json', 'Content-Length': '78', 'Connection': 'keep-alive')>
+2025-10-08 18:47:41,955 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=502
+2025-10-08 18:47:41,955 - INFO - error_code=None error_message='Service temporarily unavailable' error_param=None error_type=service_error message='OpenAI API error received' stream_error=False
+2025-10-08 18:47:41,956 - ERROR - 回答问题时出错: Service temporarily unavailable {"error":{"message":"Service temporarily unavailable","type":"service_error"}} 502 {'error': {'message': 'Service temporarily unavailable', 'type': 'service_error'}} <CIMultiDictProxy('Server': 'openresty', 'Date': 'Wed, 08 Oct 2025 10:47:41 GMT', 'Content-Type': 'application/json', 'Content-Length': '78', 'Connection': 'keep-alive')>
+2025-10-08 18:47:42,994 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=502
+2025-10-08 18:47:42,995 - INFO - error_code=None error_message='Service temporarily unavailable' error_param=None error_type=service_error message='OpenAI API error received' stream_error=False
+2025-10-08 18:47:42,995 - ERROR - 回答问题时出错: Service temporarily unavailable {"error":{"message":"Service temporarily unavailable","type":"service_error"}} 502 {'error': {'message': 'Service temporarily unavailable', 'type': 'service_error'}} <CIMultiDictProxy('Server': 'openresty', 'Date': 'Wed, 08 Oct 2025 10:47:42 GMT', 'Content-Type': 'application/json', 'Content-Length': '78', 'Connection': 'keep-alive')>
+2025-10-08 18:47:43,064 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=502
+2025-10-08 18:47:43,064 - INFO - error_code=None error_message='Service temporarily unavailable' error_param=None error_type=service_error message='OpenAI API error received' stream_error=False
+2025-10-08 18:47:43,066 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=502
+2025-10-08 18:47:43,066 - INFO - error_code=None error_message='Service temporarily unavailable' error_param=None error_type=service_error message='OpenAI API error received' stream_error=False
+2025-10-08 18:47:43,066 - ERROR - 回答问题时出错: Service temporarily unavailable {"error":{"message":"Service temporarily unavailable","type":"service_error"}} 502 {'error': {'message': 'Service temporarily unavailable', 'type': 'service_error'}} <CIMultiDictProxy('Server': 'openresty', 'Date': 'Wed, 08 Oct 2025 10:47:42 GMT', 'Content-Type': 'application/json', 'Content-Length': '78', 'Connection': 'keep-alive')>
+2025-10-08 18:47:43,066 - ERROR - 回答问题时出错: Service temporarily unavailable {"error":{"message":"Service temporarily unavailable","type":"service_error"}} 502 {'error': {'message': 'Service temporarily unavailable', 'type': 'service_error'}} <CIMultiDictProxy('Server': 'openresty', 'Date': 'Wed, 08 Oct 2025 10:47:42 GMT', 'Content-Type': 'application/json', 'Content-Length': '78', 'Connection': 'keep-alive')>
+2025-10-08 18:47:43,107 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=502
+2025-10-08 18:47:43,108 - INFO - error_code=None error_message='Service temporarily unavailable' error_param=None error_type=service_error message='OpenAI API error received' stream_error=False
+2025-10-08 18:47:43,108 - ERROR - 回答问题时出错: Service temporarily unavailable {"error":{"message":"Service temporarily unavailable","type":"service_error"}} 502 {'error': {'message': 'Service temporarily unavailable', 'type': 'service_error'}} <CIMultiDictProxy('Server': 'openresty', 'Date': 'Wed, 08 Oct 2025 10:47:42 GMT', 'Content-Type': 'application/json', 'Content-Length': '78', 'Connection': 'keep-alive')>
+2025-10-08 18:47:43,149 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=502
+2025-10-08 18:47:43,150 - INFO - error_code=None error_message='Service temporarily unavailable' error_param=None error_type=service_error message='OpenAI API error received' stream_error=False
+2025-10-08 18:47:43,150 - ERROR - 回答问题时出错: Service temporarily unavailable {"error":{"message":"Service temporarily unavailable","type":"service_error"}} 502 {'error': {'message': 'Service temporarily unavailable', 'type': 'service_error'}} <CIMultiDictProxy('Server': 'openresty', 'Date': 'Wed, 08 Oct 2025 10:47:42 GMT', 'Content-Type': 'application/json', 'Content-Length': '78', 'Connection': 'keep-alive')>
+2025-10-08 18:47:44,198 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=502
+2025-10-08 18:47:44,198 - INFO - error_code=None error_message='Service temporarily unavailable' error_param=None error_type=service_error message='OpenAI API error received' stream_error=False
+2025-10-08 18:47:44,199 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=502
+2025-10-08 18:47:44,199 - INFO - error_code=None error_message='Service temporarily unavailable' error_param=None error_type=service_error message='OpenAI API error received' stream_error=False
+2025-10-08 18:47:44,200 - ERROR - 回答问题时出错: Service temporarily unavailable {"error":{"message":"Service temporarily unavailable","type":"service_error"}} 502 {'error': {'message': 'Service temporarily unavailable', 'type': 'service_error'}} <CIMultiDictProxy('Server': 'openresty', 'Date': 'Wed, 08 Oct 2025 10:47:43 GMT', 'Content-Type': 'application/json', 'Content-Length': '78', 'Connection': 'keep-alive')>
+2025-10-08 18:47:44,200 - ERROR - 回答问题时出错: Service temporarily unavailable {"error":{"message":"Service temporarily unavailable","type":"service_error"}} 502 {'error': {'message': 'Service temporarily unavailable', 'type': 'service_error'}} <CIMultiDictProxy('Server': 'openresty', 'Date': 'Wed, 08 Oct 2025 10:47:43 GMT', 'Content-Type': 'application/json', 'Content-Length': '78', 'Connection': 'keep-alive')>
+2025-10-08 18:47:44,205 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=502
+2025-10-08 18:47:44,205 - INFO - error_code=None error_message='Service temporarily unavailable' error_param=None error_type=service_error message='OpenAI API error received' stream_error=False
+2025-10-08 18:47:44,206 - ERROR - 回答问题时出错: Service temporarily unavailable {"error":{"message":"Service temporarily unavailable","type":"service_error"}} 502 {'error': {'message': 'Service temporarily unavailable', 'type': 'service_error'}} <CIMultiDictProxy('Server': 'openresty', 'Date': 'Wed, 08 Oct 2025 10:47:43 GMT', 'Content-Type': 'application/json', 'Content-Length': '78', 'Connection': 'keep-alive')>
+2025-10-08 18:47:44,217 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=502
+2025-10-08 18:47:44,217 - INFO - error_code=None error_message='Service temporarily unavailable' error_param=None error_type=service_error message='OpenAI API error received' stream_error=False
+2025-10-08 18:47:44,217 - ERROR - 回答问题时出错: Service temporarily unavailable {"error":{"message":"Service temporarily unavailable","type":"service_error"}} 502 {'error': {'message': 'Service temporarily unavailable', 'type': 'service_error'}} <CIMultiDictProxy('Server': 'openresty', 'Date': 'Wed, 08 Oct 2025 10:47:43 GMT', 'Content-Type': 'application/json', 'Content-Length': '78', 'Connection': 'keep-alive')>
+2025-10-08 18:47:44,258 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=502
+2025-10-08 18:47:44,258 - INFO - error_code=None error_message='Service temporarily unavailable' error_param=None error_type=service_error message='OpenAI API error received' stream_error=False
+2025-10-08 18:47:44,259 - ERROR - 回答问题时出错: Service temporarily unavailable {"error":{"message":"Service temporarily unavailable","type":"service_error"}} 502 {'error': {'message': 'Service temporarily unavailable', 'type': 'service_error'}} <CIMultiDictProxy('Server': 'openresty', 'Date': 'Wed, 08 Oct 2025 10:47:43 GMT', 'Content-Type': 'application/json', 'Content-Length': '78', 'Connection': 'keep-alive')>
+2025-10-08 18:47:45,324 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=502
+2025-10-08 18:47:45,324 - INFO - error_code=None error_message='Service temporarily unavailable' error_param=None error_type=service_error message='OpenAI API error received' stream_error=False
+2025-10-08 18:47:45,324 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=502
+2025-10-08 18:47:45,324 - INFO - error_code=None error_message='Service temporarily unavailable' error_param=None error_type=service_error message='OpenAI API error received' stream_error=False
+2025-10-08 18:47:45,324 - ERROR - 回答问题时出错: Service temporarily unavailable {"error":{"message":"Service temporarily unavailable","type":"service_error"}} 502 {'error': {'message': 'Service temporarily unavailable', 'type': 'service_error'}} <CIMultiDictProxy('Server': 'openresty', 'Date': 'Wed, 08 Oct 2025 10:47:45 GMT', 'Content-Type': 'application/json', 'Content-Length': '78', 'Connection': 'keep-alive')>
+2025-10-08 18:47:45,324 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=502
+2025-10-08 18:47:45,324 - INFO - error_code=None error_message='Service temporarily unavailable' error_param=None error_type=service_error message='OpenAI API error received' stream_error=False
+2025-10-08 18:47:45,324 - ERROR - 回答问题时出错: Service temporarily unavailable {"error":{"message":"Service temporarily unavailable","type":"service_error"}} 502 {'error': {'message': 'Service temporarily unavailable', 'type': 'service_error'}} <CIMultiDictProxy('Server': 'openresty', 'Date': 'Wed, 08 Oct 2025 10:47:45 GMT', 'Content-Type': 'application/json', 'Content-Length': '78', 'Connection': 'keep-alive')>
+2025-10-08 18:47:45,324 - ERROR - 回答问题时出错: Service temporarily unavailable {"error":{"message":"Service temporarily unavailable","type":"service_error"}} 502 {'error': {'message': 'Service temporarily unavailable', 'type': 'service_error'}} <CIMultiDictProxy('Server': 'openresty', 'Date': 'Wed, 08 Oct 2025 10:47:45 GMT', 'Content-Type': 'application/json', 'Content-Length': '78', 'Connection': 'keep-alive')>
+2025-10-08 18:47:45,394 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=502
+2025-10-08 18:47:45,395 - INFO - error_code=None error_message='Service temporarily unavailable' error_param=None error_type=service_error message='OpenAI API error received' stream_error=False
+2025-10-08 18:47:45,395 - ERROR - 回答问题时出错: Service temporarily unavailable {"error":{"message":"Service temporarily unavailable","type":"service_error"}} 502 {'error': {'message': 'Service temporarily unavailable', 'type': 'service_error'}} <CIMultiDictProxy('Server': 'openresty', 'Date': 'Wed, 08 Oct 2025 10:47:45 GMT', 'Content-Type': 'application/json', 'Content-Length': '78', 'Connection': 'keep-alive')>
+2025-10-08 18:47:45,441 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=502
+2025-10-08 18:47:45,441 - INFO - error_code=None error_message='Service temporarily unavailable' error_param=None error_type=service_error message='OpenAI API error received' stream_error=False
+2025-10-08 18:47:45,442 - ERROR - 回答问题时出错: Service temporarily unavailable {"error":{"message":"Service temporarily unavailable","type":"service_error"}} 502 {'error': {'message': 'Service temporarily unavailable', 'type': 'service_error'}} <CIMultiDictProxy('Server': 'openresty', 'Date': 'Wed, 08 Oct 2025 10:47:45 GMT', 'Content-Type': 'application/json', 'Content-Length': '78', 'Connection': 'keep-alive')>
+2025-10-08 18:47:45,448 - INFO - 进度: 55/56 (98.2%)
+2025-10-08 18:47:45,448 - INFO - 当前得分: 15/560
+2025-10-08 18:47:46,440 - INFO - 开始处理批次 #12 (问题 56-56)
+2025-10-08 18:47:46,441 - WARNING - 无法读取图片 nan: expected str, bytes or os.PathLike object, not float
+2025-10-08 18:47:46,443 - INFO - 提问 [o4high_qa8.jsonl_56] [中国古代史]: 根据《汉书·韦贤传》及历史学者研究，议郎在汉代设置的具体时间范围是什么？请结合历史背景解释推定的逻辑依据，并说明其与儒学发展的关联。
+2025-10-08 18:47:46,557 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=502
+2025-10-08 18:47:46,557 - INFO - error_code=None error_message='Service temporarily unavailable' error_param=None error_type=service_error message='OpenAI API error received' stream_error=False
+2025-10-08 18:47:46,558 - ERROR - 回答问题时出错: Service temporarily unavailable {"error":{"message":"Service temporarily unavailable","type":"service_error"}} 502 {'error': {'message': 'Service temporarily unavailable', 'type': 'service_error'}} <CIMultiDictProxy('Server': 'openresty', 'Date': 'Wed, 08 Oct 2025 10:47:46 GMT', 'Content-Type': 'application/json', 'Content-Length': '78', 'Connection': 'keep-alive')>
+2025-10-08 18:47:47,675 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=502
+2025-10-08 18:47:47,676 - INFO - error_code=None error_message='Service temporarily unavailable' error_param=None error_type=service_error message='OpenAI API error received' stream_error=False
+2025-10-08 18:47:47,677 - ERROR - 回答问题时出错: Service temporarily unavailable {"error":{"message":"Service temporarily unavailable","type":"service_error"}} 502 {'error': {'message': 'Service temporarily unavailable', 'type': 'service_error'}} <CIMultiDictProxy('Server': 'openresty', 'Date': 'Wed, 08 Oct 2025 10:47:47 GMT', 'Content-Type': 'application/json', 'Content-Length': '78', 'Connection': 'keep-alive')>
+2025-10-08 18:47:49,894 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=502
+2025-10-08 18:47:49,894 - INFO - error_code=None error_message='Service temporarily unavailable' error_param=None error_type=service_error message='OpenAI API error received' stream_error=False
+2025-10-08 18:47:49,895 - ERROR - 回答问题时出错: Service temporarily unavailable {"error":{"message":"Service temporarily unavailable","type":"service_error"}} 502 {'error': {'message': 'Service temporarily unavailable', 'type': 'service_error'}} <CIMultiDictProxy('Server': 'openresty', 'Date': 'Wed, 08 Oct 2025 10:47:49 GMT', 'Content-Type': 'application/json', 'Content-Length': '78', 'Connection': 'keep-alive')>
+2025-10-08 18:47:51,046 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=502
+2025-10-08 18:47:51,047 - INFO - error_code=None error_message='Service temporarily unavailable' error_param=None error_type=service_error message='OpenAI API error received' stream_error=False
+2025-10-08 18:47:51,048 - ERROR - 回答问题时出错: Service temporarily unavailable {"error":{"message":"Service temporarily unavailable","type":"service_error"}} 502 {'error': {'message': 'Service temporarily unavailable', 'type': 'service_error'}} <CIMultiDictProxy('Server': 'openresty', 'Date': 'Wed, 08 Oct 2025 10:47:50 GMT', 'Content-Type': 'application/json', 'Content-Length': '78', 'Connection': 'keep-alive')>
+2025-10-08 18:47:52,217 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=502
+2025-10-08 18:47:52,218 - INFO - error_code=None error_message='Service temporarily unavailable' error_param=None error_type=service_error message='OpenAI API error received' stream_error=False
+2025-10-08 18:47:52,220 - ERROR - 回答问题时出错: Service temporarily unavailable {"error":{"message":"Service temporarily unavailable","type":"service_error"}} 502 {'error': {'message': 'Service temporarily unavailable', 'type': 'service_error'}} <CIMultiDictProxy('Server': 'openresty', 'Date': 'Wed, 08 Oct 2025 10:47:51 GMT', 'Content-Type': 'application/json', 'Content-Length': '78', 'Connection': 'keep-alive')>
+2025-10-08 18:47:52,221 - INFO - 进度: 56/56 (100.0%)
+2025-10-08 18:47:52,221 - INFO - 当前得分: 15/560
+2025-10-08 18:47:53,235 - INFO - 测评完成: 总得分 15/560 (2.7%)
+2025-10-08 18:47:55,240 - INFO - 
+============= 评测总结 =============
+评测时间: 2025-10-08 18:47:55
+处理文件: o4high_qa8.jsonl
+总问题数: 56
+总得分: 15/560
+准确率: 2.7%
+运行时间: 3232.20 秒 (53.87 分钟)
+
+学科领域统计:
+学科领域            问题数      得分       总分       准确率        平均用时      
+-----------------------------------------------------------------
+考古              32       15       320      4.7%      222.18秒
+历史地理学           7        0        70       0.0%      403.04秒
+中国古代史           13       0        130      0.0%      218.22秒
+汉语言文字学          3        0        30       0.0%      934.18秒
+中国古典文献学         1        0        10       0.0%      4.79秒
+
+历史分期统计:
+历史分期            问题数      得分       总分       准确率        平均用时      
+-----------------------------------------------------------------
+新石器时代（含夏）       12       7        120      5.8%      313.14秒
+秦、西汉            5        0        50       0.0%      29.45秒
+东周、秦、西汉         3        0        30       0.0%      44.00秒
+东周              6        0        60       0.0%      1418.00秒
+非以上时段或无时段       1        8        10       80.0%      48.91秒
+商、新石器时代（含夏）     2        0        20       0.0%      37.66秒
+西周              3        0        30       0.0%      929.60秒
+西汉              11       0        110      0.0%      4.95秒
+东周、西周           2        0        20       0.0%      4.73秒
+商、西汉            1        0        10       0.0%      4.85秒
+商               5        0        50       0.0%      4.85秒
+秦               1        0        10       0.0%      4.74秒
+商、西周            2        0        20       0.0%      4.98秒
+东周、秦            1        0        10       0.0%      4.72秒
+东周、商、秦、西周       1        0        10       0.0%      4.72秒
+
+核心目的统计:
+核心目的            问题数      得分       总分       准确率        平均用时      
+-----------------------------------------------------------------
+事实呈现、检索         3        0        30       0.0%      84.38秒
+分析推论            25       8        250      3.2%      241.11秒
+分析推论、特征描述       1        0        10       0.0%      121.32秒
+事实呈现、分析推论       5        0        50       0.0%      603.78秒
+分析推论、检索         1        0        10       0.0%      105.81秒
+事实呈现            2        0        20       0.0%      122.83秒
+特征描述            1        0        10       0.0%      87.58秒
+事实呈现、分析推论、特征描述  6        7        60       11.7%      478.10秒
+事实呈现、信度考据、分析推论  5        0        50       0.0%      562.50秒
+分析推论、识读         1        0        10       0.0%      5.24秒
+信度考据、分析推论       3        0        30       0.0%      4.76秒
+分析推论、检索、特征描述    1        0        10       0.0%      4.77秒
+信度考据、分析推论、识读    1        0        10       0.0%      4.68秒
+事实呈现、信度考据、分析推论、特征描述 1        0        10       0.0%      4.83秒
+==================================
+
+2025-10-08 18:47:55,247 - INFO - 总运行时间: 3232.21 秒 (53.87 分钟)
