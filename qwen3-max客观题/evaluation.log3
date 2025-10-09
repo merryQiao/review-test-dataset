@@ -1,0 +1,1371 @@
+2025-10-08 12:05:01,331 - INFO - 已创建结果文件: evaluation_results_20251008_120501.csv
+2025-10-08 12:05:01,363 - INFO - 开始处理文件: 评测/0828所有vqa判断.jsonl
+2025-10-08 12:05:01,406 - INFO - 成功加载 276 个QA数据
+2025-10-08 12:05:01,406 - INFO - 开始处理批次 #1 (问题 1-5)
+2025-10-08 12:05:01,428 - INFO - 提问 [0828所有vqa判断.jsonl_1] [考古]: 根据下图所示的新密古城寨龙山文化原始宫殿（F1、F4组合体）建筑遗址平面图，判断该建筑群的主殿（F1）朝向为坐西朝东是否正确？
+2025-10-08 12:05:01,443 - INFO - 提问 [0828所有vqa判断.jsonl_2] [考古]: 根据下图所示，新密古城寨龙山文化大型建筑基址（F1）的夯土台基南北长28.40米，东西宽13.50米，且其南、北、东三面城墙至今保存于地表之上，这一描述是否正确？
+2025-10-08 12:05:01,443 - INFO - 提问 [0828所有vqa判断.jsonl_3] [考古]: 根据下图所示的建筑复原图，判断该建筑是否采用了不对称两面坡式的屋顶设计（前屋面窄，前檐头高；后屋面宽，后檐头低）。
+2025-10-08 12:05:01,454 - INFO - 提问 [0828所有vqa判断.jsonl_4] [考古]: 根据下图所示，新密古城寨龙山文化大型建筑基址F1的夯土台基南侧有2个磉墩，北侧有5个，东侧有12个，这些磉墩的主要功能是支撑屋顶以遮蔽门窗，而非作为廊柱使用。这一判断是否正确？
+2025-10-08 12:05:01,456 - INFO - 提问 [0828所有vqa判断.jsonl_5] [考古]: 根据下图所示，新密古城寨遗址F1的殿堂部分没有隔墙分隔，形成了一个开放的大空间，这一设计在我国古代建筑史上是一个创举。判断该说法是否正确。
+2025-10-08 12:05:04,054 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:05:04,064 - INFO - OpenAI模型回答: 错误
+2025-10-08 12:05:04,064 - INFO - 回答错误，期望: 正确
+2025-10-08 12:05:04,357 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:05:04,357 - INFO - OpenAI模型回答: 错误
+2025-10-08 12:05:04,357 - INFO - 回答错误，期望: 正确
+2025-10-08 12:05:04,484 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:05:04,484 - INFO - OpenAI模型回答: 错误
+2025-10-08 12:05:04,484 - INFO - 回答错误，期望: 正确
+2025-10-08 12:05:04,515 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:05:04,515 - INFO - OpenAI模型回答: 正确
+2025-10-08 12:05:04,515 - INFO - 回答正确
+2025-10-08 12:05:04,547 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:05:04,547 - INFO - OpenAI模型回答: 正确
+2025-10-08 12:05:04,547 - INFO - 回答正确
+2025-10-08 12:05:04,557 - INFO - 进度: 5/276 (1.8%)
+2025-10-08 12:05:04,557 - INFO - 当前得分: 4/552
+2025-10-08 12:05:05,550 - INFO - 开始处理批次 #2 (问题 6-10)
+2025-10-08 12:05:05,561 - INFO - 提问 [0828所有vqa判断.jsonl_7] [考古]: 根据下图所示，陕西安塞县西孤渠村遗址位于安塞县城的西北方向，且距离安塞县城约10千米。此判断是否正确？
+2025-10-08 12:05:05,564 - INFO - 提问 [0828所有vqa判断.jsonl_8] [考古]: 根据下图所示，(临汾)陶寺遗址H3:4的高领鬲，其口唇外饰有一周锯齿状附加堆纹，颈和腹部各饰一周细绳索状附加堆纹，三足的上部和隔裆间，各饰一道竖三角形附加堆纹。这一描述是否准确？
+2025-10-08 12:05:05,567 - INFO - 提问 [0828所有vqa判断.jsonl_9] [考古]: 根据下图所示的地理位置，判断（舞阳）贾湖遗址是否位于河南省舞阳县北部，且距离县城约24公里处？
+2025-10-08 12:05:05,636 - INFO - 提问 [0828所有vqa判断.jsonl_6] [考古]: 根据下图所示，判断以下说法是否正确：河南省已发现的11座龙山时代城址中，除后岗、戚城、孟庄城属后岗二期文化，平粮台城属造律台文化外，其余7座皆属于王湾三期文化，且这些城址主要分布在颍河上游及其支流沙河、双洎河流域。如图所示，这一分布特征在地图上得到了直观体现。
+2025-10-08 12:05:05,637 - INFO - 提问 [0828所有vqa判断.jsonl_10] [考古]: 根据下图所示，编号为5的石器属于梯形单斜刃铲，这一判断是否正确？
+2025-10-08 12:05:07,598 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:05:07,598 - INFO - OpenAI模型回答: 正确
+2025-10-08 12:05:07,598 - INFO - 回答正确
+2025-10-08 12:05:07,853 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:05:07,864 - INFO - OpenAI模型回答: 错误
+2025-10-08 12:05:07,864 - INFO - 回答错误，期望: 正确
+2025-10-08 12:05:07,864 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:05:07,869 - INFO - OpenAI模型回答: 正确
+2025-10-08 12:05:07,869 - INFO - 回答正确
+2025-10-08 12:05:07,869 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:05:07,869 - INFO - OpenAI模型回答: 正确
+2025-10-08 12:05:07,869 - INFO - 回答正确
+2025-10-08 12:05:10,557 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:05:10,563 - INFO - OpenAI模型回答: 正确
+2025-10-08 12:05:10,563 - INFO - 回答正确
+2025-10-08 12:05:10,563 - INFO - 进度: 10/276 (3.6%)
+2025-10-08 12:05:10,563 - INFO - 当前得分: 12/552
+2025-10-08 12:05:11,566 - INFO - 开始处理批次 #3 (问题 11-15)
+2025-10-08 12:05:11,566 - INFO - 提问 [0828所有vqa判断.jsonl_15] [考古]: 根据下图所示，三号基址的居住面与基槽范围大体一致，且其夯土比居住面稍松软，这一描述是否正确？
+2025-10-08 12:05:11,566 - INFO - 提问 [0828所有vqa判断.jsonl_14] [考古]: 根据下图所示，新干大墓出土的镛丙（图一，1）与殷墟出土的小铙（图一，4、5、6）在形制上有显著差异，判断此说法是否正确。
+2025-10-08 12:05:11,566 - INFO - 提问 [0828所有vqa判断.jsonl_13] [考古]: 根据下图所示的骨器（M16:6，1.正面2.背面3.侧面），该骨器在制作过程中采用了捆绑加固的方式。判断此说法是否正确。
+2025-10-08 12:05:11,566 - INFO - 提问 [0828所有vqa判断.jsonl_12] [考古]: 根据下图所示的陶器残片，判断该遗址出土的陶器中，乳钉纹装饰是否主要出现在罐类器物上？
+2025-10-08 12:05:11,566 - INFO - 提问 [0828所有vqa判断.jsonl_11] [考古]: 根据下图所示，判断以下陈述是否正确：图中的遗物（标记为2）属于某种动物的骨骼结构，且其排列方式表明该动物可能具有群居习性。
+2025-10-08 12:05:13,446 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:05:13,446 - INFO - OpenAI模型回答: 错误
+2025-10-08 12:05:13,446 - INFO - 回答错误，期望: 正确
+2025-10-08 12:05:13,504 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:05:13,514 - INFO - OpenAI模型回答: 错误
+2025-10-08 12:05:13,514 - INFO - 回答正确
+2025-10-08 12:05:13,615 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:05:13,615 - INFO - OpenAI模型回答: 正确
+2025-10-08 12:05:13,615 - INFO - 回答正确
+2025-10-08 12:05:14,219 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:05:14,219 - INFO - OpenAI模型回答: 正确
+2025-10-08 12:05:14,219 - INFO - 回答正确
+2025-10-08 12:05:14,387 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:05:14,387 - INFO - OpenAI模型回答: 错误
+2025-10-08 12:05:14,387 - INFO - 回答错误，期望: 正确
+2025-10-08 12:05:14,393 - INFO - 进度: 15/276 (5.4%)
+2025-10-08 12:05:14,393 - INFO - 当前得分: 18/552
+2025-10-08 12:05:15,394 - INFO - 开始处理批次 #4 (问题 16-20)
+2025-10-08 12:05:15,400 - INFO - 提问 [0828所有vqa判断.jsonl_17] [考古]: 根据下图所示的灰坑剖面图，判断该灰坑的第2层土色为黄褐花土且质地坚硬，这一描述是否正确？
+2025-10-08 12:05:15,405 - INFO - 提问 [0828所有vqa判断.jsonl_19] [考古]: 根据下图所示的陶器，判断该陶器属于新石器时代晚期的典型器物。（ ）
+2025-10-08 12:05:15,405 - INFO - 提问 [0828所有vqa判断.jsonl_16] [考古]: 根据下图所示，一号基址的夯土基槽横断面呈上宽下窄的梯形状，且其夯层厚度多数为7厘米左右，这一描述是否正确？
+2025-10-08 12:05:15,405 - INFO - 提问 [0828所有vqa判断.jsonl_18] [考古]: 根据下图所示的T2416H33平、剖面图，判断该灰坑是否为不规则形坑，并且其平面形状呈不规则三角形。（正确/错误）
+2025-10-08 12:05:15,409 - INFO - 提问 [0828所有vqa判断.jsonl_20] [考古]: 根据下图所示，(偃师)二里头遗址T1中的探方结构表明该区域曾经历过多次挖掘活动，这一判断是否正确？
+2025-10-08 12:05:17,319 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:05:17,319 - INFO - OpenAI模型回答: 正确
+2025-10-08 12:05:17,319 - INFO - 回答正确
+2025-10-08 12:05:17,684 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:05:17,684 - INFO - OpenAI模型回答: 错误
+2025-10-08 12:05:17,684 - INFO - 回答错误，期望: 正确
+2025-10-08 12:05:19,482 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:05:19,482 - INFO - OpenAI模型回答: 正确
+2025-10-08 12:05:19,482 - INFO - 回答正确
+2025-10-08 12:05:56,098 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:05:56,098 - INFO - OpenAI模型回答: 错误
+2025-10-08 12:05:56,098 - INFO - 回答错误，期望: 正确
+2025-10-08 12:05:56,485 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:05:56,485 - INFO - OpenAI模型回答: 正确
+2025-10-08 12:05:56,485 - INFO - 回答正确
+2025-10-08 12:05:56,501 - INFO - 进度: 20/276 (7.2%)
+2025-10-08 12:05:56,501 - INFO - 当前得分: 24/552
+2025-10-08 12:05:57,506 - INFO - 开始处理批次 #5 (问题 21-25)
+2025-10-08 12:05:57,509 - INFO - 提问 [0828所有vqa判断.jsonl_25] [考古]: 根据下图所示的府城遗址白家庄期遗物，判断该陶器的制作工艺是否采用了绳纹装饰技术？
+2025-10-08 12:05:57,509 - INFO - 提问 [0828所有vqa判断.jsonl_24] [考古]: 根据下图所示的府城遗址白家庄期遗物，判断该器物为三足陶鼎，且其表面纹饰为典型的绳纹特征，这表明该器物可能用于祭祀活动。正确还是错误？
+2025-10-08 12:05:57,509 - INFO - 提问 [0828所有vqa判断.jsonl_22] [考古]: 根据下图所示的陶罐，判断该陶罐表面的纹饰是否为绳纹，并且这种纹饰常见于新石器时代晚期的仰韶文化遗址中。
+2025-10-08 12:05:57,517 - INFO - 提问 [0828所有vqa判断.jsonl_21] [考古]: 根据下图所示的陶罐，判断该陶罐表面的纹路是否为绳纹，并且这种纹路通常出现在新石器时代晚期的陶器上。
+2025-10-08 12:05:57,517 - INFO - 提问 [0828所有vqa判断.jsonl_23] [考古]: 根据下图所示的府城遗址白家庄期遗物，判断该陶器的三足设计是否主要用于增加稳定性，而非作为装饰元素。（正确/错误）
+2025-10-08 12:05:58,874 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:05:58,874 - INFO - OpenAI模型回答: 正确
+2025-10-08 12:05:58,874 - INFO - 回答正确
+2025-10-08 12:05:59,399 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:05:59,399 - INFO - OpenAI模型回答: 错误
+2025-10-08 12:05:59,399 - INFO - 回答错误，期望: 正确
+2025-10-08 12:06:00,077 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:06:00,081 - INFO - OpenAI模型回答: 错误
+2025-10-08 12:06:00,081 - INFO - 回答错误，期望: 正确
+2025-10-08 12:06:38,257 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:06:38,257 - INFO - OpenAI模型回答: 正确
+2025-10-08 12:06:38,257 - INFO - 回答正确
+2025-10-08 12:06:38,527 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:06:38,527 - INFO - OpenAI模型回答: 正确
+2025-10-08 12:06:38,527 - INFO - 回答正确
+2025-10-08 12:06:38,543 - INFO - 进度: 25/276 (9.1%)
+2025-10-08 12:06:38,543 - INFO - 当前得分: 30/552
+2025-10-08 12:06:39,546 - INFO - 开始处理批次 #6 (问题 26-30)
+2025-10-08 12:06:39,546 - INFO - 提问 [0828所有vqa判断.jsonl_27] [考古]: 根据下图所示的府城遗址白家庄期遗物，判断该陶罐的制作工艺是否采用了绳纹装饰技术。
+2025-10-08 12:06:39,553 - INFO - 提问 [0828所有vqa判断.jsonl_30] [考古]: 根据下图所示，大师姑遗址位于郑州市西北郊，其北距黄河、西南距荥阳市区均为13公里，东南行22公里即为郑州市，这一地理位置描述是否正确？
+2025-10-08 12:06:39,553 - INFO - 提问 [0828所有vqa判断.jsonl_28] [考古]: 根据下图所示的府城遗址白家庄期遗物陶罐，判断该陶罐的制作工艺是否采用了轮制技术。（如图所示）
+2025-10-08 12:06:39,557 - INFO - 提问 [0828所有vqa判断.jsonl_29] [考古]: 根据下图所示，湖北旧石器早期遗址（用▲标记）主要分布在汉水中上游地区，这一判断是否正确？
+2025-10-08 12:06:39,560 - INFO - 提问 [0828所有vqa判断.jsonl_26] [考古]: 根据下图所示的三足陶器，判断该器物属于商代晚期的青铜鼎。正确还是错误？
+2025-10-08 12:06:41,653 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:06:41,656 - INFO - OpenAI模型回答: 正确
+2025-10-08 12:06:41,658 - INFO - 回答正确
+2025-10-08 12:06:41,918 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:06:41,918 - INFO - OpenAI模型回答: 错误
+2025-10-08 12:06:41,918 - INFO - 回答错误，期望: 正确
+2025-10-08 12:06:42,041 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:06:42,041 - INFO - OpenAI模型回答: 正确
+2025-10-08 12:06:42,041 - INFO - 回答正确
+2025-10-08 12:06:42,056 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:06:42,056 - INFO - OpenAI模型回答: 错误
+2025-10-08 12:06:42,056 - INFO - 回答正确
+2025-10-08 12:06:42,221 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:06:42,222 - INFO - OpenAI模型回答: 正确
+2025-10-08 12:06:42,222 - INFO - 回答错误，期望: 错误
+2025-10-08 12:06:42,227 - INFO - 进度: 30/276 (10.9%)
+2025-10-08 12:06:42,227 - INFO - 当前得分: 36/552
+2025-10-08 12:06:43,238 - INFO - 开始处理批次 #7 (问题 31-35)
+2025-10-08 12:06:43,245 - INFO - 提问 [0828所有vqa判断.jsonl_32] [考古]: 根据下图所示，大师姑遗址的南壕内侧硬土被证实为二里头文化时期的夯土城垣，且该城垣与南壕平行分布。此判断是否正确？
+2025-10-08 12:06:43,245 - INFO - 提问 [0828所有vqa判断.jsonl_33] [考古]: 根据下图所示，H41灰坑的坑壁形态为直壁略斜，且坑底为平底，这一描述是否正确？
+2025-10-08 12:06:43,245 - INFO - 提问 [0828所有vqa判断.jsonl_31] [考古]: 根据下图所示，大师姑遗址的南壕内侧硬土被证实为二里头文化时期的夯土城垣，且在城垣和城壕之间平行分布有早商时期的环壕，这一发现证明大师姑遗址是一处二里头文化时期的城址。此判断是否正确？
+2025-10-08 12:06:43,245 - INFO - 提问 [0828所有vqa判断.jsonl_34] [考古]: 根据下图，(偃师)二里头H2的坑底埋葬了一具人骨架，且该骨架为仰身屈肢葬式，头向北，面向东，这一描述是否正确？
+2025-10-08 12:06:43,255 - INFO - 提问 [0828所有vqa判断.jsonl_35] [考古]: 根据下图所示的南部城壕（G7）剖面图，判断第1层黄褐色花土中出土的少量陶器残片是否属于二里头文化遗物。
+2025-10-08 12:06:44,769 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:06:44,770 - INFO - OpenAI模型回答: 正确
+2025-10-08 12:06:44,770 - INFO - 回答正确
+2025-10-08 12:06:45,132 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:06:45,132 - INFO - OpenAI模型回答: 错误
+2025-10-08 12:06:45,132 - INFO - 回答正确
+2025-10-08 12:06:45,195 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:06:45,196 - INFO - OpenAI模型回答: 正确
+2025-10-08 12:06:45,196 - INFO - 回答正确
+2025-10-08 12:06:45,370 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:06:45,385 - INFO - OpenAI模型回答: 正确
+2025-10-08 12:06:45,385 - INFO - 回答正确
+2025-10-08 12:07:23,812 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:07:23,812 - INFO - OpenAI模型回答: 错误
+2025-10-08 12:07:23,826 - INFO - 回答错误，期望: 正确
+2025-10-08 12:07:23,826 - INFO - 进度: 35/276 (12.7%)
+2025-10-08 12:07:23,826 - INFO - 当前得分: 44/552
+2025-10-08 12:07:24,843 - INFO - 开始处理批次 #8 (问题 36-40)
+2025-10-08 12:07:24,849 - INFO - 提问 [0828所有vqa判断.jsonl_37] [考古]: 根据下图，标本H76:18的平底盆（图三五，6；图版一四，4）具有对称宽带形耳和独特的装饰纹样。判断该描述是否正确。
+2025-10-08 12:07:24,854 - INFO - 提问 [0828所有vqa判断.jsonl_36] [考古]: 根据下图所示的陶器纹饰特征，判断以下说法是否正确：图中的第1、3、7号陶片属于中绳纹类型，且这些陶片的麦粒状特征清晰可见。
+2025-10-08 12:07:24,854 - INFO - 提问 [0828所有vqa判断.jsonl_39] [考古]: 根据下图所示，编号为4的石器属于A型石刀，其形态特征为扁平长条形，单面直刃。这一判断是否正确？
+2025-10-08 12:07:24,854 - INFO - 提问 [0828所有vqa判断.jsonl_38] [考古]: 根据下图，标本T4⑤d:22（图四九，1）的器物特征为夹砂黑灰陶，厚圆唇，短颈外敞，斜弧腹较深，底残。颈部抹光，以下饰三周附加堆纹，上压印绳纹。请问该描述是否准确？
+2025-10-08 12:07:24,862 - INFO - 提问 [0828所有vqa判断.jsonl_40] [考古]: 根据下图，标本H76:126（图五八，9）的陶管状器两端残缺，器表磨光并饰有三周凹弦纹，其径为1.9厘米，高为5.8厘米。判断此描述是否正确。
+2025-10-08 12:07:27,069 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:07:27,085 - INFO - OpenAI模型回答: 正确
+2025-10-08 12:07:27,085 - INFO - 回答正确
+2025-10-08 12:07:27,317 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:07:27,317 - INFO - OpenAI模型回答: 正确
+2025-10-08 12:07:27,317 - INFO - 回答正确
+2025-10-08 12:07:27,524 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:07:27,524 - INFO - OpenAI模型回答: 错误
+2025-10-08 12:07:27,529 - INFO - 回答错误，期望: 正确
+2025-10-08 12:07:27,658 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:07:27,673 - INFO - OpenAI模型回答: 正确
+2025-10-08 12:07:27,673 - INFO - 回答正确
+2025-10-08 12:07:28,016 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:07:28,016 - INFO - OpenAI模型回答: 错误
+2025-10-08 12:07:28,016 - INFO - 回答错误，期望: 正确
+2025-10-08 12:07:28,027 - INFO - 进度: 40/276 (14.5%)
+2025-10-08 12:07:28,027 - INFO - 当前得分: 50/552
+2025-10-08 12:07:29,028 - INFO - 开始处理批次 #9 (问题 41-45)
+2025-10-08 12:07:29,028 - INFO - 提问 [0828所有vqa判断.jsonl_41] [考古]: 根据下图，标本H76:12（图中标号为3）的骨镞形态特征为三棱形，尖锋且短铤不明显，这一描述是否正确？
+2025-10-08 12:07:29,028 - INFO - 提问 [0828所有vqa判断.jsonl_43] [考古]: 根据下图所示，标本H53:28（图七五，3）的器物特征为方唇、凹沿外折、敞口、斜腹，并且腹饰中绳纹，内壁有麻点。判断该描述是否正确。
+2025-10-08 12:07:29,028 - INFO - 提问 [0828所有vqa判断.jsonl_42] [考古]: 根据下图所示，标本H39:17的大口尊在颈部内侧刻划有‘手’印，这一特征是否可以在图七一，14中得到验证？
+2025-10-08 12:07:29,028 - INFO - 提问 [0828所有vqa判断.jsonl_45] [考古]: 根据下图所示的(临汾)陶寺遗址H69灰坑平面图，判断该灰坑的开口形状是否为南北向半圆形，并且坑壁弧形内收，不甚规整。（正确/错误）
+2025-10-08 12:07:29,028 - INFO - 提问 [0828所有vqa判断.jsonl_44] [考古]: 根据下图，标本H53:13（图七六，3）的卷C型Ⅲ式圆腹罐具有尖唇和束颈特征，且颈以下饰中绳纹。此描述是否正确？
+2025-10-08 12:07:30,926 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:07:30,926 - INFO - OpenAI模型回答: 正确
+2025-10-08 12:07:30,926 - INFO - 回答正确
+2025-10-08 12:07:31,132 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:07:31,132 - INFO - OpenAI模型回答: 正确
+2025-10-08 12:07:31,132 - INFO - 回答正确
+2025-10-08 12:07:31,308 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:07:31,308 - INFO - OpenAI模型回答: 正确
+2025-10-08 12:07:31,308 - INFO - 回答正确
+2025-10-08 12:07:31,389 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:07:31,389 - INFO - OpenAI模型回答: 错误
+2025-10-08 12:07:31,389 - INFO - 回答错误，期望: 正确
+2025-10-08 12:07:31,595 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:07:31,595 - INFO - OpenAI模型回答: 错误
+2025-10-08 12:07:31,595 - INFO - 回答错误，期望: 正确
+2025-10-08 12:07:31,611 - INFO - 进度: 45/276 (16.3%)
+2025-10-08 12:07:31,611 - INFO - 当前得分: 56/552
+2025-10-08 12:07:32,615 - INFO - 开始处理批次 #10 (问题 46-50)
+2025-10-08 12:07:32,616 - INFO - 提问 [0828所有vqa判断.jsonl_46] [考古]: 根据下图所示，标本H66:19（图八一，8）的圆腹罐具有长直颈外卷且端部下凹成盘口的特征，判断该描述是否正确。
+2025-10-08 12:07:32,616 - INFO - 提问 [0828所有vqa判断.jsonl_49] [考古]: 根据下图，判断标本H70:18（图八四，4）的器物特征是否为：灰陶材质，圆唇，卷沿外翻，敞口，小折肩，斜腹，颈部抹光，以下饰中绳纹，口径12厘米，残高5.1厘米。
+2025-10-08 12:07:32,616 - INFO - 提问 [0828所有vqa判断.jsonl_50] [考古]: 根据下图，标本H75:167（图九三，9）的捏口罐具有对称两流的设计，这一特征在同时期其他类型器物中也常见。正确还是错误？
+2025-10-08 12:07:32,616 - INFO - 提问 [0828所有vqa判断.jsonl_48] [考古]: 根据下图所示，标本H74:6的深腹罐（卷A型Ⅲ式）的口径为21厘米，且其腹部装饰有中绳纹。判断此描述是否正确。
+2025-10-08 12:07:32,625 - INFO - 提问 [0828所有vqa判断.jsonl_47] [考古]: 根据下图所示，标本H72:5（B型Ⅲ式卷沿深腹罐）的肩部特征为小圆肩，且肩以下饰偏细中绳纹。此描述是否正确？
+2025-10-08 12:07:34,688 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:07:34,688 - INFO - OpenAI模型回答: 正确
+2025-10-08 12:07:34,688 - INFO - 回答正确
+2025-10-08 12:07:34,810 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:07:34,815 - INFO - OpenAI模型回答: 正确
+2025-10-08 12:07:34,815 - INFO - 回答正确
+2025-10-08 12:07:34,880 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:07:34,880 - INFO - OpenAI模型回答: 错误
+2025-10-08 12:07:34,880 - INFO - 回答正确
+2025-10-08 12:07:35,661 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:07:35,677 - INFO - OpenAI模型回答: 正确
+2025-10-08 12:07:35,677 - INFO - 回答正确
+2025-10-08 12:07:36,203 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:07:36,203 - INFO - OpenAI模型回答: 正确
+2025-10-08 12:07:36,203 - INFO - 回答正确
+2025-10-08 12:07:36,219 - INFO - 进度: 50/276 (18.1%)
+2025-10-08 12:07:36,219 - INFO - 当前得分: 66/552
+2025-10-08 12:07:37,221 - INFO - 开始处理批次 #11 (问题 51-55)
+2025-10-08 12:07:37,221 - INFO - 提问 [0828所有vqa判断.jsonl_51] [考古]: 根据下图所示，标本H75:141的灰陶器物在图九四中的编号为7，其特征为圆唇、敞口、卷沿近折、斜肩较宽略鼓圆折、斜腹，且口及肩部磨光，折肩以下饰附加堆纹和粗绳纹。判断该描述是否正确。
+2025-10-08 12:07:37,221 - INFO - 提问 [0828所有vqa判断.jsonl_52] [考古]: 根据下图所示，标本G5①a:40（图一一三，5）的器物特征为泥质灰陶，胎较厚，圆唇，敞口，鼓腹，腹饰粗绳纹。判断该描述是否正确。
+2025-10-08 12:07:37,221 - INFO - 提问 [0828所有vqa判断.jsonl_55] [考古]: 根据下图，标本G5①a:176（图一一七，7）的陶水管口径为21厘米，且其斜方唇和敛口特征在图中清晰可见，判断该描述是否正确。
+2025-10-08 12:07:37,221 - INFO - 提问 [0828所有vqa判断.jsonl_53] [考古]: 根据下图所示，标本G5①b:192的卷沿深腹罐（图一一八，8）具有细绳纹装饰，判断该描述是否正确。
+2025-10-08 12:07:37,229 - INFO - 提问 [0828所有vqa判断.jsonl_54] [考古]: 根据下图所示，标本G5①a:180（图一一三，9）的器物特征为圆唇、长沿外翻、敞口、斜弧腹且口部磨光。判断此描述是否正确。
+2025-10-08 12:07:39,434 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:07:39,434 - INFO - OpenAI模型回答: 错误
+2025-10-08 12:07:39,434 - INFO - 回答错误，期望: 176为斜方唇，敛口，直壁，口径21厘米，残高9.6厘米。矛盾/印证分析：图像中的特征与文本描述完全一致，因此可以确认该描述是正确的。结论推导：基于上述分析，题目中的描述是正确的。"
+2025-10-08 12:07:39,562 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:07:39,562 - INFO - OpenAI模型回答: 正确
+2025-10-08 12:07:39,562 - INFO - 回答正确
+2025-10-08 12:07:40,568 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:07:40,568 - INFO - OpenAI模型回答: 正确
+2025-10-08 12:07:40,568 - INFO - 回答错误，期望: 180
+2025-10-08 12:07:40,871 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:07:40,871 - INFO - OpenAI模型回答: 正确
+2025-10-08 12:07:40,873 - INFO - 回答错误，期望: 40为泥质灰陶，胎较厚，圆唇，敞口，鼓腹，腹饰粗绳纹，口径29、残高5.4厘米。矛盾/印证分析：图像与文本描述在器物的材质（泥质灰陶）、形态（圆唇、敞口、鼓腹）以及装饰（腹饰粗绳纹）上完全一致，无矛盾之处。结论推导：因此，该描述是正确的。"
+2025-10-08 12:07:41,913 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:07:41,913 - INFO - OpenAI模型回答: 正确
+2025-10-08 12:07:41,913 - INFO - 回答正确
+2025-10-08 12:07:41,918 - INFO - 进度: 55/276 (19.9%)
+2025-10-08 12:07:41,918 - INFO - 当前得分: 70/552
+2025-10-08 12:07:42,922 - INFO - 开始处理批次 #12 (问题 56-60)
+2025-10-08 12:07:42,928 - INFO - 提问 [0828所有vqa判断.jsonl_59] [考古]: 根据下图，标本G5①b:172（图一二七，6）的肩部装饰为凹弦纹，这一描述是否正确？
+2025-10-08 12:07:42,928 - INFO - 提问 [0828所有vqa判断.jsonl_56] [考古]: 根据下图所示，标本G5①b:144（图一一九，9）的器物特征为圆唇、宽凹沿、盘口、内折沿处有尖棱、斜圆腹，并且腹饰麦粒状中绳纹。判断该描述是否正确。
+2025-10-08 12:07:42,928 - INFO - 提问 [0828所有vqa判断.jsonl_60] [考古]: 根据下图所示，标本G5①d:92（如图4所示）的器物特征为斜方唇、宽沿外卷近折、束颈、溜肩、鼓腹，并且腹饰细绳纹。判断该描述是否正确。
+2025-10-08 12:07:42,928 - INFO - 提问 [0828所有vqa判断.jsonl_58] [考古]: 根据下图，标本G5①b:178（图一二八，1）的肩部装饰为凹弦纹和较浅中绳纹，且其口径为15厘米，残高为4.8厘米，这一描述是否正确？
+2025-10-08 12:07:42,938 - INFO - 提问 [0828所有vqa判断.jsonl_57] [考古]: 根据下图所示，标本G5①b:179（图一二五，2）的器物特征为灰陶、圆唇、敞口、鼓腹，且口部磨光，腹饰粗绳纹。判断此描述是否正确。
+2025-10-08 12:07:44,884 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:07:44,900 - INFO - OpenAI模型回答: 正确
+2025-10-08 12:07:44,900 - INFO - 回答正确
+2025-10-08 12:07:45,026 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:07:45,026 - INFO - OpenAI模型回答: 错误
+2025-10-08 12:07:45,026 - INFO - 回答错误，期望: 正确
+2025-10-08 12:07:45,026 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:07:45,042 - INFO - OpenAI模型回答: 正确
+2025-10-08 12:07:45,042 - INFO - 回答正确
+2025-10-08 12:07:45,442 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:07:45,442 - INFO - OpenAI模型回答: 正确
+2025-10-08 12:07:45,442 - INFO - 回答正确
+2025-10-08 12:07:45,478 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:07:45,478 - INFO - OpenAI模型回答: 正确
+2025-10-08 12:07:45,478 - INFO - 回答正确
+2025-10-08 12:07:45,478 - INFO - 进度: 60/276 (21.7%)
+2025-10-08 12:07:45,478 - INFO - 当前得分: 78/552
+2025-10-08 12:07:46,491 - INFO - 开始处理批次 #13 (问题 61-65)
+2025-10-08 12:07:46,491 - INFO - 提问 [0828所有vqa判断.jsonl_61] [考古]: 根据下图所示，判断标本G5①d:88（图一三四，1）的器物特征是否为：红陶材质，方唇，凹沿，敞口，短斜颈内束，斜圆腹，并且腹饰偏粗中绳纹。
+2025-10-08 12:07:46,491 - INFO - 提问 [0828所有vqa判断.jsonl_63] [考古]: 根据下图，判断以下陈述是否正确：G5①d:38标本（图中编号6）的鬲属于C型，其特征为夹砂褐陶，厚胎，手制而成，制作不规整，圆唇，短直颈微外敞，宽肩瘦袋足，分裆较高，实足根较长，裆及袋足下部施麦粒状粗绳纹，足根下部素面，有细棍捆扎痕。
+2025-10-08 12:07:46,491 - INFO - 提问 [0828所有vqa判断.jsonl_64] [考古]: 根据下图，判断标本G5(2)a:17（Ab型Ⅱ式高领罐）的颈部特征是否为外卷且有未抹净绳纹。（如图所示，对比图中的第3个器物）
+2025-10-08 12:07:46,502 - INFO - 提问 [0828所有vqa判断.jsonl_65] [考古]: 根据下图，标本G5②c:32（图一四四，4）的深腹罐属于卷A型Ⅲ式，其特征为圆唇、敞口、束颈、鼓腹靠下、凹圜底，且腹饰偏粗中绳纹。判断此描述是否正确。
+2025-10-08 12:07:46,502 - INFO - 提问 [0828所有vqa判断.jsonl_62] [考古]: 根据下图，标本G5①d:12（图一三七，7）的器物特征为夹砂黑皮褐胎陶，圆唇，敛口，斜肩弧腹。肩以上抹光，饰不明显弦纹，肩、腹交接处饰一周附加堆纹，以下饰中绳纹及附加堆纹，上腹部饰鸡冠耳。判断此描述是否准确。
+2025-10-08 12:07:48,459 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:07:48,464 - INFO - OpenAI模型回答: 正确
+2025-10-08 12:07:48,464 - INFO - 回答错误，期望: 17为Ab型Ⅱ式高领罐，其特征包括“圆唇，高领外卷，敞口，斜肩。口及器表磨光，颈部有未抹净绳纹。”n3. 矛盾/印证分析：图像中的第3个器物的颈部特征（外卷且有未抹净绳纹）与文本描述完全一致，没有矛盾。n4. 结论推导：因此，可以得出结论，标本G5(2)a:17（Ab型Ⅱ式高领罐）的颈部特征确实为外卷且有未抹净绳纹，判断为正确。"
+2025-10-08 12:07:48,655 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:07:48,655 - INFO - OpenAI模型回答: 正确
+2025-10-08 12:07:48,655 - INFO - 回答正确
+2025-10-08 12:07:48,784 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:07:48,784 - INFO - OpenAI模型回答: 正确
+2025-10-08 12:07:48,784 - INFO - 回答正确
+2025-10-08 12:07:51,555 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:07:51,555 - INFO - OpenAI模型回答: 正确
+2025-10-08 12:07:51,555 - INFO - 回答正确
+2025-10-08 12:07:54,028 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:07:54,028 - INFO - OpenAI模型回答: 正确
+2025-10-08 12:07:54,028 - INFO - 回答正确
+2025-10-08 12:07:54,044 - INFO - 进度: 65/276 (23.6%)
+2025-10-08 12:07:54,044 - INFO - 当前得分: 86/552
+2025-10-08 12:07:55,059 - INFO - 开始处理批次 #14 (问题 66-70)
+2025-10-08 12:07:55,065 - INFO - 提问 [0828所有vqa判断.jsonl_68] [考古]: 根据下图，标本 G5③a:45（图一五一，1）的卷Bb型Ⅱ式盆上腹装饰有对称鸡冠錾，这一描述是否正确？
+2025-10-08 12:07:55,065 - INFO - 提问 [0828所有vqa判断.jsonl_67] [考古]: 根据下图，标本G5③a:47（图一五一，2）的卷C型Ⅱ式盆，其口部特征为圆唇且口部磨光，这一描述是否正确？
+2025-10-08 12:07:55,065 - INFO - 提问 [0828所有vqa判断.jsonl_66] [考古]: 根据下图，标本G5②c:96（花边B型盈式）的特征为夹砂褐陶，圆唇，短颈外撇，小折肩，缘下饰附加泥条压印花边，腹饰中绳纹。判断图中编号3的器物是否符合这一描述？
+2025-10-08 12:07:55,074 - INFO - 提问 [0828所有vqa判断.jsonl_70] [考古]: 根据下图所示，编号为11的器物属于豆柄类型，其特征为细高柄和喇叭口形足。正确还是错误？
+2025-10-08 12:07:55,083 - INFO - 提问 [0828所有vqa判断.jsonl_69] [考古]: 根据下图，标本G5④a:2（如图所示的第7个图形）属于折C型Ⅲ式深腹罐，其特征为厚圆唇，凹沿，盘口，桶腹略鼓，且腹饰偏细麦粒状中绳纹。此判断是否正确？
+2025-10-08 12:07:57,187 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:07:57,187 - INFO - OpenAI模型回答: 正确
+2025-10-08 12:07:57,187 - INFO - 回答错误，期望: 47）显示其口部为圆唇，且口部表面光滑，无明显纹饰，这与描述中的‘圆唇且口部磨光’相吻合。文本对比：根据提供的文本信息，标本G5③a:47确实被描述为‘圆唇，勾沿，敞口，斜弧腹。口部磨光。’矛盾/印证分析：图像中的细节（圆唇和磨光口部）与文本描述完全一致，没有矛盾之处。因此，该描述是正确的。"
+2025-10-08 12:07:57,510 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:07:57,510 - INFO - OpenAI模型回答: 正确
+2025-10-08 12:07:57,510 - INFO - 回答错误，期望: 45）显示其上腹部分确实有对称的凸起装饰，这些装饰在形态上类似于鸡冠錾。文本对比：根据提供的文本信息，标本 G5③a:45 的描述为“上腹饰对称鸡冠錾”，与图像中的特征相吻合。矛盾/印证分析：图像中的对称凸起装饰与文本描述的“对称鸡冠錾”一致，没有矛盾之处。因此，可以得出结论，该描述是正确的。"
+2025-10-08 12:07:57,570 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:07:57,570 - INFO - OpenAI模型回答: 错误
+2025-10-08 12:07:57,570 - INFO - 回答错误，期望: 正确
+2025-10-08 12:07:58,457 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:07:58,457 - INFO - OpenAI模型回答: 正确
+2025-10-08 12:07:58,457 - INFO - 回答错误，期望: 错误
+2025-10-08 12:08:00,228 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:08:00,228 - INFO - OpenAI模型回答: 错误
+2025-10-08 12:08:00,228 - INFO - 回答错误，期望: 2确实被分类为折C型Ⅲ式深腹罐，其具体描述为‘厚圆唇，凹沿，盘口，桶腹略鼓。腹饰偏细麦粒状中绳纹。口径21、残高22.8厘米’。n矛盾/印证分析：图像中的特征（厚圆唇、凹沿、盘口、桶腹略鼓及细密绳纹）与文本描述完全一致，没有矛盾之处。n结论推导：因此，根据图像和文本的对照分析，可以确认该判断是正确的。"
+2025-10-08 12:08:00,247 - INFO - 进度: 70/276 (25.4%)
+2025-10-08 12:08:00,248 - INFO - 当前得分: 86/552
+2025-10-08 12:08:01,264 - INFO - 开始处理批次 #15 (问题 71-75)
+2025-10-08 12:08:01,264 - INFO - 提问 [0828所有vqa判断.jsonl_74] [考古]: 如图所示，郭家山8号墓的前室与后室之间的过道宽度为1米，这一描述是否正确？
+2025-10-08 12:08:01,264 - INFO - 提问 [0828所有vqa判断.jsonl_71] [考古]: 根据下图所示，标本T5⑥b:18（图一六一，5）的圆腹罐具有短颈外卷、敞口、圆肩和鼓腹的特点，且其口径为18厘米，残高为4.8厘米。判断该描述是否正确。
+2025-10-08 12:08:01,264 - INFO - 提问 [0828所有vqa判断.jsonl_72] [考古]: 如图所示，杨岗码头D型单室墓（M8）的墓室结构为长方形，墓室内有残存壁砖，顺置错缝平铺，且底部残存数块青砖，采用纵‘人’字形铺砌而成。这一描述是否正确？
+2025-10-08 12:08:01,274 - INFO - 提问 [0828所有vqa判断.jsonl_75] [考古]: 如图所示，《屯南》2064+2968在骨中可能的位置示意图表明，这两片甲骨拼合后形成的完整甲骨上的文字排列方式为竖向排列。正确还是错误？
+2025-10-08 12:08:01,274 - INFO - 提问 [0828所有vqa判断.jsonl_73] [考古]: 如图所示，二里头文化的主要分布区域是否包括河南、山西西南部、陕西东部和河北南部地区？
+2025-10-08 12:08:02,648 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:08:02,658 - INFO - OpenAI模型回答: 正确
+2025-10-08 12:08:02,658 - INFO - 回答正确
+2025-10-08 12:08:02,917 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:08:02,917 - INFO - OpenAI模型回答: 正确
+2025-10-08 12:08:02,917 - INFO - 回答正确
+2025-10-08 12:08:03,188 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:08:03,188 - INFO - OpenAI模型回答: 错误
+2025-10-08 12:08:03,188 - INFO - 回答错误，期望: 正确
+2025-10-08 12:08:03,317 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:08:03,317 - INFO - OpenAI模型回答: 正确
+2025-10-08 12:08:03,317 - INFO - 回答正确
+2025-10-08 12:08:05,164 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:08:05,164 - INFO - OpenAI模型回答: 错误
+2025-10-08 12:08:05,164 - INFO - 回答错误，期望: 正确
+2025-10-08 12:08:05,173 - INFO - 进度: 75/276 (27.2%)
+2025-10-08 12:08:05,173 - INFO - 当前得分: 92/552
+2025-10-08 12:08:06,198 - INFO - 开始处理批次 #16 (问题 76-80)
+2025-10-08 12:08:06,198 - INFO - 提问 [0828所有vqa判断.jsonl_76] [考古]: 如图所示，河南平顶山应国墓地M8出土的这件璧形玉饰（M8:91-1），其材质为玉且表面有明显的使用痕迹，判断该玉璧在古代可能用于祭祀活动。正确还是错误？
+2025-10-08 12:08:06,198 - INFO - 提问 [0828所有vqa判断.jsonl_78] [考古]: 如图所示，上蔡县卧龙岗西汉墓出土的标本M15:1大溜肩罐（图一六，4）的肩与腹交接处特征为对称的桥形耳，这一描述是否正确？
+2025-10-08 12:08:06,198 - INFO - 提问 [0828所有vqa判断.jsonl_79] [考古]: 如图所示，河南上蔡县卧龙岗西汉砖室墓出土的画像空心砖（图一○，2）上的图案内容是否包括重檐式双阙、常青树、乌龟和武士图像？
+2025-10-08 12:08:06,207 - INFO - 提问 [0828所有vqa判断.jsonl_80] [考古]: 如图所示，上蔡县卧龙岗西汉墓出土的陶盆（M9:5）（图中标号4）的口径约为多少厘米？
+2025-10-08 12:08:06,207 - INFO - 提问 [0828所有vqa判断.jsonl_77] [考古]: 如图所示，河南省孟州市义井遗址位于西虢乡的西南部，且东、西、北三面临沟，南面靠近黄河滩。这一描述是否正确？
+2025-10-08 12:08:08,074 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:08:08,074 - INFO - OpenAI模型回答: 错误
+2025-10-08 12:08:08,074 - INFO - 回答错误，期望: 正确
+2025-10-08 12:08:08,176 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:08:08,176 - INFO - OpenAI模型回答: 正确
+2025-10-08 12:08:08,176 - INFO - 回答正确
+2025-10-08 12:08:09,191 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:08:09,191 - INFO - OpenAI模型回答: 正确
+2025-10-08 12:08:09,191 - INFO - 回答正确
+2025-10-08 12:08:09,207 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:08:09,207 - INFO - OpenAI模型回答: 错误
+2025-10-08 12:08:09,207 - INFO - 回答错误，期望: 正确
+2025-10-08 12:08:09,290 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:08:09,302 - INFO - OpenAI模型回答: 正确
+2025-10-08 12:08:09,302 - INFO - 回答正确
+2025-10-08 12:08:09,302 - INFO - 进度: 80/276 (29.0%)
+2025-10-08 12:08:09,302 - INFO - 当前得分: 98/552
+2025-10-08 12:08:10,309 - INFO - 开始处理批次 #17 (问题 81-85)
+2025-10-08 12:08:10,309 - INFO - 提问 [0828所有vqa判断.jsonl_83] [考古]: 如图所示，长台关一号墓中出土的文具箱采用的开口透鸠尾复榫接合方式，其特点是榫头和榫槽在木材的端部完全穿透，形成稳定的角接结构。这种描述是否正确？
+2025-10-08 12:08:10,309 - INFO - 提问 [0828所有vqa判断.jsonl_84] [考古]: 如图所示，焦作南朱村商代墓M1出土的铜爵（图一：2）的腰部装饰为带状圆圈纹，并在圆圈纹外有四个圆点，这一描述是否正确？
+2025-10-08 12:08:10,309 - INFO - 提问 [0828所有vqa判断.jsonl_82] [考古]: 如图所示，尹家城类型平底盒的Ⅱ式特征为沿面微显凸榫，深腹，腹壁高直，近底部内收。根据下图，标本西H531:6（图六，2）是否符合这一描述？
+2025-10-08 12:08:10,318 - INFO - 提问 [0828所有vqa判断.jsonl_81] [考古]: 如图所示，庙山遗址在小珠山中层、小珠山上层和青铜时代三个阶段中，农业工具的比例是否依次为21.6%、34.1%和85.7%？
+2025-10-08 12:08:10,318 - INFO - 提问 [0828所有vqa判断.jsonl_85] [考古]: 如图所示，刚玉砂厂秦人墓出土的铜带钩（标号2）上的人形装饰是否为跽坐姿态？
+2025-10-08 12:08:12,060 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:08:12,060 - INFO - OpenAI模型回答: 错误
+2025-10-08 12:08:12,060 - INFO - 回答错误，期望: 正确
+2025-10-08 12:08:12,745 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:08:12,746 - INFO - OpenAI模型回答: 正确
+2025-10-08 12:08:12,746 - INFO - 回答正确
+2025-10-08 12:08:12,794 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:08:12,804 - INFO - OpenAI模型回答: 正确
+2025-10-08 12:08:12,804 - INFO - 回答正确
+2025-10-08 12:08:12,825 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:08:12,825 - INFO - OpenAI模型回答: 正确
+2025-10-08 12:08:12,825 - INFO - 回答正确
+2025-10-08 12:08:13,104 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:08:13,104 - INFO - OpenAI模型回答: 正确
+2025-10-08 12:08:13,104 - INFO - 回答正确
+2025-10-08 12:08:13,110 - INFO - 进度: 85/276 (30.8%)
+2025-10-08 12:08:13,110 - INFO - 当前得分: 106/552
+2025-10-08 12:08:14,128 - INFO - 开始处理批次 #18 (问题 86-90)
+2025-10-08 12:08:14,128 - INFO - 提问 [0828所有vqa判断.jsonl_87] [考古]: 如图所示，沙下遗址第四期C6040石器制造场内的石料分布是否呈现出明显的聚集特征？
+2025-10-08 12:08:14,128 - INFO - 提问 [0828所有vqa判断.jsonl_89] [考古]: 如图所示，张家滩旧石器地点出土的标本张采：5（图二，6；图三，3）是一件单面、边刃砍斫器，其长、宽、厚尺寸为9×17×5.5厘米，刃角为65°。判断该描述是否正确。
+2025-10-08 12:08:14,135 - INFO - 提问 [0828所有vqa判断.jsonl_86] [考古]: 如图所示，河南淅川黄楝树遗址出土的陶器纹饰中，编号为3的纹饰类型属于指甲纹。正确还是错误？
+2025-10-08 12:08:14,135 - INFO - 提问 [0828所有vqa判断.jsonl_88] [考古]: 如图所示，河南镇平县程庄墓地M104出土的陶鼎（M104:4）的盖上模印纹饰是否包括山峦、动物和植物纹？
+2025-10-08 12:08:14,138 - INFO - 提问 [0828所有vqa判断.jsonl_90] [考古]: 如图所示，河北省中南部新石器时代遗址主要分布在太行山东麓的低山河谷地带及山前洪积冲积平原区，东部平原地区发现的遗址很少，这一判断是否正确？
+2025-10-08 12:08:15,911 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:08:15,911 - INFO - OpenAI模型回答: 正确
+2025-10-08 12:08:15,911 - INFO - 回答正确
+2025-10-08 12:08:16,262 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:08:16,262 - INFO - OpenAI模型回答: 错误
+2025-10-08 12:08:16,262 - INFO - 回答错误，期望: 正确
+2025-10-08 12:08:16,304 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:08:16,304 - INFO - OpenAI模型回答: 正确
+2025-10-08 12:08:16,304 - INFO - 回答正确
+2025-10-08 12:08:16,338 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:08:16,338 - INFO - OpenAI模型回答: 正确
+2025-10-08 12:08:16,341 - INFO - 回答正确
+2025-10-08 12:08:17,139 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:08:17,155 - INFO - OpenAI模型回答: 正确
+2025-10-08 12:08:17,158 - INFO - 回答正确
+2025-10-08 12:08:17,161 - INFO - 进度: 90/276 (32.6%)
+2025-10-08 12:08:17,161 - INFO - 当前得分: 114/552
+2025-10-08 12:08:18,161 - INFO - 开始处理批次 #19 (问题 91-95)
+2025-10-08 12:08:18,168 - INFO - 提问 [0828所有vqa判断.jsonl_92] [考古]: 根据下图所示，崧泽文化绰墩墓葬随葬品数量在0～5件范围内的墓葬数量为18座，这一数据是否正确？
+2025-10-08 12:08:18,168 - INFO - 提问 [0828所有vqa判断.jsonl_95] [考古]: 如图所示，洛阳东周城T118甲M1中的铜桥形饰、铜铃和骨珠穿连结构复原图（图四，2）中，桥形物下悬挂的装饰物与石磬下悬挂的装饰物功能相同。正确还是错误？
+2025-10-08 12:08:18,168 - INFO - 提问 [0828所有vqa判断.jsonl_94] [考古]: 如图所示，北首岭遗址出土的细颈壶（图中标号为4、5、6）的形态特征是否与河北武安磁山和河南长葛石固等遗址的细颈壶原初形态相似？
+2025-10-08 12:08:18,168 - INFO - 提问 [0828所有vqa判断.jsonl_91] [考古]: 如图所示，崧泽墓地早期阶段第一墓群的平均随葬品数量是否为6.28件？
+2025-10-08 12:08:18,177 - INFO - 提问 [0828所有vqa判断.jsonl_93] [考古]: 如图所示，河南泌阳县下河湾冶铁遗址出土的这件陶质锄范（04BX采：6）的表面特征显示其在制作过程中经历了高温焙烧，这一判断是否正确？
+2025-10-08 12:08:20,384 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:08:20,384 - INFO - OpenAI模型回答: 错误
+2025-10-08 12:08:20,400 - INFO - 回答正确
+2025-10-08 12:08:20,400 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:08:20,400 - INFO - OpenAI模型回答: 正确
+2025-10-08 12:08:20,400 - INFO - 回答正确
+2025-10-08 12:08:20,576 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:08:20,576 - INFO - OpenAI模型回答: 正确
+2025-10-08 12:08:20,576 - INFO - 回答正确
+2025-10-08 12:08:20,853 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:08:20,853 - INFO - OpenAI模型回答: 正确
+2025-10-08 12:08:20,853 - INFO - 回答正确
+2025-10-08 12:08:21,006 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:08:21,006 - INFO - OpenAI模型回答: 正确
+2025-10-08 12:08:21,017 - INFO - 回答正确
+2025-10-08 12:08:21,022 - INFO - 进度: 95/276 (34.4%)
+2025-10-08 12:08:21,022 - INFO - 当前得分: 124/552
+2025-10-08 12:08:22,028 - INFO - 开始处理批次 #20 (问题 96-100)
+2025-10-08 12:08:22,032 - INFO - 提问 [0828所有vqa判断.jsonl_97] [考古]: 如图所示，新密古城寨龙山文化大型建筑基址F1的夯土台基南北长28.40米，东西宽13.50米，这一尺寸特征表明该建筑具备了早期宫殿的基本特征。正确还是错误？
+2025-10-08 12:08:22,038 - INFO - 提问 [0828所有vqa判断.jsonl_96] [考古]: 如图所示，丹徒荣炳乡西棚－女坟山土墩墓分布遥感图中，土墩墓的分布特征是否表现为相对集中且成组集群连片？
+2025-10-08 12:08:22,043 - INFO - 提问 [0828所有vqa判断.jsonl_100] [考古]: 如图所示，白泥窑子遗址BA点出土的BAF2：28（图十五，2）敲砸器的平面形状为不规则形，且其横断面呈椭圆形。此描述是否正确？
+2025-10-08 12:08:22,044 - INFO - 提问 [0828所有vqa判断.jsonl_98] [考古]: 如图所示，城背溪遗址南区下层出土的这件陶钵，其腹部纹饰属于席纹类型。正确还是错误？
+2025-10-08 12:08:22,055 - INFO - 提问 [0828所有vqa判断.jsonl_99] [考古]: 如图所示，城背溪遗址南区T6出土的这件牛颌骨（编号：117）的形态特征表明其属于成年牛，这一判断正确吗？
+2025-10-08 12:08:24,249 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:08:24,253 - INFO - OpenAI模型回答: 正确
+2025-10-08 12:08:24,255 - INFO - 回答错误，期望: 错误
+2025-10-08 12:08:24,287 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:08:24,287 - INFO - OpenAI模型回答: 正确
+2025-10-08 12:08:24,287 - INFO - 回答正确
+2025-10-08 12:08:24,526 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:08:24,526 - INFO - OpenAI模型回答: 正确
+2025-10-08 12:08:24,526 - INFO - 回答正确
+2025-10-08 12:08:24,574 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:08:24,576 - INFO - OpenAI模型回答: 正确
+2025-10-08 12:08:24,576 - INFO - 回答正确
+2025-10-08 12:08:25,546 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:08:25,546 - INFO - OpenAI模型回答: 正确
+2025-10-08 12:08:25,546 - INFO - 回答正确
+2025-10-08 12:08:25,546 - INFO - 进度: 100/276 (36.2%)
+2025-10-08 12:08:25,546 - INFO - 当前得分: 132/552
+2025-10-08 12:08:26,548 - INFO - 开始处理批次 #21 (问题 101-105)
+2025-10-08 12:08:26,548 - INFO - 提问 [0828所有vqa判断.jsonl_101] [考古]: 如图所示，山东茌平县尚庄遗址出土的I型罐（H17:13）的腹部纹饰特征为绳纹，这一判断是否正确？
+2025-10-08 12:08:26,548 - INFO - 提问 [0828所有vqa判断.jsonl_104] [考古]: 如图所示，小双桥遗址窖穴H9的平面形状为不规则长方形，其北侧有一个较小的圆形附加结构。判断该描述是否正确。
+2025-10-08 12:08:26,548 - INFO - 提问 [0828所有vqa判断.jsonl_103] [考古]: 如图所示，西安半坡遗址出土的这件陶盆中的人面与鱼形花纹组合形式是否为对称组合？
+2025-10-08 12:08:26,548 - INFO - 提问 [0828所有vqa判断.jsonl_105] [考古]: 如图所示，反山遗址出土的这件玉鸟（M14:259）背面有两个对称的穿孔，这表明该玉鸟可能用于悬挂或佩戴。正确还是错误？
+2025-10-08 12:08:26,558 - INFO - 提问 [0828所有vqa判断.jsonl_102] [考古]: 如图所示，登封王城岗遗址龙山文化二期出土的Ⅲ式豆（WT221 H550:2）的器形特征为高圈足盘状，判断该描述是否正确。
+2025-10-08 12:08:28,187 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:08:28,187 - INFO - OpenAI模型回答: 正确
+2025-10-08 12:08:28,187 - INFO - 回答正确
+2025-10-08 12:08:28,283 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:08:28,299 - INFO - OpenAI模型回答: 正确
+2025-10-08 12:08:28,299 - INFO - 回答正确
+2025-10-08 12:08:28,506 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:08:28,506 - INFO - OpenAI模型回答: 正确
+2025-10-08 12:08:28,506 - INFO - 回答正确
+2025-10-08 12:08:29,159 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:08:29,162 - INFO - OpenAI模型回答: 正确
+2025-10-08 12:08:29,162 - INFO - 回答正确
+2025-10-08 12:08:31,107 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:08:31,107 - INFO - OpenAI模型回答: 正确
+2025-10-08 12:08:31,107 - INFO - 回答正确
+2025-10-08 12:08:31,117 - INFO - 进度: 105/276 (38.0%)
+2025-10-08 12:08:31,117 - INFO - 当前得分: 142/552
+2025-10-08 12:08:32,109 - INFO - 开始处理批次 #22 (问题 106-110)
+2025-10-08 12:08:32,109 - INFO - 提问 [0828所有vqa判断.jsonl_108] [考古]: 如图所示，碾子坡遗址先周晚期墓188号男性颅骨前额左侧的创伤痕迹表明该个体在生前遭受过严重的外力打击，这一判断是否正确？
+2025-10-08 12:08:32,109 - INFO - 提问 [0828所有vqa判断.jsonl_110] [考古]: 如图所示，钵衣山遗址J1及周边柱洞的平面布局表明，这些柱洞组成东北-西南走向的长方形建筑遗迹。这一判断是否正确？
+2025-10-08 12:08:32,109 - INFO - 提问 [0828所有vqa判断.jsonl_109] [考古]: 如图所示，顶蛳山遗址位于邕宁县蒲庙镇新新行政村九碗坡自然村东北约1公里的顶蛳山上，且北距县城约3公里。根据这一描述，判断图中顶蛳山遗址的位置是否正确。
+2025-10-08 12:08:32,109 - INFO - 提问 [0828所有vqa判断.jsonl_107] [考古]: 如图所示，碾子坡遗址出土的这件V式石凿（T1104③:4）的刃部形态特征为双面刃，这一判断是否正确？
+2025-10-08 12:08:32,109 - INFO - 提问 [0828所有vqa判断.jsonl_106] [考古]: 如图所示，南邠州碾子坡遗址H820西南墙角的9号（左）和10号（右）壁龛，其形状特征为圆形。判断该描述是否正确。
+2025-10-08 12:08:33,566 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:08:33,566 - INFO - OpenAI模型回答: 正确
+2025-10-08 12:08:33,566 - INFO - 回答正确
+2025-10-08 12:08:34,544 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:08:34,544 - INFO - OpenAI模型回答: 正确
+2025-10-08 12:08:34,544 - INFO - 回答正确
+2025-10-08 12:08:34,640 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:08:34,640 - INFO - OpenAI模型回答: 正确
+2025-10-08 12:08:34,640 - INFO - 回答正确
+2025-10-08 12:08:34,656 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:08:34,656 - INFO - OpenAI模型回答: 错误
+2025-10-08 12:08:34,656 - INFO - 回答错误，期望: 正确
+2025-10-08 12:08:36,438 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:08:36,438 - INFO - OpenAI模型回答: 正确
+2025-10-08 12:08:36,438 - INFO - 回答正确
+2025-10-08 12:08:36,457 - INFO - 进度: 110/276 (39.9%)
+2025-10-08 12:08:36,457 - INFO - 当前得分: 150/552
+2025-10-08 12:08:37,473 - INFO - 开始处理批次 #23 (问题 111-115)
+2025-10-08 12:08:37,475 - INFO - 提问 [0828所有vqa判断.jsonl_113] [考古]: 如图所示，枣庄建新遗址出土的这件BaII式陶鼎（H50:5），其鼎足形态特征为扁平状。正确还是错误？
+2025-10-08 12:08:37,477 - INFO - 提问 [0828所有vqa判断.jsonl_112] [考古]: 如图所示，河南安阳市洹北花园庄遗址出土的这件轨（M41:25）的材质为青铜，其表面装饰有复杂的纹饰。判断该说法是否正确。
+2025-10-08 12:08:37,477 - INFO - 提问 [0828所有vqa判断.jsonl_111] [考古]: 如图所示，嘎仙洞遗址出土的石核（图八，1）的形状特征为略呈圆柱形，周围有条状剥片痕，一端有明显的台面。这一描述是否正确？
+2025-10-08 12:08:37,482 - INFO - 提问 [0828所有vqa判断.jsonl_115] [文物]: 图12中下部滕县官桥画像石上的仙人位于龙虎之间，其作用是作为‘媒’来撮合龙虎合气。
+2025-10-08 12:08:37,484 - INFO - 提问 [0828所有vqa判断.jsonl_114] [考古]: 如图所示，山台寺遗址出土的标本T8③D:12（图4-113，12）属于B型Ⅱ式石鏃，其鏃身与铋相接，无明显分界。判断该描述是否正确。
+2025-10-08 12:08:39,748 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:08:39,748 - INFO - OpenAI模型回答: 错误
+2025-10-08 12:08:39,748 - INFO - 回答错误，期望: 正确
+2025-10-08 12:08:39,881 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:08:39,892 - INFO - OpenAI模型回答: 错误
+2025-10-08 12:08:39,892 - INFO - 回答错误，期望: 正确
+2025-10-08 12:08:39,902 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:08:39,902 - INFO - OpenAI模型回答: 错误
+2025-10-08 12:08:39,902 - INFO - 回答错误，期望: 正确
+2025-10-08 12:08:40,511 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:08:40,511 - INFO - OpenAI模型回答: 正确
+2025-10-08 12:08:40,511 - INFO - 回答正确
+2025-10-08 12:08:40,685 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:08:40,685 - INFO - OpenAI模型回答: 正确
+2025-10-08 12:08:40,685 - INFO - 回答正确
+2025-10-08 12:08:40,685 - INFO - 进度: 115/276 (41.7%)
+2025-10-08 12:08:40,685 - INFO - 当前得分: 154/552
+2025-10-08 12:08:41,700 - INFO - 开始处理批次 #24 (问题 116-120)
+2025-10-08 12:08:41,700 - INFO - 提问 [0828所有vqa判断.jsonl_116] [文物]: 图19所示的南越王墓主棺室出土的龙虎玉带钩D152 和D45体现了汉初阴阳相交的信仰。
+2025-10-08 12:08:41,700 - INFO - 提问 [0828所有vqa判断.jsonl_117] [文物]: 图18马王堆一号汉墓朱地彩绘棺盖纹饰中，对称绘有两组龙虎相戏的图案，这与《参同契》中的龙虎交媾思想寓意相同。
+2025-10-08 12:08:41,700 - INFO - 提问 [0828所有vqa判断.jsonl_118] [中国古代史]: 图11明《性命圭旨》“龙虎交媾图”中的龙虎形象与汉代龙虎交媾丹田之术的描述相符合。
+2025-10-08 12:08:41,709 - INFO - 提问 [0828所有vqa判断.jsonl_120] [考古]: 图2显示每四十年中战争年份的占比在西汉时期（公元前201年至公元40年）总体呈上升趋势，这一陈述是否正确？
+2025-10-08 12:08:41,710 - INFO - 提问 [0828所有vqa判断.jsonl_119] [文物]: 图8南阳麒麟岗出土的汉画像石中，头戴山形冠盘腿而坐的人物周围分布着怀抱日、月的伏羲、女娲，四象及北斗、南斗，这体现了‘规矩、三光、四灵在旁’的宗教思想。
+2025-10-08 12:08:43,626 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:08:43,626 - INFO - OpenAI模型回答: 错误
+2025-10-08 12:08:43,626 - INFO - 回答正确
+2025-10-08 12:08:43,885 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:08:43,885 - INFO - OpenAI模型回答: 正确
+2025-10-08 12:08:43,885 - INFO - 回答正确
+2025-10-08 12:08:43,885 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:08:43,885 - INFO - OpenAI模型回答: 错误
+2025-10-08 12:08:43,885 - INFO - 回答错误，期望: 正确
+2025-10-08 12:08:44,023 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:08:44,023 - INFO - OpenAI模型回答: 错误
+2025-10-08 12:08:44,023 - INFO - 回答错误，期望: 正确
+2025-10-08 12:09:28,468 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:09:28,468 - INFO - OpenAI模型回答: 正确
+2025-10-08 12:09:28,468 - INFO - 回答正确
+2025-10-08 12:09:28,468 - INFO - 进度: 120/276 (43.5%)
+2025-10-08 12:09:28,468 - INFO - 当前得分: 160/552
+2025-10-08 12:09:29,470 - INFO - 开始处理批次 #25 (问题 121-125)
+2025-10-08 12:09:29,470 - INFO - 提问 [0828所有vqa判断.jsonl_123] [考古]: 凌家滩遗址出土的玉鹰图案中，双翅作猪首形的设计反映了猪崇拜的文化内涵。
+2025-10-08 12:09:29,470 - INFO - 提问 [0828所有vqa判断.jsonl_124] [考古]: 图七所示的符号图案反映了新石器时代凌家滩遗址的太阳崇拜特征。
+2025-10-08 12:09:29,470 - INFO - 提问 [0828所有vqa判断.jsonl_121] [考古]: 图1显示了中国五千年温度变化与重农思想家的对应情况，其中标注为'a'的点代表贾谊（积贮论），该点位于公元前200年至公元前100年之间，这表明贾谊生活的时期气候相对温暖。
+2025-10-08 12:09:29,470 - INFO - 提问 [0828所有vqa判断.jsonl_122] [考古]: 图5所示的夏哈勒墩古城平面呈圆形，且城内有高台建筑，这一描述是否正确？
+2025-10-08 12:09:29,470 - INFO - 提问 [0828所有vqa判断.jsonl_125] [考古]: 凌家滩遗址出土的玉鹰图案体现了太阳神崇拜，图二中的双鸟图案也反映了这一信仰特征。
+2025-10-08 12:09:30,842 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:09:30,842 - INFO - OpenAI模型回答: 错误
+2025-10-08 12:09:30,842 - INFO - 回答正确
+2025-10-08 12:09:31,059 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:09:31,064 - INFO - OpenAI模型回答: 正确
+2025-10-08 12:09:31,064 - INFO - 回答正确
+2025-10-08 12:09:31,124 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:09:31,124 - INFO - OpenAI模型回答: 正确
+2025-10-08 12:09:31,127 - INFO - 回答正确
+2025-10-08 12:09:31,637 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:09:31,637 - INFO - OpenAI模型回答: 正确
+2025-10-08 12:09:31,641 - INFO - 回答正确
+2025-10-08 12:09:31,653 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:09:31,653 - INFO - OpenAI模型回答: 错误
+2025-10-08 12:09:31,653 - INFO - 回答错误，期望: 正确
+2025-10-08 12:09:31,663 - INFO - 进度: 125/276 (45.3%)
+2025-10-08 12:09:31,663 - INFO - 当前得分: 168/552
+2025-10-08 12:09:32,671 - INFO - 开始处理批次 #26 (问题 126-130)
+2025-10-08 12:09:32,671 - INFO - 提问 [0828所有vqa判断.jsonl_129] [文物]: 图十二所示的河姆渡遗址出土的T235O：102刻纹纺轮上的图案，中间的圆表示太阳，其外的十字刻纹表示四方，再外围的齿轮状刻纹表示太阳的光芒，这一解读是正确的。
+2025-10-08 12:09:32,671 - INFO - 提问 [0828所有vqa判断.jsonl_130] [文物]: 图十所示的器物图案中间的圆可能表示太阳，其外的十字刻纹应是表示四方。
+2025-10-08 12:09:32,671 - INFO - 提问 [0828所有vqa判断.jsonl_128] [文物]: 河姆渡遗址出土的T233M4：1泥质灰陶刻花豆盘内壁正中的圆圈与四鸟的组合图案，象征着太阳及其阴阳变化，这一解释是正确的。
+2025-10-08 12:09:32,671 - INFO - 提问 [0828所有vqa判断.jsonl_127] [文物]: 河姆渡遗址出土的T235O：102刻纹纺轮上所刻的图案中，纺轮中间的圆表示太阳，其外的十字刻纹表示四方，再外围的齿轮状刻纹表示太阳的光芒。
+2025-10-08 12:09:32,671 - INFO - 提问 [0828所有vqa判断.jsonl_126] [考古]: 图十四中的图案中间的圆可能表示太阳，其外的十字刻纹应是表示四方。
+2025-10-08 12:09:34,581 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:09:34,581 - INFO - OpenAI模型回答: 正确
+2025-10-08 12:09:34,581 - INFO - 回答正确
+2025-10-08 12:09:34,608 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:09:34,613 - INFO - OpenAI模型回答: 错误
+2025-10-08 12:09:34,613 - INFO - 回答错误，期望: 正确
+2025-10-08 12:09:35,028 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:09:35,028 - INFO - OpenAI模型回答: 错误
+2025-10-08 12:09:35,028 - INFO - 回答错误，期望: 正确
+2025-10-08 12:09:35,060 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:09:35,060 - INFO - OpenAI模型回答: 错误
+2025-10-08 12:09:35,060 - INFO - 回答错误，期望: 正确
+2025-10-08 12:09:36,242 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:09:36,242 - INFO - OpenAI模型回答: 正确
+2025-10-08 12:09:36,242 - INFO - 回答错误，期望: 错误
+2025-10-08 12:09:36,253 - INFO - 进度: 130/276 (47.1%)
+2025-10-08 12:09:36,253 - INFO - 当前得分: 170/552
+2025-10-08 12:09:37,256 - INFO - 开始处理批次 #27 (问题 131-135)
+2025-10-08 12:09:37,262 - INFO - 提问 [0828所有vqa判断.jsonl_132] [文物]: 图十六所示的泥质灰陶刻花豆盘（豆柄残）内壁中心刻有圆圈，并向东南西北四个方向刻有四个长颈鸟头，这组图案象征着太阳及其阴阳变化，正确吗？
+2025-10-08 12:09:37,266 - INFO - 提问 [0828所有vqa判断.jsonl_131] [文物]: 凌家滩遗址出土的玉版（图十七）上的图案象征天圆地方，其中小圆及八角星纹代表太阳闪光。因此，可以判断图三中的图案也象征天圆地方和太阳崇拜。
+2025-10-08 12:09:37,268 - INFO - 提问 [0828所有vqa判断.jsonl_134] [文物]: 图1b《洞元灵宝五岳真形图》之泰山真形图中，山体描绘为狭长形态。
+2025-10-08 12:09:37,271 - INFO - 提问 [0828所有vqa判断.jsonl_133] [文物]: 图1a《灵宝五岳古本真形图》之泰山真形图中，山体描绘为狭长形态。
+2025-10-08 12:09:37,275 - INFO - 提问 [0828所有vqa判断.jsonl_135] [文物]: 图4马王堆三号汉墓出土《地形图》之复原图中的九疑山部分，使用鱼鳞状闭合曲线来表示诸山岭。
+2025-10-08 12:09:38,860 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:09:38,860 - INFO - OpenAI模型回答: 正确
+2025-10-08 12:09:38,860 - INFO - 回答正确
+2025-10-08 12:09:39,051 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:09:39,051 - INFO - OpenAI模型回答: 错误
+2025-10-08 12:09:39,051 - INFO - 回答正确
+2025-10-08 12:09:39,051 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:09:39,057 - INFO - OpenAI模型回答: 错误
+2025-10-08 12:09:39,057 - INFO - 回答错误，期望: 正确
+2025-10-08 12:09:39,067 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:09:39,067 - INFO - OpenAI模型回答: 正确
+2025-10-08 12:09:39,067 - INFO - 回答正确
+2025-10-08 12:09:39,131 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:09:39,147 - INFO - OpenAI模型回答: 正确
+2025-10-08 12:09:39,147 - INFO - 回答错误，期望: 错误
+2025-10-08 12:09:39,158 - INFO - 进度: 135/276 (48.9%)
+2025-10-08 12:09:39,158 - INFO - 当前得分: 176/552
+2025-10-08 12:09:40,166 - INFO - 开始处理批次 #28 (问题 136-140)
+2025-10-08 12:09:40,172 - INFO - 提问 [0828所有vqa判断.jsonl_140] [中国古代史]: 图1平夜君封地各类（级）地域分比例示意图中，A级区域的比例为33.7%，这一陈述是正确的。
+2025-10-08 12:09:40,172 - INFO - 提问 [0828所有vqa判断.jsonl_138] [考古]: 图1显示，仰韶文化晚期的石城主要分布在内蒙古中部，这一陈述是否正确？
+2025-10-08 12:09:40,172 - INFO - 提问 [0828所有vqa判断.jsonl_136] [文物]: 图1d《上清灵宝大法》之泰山真形图中标注了登山路线起点标记。
+2025-10-08 12:09:40,172 - INFO - 提问 [0828所有vqa判断.jsonl_137] [考古]: 图2新石器时代晚期秃尾河流域石城分布图显示，龙山早期至龙山中期的石城主要分布在秃尾河的中游地区。
+2025-10-08 12:09:40,184 - INFO - 提问 [0828所有vqa判断.jsonl_139] [考古]: 洛阳西周文化遗存分布示意图显示，洛邑（成周）位于涧水东、洛水北之水东西两岸，这一描述是正确的。
+2025-10-08 12:09:41,834 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:09:41,834 - INFO - OpenAI模型回答: 正确
+2025-10-08 12:09:41,834 - INFO - 回答正确
+2025-10-08 12:09:42,184 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:09:42,184 - INFO - OpenAI模型回答: 错误
+2025-10-08 12:09:42,184 - INFO - 回答错误，期望: 正确
+2025-10-08 12:09:42,211 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:09:42,211 - INFO - OpenAI模型回答: 错误
+2025-10-08 12:09:42,211 - INFO - 回答错误，期望: 正确
+2025-10-08 12:09:42,311 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:09:42,311 - INFO - OpenAI模型回答: 正确
+2025-10-08 12:09:42,311 - INFO - 回答正确
+2025-10-08 12:09:42,327 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:09:42,327 - INFO - OpenAI模型回答: 错误
+2025-10-08 12:09:42,327 - INFO - 回答错误，期望: 正确
+2025-10-08 12:09:42,327 - INFO - 进度: 140/276 (50.7%)
+2025-10-08 12:09:42,327 - INFO - 当前得分: 180/552
+2025-10-08 12:09:43,332 - INFO - 开始处理批次 #29 (问题 141-145)
+2025-10-08 12:09:43,340 - INFO - 提问 [0828所有vqa判断.jsonl_144] [历史文献学]: 《合》3499与《合》11038相缀后得到的卜辞内容为‘乙丑卜，贞：翌丁一牛自黄尹十示又三。五月。’，该卜辞表明黄尹在祭祀中担任祀首。
+2025-10-08 12:09:43,340 - INFO - 提问 [0828所有vqa判断.jsonl_142] [历史地理学]: 图1所示的日射角与纬度之间的关系中，点B即登封告成的北纬度数为34°23′，而计算得到的北纬度数为34°3′，这种差异主要是因为北极星的微小移动引起的。
+2025-10-08 12:09:43,340 - INFO - 提问 [0828所有vqa判断.jsonl_141] [历史地理学]: 图2平夜君成领地构成示意图显示，封地中的城邑包含封君官署所在城邑（葛陵故城）和其他城邑，这一表述是否正确？
+2025-10-08 12:09:43,340 - INFO - 提问 [0828所有vqa判断.jsonl_143] [历史地理学]: 图2所示的“地平”假设下日射角分析中，日影长1.5尺的位置被确认为地中，这一判断是正确的。
+2025-10-08 12:09:43,340 - INFO - 提问 [0828所有vqa判断.jsonl_145] [历史地理学]: 塔里木盆地青铜时代前期遗址中，克里雅北方墓地和遗址（标记为1）位于克里雅河下游、圆沙古城以北约80公里处，这一描述是正确的。
+2025-10-08 12:09:45,002 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:09:45,002 - INFO - OpenAI模型回答: 错误
+2025-10-08 12:09:45,008 - INFO - 回答错误，期望: 正确
+2025-10-08 12:09:45,421 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:09:45,421 - INFO - OpenAI模型回答: 正确
+2025-10-08 12:09:45,421 - INFO - 回答正确
+2025-10-08 12:09:45,516 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:09:45,532 - INFO - OpenAI模型回答: 错误
+2025-10-08 12:09:45,532 - INFO - 回答错误，期望: 正确
+2025-10-08 12:09:45,643 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:09:45,654 - INFO - OpenAI模型回答: 正确
+2025-10-08 12:09:45,654 - INFO - 回答正确
+2025-10-08 12:10:25,395 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:10:25,397 - INFO - OpenAI模型回答: 错误
+2025-10-08 12:10:25,397 - INFO - 回答错误，期望: 正确
+2025-10-08 12:10:25,397 - INFO - 进度: 145/276 (52.5%)
+2025-10-08 12:10:25,397 - INFO - 当前得分: 184/552
+2025-10-08 12:10:26,415 - INFO - 开始处理批次 #30 (问题 146-150)
+2025-10-08 12:10:26,415 - INFO - 提问 [0828所有vqa判断.jsonl_149] [考古]: 图5 连城（库尔勒市南夏哈勒墩古城）的外城与内城周长分别约为200米和100米，这一描述是否正确？
+2025-10-08 12:10:26,415 - INFO - 提问 [0828所有vqa判断.jsonl_148] [文物]: 图7所示的新疆出土铁犁铧中，营盘古城外采集的铁犁铧长23.4厘米，宽20.5厘米，这一描述是正确的。
+2025-10-08 12:10:26,415 - INFO - 提问 [0828所有vqa判断.jsonl_150] [考古]: 图2所示的敦煌郡酒泉都尉治所（土垠遗址）位于楼兰古城的西北方向。
+2025-10-08 12:10:26,415 - INFO - 提问 [0828所有vqa判断.jsonl_146] [历史地理学]: 图3 江汉盆地基底断裂与江陵凹陷分布图显示，江陵凹陷的东界为丫角—清水口断层。
+2025-10-08 12:10:26,415 - INFO - 提问 [0828所有vqa判断.jsonl_147] [历史地理学]: 图1 沙市地区第四纪全新世沙质洲滩分布图显示，沙市地区的沙质洲滩主要分布在长江的北岸。
+2025-10-08 12:10:28,209 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:10:28,209 - INFO - OpenAI模型回答: 错误
+2025-10-08 12:10:28,214 - INFO - 回答正确
+2025-10-08 12:10:28,469 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:10:28,484 - INFO - OpenAI模型回答: 正确
+2025-10-08 12:10:28,484 - INFO - 回答正确
+2025-10-08 12:10:29,139 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:10:29,139 - INFO - OpenAI模型回答: 错误
+2025-10-08 12:10:29,139 - INFO - 回答错误，期望: 正确
+2025-10-08 12:10:29,712 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:10:29,712 - INFO - OpenAI模型回答: 正确
+2025-10-08 12:10:29,712 - INFO - 回答正确
+2025-10-08 12:11:07,291 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:11:07,296 - INFO - OpenAI模型回答: 错误
+2025-10-08 12:11:07,297 - INFO - 回答正确
+2025-10-08 12:11:07,306 - INFO - 进度: 150/276 (54.3%)
+2025-10-08 12:11:07,306 - INFO - 当前得分: 192/552
+2025-10-08 12:11:08,315 - INFO - 开始处理批次 #31 (问题 151-155)
+2025-10-08 12:11:08,315 - INFO - 提问 [0828所有vqa判断.jsonl_154] [考古]: 图6 渠犁屯田遗址（乌如克阔坦遗址）及建筑布局显示，该遗址的房屋建筑结构为单间木骨泥墙的窝棚式房屋。
+2025-10-08 12:11:08,315 - INFO - 提问 [0828所有vqa判断.jsonl_153] [考古]: 图3所示的轮台屯田遗址之一（羊塔克其该遗址）与咸水泉古城木骨泥墙结构，其房屋建筑采用的是半地穴的木构房屋，这一描述是否正确？
+2025-10-08 12:11:08,331 - INFO - 提问 [0828所有vqa判断.jsonl_151] [考古]: 图4麦当古城遗址平面图显示，陶片散落地位于遗址的中部偏南，这表明该区域可能是汉代的制陶作坊。此判断正确。
+2025-10-08 12:11:08,334 - INFO - 提问 [0828所有vqa判断.jsonl_152] [考古]: 图1 罗布泊北岸土垠遗址的平面图显示该遗址平面呈长方形，这一描述是正确的。
+2025-10-08 12:11:08,334 - INFO - 提问 [0828所有vqa判断.jsonl_155] [考古]: 图1“明堂位”示意图中，九采之国的使者位于应门之外，面北立于此处，这表明明堂在应门之北。
+2025-10-08 12:11:10,112 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:11:10,112 - INFO - OpenAI模型回答: 正确
+2025-10-08 12:11:10,112 - INFO - 回答正确
+2025-10-08 12:11:10,846 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:11:10,856 - INFO - OpenAI模型回答: 错误
+2025-10-08 12:11:10,856 - INFO - 回答错误，期望: 正确
+2025-10-08 12:11:10,909 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:11:10,909 - INFO - OpenAI模型回答: 正确
+2025-10-08 12:11:10,909 - INFO - 回答正确
+2025-10-08 12:11:11,100 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:11:11,110 - INFO - OpenAI模型回答: 错误
+2025-10-08 12:11:11,110 - INFO - 回答错误，期望: 正确
+2025-10-08 12:11:14,203 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:11:14,203 - INFO - OpenAI模型回答: 正确
+2025-10-08 12:11:14,203 - INFO - 回答正确
+2025-10-08 12:11:14,219 - INFO - 进度: 155/276 (56.2%)
+2025-10-08 12:11:14,219 - INFO - 当前得分: 198/552
+2025-10-08 12:11:15,224 - INFO - 开始处理批次 #32 (问题 156-160)
+2025-10-08 12:11:15,227 - INFO - 提问 [0828所有vqa判断.jsonl_159] [考古]: 图2山东地区晚商晚期聚落形态显示，泰山以南至汶水流域两岸一带的聚落分布较为稀疏，这与文献中提到的该区域在当时人烟稀少、甚至是人迹罕至的情况相吻合。
+2025-10-08 12:11:15,236 - INFO - 提问 [0828所有vqa判断.jsonl_158] [考古]: 图1所示的商末田猎区与野象活动区域中，标记有大象图标的地点均位于泰山周边地区。
+2025-10-08 12:11:15,236 - INFO - 提问 [0828所有vqa判断.jsonl_156] [考古]: 杨鸿勋复原的‘周人明堂’形制中，‘西堂’的南北方向为九筵，东西方向为七筵。
+2025-10-08 12:11:15,236 - INFO - 提问 [0828所有vqa判断.jsonl_160] [考古]: 图3显示的西周时期泰山周边地区聚落分布中，标注为'诸侯国'的地点包括齐、鲁等国，这反映了周初封建政策在东土的实施情况。
+2025-10-08 12:11:15,244 - INFO - 提问 [0828所有vqa判断.jsonl_157] [考古]: 图3齐镇F4基址平面图显示的建筑布局与《考工记》‘周人明堂’平面复原图（图4）的‘前堂后室’格局一致。
+2025-10-08 12:11:17,071 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:11:17,071 - INFO - OpenAI模型回答: 错误
+2025-10-08 12:11:17,071 - INFO - 回答错误，期望: 正确
+2025-10-08 12:11:17,071 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:11:17,071 - INFO - OpenAI模型回答: 错误
+2025-10-08 12:11:17,071 - INFO - 回答正确
+2025-10-08 12:11:17,326 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:11:17,342 - INFO - OpenAI模型回答: 错误
+2025-10-08 12:11:17,343 - INFO - 回答错误，期望: 正确
+2025-10-08 12:11:17,358 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:11:17,374 - INFO - OpenAI模型回答: 错误
+2025-10-08 12:11:17,374 - INFO - 回答错误，期望: 正确
+2025-10-08 12:11:18,106 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:11:18,106 - INFO - OpenAI模型回答: 正确
+2025-10-08 12:11:18,106 - INFO - 回答正确
+2025-10-08 12:11:18,122 - INFO - 进度: 160/276 (58.0%)
+2025-10-08 12:11:18,122 - INFO - 当前得分: 202/552
+2025-10-08 12:11:19,110 - INFO - 开始处理批次 #33 (问题 161-165)
+2025-10-08 12:11:19,117 - INFO - 提问 [0828所有vqa判断.jsonl_164] [考古]: 图2关东地区局部放大图显示，北海郡侯国分布密集，但本图只标绘了其郡境内的定点侯国，未对非定点侯国进行标绘。
+2025-10-08 12:11:19,117 - INFO - 提问 [0828所有vqa判断.jsonl_162] [考古]: 上甲以下商王世系表中，大乙的妣名为妣丙。
+2025-10-08 12:11:19,126 - INFO - 提问 [0828所有vqa判断.jsonl_165] [考古]: 图一显示汉高祖五年一月前后历法后天数值在五年10月达到最高点，这一陈述是否正确？
+2025-10-08 12:11:19,126 - INFO - 提问 [0828所有vqa判断.jsonl_161] [考古]: 兔子山遗址出土的律名木牍正面刻有‘告律 盗律已 贼律 囚律 亡律已 捕律已’等字样，这表明该木牍记录的是汉初的法律条文。
+2025-10-08 12:11:19,126 - INFO - 提问 [0828所有vqa判断.jsonl_163] [考古]: 图1元延三年侯国地理分布图显示，三辅地区没有侯国分布。
+2025-10-08 12:11:21,340 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:11:21,340 - INFO - OpenAI模型回答: 错误
+2025-10-08 12:11:21,340 - INFO - 回答错误，期望: 正确
+2025-10-08 12:11:21,812 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:11:21,812 - INFO - OpenAI模型回答: 正确
+2025-10-08 12:11:21,812 - INFO - 回答正确
+2025-10-08 12:11:22,008 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:11:22,008 - INFO - OpenAI模型回答: 错误
+2025-10-08 12:11:22,008 - INFO - 回答错误，期望: 正确
+2025-10-08 12:11:22,119 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:11:22,119 - INFO - OpenAI模型回答: 正确
+2025-10-08 12:11:22,119 - INFO - 回答正确
+2025-10-08 12:11:23,569 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:11:23,569 - INFO - OpenAI模型回答: 正确
+2025-10-08 12:11:23,569 - INFO - 回答正确
+2025-10-08 12:11:23,587 - INFO - 进度: 165/276 (59.8%)
+2025-10-08 12:11:23,587 - INFO - 当前得分: 208/552
+2025-10-08 12:11:24,602 - INFO - 开始处理批次 #34 (问题 166-170)
+2025-10-08 12:11:24,602 - INFO - 提问 [0828所有vqa判断.jsonl_166] [考古]: 图二文帝后元元年、二年、三年历法后天数值逐月变化图显示，文帝后元元年的历法后天数值在年初时接近最低点。
+2025-10-08 12:11:24,602 - INFO - 提问 [0828所有vqa判断.jsonl_169] [历史地理学]: 图二衡山郡到南郡路线示意图显示，秦始皇二次东巡南下过衡山郡后选择长江水路从邾县下长江到洞庭湖，该路线经过安陆。
+2025-10-08 12:11:24,602 - INFO - 提问 [0828所有vqa判断.jsonl_168] [中国古代史]: 图1所示甲骨卜辞中提到的“妇辛”与武丁时期的“妇好”是同一人。
+2025-10-08 12:11:24,612 - INFO - 提问 [0828所有vqa判断.jsonl_170] [中国古代史]: 大司徒司直（西汉）与大司徒司直（新莽孤卿位）在秩级来源上是同一秩级。
+2025-10-08 12:11:24,613 - INFO - 提问 [0828所有vqa判断.jsonl_167] [历史地理学]: 图一显示西周时期的黄河在获嘉县南约四十里处流入获嘉界，这一描述是正确的。
+2025-10-08 12:11:25,986 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:11:25,986 - INFO - OpenAI模型回答: 错误
+2025-10-08 12:11:25,986 - INFO - 回答错误，期望: 正确
+2025-10-08 12:11:26,416 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:11:26,416 - INFO - OpenAI模型回答: 错误
+2025-10-08 12:11:26,416 - INFO - 回答错误，期望: 正确
+2025-10-08 12:11:26,591 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:11:26,591 - INFO - OpenAI模型回答: 正确
+2025-10-08 12:11:26,591 - INFO - 回答正确
+2025-10-08 12:11:26,623 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:11:26,623 - INFO - OpenAI模型回答: 错误
+2025-10-08 12:11:26,623 - INFO - 回答正确
+2025-10-08 12:11:26,638 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:11:26,638 - INFO - OpenAI模型回答: 错误
+2025-10-08 12:11:26,638 - INFO - 回答错误，期望: 正确
+2025-10-08 12:11:26,654 - INFO - 进度: 170/276 (61.6%)
+2025-10-08 12:11:26,654 - INFO - 当前得分: 212/552
+2025-10-08 12:11:27,659 - INFO - 开始处理批次 #35 (问题 171-175)
+2025-10-08 12:11:27,670 - INFO - 提问 [0828所有vqa判断.jsonl_174] [中国古代史]: 甲骨文中的A型1式‘贾’字与金文中的A型‘贾’字在形体上完全相同。
+2025-10-08 12:11:27,670 - INFO - 提问 [0828所有vqa判断.jsonl_171] [中国古代史]: 《史墙盘》铭文中提到的‘广楚刑（荆）’仅指大肆讨伐，不包含‘柔远能迩’的意思。
+2025-10-08 12:11:27,672 - INFO - 提问 [0828所有vqa判断.jsonl_172] [文物]: 姒丁尊铭文中的“一”字应当释读为“簋”，这一释读是正确的。
+2025-10-08 12:11:27,674 - INFO - 提问 [0828所有vqa判断.jsonl_175] [考古]: 殷墟小屯M331墓葬中随葬的贝和柄形玉器的排列方式表明，贝是成串且外有包裹物（布袋）的。
+2025-10-08 12:11:27,678 - INFO - 提问 [0828所有vqa判断.jsonl_173] [文物]: 图2所示的铭文“唯朕有蔑，敏扬王休于尊簋”中的“簋”字采用了独体象形的极简写法。
+2025-10-08 12:11:28,933 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:11:28,933 - INFO - OpenAI模型回答: 错误
+2025-10-08 12:11:28,933 - INFO - 回答错误，期望: 正确
+2025-10-08 12:11:29,380 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:11:29,380 - INFO - OpenAI模型回答: 错误
+2025-10-08 12:11:29,380 - INFO - 回答错误，期望: 正确
+2025-10-08 12:11:29,491 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:11:29,491 - INFO - OpenAI模型回答: 错误
+2025-10-08 12:11:29,491 - INFO - 回答错误，期望: 正确
+2025-10-08 12:11:29,538 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:11:29,538 - INFO - OpenAI模型回答: 正确
+2025-10-08 12:11:29,538 - INFO - 回答正确
+2025-10-08 12:11:29,586 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:11:29,586 - INFO - OpenAI模型回答: 错误
+2025-10-08 12:11:29,586 - INFO - 回答正确
+2025-10-08 12:11:29,586 - INFO - 进度: 175/276 (63.4%)
+2025-10-08 12:11:29,586 - INFO - 当前得分: 216/552
+2025-10-08 12:11:30,589 - INFO - 开始处理批次 #36 (问题 176-180)
+2025-10-08 12:11:30,589 - INFO - 提问 [0828所有vqa判断.jsonl_177] [考古]: 殷墟后冈祭祀坑H10第27号死者腰部发现的三串贝，分别是5、10、20枚，这表明商代货贝可能装在袋子里。
+2025-10-08 12:11:30,589 - INFO - 提问 [0828所有vqa判断.jsonl_179] [文物]: 《合集》36501首辞所残的占卜地可补为‘商’，也即春秋时期汶水下游的鄣邑。
+2025-10-08 12:11:30,589 - INFO - 提问 [0828所有vqa判断.jsonl_178] [考古]: 殷墟大司空车马坑中出土的货贝排列整齐，这表明商代货贝可能装在织物袋中。
+2025-10-08 12:11:30,589 - INFO - 提问 [0828所有vqa判断.jsonl_176] [考古]: 后冈祭祀坑H10出土的货贝和麻布口袋表明商代确有麻布制作的口袋用于装盛货贝。
+2025-10-08 12:11:30,589 - INFO - 提问 [0828所有vqa判断.jsonl_180] [中国古代史]: 附图一所展示的卜辞内容与晚商时期的汶水下游地区相关。
+2025-10-08 12:11:32,309 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:11:32,309 - INFO - OpenAI模型回答: 正确
+2025-10-08 12:11:32,309 - INFO - 回答正确
+2025-10-08 12:11:32,565 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:11:32,565 - INFO - OpenAI模型回答: 错误
+2025-10-08 12:11:32,565 - INFO - 回答错误，期望: 正确
+2025-10-08 12:11:32,683 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:11:32,683 - INFO - OpenAI模型回答: 错误
+2025-10-08 12:11:32,683 - INFO - 回答错误，期望: 正确
+2025-10-08 12:11:32,702 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:11:32,702 - INFO - OpenAI模型回答: 正确
+2025-10-08 12:11:32,702 - INFO - 回答正确
+2025-10-08 12:11:32,835 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:11:32,851 - INFO - OpenAI模型回答: 正确
+2025-10-08 12:11:32,851 - INFO - 回答正确
+2025-10-08 12:11:32,862 - INFO - 进度: 180/276 (65.2%)
+2025-10-08 12:11:32,862 - INFO - 当前得分: 222/552
+2025-10-08 12:11:33,871 - INFO - 开始处理批次 #37 (问题 181-185)
+2025-10-08 12:11:33,871 - INFO - 提问 [0828所有vqa判断.jsonl_185] [文物]: 作册般甗铭文中的 '舞' 字应当写作 '無'。
+2025-10-08 12:11:33,871 - INFO - 提问 [0828所有vqa判断.jsonl_182] [文物]: 姒丁尊铭文中的“子”指的是商王朝的某一子姓贵族。
+2025-10-08 12:11:33,871 - INFO - 提问 [0828所有vqa判断.jsonl_184] [文物]: 图5所示的万方彝铭文中记载了戍铃在己酉这一天于召地举行的宜祭上，设置了钟镛并舞蹈九律之舞，这一描述是否正确？
+2025-10-08 12:11:33,871 - INFO - 提问 [0828所有vqa判断.jsonl_183] [文物]: 图7所示的甲骨文卜辞内容反映了商王对夷方的征伐活动，这一判断是正确的。
+2025-10-08 12:11:33,879 - INFO - 提问 [0828所有vqa判断.jsonl_181] [文物]: 作册般甗的甑部装饰有饕餮纹和蕉叶纹，这一描述是正确的。
+2025-10-08 12:11:35,159 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:11:35,159 - INFO - OpenAI模型回答: 错误
+2025-10-08 12:11:35,159 - INFO - 回答错误，期望: 正确
+2025-10-08 12:11:35,413 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:11:35,413 - INFO - OpenAI模型回答: 正确
+2025-10-08 12:11:35,413 - INFO - 回答正确
+2025-10-08 12:11:35,620 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:11:35,620 - INFO - OpenAI模型回答: 正确
+2025-10-08 12:11:35,620 - INFO - 回答正确
+2025-10-08 12:11:35,652 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:11:35,652 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:11:35,652 - INFO - OpenAI模型回答: 错误
+2025-10-08 12:11:35,662 - INFO - 回答正确
+2025-10-08 12:11:35,662 - INFO - OpenAI模型回答: 正确
+2025-10-08 12:11:35,662 - INFO - 回答正确
+2025-10-08 12:11:35,668 - INFO - 进度: 185/276 (67.0%)
+2025-10-08 12:11:35,668 - INFO - 当前得分: 230/552
+2025-10-08 12:11:36,668 - INFO - 开始处理批次 #38 (问题 186-190)
+2025-10-08 12:11:36,668 - INFO - 提问 [0828所有vqa判断.jsonl_186] [历史地理学]: 图4所示的帝辛十祀征人（夷）方路线图中，征伐的主要区域位于今江苏省中部和安徽北部、河南省东南部的淮水流域，这一描述是否正确？
+2025-10-08 12:11:36,673 - INFO - 提问 [0828所有vqa判断.jsonl_187] [文物]: 图3所示的饕餮纹甗（M1036：4）属于殷墟青铜器三期第2阶段，即相当于殷墟文化四期，这一判断是正确的。
+2025-10-08 12:11:36,675 - INFO - 提问 [0828所有vqa判断.jsonl_189] [文物]: 图1 左侧所示的战国秦代铁钳形制为 '廿' 形。
+2025-10-08 12:11:36,675 - INFO - 提问 [0828所有vqa判断.jsonl_188] [文物]: 图2中阳陵刑徒墓出土的钳，其钳圈均呈圆形，且有的钳圈带有与钳圈成直角的长翘，这一描述是否正确？
+2025-10-08 12:11:36,675 - INFO - 提问 [0828所有vqa判断.jsonl_190] [文物]: 图3所示的小屯358号灰坑犯人俑中，R001007俑的手部刑具为竖置样式，双手上下分别穿过刑具的两孔并扼于腕部。
+2025-10-08 12:11:38,090 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:11:38,090 - INFO - OpenAI模型回答: 正确
+2025-10-08 12:11:38,090 - INFO - 回答正确
+2025-10-08 12:11:38,355 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:11:38,355 - INFO - OpenAI模型回答: 正确
+2025-10-08 12:11:38,355 - INFO - 回答正确
+2025-10-08 12:11:38,578 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:11:38,578 - INFO - OpenAI模型回答: 错误
+2025-10-08 12:11:38,578 - INFO - 回答错误，期望: 正确
+2025-10-08 12:11:38,753 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:11:38,753 - INFO - OpenAI模型回答: 正确
+2025-10-08 12:11:38,753 - INFO - 回答正确
+2025-10-08 12:11:39,092 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:11:39,092 - INFO - OpenAI模型回答: 正确
+2025-10-08 12:11:39,104 - INFO - 回答正确
+2025-10-08 12:11:39,114 - INFO - 进度: 190/276 (68.8%)
+2025-10-08 12:11:39,114 - INFO - 当前得分: 238/552
+2025-10-08 12:11:40,126 - INFO - 开始处理批次 #39 (问题 191-195)
+2025-10-08 12:11:40,126 - INFO - 提问 [0828所有vqa判断.jsonl_192] [中国古代史]: 图二显示的秦二世三年七月（前207年8月18日—9月15日）天象中，只有土星位于井宿，其余行星都远离井宿。
+2025-10-08 12:11:40,126 - INFO - 提问 [0828所有vqa判断.jsonl_195] [中国古代史]: 图一显示的汉元年十月天象模拟图中，只有土星位于井宿，其余行星都远离井宿。
+2025-10-08 12:11:40,126 - INFO - 提问 [0828所有vqa判断.jsonl_193] [中国古代史]: 图九显示的汉二年四月至五月（前205年5月29日）天象模拟图中，金星的位置在鬼宿之外。
+2025-10-08 12:11:40,126 - INFO - 提问 [0828所有vqa判断.jsonl_194] [中国古代史]: 图三显示秦二世三年四月（前207年5月21日）的天象中，火星、金星和土星位于井宿当中，这一描述是正确的。
+2025-10-08 12:11:40,126 - INFO - 提问 [0828所有vqa判断.jsonl_191] [中国古代史]: 图七所示的汉二年四月至五月天象模拟图中，金星的位置更加接近鬼宿，这一描述是否正确？
+2025-10-08 12:11:41,967 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:11:41,967 - INFO - OpenAI模型回答: 错误
+2025-10-08 12:11:41,967 - INFO - 回答错误，期望: 正确
+2025-10-08 12:11:42,083 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:11:42,097 - INFO - OpenAI模型回答: 正确
+2025-10-08 12:11:42,097 - INFO - 回答正确
+2025-10-08 12:11:42,553 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:11:42,558 - INFO - OpenAI模型回答: 错误
+2025-10-08 12:11:42,558 - INFO - 回答错误，期望: 正确
+2025-10-08 12:11:42,655 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:11:42,655 - INFO - OpenAI模型回答: 正确
+2025-10-08 12:11:42,655 - INFO - 回答正确
+2025-10-08 12:11:43,068 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:11:43,068 - INFO - OpenAI模型回答: 错误
+2025-10-08 12:11:43,068 - INFO - 回答错误，期望: 正确
+2025-10-08 12:11:43,068 - INFO - 进度: 195/276 (70.7%)
+2025-10-08 12:11:43,068 - INFO - 当前得分: 242/552
+2025-10-08 12:11:44,074 - INFO - 开始处理批次 #40 (问题 196-200)
+2025-10-08 12:11:44,081 - INFO - 提问 [0828所有vqa判断.jsonl_199] [历史地理学]: 如图所示，江水水系的交通重点在上中游地区，以江水干流的东西向通道为轴，其余水道交通通道主要呈南北走向，往南北两面辐射。这一描述是否正确？
+2025-10-08 12:11:44,089 - INFO - 提问 [0828所有vqa判断.jsonl_197] [中国古代史]: 图八显示的汉二年四月至五月天象模拟图中，金星位于鬼宿附近，而火星、土星、木星位于东井、舆鬼两个星宿交界的地带，水星位于井宿三附近。
+2025-10-08 12:11:44,092 - INFO - 提问 [0828所有vqa判断.jsonl_200] [考古]: 如图所示，楚王城与汉王城之间的深沟宽度约为四五百米，这一描述是否正确？
+2025-10-08 12:11:44,092 - INFO - 提问 [0828所有vqa判断.jsonl_196] [中国古代史]: 图六所示的汉元年五至六月天象模拟图（前206年6月19日）中，木星和土星位于井宿位置，其余诸星距离井宿较远，这一描述是否正确？
+2025-10-08 12:11:44,096 - INFO - 提问 [0828所有vqa判断.jsonl_198] [中国古代史]: 图五显示的汉元年七月天象模拟图中，土星和木星均位于井宿内。
+2025-10-08 12:11:45,377 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:11:45,377 - INFO - OpenAI模型回答: 错误
+2025-10-08 12:11:45,377 - INFO - 回答错误，期望: 正确
+2025-10-08 12:11:45,679 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:11:45,694 - INFO - OpenAI模型回答: 错误
+2025-10-08 12:11:45,694 - INFO - 回答错误，期望: 正确
+2025-10-08 12:11:45,710 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:11:45,710 - INFO - OpenAI模型回答: 正确
+2025-10-08 12:11:45,710 - INFO - 回答错误，期望: 错误
+2025-10-08 12:11:45,733 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:11:45,733 - INFO - OpenAI模型回答: 错误
+2025-10-08 12:11:45,733 - INFO - 回答错误，期望: 正确
+2025-10-08 12:11:45,758 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:11:45,758 - INFO - OpenAI模型回答: 错误
+2025-10-08 12:11:45,758 - INFO - 回答错误，期望: 正确
+2025-10-08 12:11:45,758 - INFO - 进度: 200/276 (72.5%)
+2025-10-08 12:11:45,774 - INFO - 当前得分: 242/552
+2025-10-08 12:11:46,777 - INFO - 开始处理批次 #41 (问题 201-205)
+2025-10-08 12:11:46,785 - INFO - 提问 [0828所有vqa判断.jsonl_205] [文物]: 如图所示，西汉早期‘即墨丞印’封泥的文字写法与秦‘即墨太守’封泥明显不同，这表明两者不属于同一时期。正确还是错误？
+2025-10-08 12:11:46,785 - INFO - 提问 [0828所有vqa判断.jsonl_204] [考古]: 如图所示，上海史前遗址分布东缘线在良渚文化时期的东扩范围是否达到了冈身之上？
+2025-10-08 12:11:46,785 - INFO - 提问 [0828所有vqa判断.jsonl_201] [考古]: 如图所示，戚城遗址位于黄河故道的东侧，且其城墙在东西北三面尚完整，这一描述是否正确？
+2025-10-08 12:11:46,790 - INFO - 提问 [0828所有vqa判断.jsonl_203] [考古]: 如图所示，上海冈身以西史前遗址在良渚文化时期的分布特征是完全覆盖了原崧泽文化遗址的分布范围，并且大部分已经分布到了冈身之上。这一描述是否正确？
+2025-10-08 12:11:46,790 - INFO - 提问 [0828所有vqa判断.jsonl_202] [考古]: 如图所示，纪南城及周边遗存示意图中，纪南城遗址位于沮漳河与长江的交汇处附近，这一地理位置特征是否支持纪南城作为楚都‘寻郢’的推测？
+2025-10-08 12:11:48,369 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:11:48,369 - INFO - OpenAI模型回答: 正确
+2025-10-08 12:11:48,369 - INFO - 回答正确
+2025-10-08 12:11:48,481 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:11:48,497 - INFO - OpenAI模型回答: 错误
+2025-10-08 12:11:48,497 - INFO - 回答错误，期望: 正确
+2025-10-08 12:11:48,561 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:11:48,561 - INFO - OpenAI模型回答: 正确
+2025-10-08 12:11:48,561 - INFO - 回答正确
+2025-10-08 12:11:48,990 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:11:48,990 - INFO - OpenAI模型回答: 正确
+2025-10-08 12:11:48,990 - INFO - 回答正确
+2025-10-08 12:11:49,102 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:11:49,109 - INFO - OpenAI模型回答: 正确
+2025-10-08 12:11:49,109 - INFO - 回答正确
+2025-10-08 12:11:49,117 - INFO - 进度: 205/276 (74.3%)
+2025-10-08 12:11:49,117 - INFO - 当前得分: 250/552
+2025-10-08 12:11:50,124 - INFO - 开始处理批次 #42 (问题 206-210)
+2025-10-08 12:11:50,124 - INFO - 提问 [0828所有vqa判断.jsonl_206] [文物]: 如图所示，上海博物馆馆藏‘即墨丞印’封泥中的文字写法和形制与‘即墨太守’封泥相同，这表明两者属于同一时期。正确还是错误？
+2025-10-08 12:11:50,124 - INFO - 提问 [0828所有vqa判断.jsonl_210] [考古]: 如图所示，洛阳东郊西周墓出土的玉人（左图）和天津博物馆藏玉人（右图）均腰系宽带，这一宽带在考古学上被称为‘黄’。判断此说法是否正确。
+2025-10-08 12:11:50,124 - INFO - 提问 [0828所有vqa判断.jsonl_207] [中国古代史]: 如图所示，‘即墨太守’封泥中的‘太守’写作‘大守’，这表明该封泥属于秦代而非汉代，判断此说法是否正确？
+2025-10-08 12:11:50,124 - INFO - 提问 [0828所有vqa判断.jsonl_209] [历史地理学]: 如图所示，楚灵王‘南怀之行’中的‘鹊岸’位于今安徽定远以西的鹊甫溪一带，这一判断是否正确？
+2025-10-08 12:11:50,138 - INFO - 提问 [0828所有vqa判断.jsonl_208] [历史地理学]: 如图所示，西汉初年陇西郡治所位于狄道的说法是否正确？
+2025-10-08 12:11:51,762 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:11:51,762 - INFO - OpenAI模型回答: 正确
+2025-10-08 12:11:51,762 - INFO - 回答正确
+2025-10-08 12:11:52,001 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:11:52,001 - INFO - OpenAI模型回答: 错误
+2025-10-08 12:11:52,001 - INFO - 回答错误，期望: 正确
+2025-10-08 12:11:52,314 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:11:52,316 - INFO - OpenAI模型回答: 错误
+2025-10-08 12:11:52,316 - INFO - 回答错误，期望: 正确
+2025-10-08 12:11:52,369 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:11:52,369 - INFO - OpenAI模型回答: 正确
+2025-10-08 12:11:52,371 - INFO - 回答错误，期望: 错误
+2025-10-08 12:11:52,478 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:11:52,478 - INFO - OpenAI模型回答: 错误
+2025-10-08 12:11:52,478 - INFO - 回答错误，期望: 正确
+2025-10-08 12:11:52,478 - INFO - 进度: 210/276 (76.1%)
+2025-10-08 12:11:52,478 - INFO - 当前得分: 252/552
+2025-10-08 12:11:53,482 - INFO - 开始处理批次 #43 (问题 211-215)
+2025-10-08 12:11:53,488 - INFO - 提问 [0828所有vqa判断.jsonl_213] [文物]: 如图所示，嬭加编钟铭文中的“余挽小子加嬭”一句，‘挽’字的释读为‘末’，这一释读是否正确？
+2025-10-08 12:11:53,488 - INFO - 提问 [0828所有vqa判断.jsonl_215] [文物]: 如图所示，荆州胡家草场汉简《岁纪》简中‘王入吴房’的‘入’字含义为‘使入’，即‘献纳’，这一解释是否正确？
+2025-10-08 12:11:53,488 - INFO - 提问 [0828所有vqa判断.jsonl_212] [考古]: 如图所示，图2大河口M1铜人腰部所系宽带的材质最有可能是丝或麻织物，而非皮革。正确还是错误？
+2025-10-08 12:11:53,500 - INFO - 提问 [0828所有vqa判断.jsonl_214] [文物]: 如图所示，陕西岐山县孔头沟遗址西周墓葬M10出土的尚爵，其器型特征与铭文内容是否支持将其年代定为西周早期偏晚？
+2025-10-08 12:11:53,506 - INFO - 提问 [0828所有vqa判断.jsonl_211] [考古]: 如图所示，晋侯墓地M8出土的玉人（图4）腰部横束的宽带，即册命金文中的'黄'或礼书中的大带，这一特征是否正确？
+2025-10-08 12:11:55,341 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:11:55,341 - INFO - OpenAI模型回答: 正确
+2025-10-08 12:11:55,341 - INFO - 回答正确
+2025-10-08 12:11:55,723 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:11:55,723 - INFO - OpenAI模型回答: 错误
+2025-10-08 12:11:55,723 - INFO - 回答错误，期望: 正确
+2025-10-08 12:11:55,813 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:11:55,818 - INFO - OpenAI模型回答: 错误
+2025-10-08 12:11:55,818 - INFO - 回答错误，期望: 正确
+2025-10-08 12:11:56,004 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:11:56,004 - INFO - OpenAI模型回答: 正确
+2025-10-08 12:11:56,004 - INFO - 回答正确
+2025-10-08 12:12:17,210 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=502
+2025-10-08 12:12:17,210 - INFO - error_code=None error_message='Service temporarily unavailable' error_param=None error_type=service_error message='OpenAI API error received' stream_error=False
+2025-10-08 12:12:17,210 - ERROR - 回答问题时出错: Service temporarily unavailable {"error":{"message":"Service temporarily unavailable","type":"service_error"}} 502 {'error': {'message': 'Service temporarily unavailable', 'type': 'service_error'}} <CIMultiDictProxy('Server': 'openresty', 'Date': 'Wed, 08 Oct 2025 04:12:07 GMT', 'Content-Type': 'application/json', 'Content-Length': '78', 'Connection': 'keep-alive')>
+2025-10-08 12:12:19,216 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=502
+2025-10-08 12:12:19,216 - INFO - error_code=None error_message='Service temporarily unavailable' error_param=None error_type=service_error message='OpenAI API error received' stream_error=False
+2025-10-08 12:12:19,216 - ERROR - 回答问题时出错: Service temporarily unavailable {"error":{"message":"Service temporarily unavailable","type":"service_error"}} 502 {'error': {'message': 'Service temporarily unavailable', 'type': 'service_error'}} <CIMultiDictProxy('Server': 'openresty', 'Date': 'Wed, 08 Oct 2025 04:12:09 GMT', 'Content-Type': 'application/json', 'Content-Length': '78', 'Connection': 'keep-alive')>
+2025-10-08 12:12:22,168 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:12:22,168 - INFO - OpenAI模型回答: 错误
+2025-10-08 12:12:22,171 - INFO - 回答错误，期望: 正确
+2025-10-08 12:12:22,177 - INFO - 进度: 215/276 (77.9%)
+2025-10-08 12:12:22,177 - INFO - 当前得分: 256/552
+2025-10-08 12:12:23,180 - INFO - 开始处理批次 #44 (问题 216-220)
+2025-10-08 12:12:23,187 - INFO - 提问 [0828所有vqa判断.jsonl_219] [文物]: 如图所示，悬泉汉简Ⅰ90DXT0116②∶148与Ⅰ90DXT0116②∶150的笔迹和内容相似，且同出一个探方，因此可以判断这两枚简牍属于同一册书。这一判断是否正确？
+2025-10-08 12:12:23,187 - INFO - 提问 [0828所有vqa判断.jsonl_217] [中国古代史]: 如图所示，图2“贵”字形体源流图示中，（B1）楚系、（B2）吴越、（B3）晋系的字形演变路径是否正确反映了‘贵’字在不同地域的早期形态特征？
+2025-10-08 12:12:23,196 - INFO - 提问 [0828所有vqa判断.jsonl_218] [中国古代史]: 如图所示，悬泉汉简Ⅰ90DXT0116S∶5的释文‘出卅五人’应改释为‘士卅五人’，这一判断是否正确？
+2025-10-08 12:12:23,199 - INFO - 提问 [0828所有vqa判断.jsonl_216] [中国古代史]: 如图所示，图3中的(D1)字形属于秦系‘送’字的变形音化阶段，这一判断是否正确？
+2025-10-08 12:12:23,200 - INFO - 提问 [0828所有vqa判断.jsonl_220] [考古]: 如图所示，楼兰遗址出土的这枚简牍（楼330）正背面的文字内容表明，该简牍属于‘出’字冠首的取予合同券书，且‘同’字被分为两半，分别位于正背面。判断此描述是否正确。
+2025-10-08 12:12:25,027 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:12:25,029 - INFO - OpenAI模型回答: 错误
+2025-10-08 12:12:25,029 - INFO - 回答错误，期望: 正确
+2025-10-08 12:12:25,090 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:12:25,090 - INFO - OpenAI模型回答: 正确
+2025-10-08 12:12:25,090 - INFO - 回答正确
+2025-10-08 12:12:25,218 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:12:25,218 - INFO - OpenAI模型回答: 错误
+2025-10-08 12:12:25,218 - INFO - 回答错误，期望: 正确
+2025-10-08 12:12:25,251 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:12:25,251 - INFO - OpenAI模型回答: 正确
+2025-10-08 12:12:25,251 - INFO - 回答正确
+2025-10-08 12:12:25,281 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:12:25,281 - INFO - OpenAI模型回答: 正确
+2025-10-08 12:12:25,281 - INFO - 回答正确
+2025-10-08 12:12:25,297 - INFO - 进度: 220/276 (79.7%)
+2025-10-08 12:12:25,297 - INFO - 当前得分: 262/552
+2025-10-08 12:12:26,300 - INFO - 开始处理批次 #45 (问题 221-225)
+2025-10-08 12:12:26,301 - INFO - 提问 [0828所有vqa判断.jsonl_222] [汉语言文字学]: 如图所示，上博简《举治王天下》简32中‘民’后残字经过修复和补摹，拟补为‘啬（穡）’字。这一拟补是否正确？
+2025-10-08 12:12:26,305 - INFO - 提问 [0828所有vqa判断.jsonl_225] [文物]: 如图所示，随州市枣树林春秋曾国贵族墓地出土的这件青铜鼎旁边放置的青铜器是‘刀’，这一判断是否正确？
+2025-10-08 12:12:26,310 - INFO - 提问 [0828所有vqa判断.jsonl_221] [文物]: 如图所示，清华简《*系年》写本的第4竹段（简70-95）上的斜线标记是否覆盖了所有二十六枚简，并且简70和简71上有两条斜线，一条高一条低？
+2025-10-08 12:12:26,315 - INFO - 提问 [0828所有vqa判断.jsonl_224] [文物]: 如图所示，比较《平双》167（图a）与《存》下736（图b）的摹本，二者在‘吉’字的书写上是否完全相同？
+2025-10-08 12:12:26,315 - INFO - 提问 [0828所有vqa判断.jsonl_223] [文物]: 如图所示，对比《平双》15（图a）与《存》下88（图b）的甲骨摹本，二者在‘马’字的书写上是否一致？
+2025-10-08 12:12:27,966 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:12:27,966 - INFO - OpenAI模型回答: 错误
+2025-10-08 12:12:27,966 - INFO - 回答正确
+2025-10-08 12:12:28,131 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:12:28,131 - INFO - OpenAI模型回答: 正确
+2025-10-08 12:12:28,131 - INFO - 回答正确
+2025-10-08 12:12:28,274 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:12:28,287 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:12:28,287 - INFO - OpenAI模型回答: 正确
+2025-10-08 12:12:28,287 - INFO - 回答正确
+2025-10-08 12:12:28,290 - INFO - OpenAI模型回答: 错误
+2025-10-08 12:12:28,290 - INFO - 回答正确
+2025-10-08 12:12:28,466 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:12:28,466 - INFO - OpenAI模型回答: 错误
+2025-10-08 12:12:28,466 - INFO - 回答正确
+2025-10-08 12:12:28,482 - INFO - 进度: 225/276 (81.5%)
+2025-10-08 12:12:28,483 - INFO - 当前得分: 272/552
+2025-10-08 12:12:29,485 - INFO - 开始处理批次 #46 (问题 226-230)
+2025-10-08 12:12:29,490 - INFO - 提问 [0828所有vqa判断.jsonl_228] [考古]: 如图所示，安徽寿县蔡侯墓出土的升鼎旁放置的青铜器为匕，而非刀，这一现象是否符合《仪礼》中关于‘匕俎从设’的记载？
+2025-10-08 12:12:29,492 - INFO - 提问 [0828所有vqa判断.jsonl_230] [考古]: 如图所示，强家村M1出土的玉片排列成三行的遗物（图二十二），其长方形玉片都有缺口，这是否可以证明这些玉片在使用过程中经过了人为的损毁？
+2025-10-08 12:12:29,492 - INFO - 提问 [0828所有vqa判断.jsonl_227] [考古]: 如图所示，淅川下寺楚墓王子午鼎出土时，匕置于鼎内的说法正确吗？
+2025-10-08 12:12:29,492 - INFO - 提问 [0828所有vqa判断.jsonl_226] [文物]: 如图所示，曾侯乙墓出土的这件青铜鼎内放置的器具是‘刀’，这一判断是否正确？
+2025-10-08 12:12:29,492 - INFO - 提问 [0828所有vqa判断.jsonl_229] [考古]: 如图所示，随州文峰塔出土的青铜鼎内放置的器具为匕，而非刀，这一现象是否符合《仪礼》中关于‘匕俎从设’的记载？
+2025-10-08 12:12:31,076 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:12:31,076 - INFO - OpenAI模型回答: 正确
+2025-10-08 12:12:31,076 - INFO - 回答正确
+2025-10-08 12:12:31,103 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:12:31,108 - INFO - OpenAI模型回答: 正确
+2025-10-08 12:12:31,108 - INFO - 回答正确
+2025-10-08 12:12:31,156 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:12:31,156 - INFO - OpenAI模型回答: 正确
+2025-10-08 12:12:31,156 - INFO - 回答正确
+2025-10-08 12:12:31,363 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:12:31,363 - INFO - OpenAI模型回答: 错误
+2025-10-08 12:12:31,363 - INFO - 回答正确
+2025-10-08 12:12:32,863 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=502
+2025-10-08 12:12:32,863 - INFO - error_code=None error_message='Service temporarily unavailable' error_param=None error_type=service_error message='OpenAI API error received' stream_error=False
+2025-10-08 12:12:32,863 - ERROR - 回答问题时出错: Service temporarily unavailable {"error":{"message":"Service temporarily unavailable","type":"service_error"}} 502 {'error': {'message': 'Service temporarily unavailable', 'type': 'service_error'}} <CIMultiDictProxy('Server': 'openresty', 'Date': 'Wed, 08 Oct 2025 04:12:23 GMT', 'Content-Type': 'application/json', 'Content-Length': '78', 'Connection': 'keep-alive')>
+2025-10-08 12:12:34,373 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=502
+2025-10-08 12:12:34,373 - INFO - error_code=None error_message='Service temporarily unavailable' error_param=None error_type=service_error message='OpenAI API error received' stream_error=False
+2025-10-08 12:12:34,373 - ERROR - 回答问题时出错: Service temporarily unavailable {"error":{"message":"Service temporarily unavailable","type":"service_error"}} 502 {'error': {'message': 'Service temporarily unavailable', 'type': 'service_error'}} <CIMultiDictProxy('Server': 'openresty', 'Date': 'Wed, 08 Oct 2025 04:12:24 GMT', 'Content-Type': 'application/json', 'Content-Length': '78', 'Connection': 'keep-alive')>
+2025-10-08 12:12:37,364 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:12:37,364 - INFO - OpenAI模型回答: 错误
+2025-10-08 12:12:37,364 - INFO - 回答错误，期望: 正确
+2025-10-08 12:12:37,380 - INFO - 进度: 230/276 (83.3%)
+2025-10-08 12:12:37,380 - INFO - 当前得分: 280/552
+2025-10-08 12:12:38,397 - INFO - 开始处理批次 #47 (问题 231-235)
+2025-10-08 12:12:38,413 - INFO - 提问 [0828所有vqa判断.jsonl_233] [文物]: 如图所示，殷墟卜用龟腹甲中甲形态中的单一钻凿位于中沟右侧时，正面卜兆兆枝的方向是向左的，这一描述是否正确？
+2025-10-08 12:12:38,413 - INFO - 提问 [0828所有vqa判断.jsonl_231] [考古]: 如图所示，霸伯盂墓葬同出的金柄形器（M1017：65）首端光滑平整，尾端有明显的磕砸痕迹，这表明该器物在使用过程中经历了人为的损毁。正确还是错误？
+2025-10-08 12:12:38,413 - INFO - 提问 [0828所有vqa判断.jsonl_234] [文物]: 如图所示，中甲Ⅰ型的内部盾纹由左、右肱胸沟和中沟组成，形成十字形盾纹。这种描述是否正确？
+2025-10-08 12:12:38,413 - INFO - 提问 [0828所有vqa判断.jsonl_232] [考古]: 如图所示，‘光■凷宇’瓦当中的‘■’字，根据现有研究，是否可以隶定为‘曜’字？
+2025-10-08 12:12:38,413 - INFO - 提问 [0828所有vqa判断.jsonl_235] [文物]: 如图所示，殷墟卜用龟腹甲中甲的钻凿数量为三者，正面卜兆的排列方式是否为：以中沟为界，左一右二，右侧的两个钻凿处于同一纵线，左侧钻凿与右侧上方的钻凿基本对称？
+2025-10-08 12:12:39,609 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:12:39,609 - INFO - OpenAI模型回答: 正确
+2025-10-08 12:12:39,609 - INFO - 回答错误，期望: 错误
+2025-10-08 12:12:40,016 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:12:40,021 - INFO - OpenAI模型回答: 正确
+2025-10-08 12:12:40,021 - INFO - 回答正确
+2025-10-08 12:12:40,197 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:12:40,208 - INFO - OpenAI模型回答: 正确
+2025-10-08 12:12:40,210 - INFO - 回答正确
+2025-10-08 12:12:40,389 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:12:40,398 - INFO - OpenAI模型回答: 错误
+2025-10-08 12:12:40,398 - INFO - 回答错误，期望: 正确
+2025-10-08 12:12:40,437 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:12:40,437 - INFO - OpenAI模型回答: 正确
+2025-10-08 12:12:40,437 - INFO - 回答正确
+2025-10-08 12:12:40,454 - INFO - 进度: 235/276 (85.1%)
+2025-10-08 12:12:40,454 - INFO - 当前得分: 286/552
+2025-10-08 12:12:41,459 - INFO - 开始处理批次 #48 (问题 236-240)
+2025-10-08 12:12:41,459 - INFO - 提问 [0828所有vqa判断.jsonl_238] [文物]: 如图所示，中甲Ⅱ型的内部盾纹由左、右肱胸沟和中沟组成，形成十字形盾纹。这一描述是否正确？
+2025-10-08 12:12:41,459 - INFO - 提问 [0828所有vqa判断.jsonl_237] [文物]: 如图所示，该7C类残片的右内舌缝是否缺失？
+2025-10-08 12:12:41,459 - INFO - 提问 [0828所有vqa判断.jsonl_236] [文物]: 如图所示，该残片属于第三类中的3A类，其特征为中甲齿缝片沿着‘左下—右上’分布的两个卜兆断裂，残留右下部分。判断该描述是否正确。
+2025-10-08 12:12:41,459 - INFO - 提问 [0828所有vqa判断.jsonl_239] [文物]: 如图所示，该中甲齿缝片的分类属于第一类中的哪一小类？
+2025-10-08 12:12:41,459 - INFO - 提问 [0828所有vqa判断.jsonl_240] [文物]: 如图所示，殷墟卜用龟腹甲中甲钻凿数量为四者，其排列方式是否为右上左下，斜向相对排列？
+2025-10-08 12:12:42,766 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:12:42,780 - INFO - OpenAI模型回答: 错误
+2025-10-08 12:12:42,780 - INFO - 回答错误，期望: 正确
+2025-10-08 12:12:43,117 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:12:43,117 - INFO - OpenAI模型回答: 正确
+2025-10-08 12:12:43,117 - INFO - 回答正确
+2025-10-08 12:12:43,148 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:12:43,148 - INFO - OpenAI模型回答: 错误
+2025-10-08 12:12:43,158 - INFO - 回答错误，期望: 正确
+2025-10-08 12:12:43,482 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:12:43,482 - INFO - OpenAI模型回答: 正确
+2025-10-08 12:12:43,482 - INFO - 回答正确
+2025-10-08 12:12:43,929 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:12:43,929 - INFO - OpenAI模型回答: 正确
+2025-10-08 12:12:43,929 - INFO - 回答错误，期望: 错误
+2025-10-08 12:12:43,945 - INFO - 进度: 240/276 (87.0%)
+2025-10-08 12:12:43,945 - INFO - 当前得分: 290/552
+2025-10-08 12:12:44,950 - INFO - 开始处理批次 #49 (问题 241-245)
+2025-10-08 12:12:44,950 - INFO - 提问 [0828所有vqa判断.jsonl_242] [考古]: 如图所示，该4B类残片沿着中沟左侧卜兆的兆干断裂，残存右半部分，这一描述是否正确？
+2025-10-08 12:12:44,950 - INFO - 提问 [0828所有vqa判断.jsonl_244] [考古]: 如图所示，殷墟卜用龟腹甲中甲的钻凿数量为二且上下并列在中沟右侧的排列方式是否正确？
+2025-10-08 12:12:44,950 - INFO - 提问 [0828所有vqa判断.jsonl_241] [文物]: 如图所示，该4A类中甲齿缝片的断裂特征是否为沿着‘左上—右下’分布的两个卜兆断裂，仅存右上部分？
+2025-10-08 12:12:44,950 - INFO - 提问 [0828所有vqa判断.jsonl_243] [考古]: 如图所示，该残片属于殷墟卜用龟腹甲中甲形态研究中的第八类（一）1C类残片，判断此说法是否正确。
+2025-10-08 12:12:44,950 - INFO - 提问 [0828所有vqa判断.jsonl_245] [考古]: 如图所示，该中甲齿缝片沿中沟右侧卜兆的兆干断裂，仅缺右半（1B类），其右侧边缘形态为笔直的纵线。此描述是否正确？
+2025-10-08 12:12:46,224 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:12:46,224 - INFO - OpenAI模型回答: 错误
+2025-10-08 12:12:46,224 - INFO - 回答错误，期望: 正确
+2025-10-08 12:12:46,433 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:12:46,433 - INFO - OpenAI模型回答: 错误
+2025-10-08 12:12:46,433 - INFO - 回答错误，期望: 正确
+2025-10-08 12:12:46,576 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:12:46,593 - INFO - OpenAI模型回答: 错误
+2025-10-08 12:12:46,593 - INFO - 回答错误，期望: 正确
+2025-10-08 12:12:46,672 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:12:46,672 - INFO - OpenAI模型回答: 错误
+2025-10-08 12:12:46,672 - INFO - 回答错误，期望: 正确
+2025-10-08 12:12:48,879 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=502
+2025-10-08 12:12:48,881 - INFO - error_code=None error_message='Service temporarily unavailable' error_param=None error_type=service_error message='OpenAI API error received' stream_error=False
+2025-10-08 12:12:48,883 - ERROR - 回答问题时出错: Service temporarily unavailable {"error":{"message":"Service temporarily unavailable","type":"service_error"}} 502 {'error': {'message': 'Service temporarily unavailable', 'type': 'service_error'}} <CIMultiDictProxy('Server': 'openresty', 'Date': 'Wed, 08 Oct 2025 04:12:39 GMT', 'Content-Type': 'application/json', 'Content-Length': '78', 'Connection': 'keep-alive')>
+2025-10-08 12:12:50,295 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=502
+2025-10-08 12:12:50,295 - INFO - error_code=None error_message='Service temporarily unavailable' error_param=None error_type=service_error message='OpenAI API error received' stream_error=False
+2025-10-08 12:12:50,295 - ERROR - 回答问题时出错: Service temporarily unavailable {"error":{"message":"Service temporarily unavailable","type":"service_error"}} 502 {'error': {'message': 'Service temporarily unavailable', 'type': 'service_error'}} <CIMultiDictProxy('Server': 'openresty', 'Date': 'Wed, 08 Oct 2025 04:12:40 GMT', 'Content-Type': 'application/json', 'Content-Length': '78', 'Connection': 'keep-alive')>
+2025-10-08 12:12:51,618 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=502
+2025-10-08 12:12:51,618 - INFO - error_code=None error_message='Service temporarily unavailable' error_param=None error_type=service_error message='OpenAI API error received' stream_error=False
+2025-10-08 12:12:51,618 - ERROR - 回答问题时出错: Service temporarily unavailable {"error":{"message":"Service temporarily unavailable","type":"service_error"}} 502 {'error': {'message': 'Service temporarily unavailable', 'type': 'service_error'}} <CIMultiDictProxy('Server': 'openresty', 'Date': 'Wed, 08 Oct 2025 04:12:42 GMT', 'Content-Type': 'application/json', 'Content-Length': '78', 'Connection': 'keep-alive')>
+2025-10-08 12:12:52,942 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=502
+2025-10-08 12:12:52,942 - INFO - error_code=None error_message='Service temporarily unavailable' error_param=None error_type=service_error message='OpenAI API error received' stream_error=False
+2025-10-08 12:12:52,942 - ERROR - 回答问题时出错: Service temporarily unavailable {"error":{"message":"Service temporarily unavailable","type":"service_error"}} 502 {'error': {'message': 'Service temporarily unavailable', 'type': 'service_error'}} <CIMultiDictProxy('Server': 'openresty', 'Date': 'Wed, 08 Oct 2025 04:12:43 GMT', 'Content-Type': 'application/json', 'Content-Length': '78', 'Connection': 'keep-alive')>
+2025-10-08 12:12:55,426 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:12:55,426 - INFO - OpenAI模型回答: 错误
+2025-10-08 12:12:55,426 - INFO - 回答错误，期望: 正确
+2025-10-08 12:12:55,440 - INFO - 进度: 245/276 (88.8%)
+2025-10-08 12:12:55,442 - INFO - 当前得分: 290/552
+2025-10-08 12:12:56,444 - INFO - 开始处理批次 #50 (问题 246-250)
+2025-10-08 12:12:56,444 - INFO - 提问 [0828所有vqa判断.jsonl_247] [考古]: 如图所示，殷墟卜用龟腹甲中甲的钻凿数量为二者时，正面卜兆的第一种排列方式是以中沟为界，对称分布在左右。这种描述是否正确？
+2025-10-08 12:12:56,444 - INFO - 提问 [0828所有vqa判断.jsonl_250] [考古]: 如图所示，该殷墟卜用龟腹甲中甲形态属于第二类中的2A类，其特征为中甲齿缝片沿着肱胸沟上方卜兆的兆干、兆枝断裂，仅上部残缺。判断此描述是否正确。
+2025-10-08 12:12:56,444 - INFO - 提问 [0828所有vqa判断.jsonl_248] [考古]: 如图所示，该中甲齿缝片属于第一类中的1C类，其特征为沿着中沟左右两侧卜兆的兆干断裂，纵向一分为三，仅存中间部分，两侧皆缺失。判断此描述是否正确。
+2025-10-08 12:12:56,444 - INFO - 提问 [0828所有vqa判断.jsonl_246] [考古]: 如图所示，该残片属于殷墟卜用龟腹甲中甲形态研究中的第十一类，其特征组合为右内舌缝 + 左内舌缝 + 肱胸沟 + 中沟 + 兆边，且1C类残片沿肱胸沟上方分列于中沟两侧的卜兆的兆枝断裂，仅存下边部分。判断此描述是否正确。
+2025-10-08 12:12:56,444 - INFO - 提问 [0828所有vqa判断.jsonl_249] [考古]: 如图所示，该残片属于殷墟卜用龟腹甲中甲形态研究中的第十二类12B类，其特征为右内舌缝＋左内舌缝＋中沟＋兆边，且左侧边缘是竖直的兆边，上边是基本平直的线或折线，右侧边缘是断边。判断此描述是否正确。
+2025-10-08 12:12:57,972 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:12:57,972 - INFO - OpenAI模型回答: 错误
+2025-10-08 12:12:57,972 - INFO - 回答错误，期望: 正确
+2025-10-08 12:12:57,972 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:12:57,972 - INFO - OpenAI模型回答: 正确
+2025-10-08 12:12:57,972 - INFO - 回答正确
+2025-10-08 12:12:58,318 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:12:58,318 - INFO - OpenAI模型回答: 正确
+2025-10-08 12:12:58,318 - INFO - 回答正确
+2025-10-08 12:12:58,419 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:12:58,419 - INFO - OpenAI模型回答: 正确
+2025-10-08 12:12:58,419 - INFO - 回答正确
+2025-10-08 12:12:58,661 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:12:58,661 - INFO - OpenAI模型回答: 正确
+2025-10-08 12:12:58,661 - INFO - 回答正确
+2025-10-08 12:12:58,676 - INFO - 进度: 250/276 (90.6%)
+2025-10-08 12:12:58,676 - INFO - 当前得分: 298/552
+2025-10-08 12:12:59,679 - INFO - 开始处理批次 #51 (问题 251-255)
+2025-10-08 12:12:59,681 - INFO - 提问 [0828所有vqa判断.jsonl_251] [考古]: 如图所示，该残片属于第十类中的10A类，其特征为中甲齿缝片沿右肱胸沟上方、中沟右侧卜兆的兆干、兆枝断裂，残存左下部分。判断此描述是否正确。
+2025-10-08 12:12:59,681 - INFO - 提问 [0828所有vqa判断.jsonl_253] [考古]: 如图所示，该残片属于第三类中的3B类，其特征为中甲齿缝片沿着中沟右侧、肱胸沟下方的卜兆的兆干断裂，右上内缝有残留。判断此描述是否正确。
+2025-10-08 12:12:59,681 - INFO - 提问 [0828所有vqa判断.jsonl_254] [考古]: 如图所示，殷墟卜用龟腹甲的中甲位于首甲与前甲的包围中，其形态大体呈菱形。根据这一描述，判断以下说法是否正确：中甲的外部轮廓由左、右上内缝和左、右内舌缝构成。
+2025-10-08 12:12:59,681 - INFO - 提问 [0828所有vqa判断.jsonl_255] [考古]: 如图所示，该残片属于2B类中甲齿缝片，其上部和左侧皆残缺，这一判断是否正确？
+2025-10-08 12:12:59,681 - INFO - 提问 [0828所有vqa判断.jsonl_252] [考古]: 如图所示，第五类中甲齿缝片的断裂特征为沿着肱胸沟上方的卜兆断裂，残留下边部分，这一描述是否正确？
+2025-10-08 12:13:01,223 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:13:01,223 - INFO - OpenAI模型回答: 错误
+2025-10-08 12:13:01,223 - INFO - 回答错误，期望: 正确
+2025-10-08 12:13:01,351 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:13:01,361 - INFO - OpenAI模型回答: 错误
+2025-10-08 12:13:01,361 - INFO - 回答错误，期望: 正确
+2025-10-08 12:13:01,430 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:13:01,430 - INFO - OpenAI模型回答: 正确
+2025-10-08 12:13:01,430 - INFO - 回答正确
+2025-10-08 12:13:01,589 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:13:01,589 - INFO - OpenAI模型回答: 错误
+2025-10-08 12:13:01,589 - INFO - 回答错误，期望: 正确
+2025-10-08 12:13:03,531 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:13:03,531 - INFO - OpenAI模型回答: 错误
+2025-10-08 12:13:03,531 - INFO - 回答错误，期望: 正确
+2025-10-08 12:13:03,555 - INFO - 进度: 255/276 (92.4%)
+2025-10-08 12:13:03,555 - INFO - 当前得分: 300/552
+2025-10-08 12:13:04,551 - INFO - 开始处理批次 #52 (问题 256-260)
+2025-10-08 12:13:04,557 - INFO - 提问 [0828所有vqa判断.jsonl_259] [考古]: 如图所示，该残片属于殷墟卜用龟腹甲中甲的第十四类，其特征组合为左上内缝 + 肱胸沟 + 中沟 + 兆边，且右上残断，仅存左下部分。判断此描述是否正确。
+2025-10-08 12:13:04,557 - INFO - 提问 [0828所有vqa判断.jsonl_256] [考古]: 如图所示，该10E类残片的中甲齿缝片沿中沟左侧卜兆的兆干、右侧卜兆的兆干、兆枝断裂，是否残留了中沟和肱胸沟形成的十字形盾纹？
+2025-10-08 12:13:04,557 - INFO - 提问 [0828所有vqa判断.jsonl_260] [考古]: 如图所示，清华简《五音图》中‘巽反’的位置是否位于‘徵’音组内侧？
+2025-10-08 12:13:04,557 - INFO - 提问 [0828所有vqa判断.jsonl_257] [考古]: 如图所示，该中甲钻凿数量为三者，正面卜兆的排列方式是否为：以中沟为界，左一右二，右侧的两个钻凿处于同一纵线，左侧钻凿与右侧下方的钻凿基本对称？
+2025-10-08 12:13:04,562 - INFO - 提问 [0828所有vqa判断.jsonl_258] [考古]: 如图所示，殷墟卜用龟腹甲中甲的钻凿数量为二，且排列方式为左上右下，这种排列方式是否正确？
+2025-10-08 12:13:04,883 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=502
+2025-10-08 12:13:04,883 - INFO - error_code=None error_message='Service temporarily unavailable' error_param=None error_type=service_error message='OpenAI API error received' stream_error=False
+2025-10-08 12:13:04,883 - ERROR - 回答问题时出错: Service temporarily unavailable {"error":{"message":"Service temporarily unavailable","type":"service_error"}} 502 {'error': {'message': 'Service temporarily unavailable', 'type': 'service_error'}} <CIMultiDictProxy('Server': 'openresty', 'Date': 'Wed, 08 Oct 2025 04:12:55 GMT', 'Content-Type': 'application/json', 'Content-Length': '78', 'Connection': 'keep-alive')>
+2025-10-08 12:13:04,915 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=502
+2025-10-08 12:13:04,915 - INFO - error_code=None error_message='Service temporarily unavailable' error_param=None error_type=service_error message='OpenAI API error received' stream_error=False
+2025-10-08 12:13:04,915 - ERROR - 回答问题时出错: Service temporarily unavailable {"error":{"message":"Service temporarily unavailable","type":"service_error"}} 502 {'error': {'message': 'Service temporarily unavailable', 'type': 'service_error'}} <CIMultiDictProxy('Server': 'openresty', 'Date': 'Wed, 08 Oct 2025 04:12:55 GMT', 'Content-Type': 'application/json', 'Content-Length': '78', 'Connection': 'keep-alive')>
+2025-10-08 12:13:04,915 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=502
+2025-10-08 12:13:04,915 - INFO - error_code=None error_message='Service temporarily unavailable' error_param=None error_type=service_error message='OpenAI API error received' stream_error=False
+2025-10-08 12:13:04,915 - ERROR - 回答问题时出错: Service temporarily unavailable {"error":{"message":"Service temporarily unavailable","type":"service_error"}} 502 {'error': {'message': 'Service temporarily unavailable', 'type': 'service_error'}} <CIMultiDictProxy('Server': 'openresty', 'Date': 'Wed, 08 Oct 2025 04:12:55 GMT', 'Content-Type': 'application/json', 'Content-Length': '78', 'Connection': 'keep-alive')>
+2025-10-08 12:13:04,931 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=502
+2025-10-08 12:13:04,931 - INFO - error_code=None error_message='Service temporarily unavailable' error_param=None error_type=service_error message='OpenAI API error received' stream_error=False
+2025-10-08 12:13:04,931 - ERROR - 回答问题时出错: Service temporarily unavailable {"error":{"message":"Service temporarily unavailable","type":"service_error"}} 502 {'error': {'message': 'Service temporarily unavailable', 'type': 'service_error'}} <CIMultiDictProxy('Server': 'openresty', 'Date': 'Wed, 08 Oct 2025 04:12:55 GMT', 'Content-Type': 'application/json', 'Content-Length': '78', 'Connection': 'keep-alive')>
+2025-10-08 12:13:05,281 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=502
+2025-10-08 12:13:05,281 - INFO - error_code=None error_message='Service temporarily unavailable' error_param=None error_type=service_error message='OpenAI API error received' stream_error=False
+2025-10-08 12:13:05,281 - ERROR - 回答问题时出错: Service temporarily unavailable {"error":{"message":"Service temporarily unavailable","type":"service_error"}} 502 {'error': {'message': 'Service temporarily unavailable', 'type': 'service_error'}} <CIMultiDictProxy('Server': 'openresty', 'Date': 'Wed, 08 Oct 2025 04:12:55 GMT', 'Content-Type': 'application/json', 'Content-Length': '78', 'Connection': 'keep-alive')>
+2025-10-08 12:13:07,708 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:13:07,708 - INFO - OpenAI模型回答: 错误
+2025-10-08 12:13:07,708 - INFO - 回答错误，期望: 正确
+2025-10-08 12:13:07,730 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:13:07,730 - INFO - OpenAI模型回答: 错误
+2025-10-08 12:13:07,730 - INFO - 回答错误，期望: 正确
+2025-10-08 12:13:07,916 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:13:07,916 - INFO - OpenAI模型回答: 错误
+2025-10-08 12:13:07,916 - INFO - 回答错误，期望: 正确
+2025-10-08 12:13:08,238 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:13:08,238 - INFO - OpenAI模型回答: 正确
+2025-10-08 12:13:08,238 - INFO - 回答正确
+2025-10-08 12:13:49,561 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:13:49,576 - INFO - OpenAI模型回答: 错误
+2025-10-08 12:13:49,578 - INFO - 回答正确
+2025-10-08 12:13:49,582 - INFO - 进度: 260/276 (94.2%)
+2025-10-08 12:13:49,592 - INFO - 当前得分: 304/552
+2025-10-08 12:13:50,599 - INFO - 开始处理批次 #53 (问题 261-265)
+2025-10-08 12:13:50,599 - INFO - 提问 [0828所有vqa判断.jsonl_261] [考古]: 如图所示，平顶山应国墓地M257出土的铜簋底铭文中的“唐”字，表明该器物与唐姓贵族有直接关联，这一判断是否正确？
+2025-10-08 12:13:50,599 - INFO - 提问 [0828所有vqa判断.jsonl_263] [文物]: 如图所示，平顶山应国墓地M257出土的铜簋底铭文中的‘唐’字，表明该器物与唐姓贵族有直接关联，这一判断是否正确？
+2025-10-08 12:13:50,599 - INFO - 提问 [0828所有vqa判断.jsonl_265] [文物]: 如图所示，清华简《两中》篇在三次对折收卷后，第1简与第87简在收卷形态中的相对位置关系为内外层直接对应，这一判断是否正确？
+2025-10-08 12:13:50,599 - INFO - 提问 [0828所有vqa判断.jsonl_262] [考古]: 如图所示，平顶山应国墓地M257出土的铜簋盖铭文中的‘唐’字，是否表明该器物与唐姓贵族有直接关联？
+2025-10-08 12:13:50,599 - INFO - 提问 [0828所有vqa判断.jsonl_264] [中国古代史]: 如图所示，高青陈庄M18出土的铜器铭文中的第一个字（图1、图2、图3中均可见）应释读为“豊”而非“豐”，这一判断是否正确？
+2025-10-08 12:13:52,350 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:13:52,350 - INFO - OpenAI模型回答: 错误
+2025-10-08 12:13:52,350 - INFO - 回答正确
+2025-10-08 12:13:52,382 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:13:52,382 - INFO - OpenAI模型回答: 错误
+2025-10-08 12:13:52,382 - INFO - 回答正确
+2025-10-08 12:13:52,589 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:13:52,589 - INFO - OpenAI模型回答: 错误
+2025-10-08 12:13:52,589 - INFO - 回答正确
+2025-10-08 12:13:52,811 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:13:52,811 - INFO - OpenAI模型回答: 正确
+2025-10-08 12:13:52,811 - INFO - 回答正确
+2025-10-08 12:13:52,938 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:13:52,951 - INFO - OpenAI模型回答: 正确
+2025-10-08 12:13:52,951 - INFO - 回答错误，期望: 错误
+2025-10-08 12:13:52,964 - INFO - 进度: 265/276 (96.0%)
+2025-10-08 12:13:52,964 - INFO - 当前得分: 312/552
+2025-10-08 12:13:53,960 - INFO - 开始处理批次 #54 (问题 266-270)
+2025-10-08 12:13:53,967 - INFO - 提问 [0828所有vqa判断.jsonl_266] [考古]: 如图所示，图13定位点Y6反印墨迹与源文字对应关系示意图中，丁16和丁21两支竹简上的反印墨迹位置是否完全对称？
+2025-10-08 12:13:53,967 - INFO - 提问 [0828所有vqa判断.jsonl_269] [考古]: 如图所示，根据《两中》书卷两次对折后的收卷模拟图（图15），残损定位点C1在同一位置贯穿四层的说法是否正确？
+2025-10-08 12:13:53,975 - INFO - 提问 [0828所有vqa判断.jsonl_267] [考古]: 如图所示，图11中定位点Y4反印墨迹与源文字对应关系示意图表明，丁16和丁21两支竹简上的反印墨迹位置对称，这是否支持清华简《两中》篇采用了文字向内的折页型收卷方式？
+2025-10-08 12:13:53,991 - INFO - 提问 [0828所有vqa判断.jsonl_268] [考古]: 如图所示，丁组竹简中简背划痕编号由小至大为次第，意味着竹书按简背划痕顺序编连。判断此说法是否正确。
+2025-10-08 12:13:53,991 - INFO - 提问 [0828所有vqa判断.jsonl_270] [考古]: 如图所示，图9定位点Y2反印墨迹与源文字对应关系示意图中，丁21和丙05两支竹简上的反印墨迹位置是否完全对称？
+2025-10-08 12:13:55,583 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:13:55,583 - INFO - OpenAI模型回答: 正确
+2025-10-08 12:13:55,583 - INFO - 回答正确
+2025-10-08 12:13:55,839 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:13:55,839 - INFO - OpenAI模型回答: 错误
+2025-10-08 12:13:55,839 - INFO - 回答错误，期望: 正确
+2025-10-08 12:13:56,377 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:13:56,377 - INFO - OpenAI模型回答: 正确
+2025-10-08 12:13:56,377 - INFO - 回答正确
+2025-10-08 12:13:56,794 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:13:56,794 - INFO - OpenAI模型回答: 正确
+2025-10-08 12:13:56,794 - INFO - 回答错误，期望: 错误
+2025-10-08 12:13:57,409 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:13:57,415 - INFO - OpenAI模型回答: 错误
+2025-10-08 12:13:57,415 - INFO - 回答错误，期望: 正确
+2025-10-08 12:13:57,415 - INFO - 进度: 270/276 (97.8%)
+2025-10-08 12:13:57,415 - INFO - 当前得分: 316/552
+2025-10-08 12:13:58,420 - INFO - 开始处理批次 #55 (问题 271-275)
+2025-10-08 12:13:58,420 - INFO - 提问 [0828所有vqa判断.jsonl_273] [文物]: 如图所示，该玺印中的“紫”字繁加了‘又’旁，这一特征在三晋官玺中常见吗？
+2025-10-08 12:13:58,420 - INFO - 提问 [0828所有vqa判断.jsonl_271] [文物]: 如图所示，东阿宫钫铭文（图1）中‘上林共府，初元三年受东郡’部分的字体与‘东阿宫钫’部分的字体相比，字体更为宽大且间距稍宽，这表明该部分铭文为二次铭刻。正确还是错误？
+2025-10-08 12:13:58,420 - INFO - 提问 [0828所有vqa判断.jsonl_275] [文物]: 如图所示，该玺印中的“髳”字结构与西周金文中的‘楙’字结构相似，因此可以判断该玺印属于西周时期。正确还是错误？
+2025-10-08 12:13:58,420 - INFO - 提问 [0828所有vqa判断.jsonl_272] [文物]: 如图所示，弘农宫铜方炉铭文中的‘上林荣宫，初元三年受’部分的书写位置与初刻明显不同，这表明该部分铭文为二次铭刻。正确还是错误？
+2025-10-08 12:13:58,420 - INFO - 提问 [0828所有vqa判断.jsonl_274] [文物]: 如图所示，图1c中的三晋官玺释文为‘（濩）睾（泽）左宋长’，根据文献研究，‘宋’字应改释为‘枒（楙）’，进而推导出该玺文实际释读为‘（濩）睾（泽）左枒（髦）长’。此判断是否正确？
+2025-10-08 12:13:59,768 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:13:59,773 - INFO - OpenAI模型回答: 正确
+2025-10-08 12:13:59,773 - INFO - 回答正确
+2025-10-08 12:13:59,789 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:13:59,789 - INFO - OpenAI模型回答: 错误
+2025-10-08 12:13:59,789 - INFO - 回答正确
+2025-10-08 12:13:59,949 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:13:59,949 - INFO - OpenAI模型回答: 错误
+2025-10-08 12:13:59,949 - INFO - 回答错误，期望: 正确
+2025-10-08 12:14:00,188 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:14:00,188 - INFO - OpenAI模型回答: 错误
+2025-10-08 12:14:00,188 - INFO - 回答正确
+2025-10-08 12:14:01,120 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:14:01,122 - INFO - OpenAI模型回答: 正确
+2025-10-08 12:14:01,122 - INFO - 回答正确
+2025-10-08 12:14:01,128 - INFO - 进度: 275/276 (99.6%)
+2025-10-08 12:14:01,128 - INFO - 当前得分: 324/552
+2025-10-08 12:14:02,131 - INFO - 开始处理批次 #56 (问题 276-276)
+2025-10-08 12:14:02,137 - INFO - 提问 [0828所有vqa判断.jsonl_276] [考古]: 如图所示，绍兴狮子山战国墓出土的铜制房屋模型中，两名琴师人偶的演奏方式表明早期古琴为击弦乐器。这一判断是否正确？
+2025-10-08 12:14:03,737 - INFO - message='OpenAI API response' path=https://sg.uiuiapi.com/v1/chat/completions processing_ms=None request_id=None response_code=200
+2025-10-08 12:14:03,737 - INFO - OpenAI模型回答: 错误
+2025-10-08 12:14:03,753 - INFO - 回答错误，期望: 正确
+2025-10-08 12:14:03,753 - INFO - 进度: 276/276 (100.0%)
+2025-10-08 12:14:03,753 - INFO - 当前得分: 324/552
+2025-10-08 12:14:04,772 - INFO - 测评完成: 总得分 324/552 (58.7%)
+2025-10-08 12:14:06,776 - INFO - 
+============= 评测总结 =============
+评测时间: 2025-10-08 12:14:06
+处理文件: 评测/0828所有vqa判断.jsonl
+总问题数: 276
+总得分: 324/552
+准确率: 58.7%
+运行时间: 545.44 秒 (9.09 分钟)
+
+学科领域统计:
+学科领域            问题数      得分       总分       准确率        平均用时      
+-----------------------------------------------------------------
+考古              188      234      376      62.2%      3.90秒
+文物              54       62       108      57.4%      2.77秒
+中国古代史           20       14       40       35.0%      1.96秒
+历史地理学           12       12       24       50.0%      8.67秒
+历史文献学           1        0        2        0.0%      2.20秒
+汉语言文字学          1        2        2        100.0%      1.99秒
+
+历史分期统计:
+历史分期            问题数      得分       总分       准确率        平均用时      
+-----------------------------------------------------------------
+新石器时代（含夏）       66       84       132      63.6%      5.98秒
+超出本人能力范围        30       36       60       60.0%      2.61秒
+商               54       56       108      51.9%      2.18秒
+商、新石器时代（含夏）     2        4        4        100.0%      2.33秒
+旧石器时代           2        2        4        50.0%      2.31秒
+东周、西周           11       14       22       63.6%      5.94秒
+东周、商、西周         5        6        10       60.0%      4.05秒
+西汉              45       48       90       53.3%      3.30秒
+东周              34       42       68       61.8%      4.05秒
+东周、商、新石器时代（含夏）、西周 3        6        6        100.0%      2.12秒
+秦               6        8        12       66.7%      2.20秒
+西周              13       14       26       53.8%      2.41秒
+商、西周            1        0        2        0.0%      1.29秒
+东周、秦            1        0        2        0.0%      1.91秒
+秦、西汉            3        4        6        66.7%      1.74秒
+
+核心目的统计:
+核心目的            问题数      得分       总分       准确率        平均用时      
+-----------------------------------------------------------------
+分析推论            85       108      170      63.5%      3.66秒
+特征描述            54       60       108      55.6%      4.26秒
+分析推论、特征描述       23       20       46       43.5%      2.28秒
+事实呈现            52       62       104      59.6%      4.28秒
+事实呈现、分析推论       25       34       50       68.0%      5.31秒
+事实呈现、特征描述       24       24       48       50.0%      2.30秒
+特征描述、识读         2        2        4        50.0%      2.33秒
+事实呈现、识读         4        4        8        50.0%      2.24秒
+信度考据、分析推论       1        2        2        100.0%      1.37秒
+分析推论、识读         1        2        2        100.0%      1.66秒
+事实呈现、分析推论、特征描述  2        4        4        100.0%      2.79秒
+事实呈现、分析推论、识读    3        2        6        33.3%      1.68秒
+==================================
+
+2025-10-08 12:14:06,776 - INFO - 总运行时间: 545.44 秒 (9.09 分钟)
